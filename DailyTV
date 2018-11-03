@@ -1,0 +1,808 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lh3.googleusercontent.com/-MI35rfDpRz8/WsPr5gvtqxI/AAAAAAAAAow/gfleEFPLmk0XZiahj5g6SfrRE7wSlb8jQCLcBGAs/w105-h140-p/17861997_716899038472107_2709629161584471337_n.jpg", LISTA IPTV ALEX PASCOAL
+https://lh3.googleusercontent.com/-MI35rfDpRz8/WsPr5gvtqxI/AAAAAAAAAow/gfleEFPLmk0XZiahj5g6SfrRE7wSlb8jQCLcBGAs/w105-h140-p/17861997_716899038472107_2709629161584471337_n.jpg
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/ebpYsYO.png", ATUALIZADO 04/10/2018
+http://i.imgur.com/ebpYsYO.png
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.iconsdb.com/icons/download/green/whatsapp-512.png", (081) 98556-1986
+http://edelsonfreitas.com/portal/wp-content/uploads/2017/12/WHATSAPP.png
+#EXTINF:-1 tvg-logo="https://goo.gl/bs8cY3" group-title="FAÇA UMA DOAÇÃO! PARA CONTINUAR COM ESSE TRABALHO", CAIXA ECONOMICA FEDERAL. AGENCIA 0045 CONTA 62313-7 OPERAÇÃO 013
+
+########################################################## CANAIS ESPORTIVOS ##########################################################
+
+#EXTINF:0,ESPORTE INTERATIVO
+http://bitly.com:80/esporteinterativo-1hd
+#EXTINF:0,ESPORTE INTERATIVO 2
+http://bitly.com:80/esporteinterativo-2hd
+#EXTINF:0,ESPORTE INTERATIVO BR
+http://bitly.com:80/esporteinterativo-brhd
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="Canais",A&E
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Canais",Animal Planet
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="" group-title="Canais",Arte 1 http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3287.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Canais",AXN SD
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Canais",Baby TV
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="" group-title="Canais",Band News
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3282.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND PARANA" tvg-logo="" group-title="Canais",BAND PARANA
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="" group-title="Canais",Band Sports
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3278.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="" group-title="Canais",BIS
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3276.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Canais",Boomerang
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="" group-title="Canais",Canal Brasil
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3274.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="" group-title="Canais",CANAL DO BOI http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3273.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FUTEBOL" tvg-logo="" group-title="Canais",CANAL FUTEBOL http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="" group-title="Canais",Canal Rural http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Canais",Cartoon Network http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3268.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHEFE TV" tvg-logo="" group-title="Canais",CHEFE TV http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3267.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="Canais ",Cinemax http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3265.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="Canais",CNN INTERNACIONAL
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3264.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="" group-title="Canais ",Combate 
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3262.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Canais",Comedy Central
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3260.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="" group-title="Canais",Cultura
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="" group-title="Canais",Curta!
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Canais",Discovery Channel
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="Canais",Discovery Civilization
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="Canais",Discovery Home & Health
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Canais",Discovery Kids
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="Canais",Discovery Science
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3248.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="Canais",DISCOVERY THEATER
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Canais",Discovery Turbo
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3245.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="" group-title="Canais",DISCOVERY WORLD
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="Canais",Disney Channel
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="Canais",Disney JR
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="Canais",Disney XD
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3237.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="Canais",E!
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3235.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2" tvg-logo="" group-title="Canais",EI Maxx 2
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3234.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Canais",ESPN
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3233.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="" group-title="Canais",ESPN Brasil
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3231.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="" group-title="Canais",ESPN EXTRA
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3230.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="Canais",ESPN
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo" tvg-logo="" group-title="Canais",Esporte Interativo
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3224.ts
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="" group-title="Canais",FISH TV
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3222.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title="Canais",FOOD NETWORK
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="Canais",Fox Life
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3217.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="" group-title="Canais",FOX PREMIUM 1
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3215.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="" group-title="Canais",FOX PREMIUM 2
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3213.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="Canais",Fox
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3212.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="Canais",Fox Sports 2
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3210.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="Canais",Fox Sports
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3208.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="" group-title="Canais",Futura
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3207.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="Canais",FX
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3205.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO AM" tvg-logo="" group-title="Canais",GLOBO AM
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3204.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA" tvg-logo="" group-title="Canais",GLOBO BAHIA
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3203.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasilia" tvg-logo="" group-title="Canais",Globo Brasilia
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3201.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CAMPINAS" tvg-logo="" group-title="Canais",GLOBO CAMPINAS
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3200.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV" tvg-logo="" group-title="Canais",GLOBO EPTV
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3199.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL" tvg-logo="" group-title="Canais",GLOBO INTERNACIONAL
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3197.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="" group-title="Canais",Globo News
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3194.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTUGAL" tvg-logo="" group-title="Canais",GLOBO PORTUGAL
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3190.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIBEIRAO PRETO" tvg-logo="" group-title="Canais",GLOBO RIBEIRAO PRETO
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio" tvg-logo="" group-title="Canais",Globo Rio
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3187.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RN" tvg-logo="" group-title="Canais",GLOBO RN
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3186.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SAO JOSE DOS CAMPOS" tvg-logo="" group-title="Canais",GLOBO SAO JOSE DOS CAMPOS
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="" group-title="Canais",Globo SP
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3182.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="" group-title="Canais",GLOBO TV LIBERAL BELEM
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3180.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU" tvg-logo="" group-title="Canais",GLOBO TV TEM BAURU
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3179.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="" group-title="Canais",GLOBO TV TEM SOROCABA
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3178.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="" group-title="Canais",Gloob
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3176.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="" group-title="Canais",GNT
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3174.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="Canais",H2
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3172.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="Canais",HBO 2
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3170.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="Canais",HBO Family
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3168.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus E" tvg-logo="" group-title="Canais",HBO Plus E
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3166.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="Canais",HBO Plus
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3164.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Canais",HBO
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3163.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="Canais",HBO Signature
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3161.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOT MUSIC" tvg-logo="" group-title="Canais",HOT MUSIC
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3160.ts
+#EXTINF:-1 tvg-id="" tvg-name="I SAT" tvg-logo="" group-title="Canais",I SAT
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3159.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="Canais",ID
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="Canais",Lifetime
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="" group-title="Canais",Mais Globosat
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime E" tvg-logo="" group-title="Canais",Max Prime E
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime" tvg-logo="" group-title="Canais",Max Prime
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3149.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="" group-title="Canais",MAX
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3148.ts
+#EXTINF:-1 tvg-id="" tvg-name="Max UP" tvg-logo="" group-title="Canais",Max UP
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3146.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="" group-title="Canais",Megapix
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3144.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Canais",MTV
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3141.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="" group-title="Canais",Multishow
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3139.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil" tvg-logo="" group-title="Canais",Music Box Brasil
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3138.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids" tvg-logo="" group-title="Canais",NatGeo Kids
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3136.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="" group-title="Canais",NatGeo Wild
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3134.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Canais",National Geographic
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3132.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="" group-title="Canais",NHK
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3131.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="Canais",Nick Jr
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="Canais",Nickelodeon
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="" group-title="Canais",Novo Tempo
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Off" tvg-logo="" group-title="Canais",Off
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="Canais",Paramount
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3122.ts
+#EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="" group-title="Canais",Play TV
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3121.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="" group-title="Canais",PLAYBOY
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1" tvg-logo="" group-title="Canais",Premiere 1
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="Canais",Premiere 2
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="Canais",Premiere 3
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="Canais",Premiere 4
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="" group-title="Canais",Premiere 5
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="" group-title="Canais",Premiere 6
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="" group-title="Canais",Premiere 7
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="" group-title="Canais",Premiere 8
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="" group-title="Canais",Premiere Clubes
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3106.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil" tvg-logo="" group-title="Canais",Prime Box Brazil
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3105.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre" tvg-logo="" group-title="Canais",RBS TV Porto Alegre
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="" group-title="Canais",Record News
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3100.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV" tvg-logo="" group-title="Canais",RECORD TV
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="" group-title="Canais",Rede Brasil
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3097.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="" group-title="Canais",Rede TV
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3095.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="" group-title="Canais",Rede Vida
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3094.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="" group-title="Canais",SBT
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="" group-title="Canais",Sextreme
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3091.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sexy hot" tvg-logo="" group-title="Canais",Sexy hot
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3090.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="" group-title="Canais",Sony
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3088.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="Canais",Space
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3086.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="" group-title="Canais",SporTV 2
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3084.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="" group-title="Canais",SporTV 3
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3082.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="" group-title="Canais",SporTV
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3080.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="Canais",SYFY
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3077.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="Canais",TCM
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3075.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="" group-title="Canais",Telecine Action
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="" group-title="Canais",Telecine Cult
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3071.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="" group-title="Canais",Telecine Fun
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3069.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="" group-title="Canais",Telecine Pipoca
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3067.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="" group-title="Canais",Telecine Premium
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3065.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="" group-title="Canais",Telecine Touch
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3063.ts
+#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="" group-title="Canais",TERRA VIVA
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3062.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel" tvg-logo="" group-title="Canais",The History Channel
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3060.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Canais",TLC
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3058.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Canais",TNT
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3056.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="Canais",TNT Series
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3054.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="Canais",TOONCAST
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trutv" tvg-logo="" group-title="Canais",Trutv
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3051.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="" group-title="Canais",TV APARECIDA
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3050.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO MG" tvg-logo="" group-title="Canais",TV GLOBO MG
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3045.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra-tim-bum" tvg-logo="" group-title="Canais",TV Ra-tim-bum
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="" group-title="Canais",Universal Channel
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3042.ts
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="Canais",VENUS
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3041.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Mega Hits" tvg-logo="" group-title="Canais",VH1 Mega Hits
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3040.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="" group-title="Canais",VIVA
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="" group-title="Canais",Warner Channel
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3036.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="" group-title="Canais",WOOHOO
+http://main1.aliendevapp.com:25461/live/chanelsSD/O9Gy9MM4KHJgCstfMI/3035.ts
+
+
+#EXTINF:0 type="stream" channelId="-1" tvg-group="TVs TV BAHIA" tvg-logo="https://yt3.ggpht.com/-2zv7R_kYDJ4/AAAAAAAAAAI/AAAAAAAAAAA/oYM6KkSwit0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="TV ESPORTES", IRON FIGHT COMBATE - TV GERAL HD (BA)
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://s26.postimg.org/9i41ypvax/ALL.png"group-title="TV ESPORTES", ALL SPORTS HD (DF)
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
+#EXTINF:0group-title="TV ESPORTES",TV WEB GB ESPORTE
+http://stmv1.euroti.com.br:1935/radiowebgbesporte/radiowebgbesporte/live.m3u8
+#EXTINF:0group-title="TV ESPORTES",WEB TV CAPITANDO
+http://tv01.logicahost.com.br:1935/linkmnet/linkmnet/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://steve-lovelace.com/wordpress/wp-content/uploads/2013/07/catalan-logo.png"group-title="TV ESPORTES", CATALAN HD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://steve-lovelace.com/wordpress/wp-content/uploads/2013/07/catalan-logo.png"group-title="TV ESPORTES", CATALAN TV3 HD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1332" tvg-logo="http://www.ebru.co.ke/wp-content/uploads/2017/06/real-1.png"group-title="TV ESPORTES", REAL MADRID TV HD (ESPANHOL)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0 type="stream" channelId="1332"group-title="TV ESPORTES", REAL MADRID TV HD (INGLÊS)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:0 type="stream" channelId="1545" tvg-logo="https://media-public.fcbarcelona.com/20157/28952/416501/1.0/416501.png?t=1450175678000"group-title="TV ESPORTES", BARÇA TV
+http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Real_Betis_Energ%C3%ADa_Plus.png"group-title="TV ESPORTES", REAL BETIS TV HD
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.sevillafc.es/sites/default/files/2016-12/escudosfc.png"group-title="TV ESPORTES", SERVILLA TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://2.bp.blogspot.com/-zd4pWoqnmKM/TnymzfDSmVI/AAAAAAAADO8/imHskMyAfBU/s320/SEVILLA_TV.gif"group-title="TV ESPORTES", SEVILLA TV HD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:0 type="stream" channelId="-1"group-title="TV ESPORTES", DEPORTV HD
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1744908434_b800000_slesp.m3u8
+#EXTINF:0 type="stream" channelId="3087" tvg-logo="http://freetvhd.net/wp-content/uploads/2015/10/z4.jpg"group-title="TV ESPORTES", SPORTS TV HD
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://avantcommunication.com/wp-content/uploads/2014/03/dsc-logo.png"group-title="TV ESPORTES", DUBAI SPORTS
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1"group-title="TV ESPORTES", DUBAI SPORTS HD
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="#"group-title="TV ESPORTES", AD SPORTS 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?jhonlocao
+#EXTINF:0 type="stream" channelId="-1"group-title="TV ESPORTES", AD SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://mediad.publicbroadcasting.net/p/wbfo/files/201209/nfl%20network.gif"group-title="TV ESPORTES", NFL TV HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:0 type="stream" channelId="-1"group-title="TV ESPORTES", MBL NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 type="stream" channelId="-1"group-title="TV ESPORTES", CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1376"group-title="TV ESPORTES", SPORTING TV HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1"group-title="TV ESPORTES", TELETRAK
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?CeceGeek.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="ESPORTES" tvg-logo="https://i.imgur.com/nAkvH0H.png"group-title="TV ESPORTES", TUFF TV HD
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2985" tvg-logo="http://gtimedia.it/images/automototv.png"group-title="TV ESPORTES", AUTOMOTO TV HD
+rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
+
+################################################################################## ESPORTES INTERNACIONAIS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLLgCx9.png?1" group-title="ESPORTES INTERNACIONAIS", [COLOR red]//////////ESPORTES INTERNACIONAIS//////////[/COLOR]
+http://23.23.1.8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYFEmVN.jpg?1" group-title="ESPORTES INTERNACIONAIS", UEFA TV
+http://uefaliveshow-lh.akamaihd.net/i/20150827_1@64648/index_2000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ch3thVB.png?1" group-title="ESPORTES INTERNACIONAIS", CHELSEA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFyvPGJ.png" group-title="ESPORTES INTERNACIONAIS", REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGLEbll.png?2" group-title="ESPORTES INTERNACIONAIS", SEVILLA TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://s3.vefire.ru/l/250x150/ru/100AutoMoto.png" group-title="ESPORTES INTERNACIONAIS", 100AUTOMOTO TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQCB1Rb.png?1" group-title="ESPORTES INTERNACIONAIS", AUTOMOTO TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPVld9.png?1" group-title="ESPORTES INTERNACIONAIS", TUFF TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPW4CkF.png" group-title="ESPORTES INTERNACIONAIS", EUROSPORT 1 HD
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/syYVNay.png?1" group-title="ESPORTES INTERNACIONAIS", EUROSPORT 2 HD
+http://195.206.253.157:8001/eurosport2hd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JC2uAK9.jpg?1" group-title="ESPORTES INTERNACIONAIS", MOTORSPORT TV
+http://82.79.218.142:8089/motors-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ldh7BG.png?1" group-title="ESPORTES INTERNACIONAIS", MOVISTAR F1
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYs9pKg.png?1" group-title="ESPORTES INTERNACIONAIS", MOVISTAR FUTBOL HD
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYs9pKg.png?1" group-title="ESPORTES INTERNACIONAIS", MOVISTAR FUTBOL HD
+http://live.tvplayerlatino.com/usuarios/src5/MoviFutbol/Saul.Rangel/MiT.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8puopgY.png?1" group-title="ESPORTES INTERNACIONAIS", BEIN SPORTS LALIGA HD
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8puopgY.png?1" group-title="ESPORTES INTERNACIONAIS", BEIN SPORTS LALIGA HD
+http://86.82.79.91:9420/play/a013
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SKY SPORTS NEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxmZG0Z.png?1" group-title="ESPORTES INTERNACIONAIS", BEIN SPORTS 2 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SKY SPORTS CRICKET
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a94eJEK.jpg?1" group-title="ESPORTES INTERNACIONAIS", SKY SPORTS 1 HD DE
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/453/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VVWwiIA.jpg?1" group-title="ESPORTES INTERNACIONAIS", SKY SPORTS NEWS HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/460/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07muOvn.png" group-title="ESPORTES INTERNACIONAIS", SKY SPORTS ARENA
+http://62.210.99.158:80/live?channelId=121&uid=4486&deviceSn=12cd5a8b567fd9c1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5XyrLMD.jpg?1" group-title="ESPORTES INTERNACIONAIS", SKY SPORTS MAIN EVENT
+http://cdnv.cli.tn/iptv/ch914
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95cbrEB.png" group-title="ESPORTES INTERNACIONAIS", SKY SPORTS MIX
+http://cdnv.cli.tn/iptv/ch931
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2R33151.png" group-title="ESPORTES INTERNACIONAIS", SKY SPORTS PREMIER LEAGUE
+http://cdnv.cli.tn/iptv/ch937
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMc9ZNT.png?1" group-title="ESPORTES INTERNACIONAIS", RAI SPORT 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ItO7bSh.png?1" group-title="ESPORTES INTERNACIONAIS", ARENA SPORT 1 HD
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ItO7bSh.png?1" group-title="ESPORTES INTERNACIONAIS", ARENA SPORT 1
+http://46.40.5.99:8000/arena_1_low
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ncv6vRz.png?1" group-title="ESPORTES INTERNACIONAIS", ARENA SPORT 2 HD
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ncv6vRz.png?1" group-title="ESPORTES INTERNACIONAIS", ARENA SPORT 2
+http://46.40.5.99:8000/arena_2_low
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RExJn0H.png?1" group-title="ESPORTES INTERNACIONAIS", ARENA SPORT 3 HD
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RExJn0H.png?1" group-title="ESPORTES INTERNACIONAIS", ARENA SPORT 3
+http://46.40.5.99:8000/arena_3_low
+#EXTINF:-1 tvg-logo="https://i.imgur.com/koG9nd5.png?1" group-title="ESPORTES INTERNACIONAIS", ARENA SPORT 4 HD
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1 tvg-logo="https://i.imgur.com/koG9nd5.png?1" group-title="ESPORTES INTERNACIONAIS", ARENA SPORT 4
+http://46.40.5.99:8000/arena_4_low
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxmZG0Z.png?1" group-title="ESPORTES INTERNACIONAIS", BEIN SPORTS 2 USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9PhqsWl.png?1" group-title="ESPORTES INTERNACIONAIS" BEIN SPORTS  3 USA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yv24Ln4.png?1" group-title="ESPORTES INTERNACIONAIS", BT SPORT 1
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnbG9uN.png" group-title="ESPORTES INTERNACIONAIS", BT SPORT 2 HD
+http://62.210.214.28:80/live?channelId=142&deviceMac=00:1A:79:40:F0:86&uid=4739
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NE45Owm.png" group-title="ESPORTES INTERNACIONAIS", BT SPORT 3
+http://cdnv.cli.tn/iptv/ch1830
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yiWqMgR.png?1" group-title="ESPORTES INTERNACIONAIS" , TODO DESPORTES
+https://www.mytvonline.org/hls/stream.php/http://hondurtmp.tulix.tv:1935/tododeportes/to-do-deportes/media_296.ts?wowzasessionid=1301484991
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUXmJf2.png?2" group-title="ESPORTES INTERNACIONAIS" , DEPORT TV ARG
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUXmJf2.png?2" group-title="ESPORTES INTERNACIONAIS" , SPORTING TV SD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUXmJf2.png?2" group-title="ESPORTES INTERNACIONAIS" , DEPORTV ARG
+http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w222748973_b800000_slesp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUXmJf2.png?2" group-title="ESPORTES INTERNACIONAIS" , DESPORTV HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKXFpL7.png" group-title="ESPORTES INTERNACIONAIS", ABU DABI SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKXFpL7.png" group-title="ESPORTES INTERNACIONAIS", ABU DABI SPORT HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hq7uqDe.png?1" group-title="ESPORTES INTERNACIONAIS", ABU DABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hq7uqDe.png?1" group-title="ESPORTES INTERNACIONAIS", ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKXFpL7.png" group-title="ESPORTES INTERNACIONAIS", ABU DABI SPORT EXTRA HD
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6ISx7c.png?1" group-title="ESPORTES INTERNACIONAIS", ALL KASS SPORTS
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6ISx7c.png?1" group-title="ESPORTES INTERNACIONAIS", ALL KASS SPORTS 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6ISx7c.png?1" group-title="ESPORTES INTERNACIONAIS", ALL KASS SPORTS 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6ISx7c.png?1" group-title="ESPORTES INTERNACIONAIS", ALL KASS SPORTS 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6ISx7c.png?1" group-title="ESPORTES INTERNACIONAIS", ALL KASS SPORTS 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6ISx7c.png?1" group-title="ESPORTES INTERNACIONAIS", ALL KASS SPORTS 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hOYnTVm.png" group-title="ESPORTES INTERNACIONAIS", OLYMPIC CHANNEL | FHD
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yeDvDjR.png" group-title="ESPORTES INTERNACIONAIS", NFL HD - USA
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bpGQUNy.png" group-title="ESPORTES INTERNACIONAIS", NFL NOW | HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="ESPORTES INTERNACIONAIS", VIASAT SPORTS | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="ESPORTES INTERNACIONAIS", MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="ESPORTES INTERNACIONAIS", PAC-12 ARIZONA | FHD
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="ESPORTES INTERNACIONAIS",  PAC-12 BAY AREA | FHD
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="ESPORTES INTERNACIONAIS",  PAC-12 LOS ANGELES | FHD
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="ESPORTES INTERNACIONAIS",  PAC-12 MOUNTAIN | FHD
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="ESPORTES INTERNACIONAIS",  PAC-12 OREGON | FHD
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/MA9c6WG.png" group-title="ESPORTES INTERNACIONAIS", PAC-12 WOSHINGTON | FHD
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xex0vq5.jpg" group-title="ESPORTES INTERNACIONAIS",SPORTS TV | SD
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
+
+################################################################################# CANAIS INTERNACIONAIS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLLgCx9.png?1" group-title="CANAIS INTERNACIONAIS", [COLOR red]//////////CANAIS INTERNACIONAIS//////////[/COLOR]
+http://23.23.1.5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0weOxZ.png?1" group-title="CANAIS INTERNACIONAIS", ARG: CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1713125811_b2628000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0weOxZ.png?1" group-title="CANAIS INTERNACIONAIS", ARG: CANAL 26 HD
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6BFKYy.png" group-title="CANAIS INTERNACIONAIS", ARG: DIÁRIO 26 HD
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w2116336053_b2628000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gwf0xO.png" group-title="CANAIS INTERNACIONAIS", ARG: CANAL 4 | JUJUY CANAL 4| HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" group-title="CANAIS INTERNACIONAIS", ARG: TELFIN CANAL 2 HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" group-title="CANAIS INTERNACIONAIS", ARG: TELPIN CANAL 2 SD
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="CANAIS INTERNACIONAIS", ARG:CANAL PROVINCIAL SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="CANAIS INTERNACIONAIS", ARG: POWER HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="CANAIS INTERNACIONAIS", ARG: CANAL 9 COMODORO RIVADAVIA SD
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHauFcA.png" group-title="CANAIS INTERNACIONAIS", ARG: CANAL 5 TELESOL HD
+http://149.56.98.124:9090/hls/telesol_mid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsrVp3u.png" group-title="CANAIS INTERNACIONAIS", CHI: NIU TV HD
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HGma9m.png" group-title="CANAIS INTERNACIONAIS", CHI: CDO SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CANAIS INTERNACIONAIS", CHI: TV SENADO HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="CANAIS INTERNACIONAIS", CHI: TELETRAKHD
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="CANAIS INTERNACIONAIS", CHI: SPORTING HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJFFPAL.png" group-title="CANAIS INTERNACIONAIS", COL: CALI TV SD
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/StkPNjx.png" group-title="CANAIS INTERNACIONAIS", COL: CANAL 14 SD
+http://181.143.238.252/live/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUh9igN.png" group-title="CANAIS INTERNACIONAIS", COL: RCN SD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dmHjzfS.png" group-title="CANAIS INTERNACIONAIS", COL: TELE ISLAS SD
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/any5MCR.png" group-title="CANAIS INTERNACIONAIS", COL: CANAL CNC MEDELLIN SD
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: TV MÁS 
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: CANAL 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: RTQ 
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: OCHO TV 
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: RTG 
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: RCG 3 TV 
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: TELEMAR 
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: A+ 
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: ONCE TV 
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: MULTIMEDIOS MONTERREY 1
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: MULTIMEDIOS MONTERREY 2
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wuFwbRC.png" group-title="CANAIS INTERNACIONAIS", PER: AMERICA TV SD
+http://z3.reporteCANAIS INTERNACIONAISano.com:1935/liverp3/loi/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dv979fQ.png" group-title="CANAIS INTERNACIONAIS", PER: PANAMERICANA TV SD 
+http://z3.reporteCANAIS INTERNACIONAISano.com:1935/liverp3/zrhn/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="CANAIS INTERNACIONAIS", PER: ANTARES TV SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4JeqvDc.png" group-title="CANAIS INTERNACIONAIS", PER: CAPITAL TV SD
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="CANAIS INTERNACIONAIS", PER:  TV PERU SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="CANAIS INTERNACIONAIS", PER: OVACION SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UuFzgM.jpg" group-title="CANAIS INTERNACIONAIS", PER: TV DIGITAL PERU HD
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="TV Telesur" tvg-logo="https://i.imgur.com/6euqurz.png?1" group-title="CANAIS INTERNACIONAIS", VEN: TV TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="hhttp://www.cxtv.com.br/img/Tvs/Logo/b141e293ab2a3165a38ecfc3116068b8.png" group-title="CANAIS INTERNACIONAIS", VEN: PROMAR TV
+http://edge.wms28.lorini.net/promar/promar/chunklist_w590746241.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c06d3e22af5947c59f50cc54fdf828d3.png" group-title="CANAIS INTERNACIONAIS", VEN: TELEARAGUA 
+http://enc-fwt.lorini.net/telearagua/telearagua/tracks-v1a1/index.m3u8
+
+########################################################## CANAIS DE FILMES ###########################################################
+
+#EXTINF:0group-title="TV FILMES",CINE+
+http://live.sba1.com:8080/hls/livecm/index.m3u8
+#EXTINF:0 type="stream" channelId="-1"group-title="TV FILMES", TV DESTAK (SP)
+http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1869059217.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://s16.postimg.org/ovcr5gj79/TV_Guarany.png"group-title="TV FILMES", TV GUARANY HD (CE)
+http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w433661871.m3u8
+#EXTINF:0group-title="TV FILMES",TV BOA ESPERANÇA
+http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8
+#EXTINF:0group-title="TV FILMES",TV NA ILHA
+http://stmv1.painelcast.com/tvnailha/tvnailha/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-group="TVs TV BAHIA" tvg-logo="https://pbs.twimg.com/profile_images/765961733819207681/qh_Sb1eg.jpg"group-title="TV FILMES", TV J.SID (BA)
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2433" tvg-logo="https://3.bp.blogspot.com/-eXchZx_nEGo/VtSeURcIo1I/AAAAAAAAFOI/jSPWDVZrwv8/s1600/LOGO%2BTV-0.png"group-title="TV FILMES", SBT HD - TV ARACATI (CE)
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://s21.postimg.org/64sqp9hlj/TV_Pantanal_MS.png"group-title="TV FILMES", TV PANTANAL MS (MS)
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/chunklist_w934286489.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.centraltvperu.com/images/central.png"group-title="TV FILMES", CENTRAL TV (PR)
+https://cdn.jmvstream.com/live/hls/lv_6760_transcoder/LV6760_N4xrE8xXLK_1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://listaiptvbrasil.com/logos/tvjapi.png"group-title="TV FILMES", TV JAPI (SP)
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="TV KIDMAIS" tvg-logo="https://s20.postimg.org/qabk9es4d/images.jpg"group-title="TV FILMES", TV KIDMAIS
+http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Vh1_classic_europe.png"group-title="TV FILMES", CLASSIQUE TV HD
+http://45.43.208.2:1935/classique/classique/live.m3u8
+#EXTINF:0group-title="TV FILMES",TV FÁTIMA
+http://streaming63.sitehosting.com.br:1935/telemaco/telemaco/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://s29.postimg.org/6vtad0auv/Gospel_Movie_Television.jpg"group-title="TV FILMES", GOSPEL MOVIE TELEVISION HD
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+#EXTINF:0group-title="TV FILMES",TV NEWS
+http://stmv3.euroti.com.br:1935/tvrevista/tvrevista/live.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY"group-title="TV FILMES",MARICÁ TV HD
+http://wse8.player.tv.br:1935/maricatv/maricatv/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvriopreto.tv/images/logo_white.png"group-title="TV FILMES", TV RIO PRETO HD (SP)
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.tvcarioca.net/gallery_gen/4655b6d6edfafcdcab2210e38800ed46_490x350.png"group-title="TV FILMES", TV CARIOCA.NET
+http://593d7fe3c9b0d.streamlock.net:1935/tvcarioca/tvcarioca/live.m3u8
+#EXTINF:0group-title="TV FILMES",TV CAPITAL 777
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+
+########################################################## CANAIS DE INFANTÍS #########################################################
+
+#EXTINF:0group-title="TV DESENHOS",ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:0group-title="TV DESENHOS",SEVEN TV
+http://11.fm5.com.br:1935/seventv/seventv/live.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY"group-title="TV DESENHOS", DESENHOS BÍBLICOS
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png"group-title="TV DESENHOS", GOSPEL CARTOON HD
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+#EXTINF:0 type="favorites" channelId="-1" group-title="TV DESENHOS", LOCOMOTION HD
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="INFANTIL" tvg-logo="https://i0.wp.com/goo.gl/RwQ03v"group-title="TV DESENHOS", 3 ABN KIDS HD
+http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-kids_multi/_definst_/live/stream3.m3u8
+#EXTINF:0 type="stream" channelId="-1"group-title="TV DESENHOS", TRAILER TV KIDS
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="2154" tvg-logo="http://3.bp.blogspot.com/-5NyTVrnE3O8/Uae1hE1XvEI/AAAAAAAAHNo/i0XJ_FFNZgU/s1600/chainne-mangas-logo-chaine-mangas-big.png"group-title="TV DESENHOS", MANGÁS HD
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0 type="favorites" channelId="2210" tvg-group="Pedido Especial"group-title="TV DESENHOS", RAI YOYO
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8
+#EXTINF:0group-title="TV DESENHOS",TV TALITONEWS
+http://painel.tvdigitalhd.org:1935/nelsinho80132/nelsinho80132/live.m3u8
+#EXTINF:0group-title="TV DESENHOS",TV ORIGEM
+http://stmv2.euroti.com.br:1935/jorsilei2749/jorsilei2749/live.m3u8
+
+########################################################## COMPRAS ####################################################################
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/4SLds6", JOIAS VIP (PR)
+http://ams2.dtcompany.com.br:1935/live/smil:joiasvip.smil/chunklist_w1271809485_b946000_slpor.m3u8
+#EXTINF:0 type="stream" channelId="2658" tvg-logo="goo.gl/57Q6yj", 1001 NOITES (PR)
+http://streaming63.sitehosting.com.br:1935/abdalla/_definst_/abdalla/chunklist_w1185168425.m3u8
+#EXTINF:0 type="favorites" channelId="2560" tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/logo-mega-tv.png", MEGA TV (SP)
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-logo="https://goo.gl/4Wl7FY", TV PRODUTO (SP)
+http://wse7.player.tv.br:1935/canalreporter/canalreporter/live.m3u8
+
+########################################################## CANAIS ABERTOS #############################################################
+
+#EXTINF:0 type="stream" channelId="2571" , SBT (SP)
+https://www.youtube.com/watch?v=FnyIEpAnBiM
+#EXTINF:0 type="stream" channelId="2433" tvg-logo="goo.gl/1qfyd2"group-title="TV PERNAMBUCANA", SBT (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w688969394_b176000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="2571" tvg-group="TVs Temporárias"group-title="TV PERNAMBUCANA", SBT HD (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="2433" tvg-logo="goo.gl/1qfyd2"group-title="TV PERNAMBUCANA", SBT CARUARU (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w62379878_b176000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="2433" tvg-logo="goo.gl/1qfyd2", SBT INTERIOR (SP)
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2571" tvg-logo="goo.gl/1qfyd2", SBT (GO)
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2571" tvg-logo="goo.gl/1qfyd2"group-title="TV DESENHOS", SBT (MG)
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
+#EXTINF:0 type="stream" channelId="2433" tvg-logo="goo.gl/1qfyd2", SBT (MA)
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w464251518.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://goo.gl/DQySJY", SBT (MG)
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
+#EXTINF:0 type="stream" channelId="2433" tvg-logo="goo.gl/1qfyd2", SBT HD (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="goo.gl/1qfyd2", SBT (RS)
+http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
+#EXTINF:0 type="stream" channelId="2434", BAND (SP)
+http://ev.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="TV Aberta" tvg-logo="goo.gl/nHgtus", BAND (JOGO ABERTO SP)
+http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1641381453.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="TV Aberta" tvg-logo="goo.gl/nHgtus", BAND (OS DONOS DA BOLA)
+http://evpp.mm.uol.com.br/geob_band/donosdabola/chunklist_w1086909453.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="TV Aberta" tvg-logo="goo.gl/nHgtus", BAND (PA)
+http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/v2aAqU"group-title="TV DESENHOS", VIA MORENA (MS)
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/2ZniZX", RECORD HD (SP)
+http://ekostreams.co/ch/record.php?width=600&height=384
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/2ZniZX", RECORD HD (SC)
+https://ricmais.com.br/sc/streaming/show/ric_hd720.m3u8
+#EXTINF:0 type="stream" channelId="1031" tvg-logo="goo.gl/2ZniZX", RECORD 1 (MT)
+http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w216677789.m3u8
+#EXTINF:0 type="stream" channelId="1031" tvg-logo="goo.gl/2ZniZX", RECORD 2 (MT)
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1031" tvg-logo="goo.gl/2ZniZX", RECORD (GO)
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w918917285.m3u8
+#EXTINF:0 type="stream" channelId="1031" tvg-logo="goo.gl/2ZniZX", RECORD (RN)
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1031" tvg-logo="goo.gl/2ZniZX", RECORD (ES)
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:0 type="stream" channelId="1031" tvg-logo="goo.gl/2ZniZX"group-title="TV PORTUGAL", RECORD ANGOLA
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+#EXTINF:0 type="stream" channelId="2456" tvg-logo="goo.gl/SqsUkg", RECORD NEWS HD (ES)
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2456" tvg-logo="goo.gl/SqsUkg", RECORD NEWS (MA)
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w658420879.m3u8
+#EXTINF:0 type="stream" channelId="2435" tvg-logo="goo.gl/soGQFD", REDETV! HD (PB)
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2435" tvg-logo="goo.gl/QAsaU6", REDETV! (SP)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w73731525.m3u8
+#EXTINF:0 type="stream" channelId="2436" tvg-logo="goo.gl/QAsaU6", REDETV! (RJ)
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w20312726.m3u8
+#EXTINF:0 type="stream" channelId="2435" tvg-logo="goo.gl/soGQFD", REDETV! HD (RS)
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2436" tvg-logo="goo.gl/QAsaU6", REDETV! (GO)
+http://srv3.zoeweb.tv:1935/z94-live/stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2435" tvg-logo="goo.gl/nFAHY1", REDETV! - TV FELIZ (RN)
+http://wse01.logicahost.com.br:1935/tvfelizrn/_definst_/tvfelizrn/chunklist_w1049761976.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-logo="goo.gl/QAsaU6", REDETV! (RO)
+http://173.236.10.10:1935/tvonline/tvonline/chunklist_w337179018.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/zVeHCJ"group-title="TV PERNAMBUCANA", TV CULTURA HD (PE)
+http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/zVeHCJ", TV CULTURA HD (PB)
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/zVeHCJ"group-title="TV DESENHOS", TV CULTURA HD (BA)
+http://cdn2.comets.com.br/tvbaianahd/aovivo/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/zVeHCJ"group-title="TV DESENHOS", TV CULTURA HD - TV CATVE (PR)
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/zVeHCJ", TV CULTURA HD (PA)
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/zVeHCJ", TV CULTURA HD - MASTER TV (PR)
+http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1821412394.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/A8KtA3", TV CULTURA (PR)
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/A8KtA3", TV CULTURA (SC)
+http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/A8KtA3", TV CULTURA (GO)
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/A8KtA3", TV CULTURA (ES)
+http://stmv4.srvstm.com:1935/tvsimcolatina/tvsimcolatina/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2467" tvg-logo="goo.gl/A8KtA3, TV CULTURA (MG)
+http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2467" tvg-logo="goo.gl/A8KtA3", TV CULTURA (SE)
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist_w1662520736.m3u8
+#EXTINF:0 type="stream" channelId="2467" tvg-logo="goo.gl/A8KtA3", TV CULTURA (MS)
+http://78.46.36.212:1935/tveducativa/tveducativa/chunklist_w1428531183.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png",TV GAZETA (MA)
+http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2437" tvg-logo="goo.gl/efyrGW", TV GAZETA (RN)
+http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2437" tvg-logo="goo.gl/efyrGW", TV GAZETA HD (SP)
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0 type="stream" channelId="2569" tvg-logo="goo.gl/64fVgQ", TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2569" tvg-logo="goo.gl/64fVgQ", TV ESCOLA HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2454" tvg-logo="goo.gl/KK9jTv", CANAL FUTURA (CE)
+http://srv3.zoeweb.tv:1935/z01-live/stream/chunklist_w581198270.m3u8
+#EXTINF:0 type="stream" channelId="2454" tvg-logo="goo.gl/KK9jTv", CANAL FUTURA (PR)
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2454" tvg-logo="goo.gl/KK9jTv",CANAL FUTURA - UNISC TV HD
+http://tv.unisc.br:80/hls/test.m3u8
+#EXTINF:0 type="stream" channelId="2454" tvg-logo="goo.gl/KK9jTv", FUTURA (RS) HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w1368603408.m3u8
+#EXTINF:0 type="stream" channelId="2454" tvg-logo="goo.gl/KK9jTv", FUTURA UNICESUMAR HD
+http://caikron.com.br:1935/unicesumar/unicesumar.stream/live.m3u8
+#EXTINF:0 type="stream" channelId="378" tvg-logo="goo.gl/6jQNFV", TV BRASIL HD - TVE (RS)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1381" tvg-group="TVs TV BAHIA" tvg-logo="http://acaopopular.net/jornal/wp-content/uploads/2017/06/TVE-Bahia_Nova.jpg"group-title="TV DESENHOS", TV BRASIL - TVE BAHIA HD (BA)
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?
+#EXTINF:0, TV BRASIL - REDE MINAS (MG) HD
+http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/w9Rs19",TV BRASIL - TVCOM (AL)
+http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
+#EXTINF:0 type="favorites" channelId="-1" tvg-group="TV Aberta" tvg-logo="goo.gl/Awr4az", TV BRASIL HD - TVT (SP)
+http://dmlive.vo.llnwd.net:80/dm/3/x6ph7x7/live-3.m3u8
+#EXTINF:0,TV GUARAPARI
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="goo.gl/tJizDf"group-title="TV ASSEMBLÉIA DE DEUS", REDE BRASIL DE COMUNICAÇÃO (PE)
+http://rbc.direct
