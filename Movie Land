@@ -1,4 +1,162 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",SULUK INTRO
+http://bit.ly/2MMn4Uf
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Movies Action HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1362.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Movies Premium MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1361.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",FOX FAMILY MOVIES HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18592.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",FOX LIFE HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18591.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",FOX MOVIES HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18590.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",RED HBO HD MY
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/18561.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sony Pix IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2821.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2852.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Star Movies HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2818.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sony Le PLEX HD IN
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/16016.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Action Movies HD (MY) TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8649.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Family Movies HD (MY) TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8648.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Movies Action (MY) TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8647.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Fox Movies Premium (MY) TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8646.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO TH
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/8659.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Box Office 1 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/408.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Box Office 2 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/407.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Box Office 3 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/406.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Fox Action Movie FHD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/401.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Fox Family Movie HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/400.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Fox Movie HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/399.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Movie 1 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/57.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Movie 2 HD ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/56.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Movie Action 1 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/55.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Movie Action 2 ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/54.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Star Movie ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/36.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Star World ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/37.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",OSN Sundance ARB
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/386.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Movies BoxOffice 1 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12464.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Movies BoxOffice 2 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12463.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Movies BoxOffice 3 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12462.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Movies BoxOffice 4 HD DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12461.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Action & Adventure HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/351.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Action & Adventure UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/352.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Comedy HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/349.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Comedy UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/350.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Crime & Thriller UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/348.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Disney HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/346.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Disney UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/347.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Drama & Romance UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/345.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Family HD UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/343.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Family UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/344.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Greats UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/342.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Oscars UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1823.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Premiere +1 UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1824.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Premiere UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/341.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Sci-Fi & Horror UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/340.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Sky Cinema Select UK
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/339.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Family HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4481.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Gold HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4480.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Platin 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4479.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Premium 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4477.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",MovieSmart Premium 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/4478.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beIN Box Office 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1126.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beIN Box Office 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1125.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beIN Box Office 3 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1124.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beIN IZ TV TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/2072.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Action HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1129.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Family HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1130.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Festival HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1131.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Premiere 1 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1128.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Premiere 2 HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1127.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Stars HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1132.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",beINMovies Turk HD TR
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/1133.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO Comedy HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/530.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO East US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/483.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO Family HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7748.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/531.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO Signature HD US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7747.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO Signature US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/484.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",HBO US
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/7776.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World 1 HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12605.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World 2 HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12604.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World 3 HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12603.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World 4 HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12602.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4PzNtcs/IPTVKu2.png" group-title="MOVIES",Movies World Action HD VIP DE
+http://portal.geniptv.com:8080/live/vVNcvX7KLG/zcLNvDobT3/12601.ts
+
+#EXTM3U
 #EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll" tvg-logo="", ll www.iptv-m3u-playlist.com ll
 http://www.youtube.com/watch?v=YIDEmE_Boqw.mp4
 #EXTINF:-1 tvg-name=" ll www.iptv-m3u-playlist.com ll Verzaubertes SchneeKugel" tvg-logo="", ll www.iptv-m3u-playlist.com ll Verzaubertes SchneeKugel
