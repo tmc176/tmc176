@@ -1,105 +1,27 @@
 #EXTM3U
-#EXTINF:-1,~ Canada TV ~
-#EXTINF:-1,Assemblee Nationale du Quebec
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1,Canal Savoir
-http://stream.canalsavoir.tv/livestream/stream.m3u8
-#EXTINF:-1,CBC Radio One
-http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
-#EXTINF:-1,CBC Radio Two
-http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
-#EXTINF:-1,CHCH
-http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
-#EXTINF:-1,CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1,CTV News Live 1
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
-#EXTINF:-1,CTV News Live 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:-1,CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1,CTV News Live 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1,The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1,The Weather Network
-http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
-#EXTINF:0,##########   United States   ##########
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/2528
-#EXTINF:0,Fox Soccer Plus HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/6206
-#EXTINF:0,Fox Soccer Plus US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7785
-#EXTINF:0,Fox Sports 1 HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/553
-#EXTINF:0,Fox Sports 1 US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7786
-#EXTINF:0,Fox Sports 2 FHD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/554
-#EXTINF:0,Fox Sports 2 HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7759
-#EXTINF:0,Fox Sports 506 HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/571
-#EXTINF:0,Fox Sports College Central HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7756
-#EXTINF:0,Fox Sports HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7760
-#EXTINF:0,Fox Sports North HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7752
-#EXTINF:0,MLB HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/573
-#EXTINF:0,MLB Network HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7701
-#EXTINF:0,MLB Network US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/574
-#EXTINF:0,MSNBC HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/575
-#EXTINF:0,NBA HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/533
-#EXTINF:0,NBC Golf Channel FHD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/6147
-#EXTINF:0,NBC Golf Channel HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/6146
-#EXTINF:0,NBC Golf HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7743
-#EXTINF:0,NBC News HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7742
-#EXTINF:0,NBC SN HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7741
-#EXTINF:0,NBC US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/490
-#EXTINF:0,NBCSN HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/555
-#EXTINF:0,NFL Network 1 US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/504
-#EXTINF:0,NFL Network FHD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/505
-#EXTINF:0,NFL Network HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/556
-#EXTINF:0,NFL Network US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7793
-#EXTINF:0,NFL Now HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7773
-#EXTINF:0,NFL Redzone HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/7772
-#EXTINF:0,NHL Network US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/576
-#EXTINF:0,NBA Live 1 HD US
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8538
-#EXTINF:0,NBA Live 2 HD US [ Match Time Only ]
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8537
-#EXTINF:0,NBA Live 3 HD US [ Match Time Only ]
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8536
-#EXTINF:0,NBA Live 4 HD US [ Match Time Only ]
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8535
-#EXTINF:0,NBA Live 5 HD US [ Match Time Only ]
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8534
-#EXTINF:0,NBA Live 6 HD US [ Match Time Only ]
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8533
-#EXTINF:0,NBA Live 7 HD US [ Match Time Only ]
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8532
-#EXTINF:0,NBA Live 8 HD US [ Match Time Only ]
-http://client.safeip.live:8080/fdEmmUgiSY/uP05Ymarpi/8531
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rONNLTT.png" group-title="AUSTRALIA",ABC (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Gp8Gmxg.png" group-title="AUSTRALIA",ABC 2 (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ykN8g8a.png" group-title="AUSTRALIA",ABC Me (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",CBS (Opt-1)
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",CBS (Opt-2)
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/M-1_Global_2.jpg" group-title="RUSSIA",M-1 Global
+http://live-m1globaltv.cdnvideo.ru/m1globaltv/m1globaltv-rtmp-eng_720p/chunklist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="BULGARIA",City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+
+
 
 
 
