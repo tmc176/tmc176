@@ -164,19 +164,22 @@ http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/17872.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/800px-Showtime.svg.png" group-title="USA",Showtime (Opt-2)
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/18721.m3u8
 
-#EXTM3U
 #EXTINF:0,American Heroes Channel
 #EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/1760.ts
+
 #EXTINF:0,AMC
 #EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/981.ts
+
 #EXTINF:0,Animal Planet East
 #EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/834.ts
+
 #EXTINF:0,BET East HD
 #EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/453.ts
+
 #EXTINF:0,BET HER
 #EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/957.ts
