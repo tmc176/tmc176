@@ -1,10 +1,9 @@
 #EXTM3U
+<streamingInfos>
 
-#EXTINF:0,USA:TSN 1 HD*
-http://cs22cs.uk:8000/joe/joe/20844
-#EXTINF:0,USA:TSN 2 HD
-http://cs22cs.uk:8000/joe/joe/20843
-#EXTINF:0,USA:SPORT: TSN 4
-http://cs22cs.uk:8000/joe/joe/22641
-#EXTINF:0,USA:TSN 5 HD
-http://cs22cs.uk:8000/joe/joe/20840
+<item>
+<title>TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cs22cs.uk:8000/joe/joe/20844</link>
+<item>
+<title>TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cs22cs.uk:8000/joe/joe/20843</link>
