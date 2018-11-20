@@ -2,4 +2,52 @@
 
 <item>
 <title>Christmas Fireplace</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=73.http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8>/link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
+
+#EXTM3U
+#EXTINF:-1,USA |
+ http://144.217.69.93:25461/live/uwe1/1234/144.m3u8
+ #EXTINF:-1,USA | Eleven Sports
+ http://144.217.69.93:25461/live/sa1/1234/49161.ts
+ #EXTINF:-1,USA |
+ http://144.217.69.93:25461/live/sa1/1234/144.ts
+ #EXTINF:-1,USA | ESPN
+ http://144.217.69.93:25461/live/uwe1/1234/56765.m3u8
+ #EXTINF:-1,USA | ESPN 2
+ http://144.217.69.93:25461/live/uwe1/1234/114.m3u8
+ #EXTINF:-1,USA | Fox Soccer Plus
+ http://144.217.69.93:25461/live/sa1/1234/49364.ts
+ #EXTINF:-1,USA | Fox Sports 1
+ http://144.217.69.93:25461/live/sa1/1234/108.ts
+ #EXTINF:-1,USA | Fox Sports 2
+ http://144.217.69.93:25461/live/sa1/1234/107.ts
+ #EXTINF:-1,USA | Fox Soccer Plus
+ http://144.217.69.93:25461/live/uwe1/1234/49364.m3u8
+ #EXTINF:-1,USA | Fox Sporm3u8 1
+ http://144.217.69.93:25461/live/uwe1/1234/108.m3u8
+ #EXTINF:-1,USA | Fox Sporm3u8 2
+ http://144.217.69.93:25461/live/uwe1/1234/107.m3u8
+ #EXTINF:-1,USA | NBA TV
+ http://144.217.69.93:25461/live/uwe1/1234/5067.m3u8
+ #EXTINF:-1,USA | NHL Network
+ http://144.217.69.93:25461/live/uwe1/1234/49163.m3u8
+ #EXTINF:-1,USA | Tennis Channel
+ http://144.217.69.93:25461/live/uwe1/1234/64.m3u8
+ #EXTINF:-1,USA | Fox Sporm3u8 Detroit
+ http://144.217.69.93:25461/live/uwe1/1234/49602.m3u8
+ #EXTINF:-1,USA | Fox Sporm3u8 Ohio
+ http://144.217.69.93:25461/live/uwe1/1234/49596.m3u8
+ #EXTINF:-1,USA | Fox Sporm3u8 South East
+ http://144.217.69.93:25461/live/uwe1/1234/49591.m3u8
+ #EXTINF:-1,USA | Fox Sporm3u8 Sun
+ http://144.217.69.93:25461/live/uwe1/1234/49588.m3u8
+ #EXTINF:-1,USA | Fox Sporm3u8 West
+ http://144.217.69.93:25461/live/uwe1/1234/49586.m3u8
+ #EXTINF:-1,USA | Fox Sporm3u8 Yes
+ http://144.217.69.93:25461/live/uwe1/1234/49583.m3u8
+ #EXTINF:-1,CA | Sportnet Ontario HD
+ http://144.217.69.93:25461/live/uwe1/1234/48818.m3u8
+ #EXTINF:-1,CA | sporm3u8net 360 hd
+ http://144.217.69.93:25461/live/uwe1/1234/48819.m3u8
+ #EXTINF:-1,CA | Sporm3u8net One HD
+ http://144.217.69.93:25461/live/uwe1/1234/48820.m3u8
