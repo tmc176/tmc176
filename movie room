@@ -1,17 +1,30 @@
-<streamingInfos>
+#EXTM3U
 
-<item>
-<title>CP24</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14507.m3u8</link>
-<item>
-<title>DIY Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5675.ts</link>
-<item>
-<title>YES NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5675.ts</link>
-<item>
-<title>TSN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2403.ts</link>
-<item>
-<title>TSN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://1.ocdtv.co.uk:83/live/jackson1/jackson2/267642.m3u8</link>
+#EXTINF:0 group-title="US: United States",US: CINEMAX 
+http://144.217.69.93:25461/live/ali1/1234/136.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX (1+) 
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/23452.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX (2+) 
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/136.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX (3+) 
+http://clientportalpro.com:2500/live/d4XJyL2keu/kOI06FTGIs/5094.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTION MAX EAST 
+http://1.ocdtv.co.uk:83/live/jackson1/jackson2/308943.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX ACTIONMAX 
+http://e2.iudtv.org:8080/live/tura/123456/1512.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX EAST 
+http://1.ocdtv.co.uk:83/live/jackson1/jackson2/308942.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX MOREMAX 
+http://144.217.69.93:25461/live/ali1/1234/135.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX MOREMAX (1+) 
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/135.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX OUTER MAX 
+http://1.ocdtv.co.uk:83/live/jackson1/jackson2/308941.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX THRILLERMAX HD
+http://1.ocdtv.co.uk:83/live/jackson1/jackson2/308940.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX THRILLERMAX 
+http://144.217.69.93:25461/live/ali1/1234/134.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAX THRILLERMAX (1+) 
+http://144.217.69.93:25461/live/Allaccessiptv/5GaUMC9H0T/134.m3u8
+#EXTINF:0 group-title="US: United States",US: CINEMAXX MORE MAXX 
+http://1.ocdtv.co.uk:83/live/jackson1/jackson2/308939.m3u8
