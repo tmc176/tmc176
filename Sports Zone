@@ -31,6 +31,9 @@
 <title>Sports Net World HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1096.ts</link>
 <item>
+<title>CBS Sport Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://72.76.39.230:8000/play/a016/index.m3u8>/link>
+<item>
 <title>NBC Sports Network</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/986.ts</link>
 <item>
@@ -51,3 +54,9 @@
 <item>
 <title>PPV UFC 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2224.ts>/link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
