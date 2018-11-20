@@ -1,39 +1,21 @@
 #EXTM3U
 
-
 730.#EXTINF:0,Channel 1
-
-
 731.http://ip.akiptv.biz:8000/get.php?username=edrsamsungyegen&password=WWPGzKRkP4&type=m3u
 
-
 732.#EXTINF:0,Channel 2
-
-
 733.http://ip.akiptv.biz:8000/get.php?username=9777.al&password=1510.ku&type=m3u
 
-
 734.#EXTINF:0,Channel 3
-
-
 735.http://ip.akiptv.biz:8000/get.php?username=6954.al&password=1514.ce&type=m3u
 
-
 736.#EXTINF:0,Channel 4
-
-
 737.http://ip.akiptv.biz:8000/get.php?username=6952&password=69is52&type=m3u
 
-
 738.#EXTINF:0,Channel 5
-
-
 739.http://ip.akiptv.biz:8000/get.php?username=ankaraelk&password=bT8K1Pz8pS&type=m3u
 
-
 740.#EXTINF:0,Channel 6
-
-
 741.http://ip.akiptv.biz:8000/get.php?username=9781.bur&password=13.10.BU&type=m3u
 
 
