@@ -1,104 +1,141 @@
 #EXTM3U
-
-#EXTINF:-1,Canada: ABC SPARK CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts
-#EXTINF:-1,Canada: AMC
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.ts
-#EXTINF:-1,Canada: ANIMAL PLANET
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11530.ts
-#EXTINF:-1,Canada: APTN
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts
-#EXTINF:-1,Canada: BBC CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11419.ts
-#EXTINF:-1,Canada: BBC KIDS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11418.ts
-#EXTINF:-1,Canada: BBC WORLD NEWS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11467.ts
-#EXTINF:-1,Canada: BNN
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11417.ts
-#EXTINF:-1,Canada: BOOK TV
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11465.ts
-#EXTINF:-1,Canada: BRAVO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11416.ts
-#EXTINF:-1,Canada: CANAL D
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11445.ts
-#EXTINF:-1,Canada: CANAL SAVOIR
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11529.ts
-#EXTINF:-1,Canada: CMT CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11462.ts
-#EXTINF:-1,Canada: CNBC
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11409.ts
-#EXTINF:-1,Canada: CNN
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts
-#EXTINF:-1,Canada: CNN INTERNATIONAL
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts
-#EXTINF:-1,Canada: COMEDY EAST
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11360.ts
-#EXTINF:-1,Canada: COMEDY GOLD
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11524.ts
-#EXTINF:-1,Canada: COOKING CHANNEL
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts
-#EXTINF:-1,Canada: COSMO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11460.ts
-#EXTINF:-1,Canada: COTTAGE LIFE
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts
-#EXTINF:-1,Canada: CP24
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.ts
-#EXTINF:-1,Canada: CRIME   INVEST
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts
-#EXTINF:-1,Canada: CTV 2 VANCOUVER
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11519.ts
-#EXTINF:-1,Canada: CTV NEWS NETWORK
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts
-#EXTINF:-1,Canada: CTV OTTAWA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11517.ts
-#EXTINF:-1,Canada: CTV TORONTO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts
-#EXTINF:-1,Canada: CTV VANCOUVER
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11342.ts
-#EXTINF:-1,Canada: CTV2 OTTAWA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11359.ts
-#EXTINF:-1,Canada: DISNEY CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts
-#EXTINF:-1,Canada: FOOD NETWORK
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11509.ts
-#EXTINF:-1,Canada: FOX NEWS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11508.ts
-#EXTINF:-1,Canada: GLOBAL TORONTO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11505.ts
-#EXTINF:-1,Canada: GLOBAL VANCOUVER
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts
-#EXTINF:-1,Canada: GOLF
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11456.ts
-#EXTINF:-1,Canada: HBO 1
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts
-#EXTINF:-1,Canada: HBO 2
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts
-#EXTINF:-1,Canada: HGTV
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts
-#EXTINF:-1,Canada: HISTORIO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11343.ts
-#EXTINF:-1,Canada: OMNI 1
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11491.ts
-#EXTINF:-1,Canada: OMNI 2
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11364.ts
-#EXTINF:-1,Canada: ONE
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11352.ts
-#EXTINF:-1,Canada: OUTTV
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11490.ts
-#EXTINF:-1,Canada: OWN
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11489.ts
-#EXTINF:-1,Canada: PBS EAST
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11488.ts
-#EXTINF:-1,Canada: PEACH TREE
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11351.ts
-#EXTINF:-1,Canada: PRISE
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11389.ts
-#EXTINF:-1,Canada: RDI
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11487.ts
-#EXTINF:-1,Canada: RDS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11388.ts
-#EXTINF:-1,Canada: RDS 2
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11350.ts
-#EXTINF:-1,Canada: SERIS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11387.ts
+EXTINF:-1,A&E CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25176
+EXTINF:-1,ABC SPARK CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25175
+EXTINF:-1,ABC WEST CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25174
+EXTINF:-1,AMC CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25173
+EXTINF:-1,AMERICAN HEROES CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25172
+EXTINF:-1,ANIMAL PLANET CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25171
+EXTINF:-1,BBC KIDS CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25170
+EXTINF:-1,BET CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25169
+EXTINF:-1,BNN CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25168
+EXTINF:-1,BRAVO CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25167
+EXTINF:-1,C I CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25166
+EXTINF:-1,CBC CALGARY CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36424
+EXTINF:-1,CBC CHARLOTTTOWN CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36423
+EXTINF:-1,CBC EDMONTON CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36422
+EXTINF:-1,CBC FREDERICTION CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36421
+EXTINF:-1,CBC HALIFAX CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36420
+EXTINF:-1,CBC MONTREAL CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36419
+EXTINF:-1,CBC OTTAWA CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36418
+EXTINF:-1,CBC REGINA CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36417
+EXTINF:-1,CBC ST JOHNS CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36416
+EXTINF:-1,CBC TORONTO CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36415
+EXTINF:-1,CBC VANCOUVER CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36414
+EXTINF:-1,CBC WINNIPEG CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36412
+EXTINF:-1,CBC WINSOR CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36413
+EXTINF:-1,CBC YELLOWKNIFE CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36411
+EXTINF:-1,CNN CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25165
+EXTINF:-1,DISCOVERY CHANNEL HD CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25163
+EXTINF:-1,DISCOVERY SCIENCE CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25162
+EXTINF:-1,DISNEY CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25161
+EXTINF:-1,DISNEY JUNIOR CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25160
+EXTINF:-1,DOCUMENTARY CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25159
+EXTINF:-1,EVENTS CHANNEL CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25158
+EXTINF:-1,FAMILY CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25157
+EXTINF:-1,FAMILY WEST CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25156
+EXTINF:-1,FAMJR CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25155
+EXTINF:-1,FIGHT NETWORK CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25154
+EXTINF:-1,FOOD NETWORK CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25153
+EXTINF:-1,FOX NEWS CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25152
+EXTINF:-1,FOX-W CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25151
+EXTINF:-1,GAME TV CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25150
+EXTINF:-1,GLOBAL EDMONTON CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36410
+EXTINF:-1,GLOBAL MONTREAL CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36409
+EXTINF:-1,GLOBAL TORONTO CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/36408
+EXTINF:-1,HBO1 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25149
+EXTINF:-1,HBO2 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25148
+EXTINF:-1,HGTV CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25147
+EXTINF:-1,HISTORY CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25146
+EXTINF:-1,NICK CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25145
+EXTINF:-1,OWN CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25144
+EXTINF:-1,PBS-W CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25143
+EXTINF:-1,SHOWTIME EAST CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25142
+EXTINF:-1,SLICE CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25140
+EXTINF:-1,SPACE CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25139
+EXTINF:-1,SPIKE CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25138
+EXTINF:-1,TCM CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25130
+EXTINF:-1,TLC CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25129
+EXTINF:-1,TOON EAST CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25127
+EXTINF:-1,TRAVEL & ESCAPE CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25126
+EXTINF:-1,TREEHOUSE TV CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25125
+EXTINF:-1,TSN1 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25124
+EXTINF:-1,TSN2 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25123
+EXTINF:-1,TSN3 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25122
+EXTINF:-1,TSN4 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25121
+EXTINF:-1,TSN5 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25120
+EXTINF:-1,VICELAND CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25119
+EXTINF:-1,W CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25118
+EXTINF:-1,WGN CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25117
+EXTINF:-1,WORLD FISHING NETWORK CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25116
+EXTINF:-1,YES CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25114
+EXTINF:-1,YTV-E CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25113
