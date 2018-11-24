@@ -1,4 +1,43 @@
-#EXTM3U
+<streamingInfos>
+
+<item>
+<title>TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.253.47:88/live/555155895930609/555155895930609/3751.m3u8</link>
+<item>
+<title>TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.253.47:88/live/555155895930609/555155895930609/3752.m3u8</link>
+<item>
+<title>TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.253.47:88/live/555155895930609/555155895930609/3753.m3u8</link>
+<item>
+<title>TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.253.47:88/live/555155895930609/555155895930609/3754.m3u8</link>
+<item>
+<title>TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.253.47:88/live/555155895930609/555155895930609/3755.m3u8</link>
+<item>
+<title>TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.253.47:88/live/555155895930609/555155895930609/3756.m3u8</link>
+<item>
+<title>TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.253.47:88/live/555155895930609/555155895930609/3757.m3u8</link>
+<item>
+<title>TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.253.47:88/live/555155895930609/555155895930609/3762.m3u8</link>
+<item>
+<title>TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.8.253.47:88/live/555155895930609/555155895930609/3763.m3u8</link>
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="BO:Eng1" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng1
 http://212.8.253.47:88/live/555155895930609/555155895930609/3751.m3u8
 #EXTINF:-1 tvg-name="BO:Eng2" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng2
@@ -17,14 +56,4 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3757.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3762.m3u8
 #EXTINF:-1 tvg-name="BO:Eng9" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Eng9
 http://212.8.253.47:88/live/555155895930609/555155895930609/3763.m3u8
-#EXTINF:-1 tvg-name="BO:Other1" tvg-logo="" group-title="{BOUQUET_NAME}",Iptv4sat.com :Other1
-http://212.8.253.47:88/live/555155895930609/555155895930609/3699.m3u8
-#EXTINF:-1 tvg-name="BO:Other2" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Other2
-http://212.8.253.47:88/live/555155895930609/555155895930609/3700.m3u8
-#EXTINF:-1 tvg-name="BO:Other3" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Other3
-http://212.8.253.47:88/live/555155895930609/555155895930609/3701.m3u8
-#EXTINF:-1 tvg-name="BO:Other4" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Other4
-http://212.8.253.47:88/live/555155895930609/555155895930609/3702.m3u8
-#EXTINF:-1 tvg-name="BO:Other5" tvg-logo="" group-title="{BOUQUET_NAME}",BO:Other5
-http://212.8.253.47:88/live/555155895930609/555155895930609/3703.m3u8
 
