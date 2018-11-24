@@ -1,4 +1,49 @@
 #EXTM3U
+#EXTM3U
+
+#EXTINF:0,***** VOD *****
+http://tv.fast-iptv.info:12974/live/u5zBLndsCW/2pQFvWMRXk/1474.ts
+
+#EXTINF:0,Cine+SELECT 3
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/615.mkv
+
+#EXTINF:0,Cine+SELECT 4 HD
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/618.mkv
+
+#EXTINF:0,Cine+SELECT 5 HD
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/619.mkv
+
+#EXTINF:0,Cine+SELECT 6 HD
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/621.mkv
+
+#EXTINF:0,Cine+SELECT 7 HD
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/623.mkv
+
+#EXTINF:0,Cine+SELECT 10 HD
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/629.mkv
+
+#EXTINF:0,Cine+SELECT premiere
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/622.mkv
+
+#EXTINF:0,Cine+SELECT premiere 2
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/627.mkv
+
+#EXTINF:0,Cine+SELECT premiere 3 HD
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/1459.mkv
+#EXTINF:0,American Made (2017)
+Video Playerhttp://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/1479.mp4
+
+#EXTINF:0,blade runner 2049
+Video Playerhttp://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/1485.mp4
+
+#EXTINF:0,Despicable me 3 (2017)
+http://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/1463.mkv
+
+#EXTINF:0,Geostorm 2017
+Video Playerhttp://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/1489.mp4
+
+#EXTINF:0,War for the Planet of the Apes
+Video Playerhttp://tv.fast-iptv.info:12974/movie/u5zBLndsCW/2pQFvWMRXk/1466.mp4
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg" group-title="MOVIES",Alien - Covenant (2017)
 https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%200022017.mkv.mp4
