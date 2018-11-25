@@ -1,5 +1,11 @@
-#EXTM3U
+<streamingInfos>
 
+<item>
+<title>Sky Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/5528</link>
+<item>
+<title>Sky Premiere</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/408</link>
 #EXTINF:-1,UK: Sky Premiere HD
 http://hall2mark.ddns.net:80/medoum1/medoum/5528
 #EXTINF:-1,UK: Sky Premiere
