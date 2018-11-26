@@ -19,6 +19,42 @@
 <title>Sky Family HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/2890</link>
 <item>
+<title>Sky Disney HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/4085</link>
+<item>
+<title>Sky Action HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/4087</link>
+<item>
+<title>SKY Atlantic HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/2992</link>
+<item>
+<title>Sky Sci-Fi & Horror</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/4090</link>
+<item>
+<title>Sky Showcase HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/3053</link>
+<item>
+<title>Sky Select HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/3040</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/2887</link>
+<item>
+<title>Sky Comedy HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/4071</link>
+<item>
+<title>Horror UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/3029</link>
+<item>
+<title>B4U Movies UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/2982</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
@@ -31,44 +67,6 @@
 
 
 
-#EXTINF:-1,UK: Sky Disney HD
-http://hall2mark.ddns.net:80/medoum1/medoum/4085
-#EXTINF:-1,UK: Sky Disney
-http://hall2mark.ddns.net:80/medoum1/medoum/2885
-#EXTINF:-1,UK: Sky Family HD
-http://hall2mark.ddns.net:80/medoum1/medoum/2890
-#EXTINF:-1,UK: Sky Family
-http://hall2mark.ddns.net:80/medoum1/medoum/4086
-#EXTINF:-1,UK: Sky Action HD
-http://hall2mark.ddns.net:80/medoum1/medoum/4087
-#EXTINF:-1,UK: Sky Action
-http://hall2mark.ddns.net:80/medoum1/medoum/2930
-#EXTINF:-1,UK: SKY Atlantic HD
-http://hall2mark.ddns.net:80/medoum1/medoum/2992
-#EXTINF:-1,UK: Sky Atlantic
-http://hall2mark.ddns.net:80/medoum1/medoum/4072
-#EXTINF:-1,UK: Sky ScFi-Horror HD
-http://hall2mark.ddns.net:80/medoum1/medoum/2893
-#EXTINF:-1,UK: Sky Sci-Fi & Horror
-http://hall2mark.ddns.net:80/medoum1/medoum/4090
-#EXTINF:-1,UK: Sky Showcase HD
-http://hall2mark.ddns.net:80/medoum1/medoum/3053
-#EXTINF:-1,UK: Sky Select HD
-http://hall2mark.ddns.net:80/medoum1/medoum/3040
-#EXTINF:-1,UK: Sky Select
-http://hall2mark.ddns.net:80/medoum1/medoum/2994
-#EXTINF:-1,UK: Sky Comedy HD
-http://hall2mark.ddns.net:80/medoum1/medoum/2887
-#EXTINF:-1,UK: Sky Comedy
-http://hall2mark.ddns.net:80/medoum1/medoum/4088
-#EXTINF:-1,UK: Sky Living HD
-http://hall2mark.ddns.net:80/medoum1/medoum/4071
-#EXTINF:-1,UK: Sky Living
-http://hall2mark.ddns.net:80/medoum1/medoum/2882
-#EXTINF:-1,UK: Horror UK
-http://hall2mark.ddns.net:80/medoum1/medoum/3029
-#EXTINF:-1,UK: B4U Movies UK
-http://hall2mark.ddns.net:80/medoum1/medoum/2982
 
 
 
