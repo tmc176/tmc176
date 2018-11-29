@@ -38,10 +38,10 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/986.ts</link>
 <item>
 <title>Fox Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/live/nizar123/nizar123/3716.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/14534</link>
 <item>
 <title>Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/live/nizar123/nizar123/3715.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/14533</link>
 <item>
 <title>WWE Network HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/602.ts</link>
@@ -60,3 +60,61 @@
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
+#EXTINF:-1,UK:BT Sport 1
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5620
+#EXTINF:-1,UK:BT Sport 1 HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5619
+#EXTINF:-1,UK:BT Sport 2 HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5618
+#EXTINF:-1,UK:BT Sport 3 HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5617
+#EXTINF:-1,UK:BT Sport ESPN HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5615
+#EXTINF:-1,UK:eir Sport 1
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5553
+#EXTINF:-1,UK:eirSport 2
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5552
+#EXTINF:-1,UK:EUROSPORT 1 HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5653
+#EXTINF:-1,UK:EUROSPORT 2 HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5652
+#EXTINF:-1,UK:Sky Sports Main Event
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5443
+#EXTINF:-1,UK:Sky Sports Main Event HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5442
+#EXTINF:-1,UK:Sky Sports Cricket
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5441
+#EXTINF:-1,UK:Sky Sports Cricket  HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5440
+#EXTINF:-1,UK:Sky Sports Action
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5439
+#EXTINF:-1,UK:Sky Sports Action HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5438
+#EXTINF:-1,UK:Sky Sports Golf
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5437
+#EXTINF:-1,UK:Sky Sports Golf HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5436
+#EXTINF:-1,UK:Sky Sports Premier League
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5435
+#EXTINF:-1,UK:Sky Sports Premier League HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5434
+#EXTINF:-1,UK:Sky Sports Box Office
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5433
+#EXTINF:-1,UK:Sky Sports F1
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5432
+#EXTINF:-1,UK:Sky Sports F1 HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5431
+#EXTINF:-1,UK:Sky Sports Mix
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5430
+#EXTINF:-1,UK:Sky Sports News HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5429
+#EXTINF:-1,UK:Sky Sports Main Event SD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/8257
+#EXTINF:-1,UK:Sky Sport Football HD
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/8433
+#EXTINF:-1,UK:Sky Sports Arena
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/9263
+#EXTINF:-1,US:FOX SPORTS 1 (HD)
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/14534
+#EXTINF:-1,US:FOX SPORTS 2 (HD)
+http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/14533
