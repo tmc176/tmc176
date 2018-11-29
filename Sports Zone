@@ -60,6 +60,9 @@
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
+<item>
+#EXTM3U8
+
 #EXTINF:-1,UK:BT Sport 1
 http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/5620
 #EXTINF:-1,UK:BT Sport 1 HD
