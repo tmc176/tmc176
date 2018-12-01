@@ -2,10 +2,10 @@
 
 <item>
 <title>TSN 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25124</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.161.236:25461/live/nicsky/kryptfuckoff/176.ts</link>
 <item>
 <title>TSN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25123</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.161.236:25461/live/nicsky/kryptfuckoff/178.ts</link>
 <item>
 <title>TSN 3</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/live/nizar123/nizar123/3682.m3u8</link>
@@ -22,14 +22,17 @@
 <title>SportsNet One HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1419.ts</link>
 <item>
+<title>SPORTS NET EAST HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1828.ts>/link>
+<item>
 <title>SPORTSNET ONTARIO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://protocol1.shiztv.xyz:80/live/LeighWilliamson/jDVxzyoWMV/11764.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1819.ts</link>
 <item>
 <title>Sports Net Pacific</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1097.ts</link>
 <item>
 <title>Sports Net World HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rb-group-server.com:25461/live/nizar123/nizar123/6810.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1820.ts</link>
 <item>
 <title>CBS Sport Network</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://deluxeplay.live:25461/live/wxarhpon/rnh86C1v6O/14507.ts</link>
@@ -38,10 +41,10 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/986.ts</link>
 <item>
 <title>Fox Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/14534</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1205.ts</link>
 <item>
 <title>Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/14533</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1206.ts</link>
 <item>
 <title>WWE Network HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/602.ts</link>
@@ -62,55 +65,24 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
 <item>
 <item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
+<title>SPORTS NET EAST HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1828.ts>/link>
 <item>
 
 
-#EXTINF:-1,USA FOX SPORTS 1
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1205.ts
-#EXTINF:-1,USA FOX SPORTS 2
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1206.ts
-#EXTINF:-1,NBA TV (US)
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1304.ts
+
 #EXTINF:-1,SPORTS NET EAST HD
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1828.ts
-#EXTINF:-1,SPORTS NET ONE HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1827.ts
-#EXTINF:-1,SPORTS NET ONTARIO HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1826.ts
-#EXTINF:-1,SPORTS NET PACIFIC HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1825.ts
-#EXTINF:-1,SPORTS NET WEST HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1824.ts
+#EXTINF:-1,SPORTSNET ONTARIO
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1819.ts
+#EXTINF:-1,SPORTSNET ONE
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1820.ts
 #EXTINF:-1,SPORTS NET WORLD HD
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1823.ts
 #EXTINF:-1,SPORTSNET 360
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1822.ts
 #EXTINF:-1,SPORTSNET EAST
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1821.ts
-#EXTINF:-1,SPORTSNET ONE
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1820.ts
-#EXTINF:-1,SPORTSNET ONE HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1829.ts
-#EXTINF:-1,SPORTSNET ONTARIO
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1819.ts
-#EXTINF:-1,SPORTSNET PACIFIC
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1818.ts
-#EXTINF:-1,SPORTSNET WEST
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1817.ts
-#EXTINF:-1,SPORTSNET WORLD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1816.ts
-#EXTINF:-1,SPORTS NET 360 HD
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1815.ts
-#EXTINF:-1,4seven
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1880.ts
-#EXTINF:-1,5 USA
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1877.ts
-#EXTINF:-1,5STAR
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1876.ts
-#EXTINF:-1,alibi
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1855.ts
 #EXTINF:-1,TSN 1
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/176.ts
 #EXTINF:-1,TSN 2
@@ -121,6 +93,11 @@ http://51.15.161.236:25461/live/nicsky/kryptfuckoff/178.ts
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/179.ts
 #EXTINF:-1,TSN 5
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/180.ts
+#EXTINF:-1,USA FOX SPORTS 1
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1205.ts
+#EXTINF:-1,USA FOX SPORTS 2
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1206.ts
 #EXTINF:-1,WWE Network
+http://51.15.161.236:25461/live/nicsky/kryptfuckoff/243.ts
 http://51.15.161.236:25461/live/nicsky/kryptfuckoff/243.ts
 
