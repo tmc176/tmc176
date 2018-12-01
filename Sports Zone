@@ -52,12 +52,6 @@
 <title>UFC TV HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2223.ts</link>
 <item>
-<title>PPV UFC 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/3057</link>
-<item>
-<title>PPV UFC 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hall2mark.ddns.net:80/medoum1/medoum/3056</link>
-<item>
 <title>GOLF</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11456.t
 <item>
