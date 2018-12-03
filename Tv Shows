@@ -1,4 +1,68 @@
-#EXTM3U
+<streamingInfos>
+
+<item>
+<title>24/7: HAPPY DAYS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/135440</link>
+<item>
+<title>24/7: THE ANDY GRIFFITH SHOW</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/125937</link>
+<item>
+<title>24/7: Jeffersons</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/135450</link>
+<item>
+<title>24/7: FRESH PRINCE OF BELL AIR</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/135435</link>
+<item>
+<title>24/7: GILLIGANS ISLAND</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/135439</link>
+<item>
+<title>24/7: THREE S COMPANY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/125939</link>
+<item>
+<title>24/7: MASH</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/125920</link>
+<item>
+<title>24/7: The King Of Queens</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/125951</link>
+<item>
+<title>24/7: CHEERS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/135427</link>
+<item>
+<title>24/7: TOM AND JERRY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/110861</link>
+<item>
+<title>24/7: DISNEY CLASSICS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/126646</link>
+<item>
+<title>24/7: LITTLE HOUSE ON THE PRAIRIE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/135443</link>
+<item>
+<title>24/7: LITTLE HOUSE ON THE PRAIRIE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/125915</link>
+<item>
+<title>24/7: The Wonder Years</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/125960</link>
+<item>
+<title>24/7: WESTERNS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/125967</link>
+<item>
+<title>24/7: DISNEY MOVIES</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/126647</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+
+
+
 
 #EXTINF:-1,24/7: COLONY
 http://niobzca.cf:8080/francis1234/francis1234/125900
@@ -116,7 +180,7 @@ http://niobzca.cf:8080/francis1234/francis1234/125914
 http://niobzca.cf:8080/francis1234/francis1234/135442
 #EXTINF:-1,24/7: LITTLE HOUSE ON THE PRAIRIE
 http://niobzca.cf:8080/francis1234/francis1234/135443
-#EXTINF:-1,24/7: LITTLE HOUSE ON THE PRARIE
+#EXTINF:-1,24/7: LITTLE HOUSE ON THE PRAIRIE
 http://niobzca.cf:8080/francis1234/francis1234/125915
 #EXTINF:-1,24/7: Malcolm in the middle
 http://niobzca.cf:8080/francis1234/francis1234/125919
