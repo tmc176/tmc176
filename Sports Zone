@@ -283,7 +283,64 @@
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
 
+#EXTINF:0,Fox Sports 1
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/893.ts
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/894.ts
 
+#EXTINF:0,TSN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/119.ts
+#EXTINF:0,TSN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1083.ts
+#EXTINF:0,TSN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1084.ts
+#EXTINF:0,TSN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1085.ts
+#EXTINF:0,TSN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/115.ts
+#EXTINF:0,SEC NETWORK
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/601.ts
+#EXTINF:0,Sports Net 360 HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1094.ts
+#EXTINF:0,SportsNet One HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1419.ts
+#EXTINF:0,SPORTSNET ONTARIO FHD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1418.ts
+#EXTINF:0,Sports Net Pacific
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1097.ts
+#EXTINF:0,Sports Net World HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1096.ts
+#EXTINF:0,WWE Network HD
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/602.ts
+#EXTINF:0,YES NETWORK
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1166.ts
+#EXTINF:0,UFC Fight Pass 2
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2221.ts
+#EXTINF:0,PPV: UFC 1
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2222.ts
+#EXTINF:0,UFC TV
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/2223.ts
+#EXTINF:0,VELOCITY
+#EXTVLCOPT:network-caching=1000
+http://unlockyourtv.com:8000/live/charles/charles/1353.ts
 
 
 
