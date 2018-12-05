@@ -1,4 +1,11 @@
-#EXTM3U
+<streamingInfos>
+
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34:80/live/joseph/joseph/2711.ts</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34:80/live/joseph/joseph/2730.ts</link>
 
 UK MOVIES4MEN   [704x576]
 http://62.210.104.34:80/live/joseph/joseph/2730.ts
