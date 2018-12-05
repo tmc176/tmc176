@@ -7,9 +7,6 @@
 <title>PPV Cinema 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2181.ts</link>
 <item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2181.ts</link>
-<item>
 <title>PPV Cinema 3</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2183.ts</link>
 <item>
@@ -24,18 +21,10 @@
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-#EXTINF:0,PPV Cinema 1
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/2180.ts
-#EXTINF:0,PPV Cinema 2
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/2181.ts
-#EXTINF:0,PPV Cinema 3 - Incoming
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/2182.ts
-#EXTINF:0,PPV Cinema 04
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/2183.ts
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2181.ts</link>
+
 #EXTINF:0,PPV Cinema 05
 #EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/2184.ts
