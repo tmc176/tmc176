@@ -1,12 +1,9 @@
 #EXTM3U
 #EXTINF:0,Cinemax Action Max HD
-#EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/580.ts
 #EXTINF:0,Cinemax East
-#EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/2068.ts
 #EXTINF:0,Cinemax West
-#EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/2149.ts
 #EXTINF:0,CINEMAX MORE MAX
 #EXTVLCOPT:network-caching=1000
