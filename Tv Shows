@@ -1,17 +1,11 @@
 <streamingInfos>
 
 <item>
-<title>Cinemax Action Max HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/580.ts</link>
+<title>SILVER SCREEN CLASSICS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306116</link>
 <item>
-<title>Cinemax East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2068.ts</link>
-<item>
-<title>Cinemax West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2149.ts</link>
-<item>
-<title>CINEMAX OUTER MAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1163.ts</link>
+<title>MOVIETIME</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306147</link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
@@ -28,57 +22,3 @@
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
-#EXTINF:0,CINEMAX OUTER MAX
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1158.ts
-#EXTINF:0,HBO
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/616.ts
-#EXTINF:0,HBO East
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/2070.ts
-#EXTINF:0,HBO West
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/2150.ts
-#EXTINF:0,HBO Family
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1417.ts
-#EXTINF:0,HBO ZONE HD
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/585.ts
-#EXTINF:0,HALLMARK HD
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/550.ts
-#EXTINF:0,HALLMARK MOVIE HD
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/569.ts
-#EXTINF:0,Paramount Network
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1224.ts
-#EXTINF:0,Showtime East
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/586.ts
-#EXTINF:0,Showtime West
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/2151.ts
-#EXTINF:0,SHOWTIME 2 HD
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/587.ts
-#EXTINF:0,SHOWTIME EXTREME
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1160.ts
-#EXTINF:0,SUNDANCE TV HD
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/607.ts
-#EXTINF:0,Starz HD
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1237.ts
-#EXTINF:0,Starz Comedy
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1236.ts
-#EXTINF:0,Starz Encore
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1238.ts
-#EXTINF:0,Starz Encore Western HD
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1325.ts
