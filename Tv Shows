@@ -1,13 +1,33 @@
-#EXTM3U
-#EXTINF:0,Cinemax Action Max HD
-http://unlockyourtv.com:8000/live/charles/charles/580.ts
-#EXTINF:0,Cinemax East
-http://unlockyourtv.com:8000/live/charles/charles/2068.ts
-#EXTINF:0,Cinemax West
-http://unlockyourtv.com:8000/live/charles/charles/2149.ts
-#EXTINF:0,CINEMAX MORE MAX
-#EXTVLCOPT:network-caching=1000
-http://unlockyourtv.com:8000/live/charles/charles/1163.ts
+<streamingInfos>
+
+<item>
+<title>Cinemax Action Max HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/580.ts</link>
+<item>
+<title>Cinemax East</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2068.ts</link>
+<item>
+<title>Cinemax West</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/2149.ts</link>
+<item>
+<title>CINEMAX OUTER MAX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/live/charles/charles/1163.ts</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+
 #EXTINF:0,CINEMAX OUTER MAX
 #EXTVLCOPT:network-caching=1000
 http://unlockyourtv.com:8000/live/charles/charles/1158.ts
