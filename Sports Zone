@@ -1,6 +1,9 @@
 <streamingInfos>
 
 <item>
+<title>NHL | 01</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317909>/link>
+<item>
 <title>TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306083</link>
 <item>
