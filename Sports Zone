@@ -68,10 +68,13 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/74912>/link>
 <item>
 <title>NFL NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/139026>/link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/303751>/link>
 <item>
-<title>MFL REDZONE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://niobzca.cf:8080/francis1234/francis1234/76679>/link>
+<title>NFL REDZONE HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/310794>/link>
+<item>
+<title>NFL | Mix</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/305420>/link>
 <item>
 <title>NHL NETWORK HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/143098>/link>
@@ -100,10 +103,14 @@
 <title>NHL Center Ice Plus 4</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317698>/link>
 <item>
+<title>NFL | Mix</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/305420>/link>
+<item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
-#EXTINF:-1,CANADA: MLB NETWORK
-http://s1.premiumhd.org:83/nuala1/nuala2/306149
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
