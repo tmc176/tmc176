@@ -1,9 +1,6 @@
 <streamingInfos>
 
 <item>
-<title>NHL | 01</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317909>/link>
-<item>
 <title>TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pie.buzz:83/ToddSmith/352352532/306083</link>
 <item>
@@ -81,33 +78,7 @@
 <item>
 <title>NHL NETWORK HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/143098>/link>
-<item>
-<title>NHL | 01</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317909>/link>
-<item>
-<title>NHL | 02</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317908>/link>
-<item>
-<title>NHL | 03</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317907>/link>
-<item>
-<title>NHL | 04</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317906>/link>
-<item>
-<title>NHL Center Ice Plus 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317701>/link>
-<item>
-<title>NHL Center Ice Plus 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317700>/link>
-<item>
-<title>NHL Center Ice Plus 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317699>/link>
-<item>
-<title>NHL Center Ice Plus 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/317698>/link>
-<item>
-<title>NFL | Mix</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/305420>/link>
+
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
