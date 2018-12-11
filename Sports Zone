@@ -64,24 +64,19 @@
 <title>WWE Network HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7778</link>
 <item>
-<title>UFC HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7697</link>
+<title>ESPN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2336</link>
 <item>
-<title>FIGHT NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7697>/link>
-<item>
-<title>GOLF</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2329>/link>
-<item>
-<title>ESPN 1 US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2336>/link>
-<item>
-<title>ESPN 2 US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2335>/link>
+<title>ESPN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2335</link>
 <item>
 <title>ESPN U</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2336>/link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2334</link>
 <item>
 <title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=>/link>
-http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7697
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title>TBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+
+
