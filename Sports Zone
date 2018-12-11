@@ -29,7 +29,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/306105</link>
 <item>
 <title>SPORTSNET ONTARIO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/306108</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2325</link>
 <item>
 <title>Sports Net Pacific</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13261</link>
@@ -90,13 +90,3 @@
 
 
 
-#EXTINF:-1,US: NFL Network HD
-http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7699
-#EXTINF:-1,US: WWE HD
-http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7704
-#EXTINF:-1,CA: Sports NET Pacific HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13261
-#EXTINF:-1,USA: FOX Sports 1 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13444
-#EXTINF:-1,USA: FOX Sports 2 HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13445
