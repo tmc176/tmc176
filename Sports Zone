@@ -2,8 +2,10 @@
 
 <item>
 <title>WHEN YOU CLICK ONCE WAIT FOR THE BOX TO COME UP</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
 <title>IF IT DOESN'T PLAY THE FIRST TIME TRY IT AGAIN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <item>
 <title>TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2319</link>
