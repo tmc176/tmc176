@@ -26,16 +26,16 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://master1.ipfox.online:25461/Etronics_WGtHuDXP/yq8CXe9t/2326</link>
 <item>
 <title>SportsNet One HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/306109</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6415</link>
 <item>
 <title>SPORTS NET EAST HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/306106>/link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6416>/link>
 <item>
 <title>Sports Net WEST</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.premiumhd.org:83/nuala1/nuala2/306105</link>
 <item>
 <title>SPORTSNET ONTARIO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6414</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6416</link>
 <item>
 <title>Sports Net Pacific</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13261</link>
@@ -86,25 +86,3 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
 
-#EXTINF:-1,|CA| SPORTNET ONE HD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6421
-#EXTINF:-1,|CA| SPORTNET ONTARIO HD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6420
-#EXTINF:-1,|CA| SPORTNET PACIFIC HD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6419
-#EXTINF:-1,|CA| SPORTSNET 1 HD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6418
-#EXTINF:-1,|CA| SPORTSNET 360 FHD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6417
-#EXTINF:-1,|CA| SPORTSNET EAST HD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6416
-#EXTINF:-1,|CA| SPORTSNET ONE FHD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6415
-#EXTINF:-1,|CA| SPORTSNET ONTARIO FHD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6414
-#EXTINF:-1,|CA| SPORTSNET PACIFIC FHD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6413
-#EXTINF:-1,|CA| SPORTSNET WEST HD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6412
-#EXTINF:-1,|CA| SPORTSNET WORLD HD
-http://toptv-show.com:25461/hidalgo/HRgmsPPV2A/6411
