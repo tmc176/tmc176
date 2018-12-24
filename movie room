@@ -1,13 +1,35 @@
-<streamingInfos>
-
-<item>
-<title>santa tracker live</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://www.youtube.com/watch?v=yP4KgVB_DJI</link>
-<item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-<item>
-<title>TBA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+#EXTM3U
+#EXTINF:-1,CINEMA 05 | THRILLER
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/39260
+#EXTINF:-1,CINEMA 06 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41531
+#EXTINF:-1,CINEMA 07 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41530
+#EXTINF:-1,CINEMA 08 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41529
+#EXTINF:-1,CINEMA 09 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41528
+#EXTINF:-1,CINEMA 10 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41527
+#EXTINF:-1,CINEMA 11 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41536
+#EXTINF:-1,CINEMA 12 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41535
+#EXTINF:-1,CINEMA 13 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41534
+#EXTINF:-1,CINEMA 14 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41533
+#EXTINF:-1,CINEMA 15 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41532
+#EXTINF:-1,CINEMA 16 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41541
+#EXTINF:-1,CINEMA 17 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41540
+#EXTINF:-1,CINEMA 18 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41539
+#EXTINF:-1,CINEMA 19 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41538
+#EXTINF:-1,CINEMA 20 | PPV
+http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41537
 
 
