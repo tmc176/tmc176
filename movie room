@@ -1,27 +1,8 @@
 <streamingInfos>
 
 <item>
-<title>HBO Comedy HD US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/530</link>
-<item>
-<title>HBO East US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/483</link>
-<item>
-<title>HBO Family HD US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7748</link>
-<item>
-<title>HBO US</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7776</link>
-<item>
-<title>USA",Sony Movie Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8</link>
-<item>
-<title>"USA",Science Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.80.160.168/live/9/live.m3u8</link>
-<item>
-<title>USA",Movee 4U </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=USA",Movee 4U 
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8</link>
+<title>santa tracker live</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://www.youtube.com/watch?v=yP4KgVB_DJI</link>
 <item>
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
