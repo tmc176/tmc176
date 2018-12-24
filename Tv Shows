@@ -1,73 +1,26 @@
-#EXTM3U
+<streamingInfos>
 
-#EXTINF:-1,24/7 | TOTAL DIVAS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29224
-#EXTINF:-1,24/7 | TRUE BLOOD
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29191
-#EXTINF:-1,24/7 | TWILIGHT MOVIES
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29190
-#EXTINF:-1,24/7 | UK STAND UP
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29172
-#EXTINF:-1,24/7 | UNDERWORLD MOVIES
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29188
-#EXTINF:-1,24/7 | US STAND UP
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29189
-#EXTINF:-1,24/7 | VAMPIRE MOVIES
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29186
-#EXTINF:-1,24/7 | VAN DAMME MOVIES
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29185
-#EXTINF:-1,24/7 | WESTERNS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29181
-#EXTINF:-1,24/7 | WILL AND GRACE
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/29180
-#EXTINF:-1,PAW PATROL: Mighty Pups
-http://wildsides.xyz:2086/movie/XcYTapnwtu/esuYHLvGxo/38737.mp4
-#EXTINF:-1,Impact Wrestling Redemption
-http://wildsides.xyz:2086/movie/XcYTapnwtu/esuYHLvGxo/38601.mp4&cf=1539194260&e=1539194260&h=4878e32631063db51d9fb5bbb666e695
-#EXTINF:-1,USA | BET HER ʜᴅ
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6228
-#EXTINF:-1,USA | ESPN 3 ʜᴅ
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/37638
-#EXTINF:-1,USA | FOX SPORTS OHIO+ ʜᴅ
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/30619
-#EXTINF:-1,USA | FXX WEST ʜᴅ
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/30593
-#EXTINF:-1,USA | HALLMARK DRAMA ʜᴅ
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/28741
-#EXTINF:-1,USA | MSG ʜᴅ
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/28762
-#EXTINF:-1,USA | REELZ ʜᴅ
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/1136
+<item>
+<title>DISNEY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25769</link>
+<item>
+<title>THE FLINTSTONES</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6261</link>
+<item>
+<title>HAPPY DAYS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25810</link>
+
+
+
+
 #EXTINF:-1,24/7 | BAR RESCUE
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/39305
-#EXTINF:-1,My Little Pony: The Movie
-http://wildsides.xyz:2086/movie/XcYTapnwtu/esuYHLvGxo/39302.mkv
-#EXTINF:-1,USA | MSG PLUS ʜᴅ
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/28742
-#EXTINF:-1,NFL 717 | NO GAME
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41543
-#EXTINF:-1,24/7 | 13 REASONS WHY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25808
-#EXTINF:-1,24/7 | AMERICAN DAD
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25963
 #EXTINF:-1,24/7 | AMERICAN HORROR STORY
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25806
 #EXTINF:-1,24/7 | AMERICAN PICKERS
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5161
-#EXTINF:-1,24/7 | ANCIENT ALIENS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25805
-#EXTINF:-1,24/7 | BAR RESCUE.
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2815
 #EXTINF:-1,24/7 | BEWITCHED
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5154
-#EXTINF:-1,24/7 | BLAZE & THE MONSTER MACHINES
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25829
-#EXTINF:-1,24/7 | BLINDSPOT
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25957
-#EXTINF:-1,24/7 | BLOSSOM
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/39304
-#EXTINF:-1,24/7 | BOB'S BURGERS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/1090
 #EXTINF:-1,24/7 | CHEERS
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8953
 #EXTINF:-1,24/7 | COACH
@@ -76,72 +29,20 @@ http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25757
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5160
 #EXTINF:-1,24/7 | COURT/ TRU TV CRIME SHOWS
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8221
-#EXTINF:-1,24/7 | DARK
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25800
-#EXTINF:-1,24/7 | DEEP SPACE 9
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25961
-#EXTINF:-1,24/7 | DINERS DRIVE-INS AND DIVES
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8227
-#EXTINF:-1,24/7 | DISNEY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25769
-#EXTINF:-1,24/7 | DOC MCSTUFFINS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/1415
-#EXTINF:-1,24/7 | DRAGON BALL Z
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8220
-#EXTINF:-1,24/7 | ELENA OF AVALOR
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2972
-#EXTINF:-1,24/7 | EXOSQUAD
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3739
-#EXTINF:-1,24/7 | F IS FOR FAMILY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2813
-#EXTINF:-1,24/7 | FAILARMY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3166
-#EXTINF:-1,24/7 | FAIRLY ODDPARENTS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3668
-#EXTINF:-1,24/7 | FALL GUY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3655
-#EXTINF:-1,24/7 | FAMILY TIES
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8489
-#EXTINF:-1,24/7 | FRIENDS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2418
-#EXTINF:-1,24/7 | FUTURAMA
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6222
-#EXTINF:-1,24/7 | G I JOE
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3959
 #EXTINF:-1,24/7 | GAME OF THRONES
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25798
 #EXTINF:-1,24/7 | GILLIGANS ISLAND
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3786
-#EXTINF:-1,24/7 | GODZILLA
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8081
 #EXTINF:-1,24/7 | GOLDEN GIRLS
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5159
-#EXTINF:-1,24/7 | GOTHAM
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25795
 #EXTINF:-1,24/7 | GUNSMOKE
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8226
 #EXTINF:-1,24/7 | HAPPY DAYS
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25810
 #EXTINF:-1,24/7 | HAVE GUNS WILL TRAVEL
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/11551
-#EXTINF:-1,24/7 | HERCULOIDS AND MIGHTY MIGHTOR
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8243
 #EXTINF:-1,24/7 | HOGAN'S HEROES
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5157
-#EXTINF:-1,24/7 | HONG KONG PHOOEY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8069
-#EXTINF:-1,24/7 | I ALMOST GOT AWAY WITH IT
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6266
-#EXTINF:-1,24/7 | ICARLY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25794
-#EXTINF:-1,24/7 | IMPRACTICAL JOKERS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3170
-#EXTINF:-1,24/7 | IN LIVING COLOR
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/1432
-#EXTINF:-1,24/7 | IVANHOE
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8218
-#EXTINF:-1,24/7 | JOHNNY BRAVO
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8418
 #EXTINF:-1,24/7 | JUDGE JUDY
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3158
 #EXTINF:-1,24/7 | KING OF QUEENS
@@ -152,96 +53,38 @@ http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3926
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3958
 #EXTINF:-1,24/7 | LITTLE HOUSE ON THE PRAIRIE
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5158
-#EXTINF:-1,24/7 | LOST
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8483
 #EXTINF:-1,24/7 | MARRIED WITH CHILDREN
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8479
 #EXTINF:-1,24/7 | MASH
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2807
 #EXTINF:-1,24/7 | MASTER CHEF
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3167
-#EXTINF:-1,24/7 | MICKEY MOUSE CLUBHOUSE
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/1383
-#EXTINF:-1,24/7 | MR ROBOT
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25789
-#EXTINF:-1,24/7 | MY NAME IS EARL
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2587
-#EXTINF:-1,24/7 | MYTHBUSTERS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25788
 #EXTINF:-1,24/7 | NIGHT COURT
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8275
-#EXTINF:-1,24/7 | ORANGE IS THE NEW BLACK
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25787
-#EXTINF:-1,24/7 | PAW PATROL
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2370
-#EXTINF:-1,24/7 | PAWN STARS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5162
-#EXTINF:-1,24/7 | PAW PATROL
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25786
-#EXTINF:-1,24/7 | PETER KAY'S CAR SHARE
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6199
-#EXTINF:-1,24/7 | PETER KAY'S PHOENIX NIGHT'S
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6200
-#EXTINF:-1,24/7 | PHINEAS AND FERB
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8224
-#EXTINF:-1,24/7 | PRISON BREAK
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25835
-#EXTINF:-1,24/7 | RESCUE RANGERS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25785
-#EXTINF:-1,24/7 | RICK AND MORTY UNCENSORED
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2874
 #EXTINF:-1,24/7 | ROSEANNE
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5155
-#EXTINF:-1,24/7 | SCHOOLHOUSE ROCK
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2989
 #EXTINF:-1,24/7 | SEINFELD
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/1618
 #EXTINF:-1,24/7 | SEX AND THE CITY
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8222
-#EXTINF:-1,24/7 | SEX IN THE CITY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25813
-#EXTINF:-1,24/7 | SHAZZAN
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8061
-#EXTINF:-1,24/7 | SPACE GHOST
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8256
-#EXTINF:-1,24/7 | SPONGEBOB SQUAREPANTS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25782
 #EXTINF:-1,24/7 | STAR TREK ENTERPRISE
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25959
 #EXTINF:-1,24/7 | STRANGER THINGS
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25781
-#EXTINF:-1,24/7 | SUPERFRIENDS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8277
-#EXTINF:-1,24/7 | SUPERSTORE
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25780
-#EXTINF:-1,24/7 | SUPERWHY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25779
-#EXTINF:-1,24/7 | SWAT KATS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3517
-#EXTINF:-1,24/7 | TENNESSEE TUXEDO AND HIS TALES
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/10223
 #EXTINF:-1,24/7 | THE ANDY GRIFFITH SHOW
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6251
 #EXTINF:-1,24/7 | THE BEVERLY HILLBILLIES
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5152
-#EXTINF:-1,24/7 | THE BOYS IN COMPANY C & FULL METAL JACKET
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8249
 #EXTINF:-1,24/7 | THE COSBY SHOW
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6262
 #EXTINF:-1,24/7 | THE FLINTSTONES
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6261
 #EXTINF:-1,24/7 | THE FRESH PRINCE OF BEL-AIR
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6260
-#EXTINF:-1,24/7 | THE HITCHHIKER'S GUIDE TO THE GALAXY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8215
 #EXTINF:-1,24/7 | THE JEFFERSON'S
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/5156
-#EXTINF:-1,24/7 | THE LEAGUE OF GENTLEMEN
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25962
 #EXTINF:-1,24/7 | THE MUNSTERS
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2804
-#EXTINF:-1,24/7 | THE PACIFIC
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25847
 #EXTINF:-1,24/7 | THE SOPRANOS
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/1378
 #EXTINF:-1,24/7 | THE TWILIGHT ZONE
@@ -254,23 +97,15 @@ http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8488
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2785
 #EXTINF:-1,24/7 | THREE'S COMPANY
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6258
-#EXTINF:-1,24/7 | TIMMY TIME
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6257
-#EXTINF:-1,24/7 | TOM & JERRY
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8228
 #EXTINF:-1,24/7 | TWILIGHT ZONE
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/2802
 #EXTINF:-1,24/7 | TWO AND A HALF MEN
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8480
-#EXTINF:-1,24/7 | TWO PINTS OF LAGER AND A PACKET OF CRISPS
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/6198
 #EXTINF:-1,24/7 | UNSOLVED MYSTERIES
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/3145
 #EXTINF:-1,24/7 | WACKY RACES
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8276
 #EXTINF:-1,24/7 | WALKING WITH DINOSAURS
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/8219
-#EXTINF:-1,24/7 | WESTWORLD
-http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/25772
 #EXTINF:-1,24/7 | WKRP IN CINCINNATI
 http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/11552
