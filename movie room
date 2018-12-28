@@ -46,31 +46,22 @@
 <title>CINEMA 15 | PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41537</link>
 <item>
-<title>SUPER CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9940</link>
+<title>TCM</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9939</link>
 <item>
-<title>SUPER ECRAN 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9949</link>
-#EXTINF:-1,CAN: SUPER CHANNEL 2
-http://xxultraxx.com:80/fazli/fazli/9940
-#EXTINF:-1,CAN: SUPER ECRAN 1
-http://xxultraxx.com:80/fazli/fazli/9949
-#EXTINF:-1,CAN: SUPER ECRAN 2
-http://xxultraxx.com:80/fazli/fazli/9948
-#EXTINF:-1,CAN: SUPER ECRAN 3
-http://xxultraxx.com:80/fazli/fazli/9947
-#EXTINF:-1,CAN: SUPER ECRAN 4
-http://xxultraxx.com:80/fazli/fazli/9946
-#EXTINF:-1,CAN: TCM
-http://xxultraxx.com:80/fazli/fazli/9939
-#EXTINF:-1,CAN: TMN 1
-http://xxultraxx.com:80/fazli/fazli/9854
-#EXTINF:-1,CAN: TMN 2
-http://xxultraxx.com:80/fazli/fazli/9853
-#EXTINF:-1,CAN: TMN 3
-http://xxultraxx.com:80/fazli/fazli/9839
-#EXTINF:-1,CAN: TMN 4
-http://xxultraxx.com:80/fazli/fazli/9852
+<title>TMN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9854</link>
+<item>
+<title>TMN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9853</link>
+<item>
+<title>TMN 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9839</link>
+<item>
+<title>TMN 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9852</link>
+
+
 #EXTINF:-1,ᵁˢᵃ Cinemax
 http://xxultraxx.com:80/fazli/fazli/23922
 #EXTINF:-1,ᵁˢᵃ Cinemax 5 Starmax
