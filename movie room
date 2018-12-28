@@ -45,7 +45,12 @@
 <item>
 <title>CINEMA 15 | PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41537</link>
-
+<item>
+<title>SUPER CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9940</link>
+<item>
+<title>SUPER ECRAN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/9949</link>
 #EXTINF:-1,CAN: SUPER CHANNEL 2
 http://xxultraxx.com:80/fazli/fazli/9940
 #EXTINF:-1,CAN: SUPER ECRAN 1
