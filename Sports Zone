@@ -10,17 +10,32 @@
 <title>TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26031</link>
 <item>
+<title>TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15929</link>
+<item>
 <title>TSN 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26030</link>
+<item>
+<title>TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15928</link>
 <item>
 <title>TSN 3</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26029</link>
 <item>
+<title>TSN 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15927</link>
+<item>
 <title>TSN 4</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26028</link>
 <item>
+<title>TSN 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15926</link>
+<item>
 <title>TSN 5</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26027</link>
+<item>
+<title>TSN 5</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15925</link>
 <item>
 <title>Sports Net 360 HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25993</link>
@@ -44,49 +59,64 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25987</link>
 <item>
 <title>CBS Sport Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23926</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15944</link>
 <item>
-<title>NBC Sports Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23728</link>
+<title>NBC Sports Network 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22499</link>
+<item>
+<title>NBC Sports Network 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15942</link>
+<item>
+<title>NBC Sports Network 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/10054</link>
 <item>
 <title>Fox Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23869</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22526</link>
 <item>
 <title>Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23868</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22525</link>
 <item>
-<title>MLB HD</title>
+<title>Fox Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15948</link>
+<item>
+<title>Fox Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15947</link>
+<item>
+<title>MLB HD 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25969</link>
+<item>
+<title>MLB HD 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22507</link>
 <item>
 <title>NBA HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25974</link>
 <item>
 <title>NHL HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23708</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15941</link>
 <item>
 <title>LEAFS TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26068</link>
 <item>
-<title>NFL HD</title>
+<title>NFL HD 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23725</link>
 <item>
-<title>NFL NOW</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23724</link>
+<title>NFL HD 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22490</link>
 <item>
 <title>NFL Red Zone</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23723</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23279</link>
 <item>
 <title>WWE Network HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23595</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22455</link>
 <item>
 <title>ESPN 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23875</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/15951</link>
 <item>
 <title>ESPN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23874</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22537</link>
 <item>
 <title>ESPN U</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23873</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/22536</link>
 <item>
 <title>UFC Fight Pass 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/fazli/fazli/23611</link>
@@ -105,55 +135,16 @@
 <item>
 <title>Wild TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26048</link>
-#EXTINF:-1,US | SPORTSMAN CHANNEL
-http://live.kodisolutions.tv:8080/fredf/fredf/23204
-#EXTINF:-1,US | PURSUIT CHANNEL
-http://live.kodisolutions.tv:8080/fredf/fredf/23262
-#EXTINF:-1,US | OUTDOOR CHANNEL
-http://live.kodisolutions.tv:8080/fredf/fredf/23273
-#EXTINF:-1,US | CBS Sports Network HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15944
-#EXTINF:-1,US | ESPN 2
-http://live.kodisolutions.tv:8080/fredf/fredf/22537
-#EXTINF:-1,US | ESPN 2 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15950
-#EXTINF:-1,US | ESPN HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15951
-#EXTINF:-1,US | ESPN NEWS
-http://live.kodisolutions.tv:8080/fredf/fredf/23213
-#EXTINF:-1,US | ESPN News HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15952
-#EXTINF:-1,US | ESPN U
-http://live.kodisolutions.tv:8080/fredf/fredf/22536
-#EXTINF:-1,US | ESPN U HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15949
+<item>
+<title>OUTDOOR CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23273</link>
+<item>
+<title>PURSUIT CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23262</link>
+<item>
+<title>SPORTSMAN CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/23204</link>
 
-#EXTINF:-1,US | Fox Sports 1
-http://live.kodisolutions.tv:8080/fredf/fredf/22526
-#EXTINF:-1,US | Fox Sports 1 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15948
-#EXTINF:-1,US | Fox Sports 2
-http://live.kodisolutions.tv:8080/fredf/fredf/22525
-#EXTINF:-1,US | Fox Sports 2 HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15947
 
-#EXTINF:-1,US | MLB Network
-http://live.kodisolutions.tv:8080/fredf/fredf/22507
 
-#EXTINF:-1,US | NBC Sports Network
-http://live.kodisolutions.tv:8080/fredf/fredf/22499
-#EXTINF:-1,US | NBC Sports Network HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15942
-#EXTINF:-1,US | NBCSN
-http://live.kodisolutions.tv:8080/fredf/fredf/10054
 
-#EXTINF:-1,US | NFL Channel HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15945
-#EXTINF:-1,US | NFL Network HD
-http://live.kodisolutions.tv:8080/fredf/fredf/22491
-#EXTINF:-1,US | NFL Network SD
-http://live.kodisolutions.tv:8080/fredf/fredf/22490
-#EXTINF:-1,US | NFL RED ZONE
-http://live.kodisolutions.tv:8080/fredf/fredf/23279
-#EXTINF:-1,US | NHL Network HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15941
