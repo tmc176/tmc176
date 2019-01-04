@@ -105,7 +105,55 @@
 <item>
 <title>Wild TV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26048</link>
+#EXTINF:-1,US | SPORTSMAN CHANNEL
+http://live.kodisolutions.tv:8080/fredf/fredf/23204
+#EXTINF:-1,US | PURSUIT CHANNEL
+http://live.kodisolutions.tv:8080/fredf/fredf/23262
+#EXTINF:-1,US | OUTDOOR CHANNEL
+http://live.kodisolutions.tv:8080/fredf/fredf/23273
+#EXTINF:-1,US | CBS Sports Network HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15944
+#EXTINF:-1,US | ESPN 2
+http://live.kodisolutions.tv:8080/fredf/fredf/22537
+#EXTINF:-1,US | ESPN 2 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15950
+#EXTINF:-1,US | ESPN HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15951
+#EXTINF:-1,US | ESPN NEWS
+http://live.kodisolutions.tv:8080/fredf/fredf/23213
+#EXTINF:-1,US | ESPN News HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15952
+#EXTINF:-1,US | ESPN U
+http://live.kodisolutions.tv:8080/fredf/fredf/22536
+#EXTINF:-1,US | ESPN U HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15949
 
+#EXTINF:-1,US | Fox Sports 1
+http://live.kodisolutions.tv:8080/fredf/fredf/22526
+#EXTINF:-1,US | Fox Sports 1 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15948
+#EXTINF:-1,US | Fox Sports 2
+http://live.kodisolutions.tv:8080/fredf/fredf/22525
+#EXTINF:-1,US | Fox Sports 2 HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15947
 
+#EXTINF:-1,US | MLB Network
+http://live.kodisolutions.tv:8080/fredf/fredf/22507
 
+#EXTINF:-1,US | NBC Sports Network
+http://live.kodisolutions.tv:8080/fredf/fredf/22499
+#EXTINF:-1,US | NBC Sports Network HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15942
+#EXTINF:-1,US | NBCSN
+http://live.kodisolutions.tv:8080/fredf/fredf/10054
 
+#EXTINF:-1,US | NFL Channel HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15945
+#EXTINF:-1,US | NFL Network HD
+http://live.kodisolutions.tv:8080/fredf/fredf/22491
+#EXTINF:-1,US | NFL Network SD
+http://live.kodisolutions.tv:8080/fredf/fredf/22490
+#EXTINF:-1,US | NFL RED ZONE
+http://live.kodisolutions.tv:8080/fredf/fredf/23279
+#EXTINF:-1,US | NHL Network HD
+http://live.kodisolutions.tv:8080/fredf/fredf/15941
