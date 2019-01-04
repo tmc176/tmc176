@@ -1,22 +1,22 @@
 <streamingInfos>
 
 <item>
-<title>CINEMA 01 | The Equalizer 2</title>
+<title>CINEMA 01 |PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41531</link>
 <item>
-<title>CINEMA 02 | MILE 22</title>
+<title>CINEMA 02 |PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41530</link>
 <item>
-<title>CINEMA 03 |Revenge</title>
+<title>CINEMA 03 |PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41529</link>
 <item>
 <title>CINEMA 04 | PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41528</link>
 <item>
-<title>CINEMA 05 |Incredibles 2</title>
+<title>CINEMA 05 |PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41527</link>
 <item>
-<title>CINEMA 06 |The Miracle Season</title>
+<title>CINEMA 06 |PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41536</link>
 <item>
 <title>CINEMA 07 | PPV</title>
@@ -45,5 +45,51 @@
 <item>
 <title>CINEMA 15 | PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41537</link>
+<item>
+<title>SILVER SCREEN CLASSICS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25999</link>
+<item>
+<title>SUPER CHANNEL FUSE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25959</link>
+<item>
+<title>SUPER CHANNEL HEART & HOME</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25958</link>
+<item>
+<title>SUPER CHANNEL VAULT</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25986</link>
+<item>
+<title>SUPER ECRAN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25985</link>
+<item>
+<title>SUPER ECRAN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25984</link>
+<item>
+<title>SUPER ECRAN 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25983</link>
+<item>
+<title>SUPER ECRAN 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25982</link>
+<item>
+<title>TCM</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25981</link>
+<item>
+<title>TMN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26037</link>
+<item>
+<title>TMN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26036</link>
+<item>
+<title>TMN 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26035</link>
+<item>
+<title>TMN 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26034</link>
+<item>
+<title>ENCORE 1 EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26105</link>
+<item>
+<title>ENCORE 2 EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26104</link>
+
 
 
