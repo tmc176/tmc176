@@ -45,90 +45,16 @@
 <item>
 <title>CINEMA 15 | PPV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wildsides.xyz:2086/XcYTapnwtu/esuYHLvGxo/41537</link>
-<item>
-<title>SUPER CHANNEL FUSE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25959</link>
-<item>
-<title>SUPER CHANNEL HEART & HOME</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25958</link>
-<item>
-<title>SUPER CHANNEL VAULT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25986</link>
-<item>
-<title>SUPER ECRAN 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25985</link>
-<item>
-<title>SUPER ECRAN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25984</link>
-<item>
-<title>SUPER ECRAN 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25983</link>
-<item>
-<title>SUPER ECRAN 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25982</link>
-<item>
-<title>TCM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/25981</link>
-<item>
-<title>TMN 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26037</link>
-<item>
-<title>TMN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26036</link>
-<item>
-<title>TMN 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26035</link>
-<item>
-<title>TMN 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26034</link>
-<item>
-<title>ENCORE 1 EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26105</link>
-<item>
-<title>ENCORE 2 EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.kodisolutions.tv:8080/fredf/fredf/26104</link>
 
-#EXTINF:-1,US | CINEMAX ACTION MAX EAST
-http://live.kodisolutions.tv:8080/fredf/fredf/23346
-#EXTINF:-1,US | CINEMAX EAST
-http://live.kodisolutions.tv:8080/fredf/fredf/23345
-#EXTINF:-1,US | CINEMAX OUTER MAX
-http://live.kodisolutions.tv:8080/fredf/fredf/23344
-#EXTINF:-1,US | CINEMAX THRILLERMAX HD
-http://live.kodisolutions.tv:8080/fredf/fredf/23343
-#EXTINF:-1,US | CINEMAX MORE MAXX
-http://live.kodisolutions.tv:8080/fredf/fredf/23342
-#EXTINF:-1,US | Cinemax
-http://live.kodisolutions.tv:8080/fredf/fredf/22557
-#EXTINF:-1,US | Cinemax HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15921
-#EXTINF:-1,US | HBO
-http://live.kodisolutions.tv:8080/fredf/fredf/15913
-#EXTINF:-1,US | HBO COMEDY HD
-http://live.kodisolutions.tv:8080/fredf/fredf/23303
-#EXTINF:-1,US | HBO Comedy
-http://live.kodisolutions.tv:8080/fredf/fredf/15916
-#EXTINF:-1,US | HBO EAST HD
-http://live.kodisolutions.tv:8080/fredf/fredf/23302
-#EXTINF:-1,US | HBO FAMILY HD
-http://live.kodisolutions.tv:8080/fredf/fredf/23301
-#EXTINF:-1,US | HBO Family
-http://live.kodisolutions.tv:8080/fredf/fredf/22516
-#EXTINF:-1,US | HBO HD
-http://live.kodisolutions.tv:8080/fredf/fredf/23300
-#EXTINF:-1,US | HBO Signature
-http://live.kodisolutions.tv:8080/fredf/fredf/15915
-#EXTINF:-1,US | HBO ZONE HD
-http://live.kodisolutions.tv:8080/fredf/fredf/23299
-#EXTINF:-1,US | HBO Zone
-http://live.kodisolutions.tv:8080/fredf/fredf/15914
-#EXTINF:-1,US | HEROS & ICONS
-http://live.kodisolutions.tv:8080/fredf/fredf/23225
 
-#EXTINF:-1,US | LIFETIME MOVIES
-http://live.kodisolutions.tv:8080/fredf/fredf/23292
-#EXTINF:-1,US | Hallmark Movies
-http://live.kodisolutions.tv:8080/fredf/fredf/22518
+#EXTINF:-1,Us- CINEMAX HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10431
 
-#EXTINF:-1,US | MoreMax HD
-http://live.kodisolutions.tv:8080/fredf/fredf/15910
+#EXTINF:-1,Us- HBO Comedy HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10411
+#EXTINF:-1,Us- HBO Signature
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10410
+#EXTINF:-1,Us- HBO US HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10409
+#EXTINF:-1,Us- HBO ZONE HD
+http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10408
