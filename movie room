@@ -58,3 +58,8 @@ http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10410
 http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10409
 #EXTINF:-1,Us- HBO ZONE HD
 http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10408
+<item>
+<title>Action HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7403</link>
+#EXTINF:-1,CA: ACTION SD
+http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50145
