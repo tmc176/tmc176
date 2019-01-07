@@ -8,71 +8,66 @@
 <link>PLUS IF IT DOESN'T PLAY THE FIRST TIME TRY IT AGAIN</link>
 <item>
 <title>TSN 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/21287</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/2023</link>
 <item>
 <title>TSN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2837</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/2022</link>
 <item>
 <title>TSN 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2836</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/2021</link>
 <item>
 <title>TSN 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2835</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/2020</link>
 <item>
 <title>TSN 5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/2834</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/2019</link>
 <item>
 <title>Fight Network HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7435</link>
 <item>
 <title>NBA TV HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.83.215.140:80/umar@jamtelecom.com/57noZ7a6De/7457</link>
-
-#EXTINF:-1,Us- CBS Sport HD
-http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10433
-#EXTINF:-1,Us- Fox sport 1 HD
-http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10416
-#EXTINF:-1,Us- Fox sport 2 HD
-http://194.88.107.101:6204/prQ8aKxwD2/gxP2nrNcex/10415
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/86</link>
+<item>
+<title>Fox Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/112</link>
+<item>
+<titleFox Sports 2></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/113</link>
+<item>
+<title>Sportsnet 360</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2820</link>
+<item>
+<title>Sportsnet One</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2821</link>
+<item>
+<title>Sportsnet Ontario</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4282</link>
+<item>
+<title>Sportsnet East</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6530</link>
+<item>
+<title>Sportsnet West</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2819</link>
+<item>
+<title>Sportsnet World</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4280</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8925</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 #EXTINF:-1,CA: Sportsnet 360 HD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/21292
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2820
+#EXTINF:-1,CA: Sportsnet One HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2821
 #EXTINF:-1,CA: Sportsnet Ontario HD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/21290
-#EXTINF:-1,CA: Sportsnet West FHD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/21289
-#EXTINF:-1,CA: FIGHT NETWORK FHD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50090
-#EXTINF:-1,CA: TSN 1 FHD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/21287
-#EXTINF:-1,CA: TSN 2 HD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/21286
-#EXTINF:-1,CA: TSN 3 HD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/21285
-#EXTINF:-1,CA: TSN 4 FHD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/21284
-#EXTINF:-1,CA: TSN 5 FHD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/21283
-#EXTINF:-1,CA: Sportsnet 360
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50153
-#EXTINF:-1,CA: SPORTSNET 360  FHD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50045
-#EXTINF:-1,CA: SportsNet EAST
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50044
-#EXTINF:-1,CA: SportsNet One
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50152
-#EXTINF:-1,CA: Sportsnet One FHD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50043
-#EXTINF:-1,CA: SPORTSNET ONTARIO FHD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50042
-#EXTINF:-1,CA: SPORTSNET PACIFIC  HD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50041
-#EXTINF:-1,CA: SportsNet WEST  HD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50040
-#EXTINF:-1,CA: Sportsnet World
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50151
-#EXTINF:-1,CA: SportsNet WORLD HD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50039
-#EXTINF:-1,CA: NBA TV FHD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50062
-#EXTINF:-1,CA: World Fishing Network HD
-http://185.165.243.15:8080/Xp9YejhA18/ur9pwJiKfI/50023
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4282
+#EXTINF:-1,CA: Sportsnet East HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6530
+#EXTINF:-1,CA: SportsNet Pacific HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2819
+#EXTINF:-1,CA: Sportsnet West HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4280
+#EXTINF:-1,CA: Sportsnet World HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8925
