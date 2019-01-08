@@ -34,40 +34,19 @@
 <titleFox Sports 2></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/113</link>
 <item>
-<title>Sportsnet 360</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2820</link>
+<title>NHL HD 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/510</link>
 <item>
-<title>Sportsnet One</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2821</link>
-<item>
-<title>Sportsnet Ontario</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4282</link>
-<item>
-<title>Sportsnet East</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6530</link>
-<item>
-<title>Sportsnet West</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2819</link>
-<item>
-<title>Sportsnet World</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4280</link>
-<item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8925</link>
+<title>NHL HD 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/509</link>
 <item>
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
-#EXTINF:-1,CA: Sportsnet 360 HD
-http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2820
-#EXTINF:-1,CA: Sportsnet One HD
-http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2821
-#EXTINF:-1,CA: Sportsnet Ontario HD
-http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4282
-#EXTINF:-1,CA: Sportsnet East HD
-http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6530
-#EXTINF:-1,CA: SportsNet Pacific HD
-http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2819
-#EXTINF:-1,CA: Sportsnet West HD
-http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4280
-#EXTINF:-1,CA: Sportsnet World HD
-http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8925
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+
+#EXTINF:0,NHL HD 1
+http://unlockyourtv.com:8000/billy/billy/509
+#EXTINF:0,NHL HD 2
+http://unlockyourtv.com:8000/billy/billy/510
