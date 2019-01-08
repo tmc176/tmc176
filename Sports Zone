@@ -46,7 +46,182 @@
 <title></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
-#EXTINF:0,NHL HD 1
-http://unlockyourtv.com:8000/billy/billy/509
-#EXTINF:0,NHL HD 2
-http://unlockyourtv.com:8000/billy/billy/510
+
+#EXTINF:-1,PPV: (Live Events Only)
+http://109.236.94.191:8000/Roberts/Roberts/2220
+#EXTINF:-1,UFC Fight Pass 2
+http://109.236.94.191:8000/Roberts/Roberts/2221
+#EXTINF:-1,PPV: (Only During Events)
+http://109.236.94.191:8000/Roberts/Roberts/2222
+#EXTINF:-1,UFC TV
+http://109.236.94.191:8000/Roberts/Roberts/2223
+#EXTINF:-1,PPV: (Only During Live Events)
+http://109.236.94.191:8000/Roberts/Roberts/2224
+#EXTINF:-1,Fox Sports 1
+http://109.236.94.191:8000/Roberts/Roberts/893
+#EXTINF:-1,Fox Sports 2
+http://109.236.94.191:8000/Roberts/Roberts/894
+#EXTINF:-1,FOX Collage Sports Atlantic
+http://109.236.94.191:8000/Roberts/Roberts/1007
+#EXTINF:-1,FOX Collage Sports Central
+http://109.236.94.191:8000/Roberts/Roberts/1008
+#EXTINF:-1,FOX Collage Sports Pacific
+http://109.236.94.191:8000/Roberts/Roberts/1009
+
+
+#EXTINF:-1,MLB Network
+http://109.236.94.191:8000/Roberts/Roberts/327
+#EXTINF:-1,NBA TV
+http://109.236.94.191:8000/Roberts/Roberts/1426
+#EXTINF:-1,NBC Golf
+http://109.236.94.191:8000/Roberts/Roberts/111
+#EXTINF:-1,NBC Sports Network
+http://109.236.94.191:8000/Roberts/Roberts/986
+
+#EXTINF:-1,NFL Network
+http://109.236.94.191:8000/Roberts/Roberts/1082
+#EXTINF:-1,Outdoor Channel HD
+http://109.236.94.191:8000/Roberts/Roberts/1609
+
+#EXTINF:-1,TSN 1 HD
+http://109.236.94.191:8000/Roberts/Roberts/119
+#EXTINF:-1,TSN 2 HD
+http://109.236.94.191:8000/Roberts/Roberts/1083
+#EXTINF:-1,TSN 3 HD
+http://109.236.94.191:8000/Roberts/Roberts/1084
+#EXTINF:-1,TSN 4 HD
+http://109.236.94.191:8000/Roberts/Roberts/1085
+#EXTINF:-1,TSN 5 HD
+http://109.236.94.191:8000/Roberts/Roberts/115
+
+#EXTINF:-1,Sports Net 360 HD
+http://109.236.94.191:8000/Roberts/Roberts/1094
+#EXTINF:-1,Sports Net Pacific
+http://109.236.94.191:8000/Roberts/Roberts/1097
+#EXTINF:-1,WWE Network HD
+http://109.236.94.191:8000/Roberts/Roberts/602
+
+#EXTINF:-1,NHL HD 1
+http://109.236.94.191:8000/Roberts/Roberts/509
+#EXTINF:-1,NHL HD 2
+http://109.236.94.191:8000/Roberts/Roberts/510
+#EXTINF:-1,NHL HD 3
+http://109.236.94.191:8000/Roberts/Roberts/511
+#EXTINF:-1,NHL HD 4
+http://109.236.94.191:8000/Roberts/Roberts/512
+#EXTINF:-1,NHL HD 5
+http://109.236.94.191:8000/Roberts/Roberts/513
+#EXTINF:-1,NHL HD 6
+http://109.236.94.191:8000/Roberts/Roberts/514
+#EXTINF:-1,NHL HD 7
+http://109.236.94.191:8000/Roberts/Roberts/515
+#EXTINF:-1,NHL HD 8
+http://109.236.94.191:8000/Roberts/Roberts/516
+#EXTINF:-1,NHL HD 9
+http://109.236.94.191:8000/Roberts/Roberts/517
+#EXTINF:-1,NHL HD 10
+http://109.236.94.191:8000/Roberts/Roberts/518
+#EXTINF:-1,NHL HD 11
+http://109.236.94.191:8000/Roberts/Roberts/519
+#EXTINF:-1,NHL HD 12
+http://109.236.94.191:8000/Roberts/Roberts/520
+#EXTINF:-1,NHL HD 13
+http://109.236.94.191:8000/Roberts/Roberts/521
+
+#EXTINF:-1,NBA 750
+http://109.236.94.191:8000/Roberts/Roberts/522
+#EXTINF:-1,NBA 751
+http://109.236.94.191:8000/Roberts/Roberts/523
+#EXTINF:-1,NBA 752
+http://109.236.94.191:8000/Roberts/Roberts/524
+#EXTINF:-1,NBA 753
+http://109.236.94.191:8000/Roberts/Roberts/525
+#EXTINF:-1,NBA 754
+http://109.236.94.191:8000/Roberts/Roberts/526
+#EXTINF:-1,NBA 755
+http://109.236.94.191:8000/Roberts/Roberts/527
+#EXTINF:-1,NBA 756
+http://109.236.94.191:8000/Roberts/Roberts/528
+#EXTINF:-1,NBA 757
+http://109.236.94.191:8000/Roberts/Roberts/529
+#EXTINF:-1,NBA 758
+http://109.236.94.191:8000/Roberts/Roberts/530
+#EXTINF:-1,NBA 759
+http://109.236.94.191:8000/Roberts/Roberts/531
+#EXTINF:-1,NBA 760
+http://109.236.94.191:8000/Roberts/Roberts/532
+#EXTINF:-1,NBA 761
+http://109.236.94.191:8000/Roberts/Roberts/533
+#EXTINF:-1,NBA 762
+http://109.236.94.191:8000/Roberts/Roberts/2409
+#EXTINF:-1,NBA 764
+http://109.236.94.191:8000/Roberts/Roberts/2411
+#EXTINF:-1,NBA 765
+http://109.236.94.191:8000/Roberts/Roberts/2412
+#EXTINF:-1,NBA 763
+http://109.236.94.191:8000/Roberts/Roberts/2410
+#EXTINF:-1,NFL 1
+http://109.236.94.191:8000/Roberts/Roberts/2162
+#EXTINF:-1,NFL 2
+http://109.236.94.191:8000/Roberts/Roberts/2163
+#EXTINF:-1,NFL 3
+http://109.236.94.191:8000/Roberts/Roberts/2164
+#EXTINF:-1,NFL 4
+http://109.236.94.191:8000/Roberts/Roberts/2165
+#EXTINF:-1,NFL 5
+http://109.236.94.191:8000/Roberts/Roberts/2167
+#EXTINF:-1,NFL 6
+http://109.236.94.191:8000/Roberts/Roberts/2168
+#EXTINF:-1,NFL 7
+http://109.236.94.191:8000/Roberts/Roberts/2169
+#EXTINF:-1,NFL 8
+http://109.236.94.191:8000/Roberts/Roberts/2170
+#EXTINF:-1,NFL 9
+http://109.236.94.191:8000/Roberts/Roberts/2171
+#EXTINF:-1,NFL 10 Broncos Vs Chargers
+http://109.236.94.191:8000/Roberts/Roberts/2172
+#EXTINF:-1,NFL 11 Eagles at Saints
+http://109.236.94.191:8000/Roberts/Roberts/2173
+#EXTINF:-1,NFL 12 Vikings at Bears
+http://109.236.94.191:8000/Roberts/Roberts/2174
+#EXTINF:-1,NFL 13 Chiefs at Rams
+http://109.236.94.191:8000/Roberts/Roberts/2175
+#EXTINF:-1,NFL 14 Giaints at 49ers
+http://109.236.94.191:8000/Roberts/Roberts/2176
+#EXTINF:-1,NFL Monday Night Football
+http://109.236.94.191:8000/Roberts/Roberts/2177
+#EXTINF:-1,NFL RedZone 2
+http://109.236.94.191:8000/Roberts/Roberts/2260
+#EXTINF:-1,MLB 721/722
+http://109.236.94.191:8000/Roberts/Roberts/2248
+#EXTINF:-1,MLB 723/724
+http://109.236.94.191:8000/Roberts/Roberts/2249
+#EXTINF:-1,MLB 725
+http://109.236.94.191:8000/Roberts/Roberts/2250
+#EXTINF:-1,MLB 727
+http://109.236.94.191:8000/Roberts/Roberts/2251
+#EXTINF:-1,MLB 729
+http://109.236.94.191:8000/Roberts/Roberts/2252
+#EXTINF:-1,MLB 731
+http://109.236.94.191:8000/Roberts/Roberts/2253
+#EXTINF:-1,MLB 733
+http://109.236.94.191:8000/Roberts/Roberts/2254
+#EXTINF:-1,MLB 735
+http://109.236.94.191:8000/Roberts/Roberts/2255
+#EXTINF:-1,MLB 737
+http://109.236.94.191:8000/Roberts/Roberts/2256
+#EXTINF:-1,MLB 739
+http://109.236.94.191:8000/Roberts/Roberts/2257
+#EXTINF:-1,MLB 743
+http://109.236.94.191:8000/Roberts/Roberts/2258
+
+#EXTINF:-1,PPV: (Live Events Only)
+http://109.236.94.191:8000/Roberts/Roberts/2220
+#EXTINF:-1,UFC Fight Pass 2
+http://109.236.94.191:8000/Roberts/Roberts/2221
+#EXTINF:-1,PPV: (Only During Events)
+http://109.236.94.191:8000/Roberts/Roberts/2222
+#EXTINF:-1,UFC TV
+http://109.236.94.191:8000/Roberts/Roberts/2223
+#EXTINF:-1,PPV: (Only During Live Events)
+http://109.236.94.191:8000/Roberts/Roberts/2224
