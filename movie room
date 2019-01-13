@@ -121,3 +121,14 @@
 <title>TBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
+
+#EXTINF:0,Cinemax Action Max HD
+http://unlockyourtv.com:8000/billy/billy/580
+#EXTINF:0,Cinemax East
+http://unlockyourtv.com:8000/billy/billy/2068
+#EXTINF:0,Cinemax West
+http://unlockyourtv.com:8000/billy/billy/2149
+#EXTINF:0,CINEMAX MORE MAX
+http://unlockyourtv.com:8000/billy/billy/1163
+#EXTINF:0,CINEMAX OUTER MAX
+http://unlockyourtv.com:8000/billy/billy/1158
