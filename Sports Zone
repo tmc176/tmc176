@@ -32,40 +32,43 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10632</link>
 <item>
 <title>TSN 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/119</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10636</link>
 <item>
 <title>TSN 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1083</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10415</link>
 <item>
 <title>TSN 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1085</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10634</link>
 <item>
 <title>TSN 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1085</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10633</link>
 <item>
 <title>TSN 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/115</link>
-<item>
-<title>UFC TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2223</link>
-<item>
-<title>UFC Fight Pass 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2221</link>
-<item>
-<title>NBA TV HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.80.210:8000/mahmut29/29mahmut/86</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10632</link>
 <item>
 <title>Fox Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/893</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10416</link>
 <item>
 <title>Fox Sports 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10416</link>
 <item>
 <title>Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/894</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10415</link>
 <item>
 <title>Fox Sports 2></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10415</link>
+<item>
+<title>NBC Sports Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10398</link>
+<item>
+<title>NBC Sports Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10398</link>
+<item>
+<title>CBS Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10433</link>
+<item>
+<title>CBS Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10433</link>
 <item>
 <title>ESPN</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/594</link>
@@ -73,32 +76,17 @@
 <title>ESPN 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/597</link>
 <item>
-<title>FOX Collage Sports Atlantic</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1007</link>
+<title>UFC TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2223</link>
 <item>
-<title>FOX Collage Sports Central</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1008</link>
+<title>UFC Fight Pass 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2221</link>
 <item>
-<title>FOX Collage Sports Pacific</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1009</link>
+<title>WWE Network HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10376</link>
 <item>
 <title>NBC Golf</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/111</link>
-<item>
-<title>NBC Sports Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/986</link>
-<item>
-<title>NBC Sports Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10398</link>
-<item>
-<title>CBS Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10433</link>
-<item>
-<title>WWE Network HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/602</link>
-<item>
-<title>NHL: TORONTO MAPLE LEAFS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2404</link>
 <item>
 <title>NHL HD 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/510</link>
@@ -143,7 +131,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2165</link>
 <item>
 <title>NBA TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/1426</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10400</link>
 <item>
 <title>NBA 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/522</link>
@@ -171,5 +159,3 @@
 <item>
 <title>MLB 4</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2251</link>
-
-
