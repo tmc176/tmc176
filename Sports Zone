@@ -166,5 +166,16 @@
 <title>MLB 4</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2251</link>
 
-
+#EXTINF:-1,USA-CBS Sports Network 1080P (V)
+http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99567
+#EXTINF:-1,USA-ESPN 1080P (V)
+http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99577
+#EXTINF:-1,USA-ESPN2 1080P (V)
+http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99547
+#EXTINF:-1,USA-Fox Sports 1 1080P (V)
+http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99542
+#EXTINF:-1,USA-Fox Sports 2 1080P (V)
+http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99541
+#EXTINF:-1,USA-NBCSN 1080P (V)
+http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99492
 
