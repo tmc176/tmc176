@@ -47,13 +47,13 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/ahannan/ahannan/10632</link>
 <item>
 <title>Fox Sports 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/99542</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99542</link>
 <item>
 <title>Fox Sports 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10416</link>
 <item>
 <title>Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/99541</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99541</link>
 <item>
 <title>Fox Sports 2></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10415</link>
@@ -71,10 +71,10 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99567</link>
 <item>
 <title>ESPN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/99577</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99577</link>
 <item>
 <title>ESPN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/99547</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99547</link>
 <item>
 <title>ESPN U</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72609</link>
@@ -165,17 +165,3 @@
 <item>
 <title>MLB 4</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://unlockyourtv.com:8000/billy/billy/2251</link>
-
-#EXTINF:-1,USA-CBS Sports Network 1080P (V)
-http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99567
-#EXTINF:-1,USA-ESPN 1080P (V)
-http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99577
-#EXTINF:-1,USA-ESPN2 1080P (V)
-http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99547
-#EXTINF:-1,USA-Fox Sports 1 1080P (V)
-http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99542
-#EXTINF:-1,USA-Fox Sports 2 1080P (V)
-http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99541
-#EXTINF:-1,USA-NBCSN 1080P (V)
-http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99492
-
