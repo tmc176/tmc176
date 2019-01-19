@@ -10,6 +10,12 @@
 <title>CHANNELS STATIS:DOWN WORKING ON IT</title>
 <link>http</link>
 <item>
+<title>NHL 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/137794</link>
+<item>
+<title>NHL 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/148633</link>
+<item>
 <title>Outdoor Channel HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/72624</link>
 <item>
@@ -108,4 +114,26 @@
 <item>
 <title>MLB Network</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/72647</link>
+<item>
+<title>NHL 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/137794</link>
+<item>
+<title>NHL 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/148633</link>
+#EXTINF:-1,US: CBS Sports Network
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/155524
+#EXTINF:-1,US: ESPN 2 FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/60410
+#EXTINF:-1,US: ESPN FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/74887
 
+#EXTINF:-1,US: FOX SPORTS 1 FHD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/98284
+#EXTINF:-1,US: FOX SPORTS 2 NETWORK
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/157676
+#EXTINF:-1,US: Fox Sports College Atlantic HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/160004
+#EXTINF:-1,US: Fox Sports College Central HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/160005
+#EXTINF:-1,US: Fox Sports College Pacific HD
+http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/91533
