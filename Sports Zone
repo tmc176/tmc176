@@ -118,4 +118,13 @@
 <title>THE SPORTSMAN CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/108925</link>
 
-
+#EXTINF:-1,USA: NHL NETWORK HD
+http://xxultraxx.com:80/tvlink531/205677/20756
+#EXTINF:-1,USA: Fox Sports 2
+http://xxultraxx.com:80/tvlink531/205677/7641
+#EXTINF:-1,USA: NBC Golf
+http://xxultraxx.com:80/tvlink531/205677/7629
+#EXTINF:-1,USA: NFL Network
+http://xxultraxx.com:80/tvlink531/205677/7643
+#EXTINF:-1,USA: MLB NETWORK HD
+http://xxultraxx.com:80/tvlink531/205677/20783
