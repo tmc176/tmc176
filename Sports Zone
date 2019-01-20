@@ -118,6 +118,17 @@
 <title>THE SPORTSMAN CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/108925</link>
 
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="Sport",TSN 1
+http://cms.bossna-caffe.com:80/live?channelId=1214&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="Sport",TSN 2
+http://cms.bossna-caffe.com:80/live?channelId=1215&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="" group-title="Sport",TSN 3
+http://cms.bossna-caffe.com:80/live?channelId=1216&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="" group-title="Sport",TSN 4
+http://cms.bossna-caffe.com:80/live?channelId=1217&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="" group-title="Sport",TSN 5
+http://cms.bossna-caffe.com:80/live?channelId=1218&deviceUser=Jasmina&devicePass=Jasmina&uid=36320
+
 #EXTINF:-1,USA: NHL NETWORK HD
 http://xxultraxx.com:80/tvlink531/205677/20756
 #EXTINF:-1,USA: Fox Sports 2
