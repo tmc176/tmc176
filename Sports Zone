@@ -62,7 +62,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10416</link>
 <item>
 <title>Fox Sports 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99541</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/tvlink531/205677/7641</link>
 <item>
 <title>Fox Sports 2></title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://194.88.107.101:6204/lava1/lava1/10415</link>
@@ -98,13 +98,13 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/99498</link>
 <item>
 <title>NBC Golf</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://109.236.94.191:8000/Roberts/Roberts/111</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/tvlink531/205677/7629</link>
 <item>
 <title>NHL NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/JaimeLuisDurango/wXuMvUEh3b/72649</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/tvlink531/205677/20756</link>
 <item>
 <title>NFL Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/92559</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/tvlink531/205677/7643</link>
 <item>
 <title>NFL Now</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/92560</link>
@@ -113,7 +113,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/72568</link>
 <item>
 <title>MLB Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.latintvweb.com:25461/ramond878/zHhzXY5zEz/72647</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xxultraxx.com:80/tvlink531/205677/20783</link>
 <item>
 <title>THE SPORTSMAN CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lioniptv.live:8080/Ghtuv/cMWLwFCHH8/108925</link>
@@ -138,4 +138,5 @@ http://xxultraxx.com:80/tvlink531/205677/7629
 #EXTINF:-1,USA: NFL Network
 http://xxultraxx.com:80/tvlink531/205677/7643
 #EXTINF:-1,USA: MLB NETWORK HD
+
 http://xxultraxx.com:80/tvlink531/205677/20783
