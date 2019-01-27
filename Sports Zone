@@ -13,6 +13,9 @@
 <title>CHANNELS STATIS:DOWN WORKING ON IT</title>
 <link>http</link>
 <item>
+<title>SportsNet-One-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.drsharing.com:50100/www.drsharing.com/00201012887718dr/1281</link>
+<item>
 <title>TSN 1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://extremo.dyndns.ws:25461/Mundo/Mundo2/8187</link>
 <item>
@@ -39,5 +42,21 @@
 <item>
 <title>MLB NETWORK</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8</link>
-
-
+<item>
+<title>Fox-Sports-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.drsharing.com:50100/www.drsharing.com/00201012887718dr/1288</link>
+<item>
+<title>Fox-Sports-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.drsharing.com:50100/www.drsharing.com/00201012887718dr/1323</link>
+<item>
+<title>CBS Sport HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/said/123/10433</link>
+<item>
+<title>NFL Now</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8</link>
+<item>
+<title>WWE HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/said/123/10376</link>
+<item>
+<title>NBA HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/said/123/10400</link>
