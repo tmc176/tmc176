@@ -1,128 +1,49 @@
-<streamingInfos>
+#EXTM3U
 
-<item>
-<title>WHEN YOU CLICK ONCE WAIT FOR THE BOX TO COME UP</title>
-<link>http</link>
-<item>
-<title>DON'T WORK FIRST TIME TRY AGAIN</title>
-<link>http</link>
-<item>
-<title>CHANNELS STATIS:DOWN WORKING ON IT</title>
-<link>http</link>
-<item>
-<title>CHANNELS STATIS:DOWN WORKING ON IT</title>
-<link>http</link>
-<item>
-<title>SportsNet-One-HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/cecilia/cecilia/20721</link>
-<item>
-<title>TSN 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/cecilia/cecilia/31526</link>
-<item>
-<title>TSN 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/cecilia/cecilia/22576</link>
-<item>
-<title>TSN 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/cecilia/cecilia/35127</link>
-<item>
-<title>TSN 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/cecilia/cecilia/13888</link>
-<item>
-<title>TSN 5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/cecilia/cecilia/13889</link>
-<item>
-<title>NBC SPORT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://extremo.dyndns.ws:25461/Mundo/Mundo2/2800</link>
-<item>
-<title>ESPN 1 USA HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://80.80.160.168/live/6/2500000/live.m3u8</link>
-<item>
-<title>ESPN 2 USA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8</link>
-<item>
-<title>MLB NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8</link>
-<item>
-<title>Fox-Sports-1-HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.drsharing.com:50100/www.drsharing.com/00201012887718dr/1288</link>
-<item>
-<title>Fox-Sports-2-HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.drsharing.com:50100/www.drsharing.com/00201012887718dr/1323</link>
-<item>
-<title>CBS Sport HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/said/123/10433</link>
-<item>
-<title>NFL Now</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8</link>
-<item>
-<title>WWE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/said/123/10376</link>
-<item>
-<title>NBA HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smart-hdip.com:6204/said/123/10400</link>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="USA",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
-#EXTINF:-1,SP | TSN 1
-http://p5.giffy.be:8080/cecilia/cecilia/31526
-#EXTINF:-1,SP | TSN 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/94238
-#EXTINF:-1,SP | TSN 2
-http://p5.giffy.be:8080/cecilia/cecilia/22576
-#EXTINF:-1,SP | TSN 2 HD
-http://p5.giffy.be:8080/cecilia/cecilia/94237
-#EXTINF:-1,SP | TSN 3
-http://p5.giffy.be:8080/cecilia/cecilia/35127
-#EXTINF:-1,SP | TSN 3 HD
-http://p5.giffy.be:8080/cecilia/cecilia/94236
-#EXTINF:-1,SP | TSN 4 HD
-http://p5.giffy.be:8080/cecilia/cecilia/13888
-#EXTINF:-1,SP | TSN 4 HD*
-http://p5.giffy.be:8080/cecilia/cecilia/94235
-#EXTINF:-1,SP | TSN 5 HD
-http://p5.giffy.be:8080/cecilia/cecilia/13889
-#EXTINF:-1,SP | TSN 5 HD*
-http://p5.giffy.be:8080/cecilia/cecilia/94234
-#EXTINF:-1,SP | SPORTSNET 360.
-http://p5.giffy.be:8080/cecilia/cecilia/14215
-#EXTINF:-1,SP | SPORTSNET EAST
-http://p5.giffy.be:8080/cecilia/cecilia/22575
-#EXTINF:-1,SP | SPORTSNET EAST HD
-http://p5.giffy.be:8080/cecilia/cecilia/94242
-#EXTINF:-1,SP | SPORTSNET ONE
-http://p5.giffy.be:8080/cecilia/cecilia/20721
-#EXTINF:-1,SP | SPORTSNET ONE HD
-http://p5.giffy.be:8080/cecilia/cecilia/94241
-#EXTINF:-1,SP | SPORTSNET ONTARIO
-http://p5.giffy.be:8080/cecilia/cecilia/53660
-#EXTINF:-1,SP | SPORTSNET ONTARIO HD
-http://p5.giffy.be:8080/cecilia/cecilia/94240
-#EXTINF:-1,SP | SPORTSNET PACIFIC
-http://p5.giffy.be:8080/cecilia/cecilia/21526
-#EXTINF:-1,SP | SPORTSNET WEST
-http://p5.giffy.be:8080/cecilia/cecilia/21527
-#EXTINF:-1,SP | SPORTSNET WORLD
-http://p5.giffy.be:8080/cecilia/cecilia/13884
-#EXTINF:-1,SP | FOX SPORTS 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/13878
-#EXTINF:-1,SP | FOX SPORTS 2 HD
-http://p5.giffy.be:8080/cecilia/cecilia/13879
-#EXTINF:-1,SP | LEAFS TV
-http://p5.giffy.be:8080/cecilia/cecilia/20717
-#EXTINF:-1,SP | NBA TV HD
-http://p5.giffy.be:8080/cecilia/cecilia/36568
-#EXTINF:-1,SP | NFL NETWORK
-http://p5.giffy.be:8080/cecilia/cecilia/76281
-#EXTINF:-1,SP | NFL NETWORK (3)
-http://p5.giffy.be:8080/cecilia/cecilia/78907
-#EXTINF:-1,SP | TENNIS HD
-http://p5.giffy.be:8080/cecilia/cecilia/27825
-#EXTINF:-1,BR |  FOX SPORTS
-http://p5.giffy.be:8080/cecilia/cecilia/80451
-#EXTINF:-1,BR |  FOX SPORTS (2)
-http://p5.giffy.be:8080/cecilia/cecilia/80448
-#EXTINF:-1,BR |  FOX SPORTS 2
-http://p5.giffy.be:8080/cecilia/cecilia/80450
-#EXTINF:-1,BR |  FOX SPORTS 2 (2)
-http://p5.giffy.be:8080/cecilia/cecilia/80449
-#EXTINF:-1,UFC 24/7
-http://p5.giffy.be:8080/cecilia/cecilia/93080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPTTAqQ.png" group-title="USA",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="24/7 PLUTO TV",Impact Wrestling
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="CANADA",Hard Knocks Fighting
+https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b0f2237a6ff45d16c3f9/featuredImage.jpg" group-title="24/7 PLUTO TV",Fight
+http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="USA",ESPN 2 (Opt-1)
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="USA",ESPN 2 (Opt-3)
+http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bO6iyBk.png" group-title="USA",NBC Golf (Opt-1)
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="USA",Red Bull TV (Opt-1)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/Sports4life.info/wp-content/uploads/2017/06/vsuvvu1433963716.png" group-title="UK",BT Sport 2
+http://185-8-178-139.livesports24.online/btsportsport2.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="UK",Fox Sports
+http://45.58.62.92:8080
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="24/7 PLUTO TV",Fox Sports
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" group-title="24/7 PLUTO TV",Glory Kickboxing
+http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
