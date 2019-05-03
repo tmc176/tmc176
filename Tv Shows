@@ -1,7 +1,49 @@
-#EXTM3U
+<streamingInfos>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Dk3oPCs.png" group-title="CANADA",World Fishing Network
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+<item>
+<title>CBS SPORTS NET</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24098</link>
+<item>
+<title>NBC SPORTS Net HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24097</link>
+<item>
+<title>FOX SPORT 1HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24107</link>
+<item>
+<title>FOX SPORT 2HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24106</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<item>
+<title></title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c393cad2de254456f7ef8c2/featuredImage.jpg" group-title="24/7 PLUTO TV",Man Up: Outdoors
-https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70
+
+
+#EXTINF:-1,|USA| FOX SPORT 1HD
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24107
+#EXTINF:-1,|USA| FOX SPORT 2HD
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24106
+#EXTINF:-1,|USA| ESPN
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24105
+#EXTINF:-1,|USA| ESPN 2HD
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24104
+#EXTINF:-1,|USA| ESPN U HD
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24101
+#EXTINF:-1,|USA| WWE HD
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24093
+#EXTINF:-1,|USA| NHL 1 MATCH EVENT
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24078
+#EXTINF:-1,|USA| MLB HD
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24092
+#EXTINF:-1,|USA| NBA
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24091
+#EXTINF:-1,|USA| NFL NETWORK HD
+http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24067
