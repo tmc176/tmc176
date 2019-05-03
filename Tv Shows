@@ -13,37 +13,27 @@
 <title>FOX SPORT 2HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24106</link>
 <item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<title>ESPN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24105</link>
 <item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<title>ESPN 2HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24104</link>
 <item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<title>ESPN U HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24101</link>
 <item>
-<title></title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
+<title>WWE HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24093</link>
+<item>
+<title>NHL 1 MATCH EVENT</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24078</link>
+<item>
+<title>MLB HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24092</link>
+<item>
+<title>NBA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24091</link>
+<item>
+<title>NFL NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24067</link>
 
-
-
-#EXTINF:-1,|USA| FOX SPORT 1HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24107
-#EXTINF:-1,|USA| FOX SPORT 2HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24106
-#EXTINF:-1,|USA| ESPN
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24105
-#EXTINF:-1,|USA| ESPN 2HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24104
-#EXTINF:-1,|USA| ESPN U HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24101
-#EXTINF:-1,|USA| WWE HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24093
-#EXTINF:-1,|USA| NHL 1 MATCH EVENT
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24078
-#EXTINF:-1,|USA| MLB HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24092
-#EXTINF:-1,|USA| NBA
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24091
-#EXTINF:-1,|USA| NFL NETWORK HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24067
