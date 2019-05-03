@@ -69,5 +69,8 @@
 <item>
 <title>NFL NETWORK HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24067</link>
-
-
+<item>
+<title>tvg-id="UFC FIGHT PASS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml"</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.112.225:80/live.ts?channelId=366&deviceMac=00:1A:79:BE:3F:4E&uid=3434</link>
+#EXTINF:-1 tvg-id="UFC FIGHT PASS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="PAY PER VIEW EVENTS",UFC FIGHT PASS
+http://163.172.112.225:80/live.ts?channelId=366&deviceMac=00:1A:79:BE:3F:4E&uid=3434
