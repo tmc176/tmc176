@@ -1,6 +1,36 @@
 <streamingInfos>
 
 <item>
+<title>TSN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/1621</link>
+<item>
+<title>TSN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/1622</link>
+<item>
+<title>TSN 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/1623</link>
+<item>
+<title>TSN 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/1624</link>
+<item>
+<title>TSN 5</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/1625</link>
+<item>
+<title>SPORTSNET ONTARIO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/25999</link>
+<item>
+<title>SPORTSNET ONE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/26001</link>
+<item>
+<title>SPORTSNET WORLD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/1619</link>
+<item>
+<title>SPORTSNET 360</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/26000</link>
+<item>
+<title>SPORTSNET PACIFIC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primestreams.tv:826/peterd/peterd/26002</link>
+<item>
 <title>CBS SPORTS NET</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24098</link>
 <item>
@@ -37,23 +67,6 @@
 <title>NFL NETWORK HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24067</link>
 
-#EXTINF:-1,TSN 1
-http://primestreams.tv:826/peterd/peterd/1621
-#EXTINF:-1,TSN 2
-http://primestreams.tv:826/peterd/peterd/1622
-#EXTINF:-1,TSN 3
-http://primestreams.tv:826/peterd/peterd/1623
-#EXTINF:-1,TSN 4
-http://primestreams.tv:826/peterd/peterd/1624
-#EXTINF:-1,TSN 5
-http://primestreams.tv:826/peterd/peterd/1625
-#EXTINF:-1,SPORTSNET WORLD
-http://primestreams.tv:826/peterd/peterd/1619
-#EXTINF:-1,SPORTSNET ONTARIO
-http://primestreams.tv:826/peterd/peterd/25999
-#EXTINF:-1,SPORTSNET 360
-http://primestreams.tv:826/peterd/peterd/26000
-#EXTINF:-1,SPORTSNET ONE
-http://primestreams.tv:826/peterd/peterd/26001
-#EXTINF:-1,SPORTSNET PACIFIC
-http://primestreams.tv:826/peterd/peterd/26002
+
+
+
