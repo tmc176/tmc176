@@ -26,7 +26,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-iptv.link:6969/master.280/6X7Bq2BTEy/2447</link>
 <item>
 <title>SPORTSNET 360</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-iptv.link:6969/master.280/6X7Bq2BTEy/3057</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2263</link>
 <item>
 <title>SPORTSNET PACIFIC</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium-iptv.link:6969/master.280/6X7Bq2BTEy/2448</link>
@@ -38,16 +38,16 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24097</link>
 <item>
 <title>FOX SPORT 1HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24107</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2296</link>
 <item>
 <title>FOX SPORT 2HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24106</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/22</link>
 <item>
 <title>ESPN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24105</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2283</link>
 <item>
 <title>ESPN 2HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24104</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2284</link>
 <item>
 <title>ESPN U HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24101</link>
@@ -65,11 +65,277 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24078</link>
 <item>
 <title>MLB HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24092</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2314</link>
 <item>
 <title>NBA</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24091</link>
 <item>
 <title>NFL NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24067</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2353</link>
+
+
+
+#EXTINF:-1,US - FIGHT HD
+http://voxtv.dynns.com:8000/USA/USA/2291
+#EXTINF:-1,US - FIGHT SPORTS
+http://voxtv.dynns.com:8000/USA/USA/2292
+#EXTINF:-1,US - NFL NETWORK 1080i
+http://voxtv.dynns.com:8000/USA/USA/2320
+#EXTINF:-1,US - NFL NETWORK HD
+http://voxtv.dynns.com:8000/USA/USA/2321
+#EXTINF:-1,US - NHL NETWORK
+http://voxtv.dynns.com:8000/USA/USA/2322
+#EXTINF:-1,US - TSN 1 HD
+http://voxtv.dynns.com:8000/USA/USA/2344
+#EXTINF:-1,US - TSN 2 HD
+http://voxtv.dynns.com:8000/USA/USA/2345
+#EXTINF:-1,US - TSN 3 HD
+http://voxtv.dynns.com:8000/USA/USA/2346
+#EXTINF:-1,US - TSN 4 HD
+http://voxtv.dynns.com:8000/USA/USA/2347
+#EXTINF:-1,US - WWE HD
+http://voxtv.dynns.com:8000/USA/USA/2351
+#EXTINF:-1,|USA| FOX SPORT 1HD
+http://siptv-online.com:8789/Julien90/Julien90/24107
+#EXTINF:-1,|USA| FOX SPORT 2HD
+http://siptv-online.com:8789/Julien90/Julien90/24106
+#EXTINF:-1,|USA| ESPN
+http://siptv-online.com:8789/Julien90/Julien90/24105
+#EXTINF:-1,|USA| ESPN 2HD
+http://siptv-online.com:8789/Julien90/Julien90/24104
+#EXTINF:-1,|USA| ESPN U HD
+http://siptv-online.com:8789/Julien90/Julien90/24101
+#EXTINF:-1,|USA| CBS SPORTS NET
+http://siptv-online.com:8789/Julien90/Julien90/24098
+#EXTINF:-1,|USA| NBC SPORTS Net HD
+http://siptv-online.com:8789/Julien90/Julien90/24097
+#EXTINF:-1,|USA| WWE HD
+http://siptv-online.com:8789/Julien90/Julien90/24093
+#EXTINF:-1,|USA| MLB HD
+http://siptv-online.com:8789/Julien90/Julien90/24092
+#EXTINF:-1,|USA| NBA
+http://siptv-online.com:8789/Julien90/Julien90/24091
+#EXTINF:-1,|USA| NHL HD
+http://siptv-online.com:8789/Julien90/Julien90/24079
+#EXTINF:-1,|USA| NFL NETWORK HD
+http://siptv-online.com:8789/Julien90/Julien90/24067
+#EXTINF:-1,|CA| SPORTNET 360
+http://siptv-online.com:8789/Julien90/Julien90/40746
+#EXTINF:-1,|CA| SPORTNET ONE
+http://siptv-online.com:8789/Julien90/Julien90/40747
+#EXTINF:-1,|CA| SPORTNET ONTARIO
+http://siptv-online.com:8789/Julien90/Julien90/40748
+#EXTINF:-1,|CA| SPORTS NET EAST HD
+http://siptv-online.com:8789/Julien90/Julien90/40749
+#EXTINF:-1,|CA| SPORTS NET ONE HD
+http://siptv-online.com:8789/Julien90/Julien90/40750
+#EXTINF:-1,|CA| SPORTS NET ONTARIO HD
+http://siptv-online.com:8789/Julien90/Julien90/40751
+#EXTINF:-1,|CA| SPORTS NET PACIFIC HD
+http://siptv-online.com:8789/Julien90/Julien90/40752
+#EXTINF:-1,|CA| SPORTS NET WORLD HD
+http://siptv-online.com:8789/Julien90/Julien90/40753
+#EXTINF:-1,|CA| SPORTSMAN CHANNEL CANADA
+http://siptv-online.com:8789/Julien90/Julien90/40754
+#EXTINF:-1,|CA| SPORTSNET 360
+http://siptv-online.com:8789/Julien90/Julien90/40755
+#EXTINF:-1,|CA| SPORTSNET 360 HD
+http://siptv-online.com:8789/Julien90/Julien90/40756
+#EXTINF:-1,|CA| SPORTSNET EAST
+http://siptv-online.com:8789/Julien90/Julien90/40757
+#EXTINF:-1,|CA| SPORTSNET EAST HD
+http://siptv-online.com:8789/Julien90/Julien90/40758
+#EXTINF:-1,|CA| SPORTSNET ONE
+http://siptv-online.com:8789/Julien90/Julien90/40759
+#EXTINF:-1,|CA| SPORTSNET ONE HD
+http://siptv-online.com:8789/Julien90/Julien90/40760
+#EXTINF:-1,|CA| SPORTSNET ONTARIO
+http://siptv-online.com:8789/Julien90/Julien90/40761
+#EXTINF:-1,|CA| SPORTSNET PACIFIC
+http://siptv-online.com:8789/Julien90/Julien90/40762
+#EXTINF:-1,|CA| SPORTSNET PACIFIC HD
+http://siptv-online.com:8789/Julien90/Julien90/40763
+#EXTINF:-1,|CA| SPORTSNET WEST
+http://siptv-online.com:8789/Julien90/Julien90/40764
+#EXTINF:-1,|CA| SPORTSNET WORLD
+http://siptv-online.com:8789/Julien90/Julien90/40765
+#EXTINF:-1,|CA| SPORTSNET WORLD HD.
+http://siptv-online.com:8789/Julien90/Julien90/40766
+#EXTINF:-1,|CA| TSN  3HD
+http://siptv-online.com:8789/Julien90/Julien90/40795
+#EXTINF:-1,|CA| TSN 1HD
+http://siptv-online.com:8789/Julien90/Julien90/40796
+#EXTINF:-1,|CA| TSN 4HD
+http://siptv-online.com:8789/Julien90/Julien90/40797
+#EXTINF:-1,|CA| TSN 5HD
+http://siptv-online.com:8789/Julien90/Julien90/40798
+----------
+#EXTINF:-1,Us- NBA HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20631
+#EXTINF:-1,Us- NHL Network HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20630
+#EXTINF:-1,US- NBC Golf Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20557
+#EXTINF:-1,US- NBC Sports Northeast
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20556
+#EXTINF:-1,US- NFL Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20555
+#EXTINF:-1,US- ESPN 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20580
+#EXTINF:-1,US- ESPN 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20579
+#EXTINF:-1,US- Fight Network
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20573
+#EXTINF:-1,Us- UFC TV
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20622
+#EXTINF:-1,Us- WWE Network HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20620
+#EXTINF:-1,US- Fox Sports 1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20568
+#EXTINF:-1,US- Fox Sports 2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20567
+#EXTINF:-1,Us- TSN 1 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20627
+#EXTINF:-1,Us- TSN 2 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20626
+#EXTINF:-1,Us- TSN 3 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20625
+#EXTINF:-1,Us- TSN 4 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20624
+#EXTINF:-1,Us- TSN 5 HD
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20623
+#EXTINF:-1,US- SI Sports Illustrated
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20537
+#EXTINF:-1,US- Sports man Channel
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20535
+#EXTINF:-1,US- Stadium
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20534
+#EXTINF:-1,US- Stadium1
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20533
+#EXTINF:-1,US- Stadium2
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20532
+#EXTINF:-1,US- Stadium3
+http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20531
+------------
+
+#EXTINF:-1,US3: CA | TSN 1*
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74127
+#EXTINF:-1,US3: CA | TSN 2
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74126
+#EXTINF:-1,US3: CA | TSN 3*
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74125
+#EXTINF:-1,US3: CA | TSN 4 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74124
+#EXTINF:-1,US3: CA | TSN 5*
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74123
+#EXTINF:-1,US3: Fox Sports 1 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74133
+#EXTINF:-1,US3: Fox Sports 2 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74132
+#EXTINF:-1,US3: Fox Sports 506 HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74130
+#EXTINF:-1,US3: NBA TV HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74134
+#EXTINF:-1,US3: NFL Network HD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74121
+#EXTINF:-1,US6: NBCSNHD
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74087
+#EXTINF:-1,US6: NHL
+http://iptvtool.es:9977/AaronMarti/Q7drb9oEZm/74082
+--------------
+#EXTINF:-1,USA: NFL Network HD
+http://service.biptv.uk:80/george/george/49047
+#EXTINF:-1,USA|ESPN 2 HD
+http://service.biptv.uk:80/george/george/49003
+#EXTINF:-1,USA|ESPN 3
+http://service.biptv.uk:80/george/george/49002
+#EXTINF:-1,USA|ESPN COAL LINE
+http://service.biptv.uk:80/george/george/49001
+#EXTINF:-1,USA|ESPN DESPORTES
+http://service.biptv.uk:80/george/george/49000
+#EXTINF:-1,USA|ESPN HD
+http://service.biptv.uk:80/george/george/48999
+#EXTINF:-1,USA|ESPN NEWS HD
+http://service.biptv.uk:80/george/george/48998
+#EXTINF:-1,USA|ESPN U HD
+http://service.biptv.uk:80/george/george/48997
+#EXTINF:-1,USA|FIGHT BOX HD
+http://service.biptv.uk:80/george/george/48996
+#EXTINF:-1,USA|FOX SPORTS 1 HD
+http://service.biptv.uk:80/george/george/48989
+#EXTINF:-1,USA|FOX SPORTS 2 HD
+http://service.biptv.uk:80/george/george/48988
+#EXTINF:-1,USA|NFL NOW HD
+http://service.biptv.uk:80/george/george/48948
+#EXTINF:-1,USA|NHL NETWORK HD
+http://service.biptv.uk:80/george/george/48947
+#EXTINF:-1,USA|UFC FIGHT PASS HD
+http://service.biptv.uk:80/george/george/48909
+#EXTINF:-1,USA|UFC NETWORK HD
+http://service.biptv.uk:80/george/george/48908
+#EXTINF:-1,USA|WWE NETWORK HD
+http://service.biptv.uk:80/george/george/48899
+#EXTINF:-1,USA|CBS Sports Network
+http://service.biptv.uk:80/george/george/51274
+#EXTINF:-1,USA|ESPN
+http://service.biptv.uk:80/george/george/51256
+#EXTINF:-1,USA|ESPN Deportes HD
+http://service.biptv.uk:80/george/george/51255
+#EXTINF:-1,USA|ESPN News US HD
+http://service.biptv.uk:80/george/george/51254
+#EXTINF:-1,USA|ESPN plus
+http://service.biptv.uk:80/george/george/51253
+#EXTINF:-1,USA|MLB Network
+http://service.biptv.uk:80/george/george/51216
+#EXTINF:-1,USA|NBC Golf
+http://service.biptv.uk:80/george/george/51212
+#EXTINF:-1,USA|NBCSN HD
+http://service.biptv.uk:80/george/george/51210
+#EXTINF:-1,USA|NFL Network HD
+http://service.biptv.uk:80/george/george/51209
+#EXTINF:-1,USA|NFL Red Zone HD
+http://service.biptv.uk:80/george/george/51208
+#EXTINF:-1,USA|Tennis HD
+http://service.biptv.uk:80/george/george/51197
+#EXTINF:-1,USA|TSN HD 1
+http://service.biptv.uk:80/george/george/51195
+#EXTINF:-1,USA|TSN HD 2
+http://service.biptv.uk:80/george/george/51194
+#EXTINF:-1,USA|TSN HD 3
+http://service.biptv.uk:80/george/george/51193
+#EXTINF:-1,USA|TSN HD 4
+http://service.biptv.uk:80/george/george/51192
+#EXTINF:-1,USA|TSN HD 5
+http://service.biptv.uk:80/george/george/51191
+#EXTINF:-1,USA|UFC FIGHT PASS
+http://service.biptv.uk:80/george/george/51189
+#EXTINF:-1,USA|WWE Network HD MYC
+http://service.biptv.uk:80/george/george/51183
+#EXTINF:-1,USA|WWE Network HD NXT
+http://service.biptv.uk:80/george/george/51182
+
+#EXTINF:-1,Espn HD
+http://185.152.66.188:25461/l11/12345/160
+#EXTINF:-1,Espn SD
+http://185.152.66.188:25461/l11/12345/159
+#EXTINF:-1,Espn Brasil HD
+http://185.152.66.188:25461/l11/12345/164
+#EXTINF:-1,Espn Brasil SD
+http://185.152.66.188:25461/l11/12345/163
+#EXTINF:-1,Espn 2 HD
+http://185.152.66.188:25461/l11/12345/162
+#EXTINF:-1,Espn 2 SD
+http://185.152.66.188:25461/l11/12345/161
+#EXTINF:-1,Espn Extra HD
+http://185.152.66.188:25461/l11/12345/158
+#EXTINF:-1,Espn Extra SD
+http://185.152.66.188:25461/l11/12345/157
+#EXTINF:-1,Fox Sports 2 HD
+http://185.152.66.188:25461/l11/12345/146
+#EXTINF:-1,Fox Sports 2 SD
+http://185.152.66.188:25461/l11/12345/145
+#EXTINF:-1,Fox Sports HD
+http://185.152.66.188:25461/l11/12345/144
+#EXTINF:-1,Fox Sports SD
+http://185.152.66.188:25461/l11/12345/143
 
