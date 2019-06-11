@@ -8,7 +8,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2345</link>
 <item>
 <title>TSN 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40795</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20625</link>
 <item>
 <title>TSN 4</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2347</link>
@@ -29,7 +29,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40746</link>
 <item>
 <title>SPORTSNET PACIFIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40762</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/40763</link>
 <item>
 <title>CBS SPORTS NET</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/george/george/51274</link>
@@ -53,16 +53,13 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/george/george/48997</link>
 <item>
 <title>UFC FIGHT PASS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/george/george/48909</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://service.biptv.uk:80/george/george/51189</link>
 <item>
 <title>WWE HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://siptv-online.com:8789/Julien90/Julien90/24093</link>
 <item>
 <title>NHL HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2353</link>
-<item>
-<title>NHL 1 MATCH EVENT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20537</link>
 <item>
 <title>MLB HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://voxtv.dynns.com:8000/USA/USA/2314</link>
@@ -109,8 +106,6 @@ http://siptv-online.com:8789/Julien90/Julien90/40759
 http://siptv-online.com:8789/Julien90/Julien90/40760
 #EXTINF:-1,|CA| SPORTSNET ONTARIO
 http://siptv-online.com:8789/Julien90/Julien90/40761
-#EXTINF:-1,|CA| SPORTSNET PACIFIC HD
-http://siptv-online.com:8789/Julien90/Julien90/40763
 #EXTINF:-1,|CA| SPORTSNET WEST
 http://siptv-online.com:8789/Julien90/Julien90/40764
 #EXTINF:-1,|CA| SPORTSNET WORLD
@@ -146,8 +141,6 @@ http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20568
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20627
 #EXTINF:-1,Us- TSN 2 HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20626
-#EXTINF:-1,Us- TSN 3 HD
-http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20625
 #EXTINF:-1,Us- TSN 4 HD
 http://m-iptv.net:6204/AFEOdvNlBf/3zrFg7Q96M/20624
 #EXTINF:-1,Us- TSN 5 HD
@@ -249,8 +242,6 @@ http://service.biptv.uk:80/george/george/51193
 http://service.biptv.uk:80/george/george/51192
 #EXTINF:-1,USA|TSN HD 5
 http://service.biptv.uk:80/george/george/51191
-#EXTINF:-1,USA|UFC FIGHT PASS
-http://service.biptv.uk:80/george/george/51189
 #EXTINF:-1,USA|WWE Network HD MYC
 http://service.biptv.uk:80/george/george/51183
 #EXTINF:-1,USA|WWE Network HD NXT
