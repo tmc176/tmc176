@@ -4,14 +4,26 @@
 <title>CBC HALIFAX</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542705.m3u8</link>
 <item>
+<title>CBC OTTAWA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542706.m3u8</link>
+<item>
 <title>CBC TORONTO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542707.m3u8</link>
+<item>
+<title>CBC NEWS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542703.m3u8</link
 <item>
 <title>CTV ATLANTIC</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542746.m3u8</link>
 <item>
+<title>CTV OTTAWA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542752.m3u8</link>
+<item>
 <title>CTV TORONTO</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542753.m3u8</link>
+<item>
+<title>CTV NEWS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542750.m3u8</link>
 <item>
 <title>GLOBAL HALIFAX</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542792.m3u8</link>
@@ -28,14 +40,11 @@
 <title>CP24</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542735.m3u8</link>
 <item>
-<title>CTV NEWS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542750.m3u8</link>
-<item>
-<title>CBC NEWS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542703.m3u8</link>
-<item>
 <title>CHCH</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542712.m3u8</link>
 <item>
 <title>NTV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575542842.m3u8</link>
+
+
+
