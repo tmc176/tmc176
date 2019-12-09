@@ -45,26 +45,7 @@
 <item>
 <title>NTV</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestiptv2.premium-tv.info:8789/live/Naji_Derouiche/igaYR6PAtq/40713.m3u8</link>
-#EXTINF:-1,|CA| THE WEATHER CHANNEL HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/383
-#EXTINF:-1,|CA| GLOBAL HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/505
-#EXTINF:-1,|CA| GLOBAL EAST
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/507
-#EXTINF:-1,|CA| CTV NEWS HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/548
-#EXTINF:-1,|CA| CTV EAST
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/553
-#EXTINF:-1,|CA| CP24. HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/561
-#EXTINF:-1,|CA| CP24 HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/562
-#EXTINF:-1,|CA| CITY TORONTO
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/580
-#EXTINF:-1,|CA| CHCH
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/586
-#EXTINF:-1,|CA| CBC TORONTO
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/591
-#EXTINF:-1,|CA| CBC NEWS
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/595
+<item>
+<title>W Network</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediahere.ca:8080/Dave0003/Spring123!/49246</link>
 
