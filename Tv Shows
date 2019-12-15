@@ -1,6 +1,12 @@
-<streamingInfos>
-
-<item>
-<title>All in the Family</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/live/gustavo1/gustavo1/28993.m3u8</link>
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Event 1: Boxing: Golden Contract Tournament 230PM ET" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 1: Boxing: Golden Contract Tournament 230PM ET
+http://mediahere.ca:8080/Dave0006/GreatM@ple!/46457
+#EXTINF:-1 tvg-ID="" tvg-name="Event 2: UFC 245 Early Prelims Only 630PM ET" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 2: UFC 245 Early Prelims Only 630PM ET
+http://mediahere.ca:8080/Dave0006/GreatM@ple!/46458
+#EXTINF:-1 tvg-ID="" tvg-name="Event 3: UFC 245: Usman vs. Covington, Prelims 8PM ET" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 3: UFC 245: Usman vs. Covington, Prelims 8PM ET
+http://mediahere.ca:8080/Dave0006/GreatM@ple!/46460
+#EXTINF:-1 tvg-ID="" tvg-name="Event 4: UFC 245: Usman vs. Covington, Main Card 10PM ET" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 4: UFC 245: Usman vs. Covington, Main Card 10PM ET
+http://mediahere.ca:8080/Dave0006/GreatM@ple!/46461
+#EXTINF:-1 tvg-ID="" tvg-name="Event 5: UFC 245: Usman vs. Covington SD" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 5: UFC 245: Usman vs. Covington SD
+http://mediahere.ca:8080/Dave0006/GreatM@ple!/46463
 
