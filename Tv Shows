@@ -1,4 +1,26 @@
-#EXTM3U
+<streamingInfos>
+
+<item>
+<title>SPORTSNET 360</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.hopto.me:83/live/11111111/22222222/374361.m3u8</link>
+<item>
+<title>SPORTSNET EAST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/592</link>
+<item>
+<title>CBC TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.hopto.me:83/live/11111111/22222222/374362.m3u8</link>
+<item>
+<title>CBC NEWS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/547</link
+<item>
+<title>CTV ATLANTIC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/552</link>
+<item>
+<title>CTV OTTAWA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/546</link>
+<item>
+<title>CTV TORONTO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/545</link>
 
 #EXTINF:-1,VIP HD SPORTSNET 360
 http://gold.hopto.me:83/live/11111111/22222222/374361.m3u8
