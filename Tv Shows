@@ -1,48 +1,29 @@
-<streamingInfos>
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:963
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.840,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-963.ts
+#EXTINF:5.000,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-964.ts
+#EXTINF:5.320,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-965.ts
+#EXTINF:6.120,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-966.ts
+#EXTINF:6.000,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-967.ts
+#EXTINF:6.000,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-968.ts
+#EXTINF:6.000,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-969.ts
+#EXTINF:6.000,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-970.ts
+#EXTINF:6.000,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-971.ts
+#EXTINF:6.000,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-972.ts
+#EXTINF:6.000,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-973.ts
+#EXTINF:6.000,
+https://videoserver1.org/hls/c0371e35a2b3244f5edda7947172d954-974.ts
 
-<item>
-<title>SPORTSNET 360</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.hopto.me:83/live/11111111/22222222/374361.m3u8</link>
-<item>
-<title>SPORTSNET EAST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/592</link>
-<item>
-<title>CBC TORONTO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.hopto.me:83/live/11111111/22222222/374362.m3u8</link>
-<item>
-<title>CBC NEWS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/547</link
-<item>
-<title>CTV ATLANTIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/552</link>
-<item>
-<title>CTV OTTAWA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/546</link>
-<item>
-<title>CTV TORONTO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/545</link>
-
-#EXTINF:-1,VIP HD SPORTSNET 360
-http://gold.hopto.me:83/live/11111111/22222222/374361.m3u8
-#EXTINF:-1,VIP HD SPORTSNET EAST
-http://gold.hopto.me:83/live/11111111/22222222/374362.m3u8
-#EXTINF:-1,VIP HD SPORTSNET ONE
-http://gold.hopto.me:83/live/11111111/22222222/374363.m3u8
-#EXTINF:-1,VIP HD SPORTSNET ONTARIO
-http://gold.hopto.me:83/live/11111111/22222222/374364.m3u8
-#EXTINF:-1,VIP HD SPORTSNET PACIFIC
-http://gold.hopto.me:83/live/11111111/22222222/374365.m3u8
-#EXTINF:-1,VIP HD SPORTSNET WORLD
-http://gold.hopto.me:83/live/11111111/22222222/374366.m3u8
-#EXTINF:-1,VIP HD TLC
-http://gold.hopto.me:83/live/11111111/22222222/374367.m3u8
-#EXTINF:-1,VIP HD TSN1
-http://gold.hopto.me:83/live/11111111/22222222/375855.m3u8
-#EXTINF:-1,VIP HD TSN2
-http://gold.hopto.me:83/live/11111111/22222222/375854.m3u8
-#EXTINF:-1,VIP HD TSN3
-http://gold.hopto.me:83/live/11111111/22222222/374370.m3u8
-#EXTINF:-1,VIP HD TSN4
-http://gold.hopto.me:83/live/11111111/22222222/374371.m3u8
-#EXTINF:-1,VIP HD TSN5
-http://gold.hopto.me:83/live/11111111/22222222/374372.m3u8
