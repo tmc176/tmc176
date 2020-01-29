@@ -1,4 +1,8 @@
+<streamingInfos>
 
+<item>
+<title>Titleoflinke</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://tv.latintvweb.com:25461/rHIZVgXWd4/j4jPS31EoT/3661</link>
 #EXTINF:-1,CAN-AMC (720)(M)
 http://tv.latintvweb.com:25461/rHIZVgXWd4/j4jPS31EoT/3661
 #EXTINF:-1,CAN-BNN (720)(M)
