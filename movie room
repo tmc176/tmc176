@@ -1,14 +1,151 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3zzqEti.png" group-title="* Fluxus.tv > Play On!",* Fluxus.tv
-https://bit.ly/fluxusfish?.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="+ Lust - Permanent Playlist",+ Lust
-https://bit.ly/fluxusfish?.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="- Update: 10.04.2019",- Update: 10.04.2019
-https://bit.ly/fluxusfish?.m3u8
-
+#EXTINF:0,Adult Candy - VOD 01
+http://stream2.fastcdn.me/flv/490.mp4
+#EXTINF:0,Adult Candy - VOD 02
+http://stream2.fastcdn.me/flv/487.mp4
+#EXTINF:0,Adult Candy - VOD 03
+http://stream2.fastcdn.me/flv/484.mp4
+#EXTINF:0,Adult Candy - VOD 04
+http://stream2.fastcdn.me/flv/481.mp4
+#EXTINF:0,Adult Candy - VOD 05
+http://stream2.fastcdn.me/flv/459.mp4
+#EXTINF:0,Adult Candy - VOD 06
+http://stream2.fastcdn.me/flv/456.mp4
+#EXTINF:0,Adult Candy - VOD 07
+http://stream2.fastcdn.me/flv/451.mp4
+#EXTINF:0,Adult Candy - VOD 08
+http://stream2.fastcdn.me/flv/422.mp4
+#EXTINF:0,Adult Candy - VOD 09
+http://stream2.fastcdn.me/flv/414.mp4
+#EXTINF:0,Adult Candy - VOD 10
+http://stream2.fastcdn.me/flv/416.mp4
+#EXTINF:0,Adult Candy - VOD 11
+http://stream2.fastcdn.me/flv/408.mp4
+#EXTINF:0,Adult Candy - VOD 12
+http://stream2.fastcdn.me/flv/409.mp4
+#EXTINF:0,Adult Candy - VOD 13
+http://stream2.fastcdn.me/flv/391.mp4
+#EXTINF:0,Adult Candy - VOD 14
+http://stream2.fastcdn.me/flv/389.mp4
+#EXTINF:0,Adult Candy - VOD 15
+http://stream2.fastcdn.me/flv/377.mp4
+#EXTINF:0,Adult Candy - VOD 16
+http://stream2.fastcdn.me/flv/375.mp4
+#EXTINF:0,Adult Candy - VOD 17
+http://stream2.fastcdn.me/flv/370.mp4
+#EXTINF:0,Adult Candy - VOD 18
+http://stream2.fastcdn.me/flv/371.mp4
+#EXTINF:0,Adult Candy - VOD 19
+http://stream2.fastcdn.me/flv/363.mp4
+#EXTINF:0,Adult Candy - VOD 20
+http://stream2.fastcdn.me/flv/359.mp4
+#EXTINF:0,Adult Candy - VOD 21
+http://stream2.fastcdn.me/flv/356.mp4
+#EXTINF:0,Adult Candy - VOD 22
+http://stream2.fastcdn.me/flv/347.mp4
+#EXTINF:0,Adult Candy - VOD 23
+http://stream2.fastcdn.me/flv/367.mp4
+#EXTINF:0,Adult Candy - VOD 24
+http://stream2.fastcdn.me/flv/346.mp4
+#EXTINF:0,Adult Candy - VOD 25
+http://stream2.fastcdn.me/flv/343.mp4
+#EXTINF:0,Adult Candy - VOD 26
+http://stream2.fastcdn.me/flv/337.mp4
+#EXTINF:0,Adult Candy - VOD 27
+http://stream2.fastcdn.me/flv/336.mp4
+#EXTINF:0,Adult Candy - VOD 28
+http://stream2.fastcdn.me/flv/333.mp4
+#EXTINF:0,Adult Candy - VOD 29
+http://stream2.fastcdn.me/flv/326.mp4
+#EXTINF:0,Adult Candy - VOD 30
+http://stream2.fastcdn.me/flv/322.mp4
+#EXTINF:0,Adult Candy - VOD 31
+http://stream2.fastcdn.me/flv/318.mp4
+#EXTINF:0,Adult Candy - VOD 32
+http://stream2.fastcdn.me/flv/316.mp4
+#EXTINF:0,Adult Candy - VOD 33
+http://stream2.fastcdn.me/flv/308.mp4
+#EXTINF:0,Adult Candy - VOD 34
+http://stream2.fastcdn.me/flv/311.mp4
+#EXTINF:0,Adult Candy - VOD 35
+http://stream2.fastcdn.me/flv/310.mp4
+#EXTINF:0,Adult Candy - VOD 36
+http://stream2.fastcdn.me/flv/301.mp4
+#EXTINF:0,Adult Candy - VOD 37
+http://stream2.fastcdn.me/flv/303.mp4
+#EXTINF:0,Adult Candy - VOD 38
+http://stream2.fastcdn.me/flv/299.mp4
+#EXTINF:0,Adult Candy - VOD 39
+http://stream2.fastcdn.me/flv/293.mp4
+#EXTINF:0,Adult Candy - VOD 40
+http://stream2.fastcdn.me/flv/291.mp4
+#EXTINF:0,Adult Candy - VOD 41
+http://stream2.fastcdn.me/flv/280.mp4
+#EXTINF:0,Adult Candy - VOD 42
+http://stream2.fastcdn.me/flv/283.mp4
+#EXTINF:0,Adult Candy - VOD 43
+http://stream2.fastcdn.me/flv/282.mp4
+#EXTINF:0,Adult Candy - VOD 44
+http://stream2.fastcdn.me/flv/281.mp4
+#EXTINF:0,Adult Candy - VOD 45
+http://stream2.fastcdn.me/flv/279.mp4
+#EXTINF:0,Adult Candy - VOD 46
+http://stream2.fastcdn.me/flv/275.mp4
+#EXTINF:0,Adult Candy - VOD 47
+http://stream2.fastcdn.me/flv/273.mp4
+#EXTINF:0,Adult Candy - VOD 48
+http://stream2.fastcdn.me/flv/269.mp4
+#EXTINF:0,Adult Candy - VOD 49
+http://stream2.fastcdn.me/flv/268.mp4
+#EXTINF:0,Adult Candy - VOD 50
+http://stream2.fastcdn.me/flv/271.mp4
+#EXTINF:0,Adult Candy - VOD 51
+http://stream2.fastcdn.me/flv/267.mp4
+#EXTINF:0,Adult Candy - VOD 52
+http://stream2.fastcdn.me/flv/266.mp4
+#EXTINF:0,Adult Candy - VOD 53
+http://stream2.fastcdn.me/flv/265.mp4
+#EXTINF:0,Adult Candy - VOD 54
+http://stream2.fastcdn.me/flv/264.mp4
+#EXTINF:0,Adult Candy - VOD 55
+http://stream2.fastcdn.me/flv/262.mp4
+#EXTINF:0,Adult Candy - VOD 56
+http://stream2.fastcdn.me/flv/261.mp4
+#EXTINF:0,Adult Candy - VOD 57
+http://stream2.fastcdn.me/flv/259.mp4
+#EXTINF:0,Adult Candy - VOD 58
+http://stream2.fastcdn.me/flv/260.mp4
+#EXTINF:0,Adult Candy - VOD 59
+http://stream2.fastcdn.me/flv/256.mp4
+#EXTINF:0,Adult Candy - VOD 60
+http://stream2.fastcdn.me/flv/254.mp4
+#EXTINF:0,Adult Candy - VOD 61
+http://stream2.fastcdn.me/flv/251.mp4
+#EXTINF:0,Adult Candy - VOD 62
+http://stream2.fastcdn.me/flv/249.mp4
+#EXTINF:0,Adult Candy - VOD 63
+http://stream2.fastcdn.me/flv/248.mp4
+#EXTINF:0,Adult Candy - VOD 64
+http://stream2.fastcdn.me/flv/227.mp4
+#EXTINF:0,Adult Candy - VOD 65
+http://stream2.fastcdn.me/flv/214.mp4
+#EXTINF:0,Adult Candy - VOD 66
+http://stream2.fastcdn.me/flv/216.mp4
+#EXTINF:0,Adult Candy - VOD 67
+http://stream2.fastcdn.me/flv/210.mp4
+#EXTINF:0,Adult Candy - VOD 68
+http://stream2.fastcdn.me/flv/200.mp4
+#EXTINF:0,Adult Candy - VOD 69
+http://stream2.fastcdn.me/flv/199.mp4
+#EXTINF:0,Adult Candy - VOD 70
+http://stream2.fastcdn.me/flv/197.mp4
+#EXTINF:0,Adult Candy - VOD 71
+http://stream2.fastcdn.me/flv/196.mp4
+#EXTINF:0,Adult Candy - VOD 72
+http://stream2.fastcdn.me/flv/195.mp4
+#EXTINF:0,Adult Candy - VOD 73
+http://stream2.fastcdn.me/flv/193.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mR1I8hE.png" group-title="24/7 IPTV",A3Bikini TV (New!)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
  
