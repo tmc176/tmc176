@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0,NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:0,CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1,|USA| USA Network
 http://iptv-luxe.com:8789/live/1212/1212/12398.m3u8
 #EXTINF:-1,|USA| CW HD
@@ -40,7 +44,8 @@ http://iptv-luxe.com:8789/live/1212/1212/12381.m3u8
 http://iptv-luxe.com:8789/live/1212/1212/1948.m3u8
 #EXTINF:-1,|USA| TBS HD
 http://iptv-luxe.com:8789/live/1212/1212/11114.m3u8
-
+#EXTINF:-1,USA: TV LAND HD
+http://www.sansat.net:25461/bRRMEeD4n5/7F09Vz4zRp/46356
 
 
 
