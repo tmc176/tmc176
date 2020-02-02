@@ -1,57 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Countdown 1080
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327383
-#EXTINF:-1,Harriet 1080
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327385
-#EXTINF:-1,Jay And Silent Bob 1080
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327386
-#EXTINF:-1,7 The Glorious Reload 1080
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327405
-#EXTINF:-1,Kill Chain 1080
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327389
-#EXTINF:-1,Black and Blue
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327381
-#EXTINF:-1,Maleficent: Mistress of Evil
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327391
-#EXTINF:-1,Lake Artifact
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327390
-#EXTINF:-1,Six Days Of Sis Days
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327398
-#EXTINF:-1,The Aeronauts
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327401
-#EXTINF:-1,Motherless Brocklyn
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327395
-#EXTINF:-1,The App
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327402
-#EXTINF:-1,The Courier
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327403
-#EXTINF:-1,The Shed 1080
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327407
-#EXTINF:-1,Trick
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327410
-#EXTINF:-1,Western Stars
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327411
-#EXTINF:-1,Ride Like a Girl
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327397
-#EXTINF:-1,Where We Disappear
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327412
-#EXTINF:-1,Jexi
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327387
-#EXTINF:-1,The Addams Family - 2019
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327400
-#EXTINF:-1,ZombieLand Double Tap
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327413
-#EXTINF:-1,The Lighthouse
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327406
-#EXTINF:-1,Joker
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327388
-#EXTINF:-1,Code 8
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327381
-#EXTINF:-1,Gemini Man
-http://mxc.tvxweb.net:25461/alberto123/alberto123/327384
-#EXTINF:-1,Terminator: Dark Fate HDCAM CAM CAM
-http:\\mxc.tvxweb.net:25461\alberto123\alberto123\327399
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Heritage_2019_en.mp4.png",Heritage
 http://skdn.redi-vo.com/vod/Heritage_2019_en.mp4?code=103131497823984&key=52750
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Epiphany_2019_en.mp4.png",Epiphany
