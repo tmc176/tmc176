@@ -6,6 +6,18 @@ http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SPTTAqQ.png" group-title="USA",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5kRPjAM.png" group-title="USA",Capitol Wrestling
+https://nrpus.bozztv.com/36bay2/gusa-capitolwrestling/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUEiiK.png" group-title="USA",Fighting Spirit (New!)
+https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWCoxqy.png" group-title="USA",Fight Plus TV
+https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="USA",FightBox
+http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" group-title="24/7 PLUTO TV",Impact Wrestling
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
@@ -48,5 +60,4 @@ http://45.58.62.92:8080
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="24/7 PLUTO TV",Fox Sports
 http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 
