@@ -201,20 +201,12 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40814
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40816
 #EXTINF:-1,USA| BRAVO
 http://51.159.21.231:2052/usapro2@source/799965@26641/1809
-#EXTINF:-1,USA| A&E
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24051
-#EXTINF:-1,USA| COMEDY CENTRAL HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24050
 #EXTINF:-1,USA| HGTV
 http://51.159.21.231:2052/usapro2@source/799965@26641/1817
-#EXTINF:-1,USA| E!
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24048
 #EXTINF:-1,USA| Fox HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/24047
 #EXTINF:-1,USA| FXX
 http://51.159.21.231:2052/usapro2@source/799965@26641/1762
-#EXTINF:-1,USA| GSN FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24045
 #EXTINF:-1,USA| SPIKE TV HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1738
 #EXTINF:-1,USA| Syfy HD
@@ -225,16 +217,8 @@ http://51.159.21.231:2052/usapro2@source/799965@26641/1732
 http://iptvpro.premium-itv.com:8789/31031986/31031986/24041
 #EXTINF:-1,USA| DIY Network
 http://51.159.21.231:2052/usapro2@source/799965@26641/1785
-#EXTINF:-1,USA| FREEFROM
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24039
 #EXTINF:-1,USA| TBS
 http://51.159.21.231:2052/usapro2@source/799965@26641/1816
-#EXTINF:-1,USA| SBTN
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24037
-#EXTINF:-1,USA|*****LIFESTYLE*****|USA|
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24036
-#EXTINF:-1,USA| ANIMAL PLANET HD
-http://51.159.21.231:2052/usapro2@source/799965@26641/1833
 #EXTINF:-1,USA| NAT GEO WILD HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1748
 #EXTINF:-1,USA| NAT GEO
@@ -243,46 +227,24 @@ http://51.159.21.231:2052/usapro2@source/799965@26641/1749
 http://51.159.21.231:2052/usapro2@source/799965@26641/1791
 #EXTINF:-1,USA| DISCOVERY SC HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1789
-#EXTINF:-1,USA| DISCOVERY ID HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24030
-#EXTINF:-1,USA| HISTORY HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24029
 #EXTINF:-1,USA| H2
 http://51.159.21.231:2052/usapro2@source/799965@26641/1759
 #EXTINF:-1,USA| Travel Channel
 http://51.159.21.231:2052/usapro2@source/799965@26641/1730
 #EXTINF:-1,USA| FOOD NETWORK
 http://51.159.21.231:2052/usapro2@source/799965@26641/1776
-#EXTINF:-1,USA|*****KIDS AND FAMILY*****|USA|
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24025
 #EXTINF:-1,USA| Disney Channel FHD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1787
 #EXTINF:-1,USA| Nick
 http://51.159.21.231:2052/usapro2@source/799965@26641/1745
-#EXTINF:-1,USA| NICKTOONS
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24021
-#EXTINF:-1,USA| SHOWTIME SHOWCASE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24120
-#EXTINF:-1,USA| Starz Cinema HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24118
 #EXTINF:-1,USA| FX TV HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1763
 #EXTINF:-1,USA| MoreMax HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1751
-#EXTINF:-1,USA| Lifetime Movies HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24117
 #EXTINF:-1,USA| 5 Star Max
 http://iptvpro.premium-itv.com:8789/31031986/31031986/24114
 #EXTINF:-1,USA| ACTIONMAX HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1815
-#EXTINF:-1,USA| AMC HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24122
-#EXTINF:-1,USA| Cinemax East HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24113
-#EXTINF:-1,USA| CINEMAX HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24112
-#EXTINF:-1,USA| EL REY  HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24111
 #EXTINF:-1,USA| TNT HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1731
 #EXTINF:-1,USA| HBO
@@ -291,10 +253,6 @@ http://51.159.21.231:2052/usapro2@source/799965@26641/1755
 http://51.159.21.231:2052/usapro2@source/799965@26641/1757
 #EXTINF:-1,USA| HBO FAMILY HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1818
-#EXTINF:-1,USA| HBO SIGNATURE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24127
-#EXTINF:-1,USA| HBO ZONE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24126
 #EXTINF:-1,USA| HALLMARK HD
 http://51.159.21.231:2052/usapro2@source/799965@26641/1758
 
