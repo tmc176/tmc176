@@ -3,14 +3,6 @@
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40606
 #EXTINF:-1,CA| CP24 HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40607
-#EXTINF:-1,CA| CP24. HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40608
-#EXTINF:-1,CA| CITY CALGARY
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40586
-#EXTINF:-1,CA| CITY MONTREAL
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40587
-#EXTINF:-1,CA| CITY SASKATCHEWAN
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40588
 #EXTINF:-1,CA| CITY TORONTO
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40589
 #EXTINF:-1,CA| City Toronto HD
@@ -47,8 +39,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40623
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40624
 #EXTINF:-1,CA| CTV VANCOUVER
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40625
-#EXTINF:-1,CA| CTV2 OTTAWA
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40626
 #EXTINF:-1,CA| GLOBAL CALGARY
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40661
 #EXTINF:-1,CA| GLOBAL EAST
@@ -61,10 +51,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40664
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40665
 #EXTINF:-1,CA| GLOBAL VANCOUVER
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40666
-#EXTINF:-1,CA| CBC CALGARY
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40571
-#EXTINF:-1,CA| CBC MONTREAL
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40572
 #EXTINF:-1,CA| CBC Montreal HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40573
 #EXTINF:-1,CA| CBC NEWS
@@ -73,34 +59,18 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40574
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40575
 #EXTINF:-1,CA| CBC NOVA SCOTIA
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40576
-#EXTINF:-1,CA| CBC OTTAWA
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40577
-#EXTINF:-1,CA| CBC TORONTO
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40578
-#EXTINF:-1,CA| CBC Toronto HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40579
-#EXTINF:-1,CA| CBC VANCOUVER
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40580
 #EXTINF:-1,CA| CBS EAST
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40581
 #EXTINF:-1,CA| CBS WEST
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40582
-#EXTINF:-1,CA| CHCH
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40583
-#EXTINF:-1,CA| CHCH HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40584
 #EXTINF:-1,CA|  BRAVO HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40537
 #EXTINF:-1,CA|  Discovery HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40538
 #EXTINF:-1,CA|  FAMILY HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40539
-#EXTINF:-1,CA| A E
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40540
 #EXTINF:-1,CA| ABC EAST
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40541
-#EXTINF:-1,CA| ABC HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40542
 #EXTINF:-1,CA| ABC SPARK
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40543
 #EXTINF:-1,CA| ABC SPARK HD
@@ -115,12 +85,8 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40547
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40548
 #EXTINF:-1,CA| AHC
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40549
-#EXTINF:-1,CA| AMC
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40550
 #EXTINF:-1,CA| AMC HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40551
-#EXTINF:-1,CA| ANIMAL PLANET
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40552
 #EXTINF:-1,CA| Animal Planet HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40553
 #EXTINF:-1,CA| APTN HD
@@ -137,12 +103,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40596
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40597
 #EXTINF:-1,CA| COMEDY EAST
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40598
-#EXTINF:-1,CA| COMEDY GOLD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40599
-#EXTINF:-1,CA| COMEDY HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40600
-#EXTINF:-1,CA| COMEDY WEST
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40601
 #EXTINF:-1,CA| COOKING CHANNEL
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40602
 #EXTINF:-1,CA| COSMO
@@ -151,12 +111,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40603
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40604
 #EXTINF:-1,CA| Cottage Life HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40605
-#EXTINF:-1,CA| CW 11 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40627
-#EXTINF:-1,CA| DEJAVIEW
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40629
-#EXTINF:-1,CA| DISCOVERY CANADA
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40630
 #EXTINF:-1,CA| DISCOVERY SCIENCE CANADA
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40631
 #EXTINF:-1,CA| DISNEY CANADA
@@ -177,18 +131,12 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40638
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40640
 #EXTINF:-1,CA| ENCORE 1 EAST
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40641
-#EXTINF:-1,CA| ENCORE 2 EAST
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40642
-#EXTINF:-1,CA| FAMILY CHRGD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40644
 #EXTINF:-1,CA| FAMILY EAST
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40645
 #EXTINF:-1,CA| FAMILY JR
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40646
 #EXTINF:-1,CA| FAMILY WEST
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40647
-#EXTINF:-1,CA| FXX HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40657
 #EXTINF:-1,CA| HBO 1
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40670
 #EXTINF:-1,CA| HBO 2
@@ -209,10 +157,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40737
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40738
 #EXTINF:-1,CA| SLICE
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40739
-#EXTINF:-1,CA| SLICE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40740
-#EXTINF:-1,CA| SMITHSONIAN HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40741
 #EXTINF:-1,CA| SPACE
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40742
 #EXTINF:-1,CA| SPACE HD
@@ -241,10 +185,6 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40774
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40775
 #EXTINF:-1,CA| TELE TOON
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40778
-#EXTINF:-1,CA| TELE TOON EAST
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40779
-#EXTINF:-1,CA| TELE TOON WEST
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40781
 #EXTINF:-1,CA| THE WEATHER CHANNEL HD
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40785
 #EXTINF:-1,CA| THE WEATHER NETWORK
@@ -253,21 +193,109 @@ http://iptvpro.premium-itv.com:8789/31031986/31031986/40786
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40788
 #EXTINF:-1,CA| TMN 2
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40789
-#EXTINF:-1,CA| TMN 3
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40790
 #EXTINF:-1,CA| TMN 4
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40791
-#EXTINF:-1,CA| TRAVEL
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40792
-#EXTINF:-1,CA| TREEHOUSE
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40793
-#EXTINF:-1,CA| TREEHOUSE HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/40794
 #EXTINF:-1,CA| YES TV
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40814
 #EXTINF:-1,CA| YTV E
 http://iptvpro.premium-itv.com:8789/31031986/31031986/40816
-
-
+#EXTINF:-1,USA| BRAVO
+http://51.159.21.231:2052/usapro2@source/799965@26641/1809
+#EXTINF:-1,USA| A&E
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24051
+#EXTINF:-1,USA| COMEDY CENTRAL HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24050
+#EXTINF:-1,USA| HGTV
+http://51.159.21.231:2052/usapro2@source/799965@26641/1817
+#EXTINF:-1,USA| E!
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24048
+#EXTINF:-1,USA| Fox HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24047
+#EXTINF:-1,USA| FXX
+http://51.159.21.231:2052/usapro2@source/799965@26641/1762
+#EXTINF:-1,USA| GSN FHD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24045
+#EXTINF:-1,USA| SPIKE TV HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1738
+#EXTINF:-1,USA| Syfy HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1735
+#EXTINF:-1,USA| TLC HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1732
+#EXTINF:-1,USA| Viceland
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24041
+#EXTINF:-1,USA| DIY Network
+http://51.159.21.231:2052/usapro2@source/799965@26641/1785
+#EXTINF:-1,USA| FREEFROM
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24039
+#EXTINF:-1,USA| TBS
+http://51.159.21.231:2052/usapro2@source/799965@26641/1816
+#EXTINF:-1,USA| SBTN
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24037
+#EXTINF:-1,USA|*****LIFESTYLE*****|USA|
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24036
+#EXTINF:-1,USA| ANIMAL PLANET HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1833
+#EXTINF:-1,USA| NAT GEO WILD HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1748
+#EXTINF:-1,USA| NAT GEO
+http://51.159.21.231:2052/usapro2@source/799965@26641/1749
+#EXTINF:-1,USA| DISCOVERY  HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1791
+#EXTINF:-1,USA| DISCOVERY SC HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1789
+#EXTINF:-1,USA| DISCOVERY ID HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24030
+#EXTINF:-1,USA| HISTORY HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24029
+#EXTINF:-1,USA| H2
+http://51.159.21.231:2052/usapro2@source/799965@26641/1759
+#EXTINF:-1,USA| Travel Channel
+http://51.159.21.231:2052/usapro2@source/799965@26641/1730
+#EXTINF:-1,USA| FOOD NETWORK
+http://51.159.21.231:2052/usapro2@source/799965@26641/1776
+#EXTINF:-1,USA|*****KIDS AND FAMILY*****|USA|
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24025
+#EXTINF:-1,USA| Disney Channel FHD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1787
+#EXTINF:-1,USA| Nick
+http://51.159.21.231:2052/usapro2@source/799965@26641/1745
+#EXTINF:-1,USA| NICKTOONS
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24021
+#EXTINF:-1,USA| SHOWTIME SHOWCASE
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24120
+#EXTINF:-1,USA| Starz Cinema HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24118
+#EXTINF:-1,USA| FX TV HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1763
+#EXTINF:-1,USA| MoreMax HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1751
+#EXTINF:-1,USA| Lifetime Movies HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24117
+#EXTINF:-1,USA| 5 Star Max
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24114
+#EXTINF:-1,USA| ACTIONMAX HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1815
+#EXTINF:-1,USA| AMC HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24122
+#EXTINF:-1,USA| Cinemax East HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24113
+#EXTINF:-1,USA| CINEMAX HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24112
+#EXTINF:-1,USA| EL REY  HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24111
+#EXTINF:-1,USA| TNT HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1731
+#EXTINF:-1,USA| HBO
+http://51.159.21.231:2052/usapro2@source/799965@26641/1755
+#EXTINF:-1,USA| HBO COMEDY HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1757
+#EXTINF:-1,USA| HBO FAMILY HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1818
+#EXTINF:-1,USA| HBO SIGNATURE HD
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24127
+#EXTINF:-1,USA| HBO ZONE
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24126
+#EXTINF:-1,USA| HALLMARK HD
+http://51.159.21.231:2052/usapro2@source/799965@26641/1758
 
 
