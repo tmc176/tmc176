@@ -32,16 +32,6 @@ http://skdn.redi-vo.com/vod/Atlantics_2019_en.mp4?code=103131497823984&key=52750
 http://skdn.redi-vo.com/vod/A_New_Christmas_2019_en.mp4?code=103131497823984&key=52750
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Amundsen_2019_en.mp4.png",Amundsen
 http://skdn.redi-vo.com/vod/Amundsen_2019_en.mp4?code=103131497823984&key=52750
-#EXTM3U
-
-#EXTINF:0 tvg-name="*Beware of scams*Our service is free of cost.*" tvg-language="English" tvg-country="US" tvg-id="Beware of scams. Our service is free of cost." tvg-logo="http://www.vernonhills.org/images/pages/N688/Scam-Alert.png" group-title="Top10",*Beware of scams*Our service is free of cost.* (Top10) (US) (English)
-https://archive.org/download/cCloud_20151126/cCloud.mp4
-
-#EXTINF:0 tvg-name="*Property of cCloudTV.ORG*" tvg-language="English" tvg-country="US" tvg-id="Property of cCloudTV.ORG" tvg-logo="http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg" group-title="Top10",*Property of cCloudTV.ORG* (Top10) (US) (English)
-https://archive.org/download/cCloud_20151126/cCloud.mp4
-
-#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 01-17-2020 12:35:09 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 01-17-2020 12:35:09 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
-https://archive.org/download/cCloud_20151126/cCloud.mp4
 
 #EXTINF:0 tvg-name="101 DALMATIONS" tvg-language="English" tvg-country="US" tvg-id="101 DALMATIONS" tvg-logo="https://i.imgur.com/Iig0ge0.jpg" group-title="OnDemandMovies",101 DALMATIONS (OnDemandMovies) (US) (English)
 http://www.deadlyblogger.com/NewRelease/dal1.mp4
