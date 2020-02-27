@@ -1,3134 +1,807 @@
 #EXTM3U
 
-
-#EXTINF:-1,CA: A&E HD
-http://bdmsat.com:25461/live/murat34/murat34/62297.m3u8
-#EXTINF:-1,CA: ABC HD
-http://bdmsat.com:25461/live/murat34/murat34/62298.m3u8
-#EXTINF:-1,CA: ADDIK TV
-http://bdmsat.com:25461/live/murat34/murat34/62299.m3u8
-#EXTINF:-1,CA: ADDIK TV (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62300.m3u8
-#EXTINF:-1,CA: BNN BLOOMBERG
-http://bdmsat.com:25461/live/murat34/murat34/62301.m3u8
-#EXTINF:-1,CA: CANAL D
-http://bdmsat.com:25461/live/murat34/murat34/62302.m3u8
+#EXTINF:-1,CA: ABC Spark HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71594
+#EXTINF:-1,CA: AMC HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71595
+#EXTINF:-1,CA: ARTV (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71577
+#EXTINF:-1,CA: beIN Sports FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71596
+#EXTINF:-1,CA: BNN HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71597
+#EXTINF:-1,CA: Bravo TV HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71598
+#EXTINF:-1,CA: Canadian Arab TV HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71599
 #EXTINF:-1,CA: CANAL D (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62303.m3u8
-#EXTINF:-1,CA: CASA
-http://bdmsat.com:25461/live/murat34/murat34/62304.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71587
+#EXTINF:-1,CA: Canal Savoir HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71600
 #EXTINF:-1,CA: CASA (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62305.m3u8
-#EXTINF:-1,CA: CBC Halifax
-http://bdmsat.com:25461/live/murat34/murat34/62307.m3u8
-#EXTINF:-1,CA: CBC HD
-http://bdmsat.com:25461/live/murat34/murat34/62308.m3u8
-#EXTINF:-1,CA: CBC Montreal
-http://bdmsat.com:25461/live/murat34/murat34/62309.m3u8
-#EXTINF:-1,CA: CBC Ottawa
-http://bdmsat.com:25461/live/murat34/murat34/62310.m3u8
-#EXTINF:-1,CA: CBC Regina
-http://bdmsat.com:25461/live/murat34/murat34/62311.m3u8
-#EXTINF:-1,CA: CBC Toronto
-http://bdmsat.com:25461/live/murat34/murat34/62312.m3u8
-#EXTINF:-1,CA: CBC Vancouver
-http://bdmsat.com:25461/live/murat34/murat34/62313.m3u8
-#EXTINF:-1,CA: CBC Windsor
-http://bdmsat.com:25461/live/murat34/murat34/62314.m3u8
-#EXTINF:-1,CA: CBC Winnipeg
-http://bdmsat.com:25461/live/murat34/murat34/62315.m3u8
-#EXTINF:-1,CA: CBS HD
-http://bdmsat.com:25461/live/murat34/murat34/62317.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71575
+#EXTINF:-1,CA: CBC (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71578
+#EXTINF:-1,CA: CBC Charlottetown HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71601
+#EXTINF:-1,CA: CBC Federicton HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71602
+#EXTINF:-1,CA: CBC Halifax HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71603
+#EXTINF:-1,CA: CBC Ottawa HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71605
+#EXTINF:-1,CA: CBC Regina HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71606
+#EXTINF:-1,CA: CBC Toronto HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71607
+#EXTINF:-1,CA: CBC Vancouver HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71608
+#EXTINF:-1,CA: CBC Windsor HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71609
+#EXTINF:-1,CA: CBC Winnipeg HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71610
+#EXTINF:-1,CA: CBS (EAST)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71611
+#EXTINF:-1,CA: CHCH HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71573
 #EXTINF:-1,CA: CINE POP (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62318.m3u8
-#EXTINF:-1,CA: CP 24 HD
-http://bdmsat.com:25461/live/murat34/murat34/62319.m3u8
-#EXTINF:-1,CA: CTV NEWS
-http://bdmsat.com:25461/live/murat34/murat34/62320.m3u8
-#EXTINF:-1,CA: CTV TORONTO
-http://bdmsat.com:25461/live/murat34/murat34/62321.m3u8
-#EXTINF:-1,CA: DISNEY JR HD
-http://bdmsat.com:25461/live/murat34/murat34/62322.m3u8
-#EXTINF:-1,CA: DISNEY XD HD
-http://bdmsat.com:25461/live/murat34/murat34/62323.m3u8
-#EXTINF:-1,CA: DIY NETWORK HD
-http://bdmsat.com:25461/live/murat34/murat34/62324.m3u8
-#EXTINF:-1,CA: DOCUMENTARY CHANNEL
-http://bdmsat.com:25461/live/murat34/murat34/62325.m3u8
-#EXTINF:-1,CA: EVASION
-http://bdmsat.com:25461/live/murat34/murat34/62326.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71579
+#EXTINF:-1,CA: City FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71612
+#EXTINF:-1,CA: Comedy HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71613
+#EXTINF:-1,CA: CP24 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71614
+#EXTINF:-1,CA: CPAC HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71615
+#EXTINF:-1,CA: CTV News Live Events 1 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71616
+#EXTINF:-1,CA: CTV News Live Events 2 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71617
+#EXTINF:-1,CA: CTV News Live Events 3 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71618
+#EXTINF:-1,CA: CTV News Live Events 4 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71619
+#EXTINF:-1,CA: Discovery Science
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71620
+#EXTINF:-1,CA: Disney HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71621
+#EXTINF:-1,CA: Disney JR HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71622
+#EXTINF:-1,CA: E! Entertainment HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71623
 #EXTINF:-1,CA: EVASION (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62327.m3u8
-#EXTINF:-1,CA: EW ABC
-http://bdmsat.com:25461/live/murat34/murat34/62328.m3u8
-#EXTINF:-1,CA: EW CBCVANCOUVER
-http://bdmsat.com:25461/live/murat34/murat34/62329.m3u8
-#EXTINF:-1,CA: EW citytor
-http://bdmsat.com:25461/live/murat34/murat34/62330.m3u8
-#EXTINF:-1,CA: EW CPAC
-http://bdmsat.com:25461/live/murat34/murat34/62331.m3u8
-#EXTINF:-1,CA: EW cw
-http://bdmsat.com:25461/live/murat34/murat34/62332.m3u8
-#EXTINF:-1,CA: EW fxxca
-http://bdmsat.com:25461/live/murat34/murat34/62333.m3u8
-#EXTINF:-1,CA: EW SLICE
-http://bdmsat.com:25461/live/murat34/murat34/62334.m3u8
-#EXTINF:-1,CA: Fox HD
-http://bdmsat.com:25461/live/murat34/murat34/62335.m3u8
-#EXTINF:-1,CA: HBO HD
-http://bdmsat.com:25461/live/murat34/murat34/62336.m3u8
-#EXTINF:-1,CA: ICI MONTREAL
-http://bdmsat.com:25461/live/murat34/murat34/62337.m3u8
-#EXTINF:-1,CA: ICI MONTREAL (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62338.m3u8
-#EXTINF:-1,CA: ICI VANCOUVER (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62350.m3u8
-#EXTINF:-1,CA: LCN
-http://bdmsat.com:25461/live/murat34/murat34/62351.m3u8
-#EXTINF:-1,CA: LOVE NATURE
-http://bdmsat.com:25461/live/murat34/murat34/62352.m3u8
-#EXTINF:-1,CA: MAX (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62353.m3u8
-#EXTINF:-1,CA: METEO (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62355.m3u8
-#EXTINF:-1,CA: MOVIETIME HD
-http://bdmsat.com:25461/live/murat34/murat34/62356.m3u8
-#EXTINF:-1,CA: MOI CIE (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62357.m3u8
-#EXTINF:-1,CA: PARAMOUNT NETWORK HD
-http://bdmsat.com:25461/live/murat34/murat34/62358.m3u8
-#EXTINF:-1,CA: PEACH TREE
-http://bdmsat.com:25461/live/murat34/murat34/62359.m3u8
-#EXTINF:-1,CA: PRISE
-http://bdmsat.com:25461/live/murat34/murat34/62360.m3u8
-#EXTINF:-1,CA: PRISE (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62361.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71589
+#EXTINF:-1,CA: Family
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71624
+#EXTINF:-1,CA: Fight Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71625
+#EXTINF:-1,CA: FOX HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71626
+#EXTINF:-1,CA: FX HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71627
+#EXTINF:-1,CA: FXX HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71628
+#EXTINF:-1,CA: Global FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71629
+#EXTINF:-1,CA: HBO 1
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71630
+#EXTINF:-1,CA: HBO 2
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71631
+#EXTINF:-1,CA: HBO 2 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71632
+#EXTINF:-1,CA: HGTV HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71633
+#EXTINF:-1,CA: HISTORIA (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71566
+#EXTINF:-1,CA: History HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71634
+#EXTINF:-1,CA: HLN HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71635
+#EXTINF:-1,CA: Lifetime
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71636
+#EXTINF:-1,CA: MOI & CIE HD (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71580
+#EXTINF:-1,CA: MUSIC PLUS (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71576
+#EXTINF:-1,CA: National Geographic HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71637
+#EXTINF:-1,CA: NBC FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71638
+#EXTINF:-1,CA: NTV News HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71639
+#EXTINF:-1,CA: OWN HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71640
+#EXTINF:-1,CA: Paramount
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71641
+#EXTINF:-1,CA: PBS HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71642
+#EXTINF:-1,CA: Peachtree HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71643
+#EXTINF:-1,CA: PRISE 2(FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71581
+#EXTINF:-1,CA: RDI (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71585
 #EXTINF:-1,CA: RDS
-http://bdmsat.com:25461/live/murat34/murat34/62362.m3u8
-#EXTINF:-1,CA: RDS 2 (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62363.m3u8
-#EXTINF:-1,CA: RDS INFO
-http://bdmsat.com:25461/live/murat34/murat34/62364.m3u8
-#EXTINF:-1,CA: RDS INFO (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62365.m3u8
-#EXTINF:-1,CA: Seris +
-http://bdmsat.com:25461/live/murat34/murat34/62366.m3u8
-#EXTINF:-1,CA: SPIKE TV / PARAMOUNT
-http://bdmsat.com:25461/live/murat34/murat34/62367.m3u8
-#EXTINF:-1,CA: SPIKE TV PARAMOUNT CANADA
-http://bdmsat.com:25461/live/murat34/murat34/62368.m3u8
-#EXTINF:-1,CA: SportsNet 360 HD
-http://bdmsat.com:25461/live/murat34/murat34/62369.m3u8
-#EXTINF:-1,CA: SportsNet East HD
-http://bdmsat.com:25461/live/murat34/murat34/62370.m3u8
-#EXTINF:-1,CA: SportsNet One HD
-http://bdmsat.com:25461/live/murat34/murat34/62371.m3u8
-#EXTINF:-1,CA: SportsNet West HD
-http://bdmsat.com:25461/live/murat34/murat34/62372.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71567
+#EXTINF:-1,CA: RDS 2
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71568
+#EXTINF:-1,CA: SERIES   (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71588
+#EXTINF:-1,CA: Silver Screen Classics
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71644
+#EXTINF:-1,CA: Slice HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71645
+#EXTINF:-1,CA: Space HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71646
+#EXTINF:-1,CA: Sports Net 360 FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71647
+#EXTINF:-1,CA: Sports Net One HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71648
+#EXTINF:-1,CA: Sports Net Ontario HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71649
+#EXTINF:-1,CA: Sports Net Pacific HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71650
+#EXTINF:-1,CA: Sports Net West  HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71651
+#EXTINF:-1,CA: Sports Net World HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71652
+#EXTINF:-1,CA: Super Channel 1 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71653
+#EXTINF:-1,CA: Super Channel 2 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71654
+#EXTINF:-1,CA: Super Channel Fuse HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71655
+#EXTINF:-1,CA: Super Channel Vault HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71656
 #EXTINF:-1,CA: SUPER ECRAN 1
-http://bdmsat.com:25461/live/murat34/murat34/62374.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71569
 #EXTINF:-1,CA: SUPER ECRAN 2
-http://bdmsat.com:25461/live/murat34/murat34/62375.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71570
+#EXTINF:-1,CA: SUPER ECRAN 3
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71571
 #EXTINF:-1,CA: SUPER ECRAN 4
-http://bdmsat.com:25461/live/murat34/murat34/62376.m3u8
-#EXTINF:-1,CA: TELE QUEBEC
-http://bdmsat.com:25461/live/murat34/murat34/62377.m3u8
-#EXTINF:-1,CA: TELE QUEBEC (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62378.m3u8
-#EXTINF:-1,CA: TFO
-http://bdmsat.com:25461/live/murat34/murat34/62379.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71572
+#EXTINF:-1,CA: TELEMAGINO (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71590
+#EXTINF:-1,CA: Teletoon  HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71586
 #EXTINF:-1,CA: TFO (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62380.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71592
+#EXTINF:-1,CA: TLC HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71657
+#EXTINF:-1,CA: Treehouse
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71658
+#EXTINF:-1,CA: TSN 1 FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71667
 #EXTINF:-1,CA: TSN 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/62381.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71659
+#EXTINF:-1,CA: TSN 2 FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71660
 #EXTINF:-1,CA: TSN 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/62382.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71661
+#EXTINF:-1,CA: TSN 3 FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71662
 #EXTINF:-1,CA: TSN 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/62383.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71663
 #EXTINF:-1,CA: TSN 4 HD
-http://bdmsat.com:25461/live/murat34/murat34/62384.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71664
+#EXTINF:-1,CA: TSN 5 FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71665
 #EXTINF:-1,CA: TSN 5 HD
-http://bdmsat.com:25461/live/murat34/murat34/62385.m3u8
-#EXTINF:-1,CA: TVA MONTREAL
-http://bdmsat.com:25461/live/murat34/murat34/62386.m3u8
-#EXTINF:-1,CA: TVA MONTREAL (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62387.m3u8
-#EXTINF:-1,CA: TVA SPORTS
-http://bdmsat.com:25461/live/murat34/murat34/62388.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71666
+#EXTINF:-1,CA: TVA (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71582
 #EXTINF:-1,CA: TVA SPORTS (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62389.m3u8
-#EXTINF:-1,CA: TVO HD
-http://bdmsat.com:25461/live/murat34/murat34/62390.m3u8
-#EXTINF:-1,CA: VIE
-http://bdmsat.com:25461/live/murat34/murat34/62391.m3u8
-#EXTINF:-1,CA: VIE (FR)
-http://bdmsat.com:25461/live/murat34/murat34/62392.m3u8
-#EXTINF:-1,CA: VRAK TV
-http://bdmsat.com:25461/live/murat34/murat34/62393.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71591
+#EXTINF:-1,CA: UNIS HD (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71583
+#EXTINF:-1,CA: Womens Network FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71668
+#EXTINF:-1,CA: World Fishing Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71669
 #EXTINF:-1,CA: YES TV
-http://bdmsat.com:25461/live/murat34/murat34/62394.m3u8
-#EXTINF:-1,US: Yes Network HD
-http://bdmsat.com:25461/live/murat34/murat34/77649.m3u8
-#EXTINF:-1,US: YES HD
-http://bdmsat.com:25461/live/murat34/murat34/77650.m3u8
-#EXTINF:-1,US: YANGA
-http://bdmsat.com:25461/live/murat34/murat34/77651.m3u8
-#EXTINF:-1,US: Y2K
-http://bdmsat.com:25461/live/murat34/murat34/77652.m3u8
-#EXTINF:-1,US: WWE Network HD
-http://bdmsat.com:25461/live/murat34/murat34/77653.m3u8
-#EXTINF:-1,US: WWE HD
-http://bdmsat.com:25461/live/murat34/murat34/77654.m3u8
-#EXTINF:-1,US: WWE BB
-http://bdmsat.com:25461/live/murat34/murat34/77655.m3u8
-#EXTINF:-1,US: WWE B
-http://bdmsat.com:25461/live/murat34/murat34/77656.m3u8
-#EXTINF:-1,US: WWE 24
-http://bdmsat.com:25461/live/murat34/murat34/77657.m3u8
-#EXTINF:-1,US: WPIX
-http://bdmsat.com:25461/live/murat34/murat34/77658.m3u8
-#EXTINF:-1,US: WORLD FISHING NETWORK HD
-http://bdmsat.com:25461/live/murat34/murat34/77659.m3u8
-#EXTINF:-1,US: Willow Cricket HD
-http://bdmsat.com:25461/live/murat34/murat34/77660.m3u8
-#EXTINF:-1,US: WGN America HD
-http://bdmsat.com:25461/live/murat34/murat34/77661.m3u8
-#EXTINF:-1,US: WGN 9
-http://bdmsat.com:25461/live/murat34/murat34/77662.m3u8
-#EXTINF:-1,US: Westerns 4U
-http://bdmsat.com:25461/live/murat34/murat34/77663.m3u8
-#EXTINF:-1,US: Weather Nation
-http://bdmsat.com:25461/live/murat34/murat34/77664.m3u8
-#EXTINF:-1,US: WEATHER Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/77665.m3u8
-#EXTINF:-1,US: WE TV HD
-http://bdmsat.com:25461/live/murat34/murat34/77666.m3u8
-#EXTINF:-1,US: VSIN
-http://bdmsat.com:25461/live/murat34/murat34/77667.m3u8
-#EXTINF:-1,US: VH1 HD
-http://bdmsat.com:25461/live/murat34/murat34/77668.m3u8
-#EXTINF:-1,US: VH1 EAST
-http://bdmsat.com:25461/live/murat34/murat34/77669.m3u8
-#EXTINF:-1,US: VH1 Classic
-http://bdmsat.com:25461/live/murat34/murat34/77670.m3u8
-#EXTINF:-1,US: VH1 (West)
-http://bdmsat.com:25461/live/murat34/murat34/77671.m3u8
-#EXTINF:-1,US: Velocity HD
-http://bdmsat.com:25461/live/murat34/murat34/77672.m3u8
-#EXTINF:-1,US: Usa Network Pacific
-http://bdmsat.com:25461/live/murat34/murat34/77673.m3u8
-#EXTINF:-1,US: USA Network HD
-http://bdmsat.com:25461/live/murat34/murat34/77674.m3u8
-#EXTINF:-1,US: US: MOTOR TREND HD
-http://bdmsat.com:25461/live/murat34/murat34/77675.m3u8
-#EXTINF:-1,US: Univision tlnovelas
-http://bdmsat.com:25461/live/murat34/murat34/77676.m3u8
-#EXTINF:-1,US: Univision TDN
-http://bdmsat.com:25461/live/murat34/murat34/77677.m3u8
-#EXTINF:-1,US: Univision San Francisco 2
-http://bdmsat.com:25461/live/murat34/murat34/77678.m3u8
-#EXTINF:-1,US: Univision San Francisco
-http://bdmsat.com:25461/live/murat34/murat34/77679.m3u8
-#EXTINF:-1,US: Univision Noticias
-http://bdmsat.com:25461/live/murat34/murat34/77680.m3u8
-#EXTINF:-1,US: Univision New York
-http://bdmsat.com:25461/live/murat34/murat34/77681.m3u8
-#EXTINF:-1,US: Univision Miami
-http://bdmsat.com:25461/live/murat34/murat34/77682.m3u8
-#EXTINF:-1,US: Univision Los Angeles 2
-http://bdmsat.com:25461/live/murat34/murat34/77683.m3u8
-#EXTINF:-1,US: Univision Los Angeles
-http://bdmsat.com:25461/live/murat34/murat34/77684.m3u8
-#EXTINF:-1,US: Univision FHD
-http://bdmsat.com:25461/live/murat34/murat34/77685.m3u8
-#EXTINF:-1,US: Univision East 2
-http://bdmsat.com:25461/live/murat34/murat34/77686.m3u8
-#EXTINF:-1,US: Univision East
-http://bdmsat.com:25461/live/murat34/murat34/77687.m3u8
-#EXTINF:-1,US: Univision Dallas
-http://bdmsat.com:25461/live/murat34/murat34/77688.m3u8
-#EXTINF:-1,US: Univision Dalas 2
-http://bdmsat.com:25461/live/murat34/murat34/77689.m3u8
-#EXTINF:-1,US: Univision Dalas
-http://bdmsat.com:25461/live/murat34/murat34/77690.m3u8
-#EXTINF:-1,US: Univision Chicago 2
-http://bdmsat.com:25461/live/murat34/murat34/77691.m3u8
-#EXTINF:-1,US: Univision Atlanta 2
-http://bdmsat.com:25461/live/murat34/murat34/77692.m3u8
-#EXTINF:-1,US: Univision Arizona
-http://bdmsat.com:25461/live/murat34/murat34/77693.m3u8
-#EXTINF:-1,US: Univision (Paterson)
-http://bdmsat.com:25461/live/murat34/murat34/77694.m3u8
-#EXTINF:-1,US: Univision (Los Angeles)
-http://bdmsat.com:25461/live/murat34/murat34/77695.m3u8
-#EXTINF:-1,US: Univision (Houston)
-http://bdmsat.com:25461/live/murat34/murat34/77696.m3u8
-#EXTINF:-1,US: Univision (Fresno)
-http://bdmsat.com:25461/live/murat34/murat34/77697.m3u8
-#EXTINF:-1,US: Univision (Fort Lauderdale)
-http://bdmsat.com:25461/live/murat34/murat34/77698.m3u8
-#EXTINF:-1,US: Univision (Dallas)
-http://bdmsat.com:25461/live/murat34/murat34/77699.m3u8
-#EXTINF:-1,US: Univision (Cleveland)
-http://bdmsat.com:25461/live/murat34/murat34/77700.m3u8
-#EXTINF:-1,US: Univision (Chicago)
-http://bdmsat.com:25461/live/murat34/murat34/77701.m3u8
-#EXTINF:-1,US: Univision (Austin)
-http://bdmsat.com:25461/live/murat34/murat34/77702.m3u8
-#EXTINF:-1,US: Univision (Atlanta)
-http://bdmsat.com:25461/live/murat34/murat34/77703.m3u8
-#EXTINF:-1,US: Universo
-http://bdmsat.com:25461/live/murat34/murat34/77704.m3u8
-#EXTINF:-1,US: Universal KIDS HD
-http://bdmsat.com:25461/live/murat34/murat34/77705.m3u8
-#EXTINF:-1,US: UNIVERSAL KIDS EAST
-http://bdmsat.com:25461/live/murat34/murat34/77706.m3u8
-#EXTINF:-1,US: Universal Channel
-http://bdmsat.com:25461/live/murat34/murat34/77707.m3u8
-#EXTINF:-1,US: Unimas New York
-http://bdmsat.com:25461/live/murat34/murat34/77708.m3u8
-#EXTINF:-1,US: Unimas Miami
-http://bdmsat.com:25461/live/murat34/murat34/77709.m3u8
-#EXTINF:-1,US: Unimas Los 
-http://bdmsat.com:25461/live/murat34/murat34/77710.m3u8
-#EXTINF:-1,US: Unimas Dallas
-http://bdmsat.com:25461/live/murat34/murat34/77711.m3u8
-#EXTINF:-1,US: Unimas Chicago
-http://bdmsat.com:25461/live/murat34/murat34/77712.m3u8
-#EXTINF:-1,US: Unimas California
-http://bdmsat.com:25461/live/murat34/murat34/77713.m3u8
-#EXTINF:-1,US: Unimas Arizona
-http://bdmsat.com:25461/live/murat34/murat34/77714.m3u8
-#EXTINF:-1,US: UFC TV HD
-http://bdmsat.com:25461/live/murat34/murat34/77715.m3u8
-#EXTINF:-1,US: UFC FIGHT Pass HD
-http://bdmsat.com:25461/live/murat34/murat34/77716.m3u8
-#EXTINF:-1,US: TyC Sports
-http://bdmsat.com:25461/live/murat34/murat34/77717.m3u8
-#EXTINF:-1,US: TVG NETWORK
-http://bdmsat.com:25461/live/murat34/murat34/77718.m3u8
-#EXTINF:-1,US: TV ONE FHD
-http://bdmsat.com:25461/live/murat34/murat34/77719.m3u8
-#EXTINF:-1,US: TV LAND WEST
-http://bdmsat.com:25461/live/murat34/murat34/77720.m3u8
-#EXTINF:-1,US: TV Land HD
-http://bdmsat.com:25461/live/murat34/murat34/77721.m3u8
-#EXTINF:-1,US: TV LAND EAST
-http://bdmsat.com:25461/live/murat34/murat34/77722.m3u8
-#EXTINF:-1,US: TV LAND
-http://bdmsat.com:25461/live/murat34/murat34/77723.m3u8
-#EXTINF:-1,US: TUDN
-http://bdmsat.com:25461/live/murat34/murat34/77724.m3u8
-#EXTINF:-1,US: TSN 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/77725.m3u8
-#EXTINF:-1,US: TRUTV WEST
-http://bdmsat.com:25461/live/murat34/murat34/77726.m3u8
-#EXTINF:-1,US: TRUTV EAST
-http://bdmsat.com:25461/live/murat34/murat34/77727.m3u8
-#EXTINF:-1,US: True Movies +1
-http://bdmsat.com:25461/live/murat34/murat34/77728.m3u8
-#EXTINF:-1,US: TRUE MOVIES
-http://bdmsat.com:25461/live/murat34/murat34/77729.m3u8
-#EXTINF:-1,US: TRU TV HD
-http://bdmsat.com:25461/live/murat34/murat34/77730.m3u8
-#EXTINF:-1,US: TROPICALS
-http://bdmsat.com:25461/live/murat34/murat34/77731.m3u8
-#EXTINF:-1,US: Travel PACIFIC HD
-http://bdmsat.com:25461/live/murat34/murat34/77732.m3u8
-#EXTINF:-1,US: Travel Channel WEST
-http://bdmsat.com:25461/live/murat34/murat34/77733.m3u8
-#EXTINF:-1,US: Travel Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/77734.m3u8
-#EXTINF:-1,US: Travel Channel EAST
-http://bdmsat.com:25461/live/murat34/murat34/77735.m3u8
-#EXTINF:-1,US: TODDLER TUNES
-http://bdmsat.com:25461/live/murat34/murat34/77736.m3u8
-#EXTINF:-1,US: TODAYS COUNTRY CMA AWARDS
-http://bdmsat.com:25461/live/murat34/murat34/77737.m3u8
-#EXTINF:-1,US: TNT Pacific
-http://bdmsat.com:25461/live/murat34/murat34/77738.m3u8
-#EXTINF:-1,US: TNT FHD
-http://bdmsat.com:25461/live/murat34/murat34/77739.m3u8
-#EXTINF:-1,US: TNT (West) HD
-http://bdmsat.com:25461/live/murat34/murat34/77740.m3u8
-#EXTINF:-1,US: TNT (East) HD
-http://bdmsat.com:25461/live/murat34/murat34/77741.m3u8
-#EXTINF:-1,US: TLC WEST
-http://bdmsat.com:25461/live/murat34/murat34/77742.m3u8
-#EXTINF:-1,US: TLC HD
-http://bdmsat.com:25461/live/murat34/murat34/77743.m3u8
-#EXTINF:-1,US: TLC EAST
-http://bdmsat.com:25461/live/murat34/murat34/77744.m3u8
-#EXTINF:-1,US: THROWBACK JAMZ
-http://bdmsat.com:25461/live/murat34/murat34/77745.m3u8
-#EXTINF:-1,US: THRILLERMAX
-http://bdmsat.com:25461/live/murat34/murat34/77746.m3u8
-#EXTINF:-1,US: The Weather Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/77747.m3u8
-#EXTINF:-1,US: The Olympic Channel 5 FHD
-http://bdmsat.com:25461/live/murat34/murat34/77748.m3u8
-#EXTINF:-1,US: The Olympic Channel 4 FHD
-http://bdmsat.com:25461/live/murat34/murat34/77749.m3u8
-#EXTINF:-1,US: The Olympic Channel 3 FHD
-http://bdmsat.com:25461/live/murat34/murat34/77750.m3u8
-#EXTINF:-1,US: The Olympic Channel 2 FHD
-http://bdmsat.com:25461/live/murat34/murat34/77751.m3u8
-#EXTINF:-1,US: THE GOLF Channel
-http://bdmsat.com:25461/live/murat34/murat34/77752.m3u8
-#EXTINF:-1,US: The CW 11
-http://bdmsat.com:25461/live/murat34/murat34/77753.m3u8
-#EXTINF:-1,US: The Blaze
-http://bdmsat.com:25461/live/murat34/murat34/77754.m3u8
-#EXTINF:-1,US: Tennis Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/77755.m3u8
-#EXTINF:-1,US: Telemundo Tucson
-http://bdmsat.com:25461/live/murat34/murat34/77756.m3u8
-#EXTINF:-1,US: Telemundo San Francisco
-http://bdmsat.com:25461/live/murat34/murat34/77757.m3u8
-#EXTINF:-1,US: Telemundo San Diego
-http://bdmsat.com:25461/live/murat34/murat34/77758.m3u8
-#EXTINF:-1,US: Telemundo San Antonio
-http://bdmsat.com:25461/live/murat34/murat34/77759.m3u8
-#EXTINF:-1,US: Telemundo Phoenix
-http://bdmsat.com:25461/live/murat34/murat34/77760.m3u8
-#EXTINF:-1,US: Telemundo Philadelphia
-http://bdmsat.com:25461/live/murat34/murat34/77761.m3u8
-#EXTINF:-1,US: Telemundo New York
-http://bdmsat.com:25461/live/murat34/murat34/77762.m3u8
-#EXTINF:-1,US: TELEMUNDO MIAMI HD
-http://bdmsat.com:25461/live/murat34/murat34/77763.m3u8
-#EXTINF:-1,US: TELEMUNDO LOS ANGELES HD
-http://bdmsat.com:25461/live/murat34/murat34/77764.m3u8
-#EXTINF:-1,US: Telemundo Las Vegas
-http://bdmsat.com:25461/live/murat34/murat34/77765.m3u8
-#EXTINF:-1,US: TELEMUNDO HOUSTON HD
-http://bdmsat.com:25461/live/murat34/murat34/77766.m3u8
-#EXTINF:-1,US: Telemundo Harlingen
-http://bdmsat.com:25461/live/murat34/murat34/77767.m3u8
-#EXTINF:-1,US: Telemundo Fresno
-http://bdmsat.com:25461/live/murat34/murat34/77768.m3u8
-#EXTINF:-1,US: TELEMUNDO DENVER HD
-http://bdmsat.com:25461/live/murat34/murat34/77769.m3u8
-#EXTINF:-1,US: TELEMUNDO DALLAS HD
-http://bdmsat.com:25461/live/murat34/murat34/77770.m3u8
-#EXTINF:-1,US: Telemundo Connecticut
-http://bdmsat.com:25461/live/murat34/murat34/77771.m3u8
-#EXTINF:-1,US: TELEMUNDO CHICAGO HD
-http://bdmsat.com:25461/live/murat34/murat34/77772.m3u8
-#EXTINF:-1,US: TELEMUNDO BOSTON HD
-http://bdmsat.com:25461/live/murat34/murat34/77773.m3u8
-#EXTINF:-1,US: Teen Nick HD
-http://bdmsat.com:25461/live/murat34/murat34/77774.m3u8
-#EXTINF:-1,US: TEEN BEATS
-http://bdmsat.com:25461/live/murat34/murat34/77775.m3u8
-#EXTINF:-1,US: TCM
-http://bdmsat.com:25461/live/murat34/murat34/77776.m3u8
-#EXTINF:-1,US: TBS WEST
-http://bdmsat.com:25461/live/murat34/murat34/77777.m3u8
-#EXTINF:-1,US: TBS Pacific
-http://bdmsat.com:25461/live/murat34/murat34/77778.m3u8
-#EXTINF:-1,US: TBS FHD
-http://bdmsat.com:25461/live/murat34/murat34/77779.m3u8
-#EXTINF:-1,US: TBS EAST
-http://bdmsat.com:25461/live/murat34/murat34/77780.m3u8
-#EXTINF:-1,US: TBN
-http://bdmsat.com:25461/live/murat34/murat34/77781.m3u8
-#EXTINF:-1,US: Tastemade
-http://bdmsat.com:25461/live/murat34/murat34/77782.m3u8
-#EXTINF:-1,US: SYFY WEST
-http://bdmsat.com:25461/live/murat34/murat34/77783.m3u8
-#EXTINF:-1,US: SYFY Pacific
-http://bdmsat.com:25461/live/murat34/murat34/77784.m3u8
-#EXTINF:-1,US: SYFY HD
-http://bdmsat.com:25461/live/murat34/murat34/77785.m3u8
-#EXTINF:-1,US: SYFY EAST
-http://bdmsat.com:25461/live/murat34/murat34/77786.m3u8
-#EXTINF:-1,US: Sundance HD
-http://bdmsat.com:25461/live/murat34/murat34/77787.m3u8
-#EXTINF:-1,US: Starz West FHD
-http://bdmsat.com:25461/live/murat34/murat34/77788.m3u8
-#EXTINF:-1,US: Starz Kids & Family HD
-http://bdmsat.com:25461/live/murat34/murat34/77789.m3u8
-#EXTINF:-1,US: STARZ IN BLACK HD
-http://bdmsat.com:25461/live/murat34/murat34/77790.m3u8
-#EXTINF:-1,US: Starz FHD
-http://bdmsat.com:25461/live/murat34/murat34/77791.m3u8
-#EXTINF:-1,US: Starz Encore Western FHD
-http://bdmsat.com:25461/live/murat34/murat34/77792.m3u8
-#EXTINF:-1,US: Starz Encore Suspense FHD
-http://bdmsat.com:25461/live/murat34/murat34/77793.m3u8
-#EXTINF:-1,US: Starz Encore FHD
-http://bdmsat.com:25461/live/murat34/murat34/77794.m3u8
-#EXTINF:-1,US: Starz Encore Family FHD
-http://bdmsat.com:25461/live/murat34/murat34/77795.m3u8
-#EXTINF:-1,US: Starz Encore East
-http://bdmsat.com:25461/live/murat34/murat34/77796.m3u8
-#EXTINF:-1,US: Starz Encore Classic FHD
-http://bdmsat.com:25461/live/murat34/murat34/77797.m3u8
-#EXTINF:-1,US: Starz Encore Action HD
-http://bdmsat.com:25461/live/murat34/murat34/77798.m3u8
-#EXTINF:-1,US: Starz Edge FHD
-http://bdmsat.com:25461/live/murat34/murat34/77799.m3u8
-#EXTINF:-1,US: Starz Comedy FHD
-http://bdmsat.com:25461/live/murat34/murat34/77800.m3u8
-#EXTINF:-1,US: Starz Cinema FHD
-http://bdmsat.com:25461/live/murat34/murat34/77801.m3u8
-#EXTINF:-1,US: Starz Cinema East HD
-http://bdmsat.com:25461/live/murat34/murat34/77802.m3u8
-#EXTINF:-1,US: Starz Black FHD
-http://bdmsat.com:25461/live/murat34/murat34/77803.m3u8
-#EXTINF:-1,US: STARZ (East) HD
-http://bdmsat.com:25461/live/murat34/murat34/77804.m3u8
-#EXTINF:-1,US: START TV
-http://bdmsat.com:25461/live/murat34/murat34/77805.m3u8
-#EXTINF:-1,US: STAR WORLD HD
-http://bdmsat.com:25461/live/murat34/murat34/77806.m3u8
-#EXTINF:-1,US: STAR MOVIES HD
-http://bdmsat.com:25461/live/murat34/murat34/77807.m3u8
-#EXTINF:-1,US: STADIUM SPORT
-http://bdmsat.com:25461/live/murat34/murat34/77808.m3u8
-#EXTINF:-1,US: STADIUM 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/77809.m3u8
-#EXTINF:-1,US: STADIUM 2
-http://bdmsat.com:25461/live/murat34/murat34/77810.m3u8
-#EXTINF:-1,US: STADIUM 1
-http://bdmsat.com:25461/live/murat34/murat34/77811.m3u8
-#EXTINF:-1,US: STADIUM
-http://bdmsat.com:25461/live/murat34/murat34/77812.m3u8
-#EXTINF:-1,US: Sportsman Channel
-http://bdmsat.com:25461/live/murat34/murat34/77813.m3u8
-#EXTINF:-1,US: Sportskool
-http://bdmsat.com:25461/live/murat34/murat34/77814.m3u8
-#EXTINF:-1,US: Sports Net World HD
-http://bdmsat.com:25461/live/murat34/murat34/77815.m3u8
-#EXTINF:-1,US: Sports Net Ontario HD
-http://bdmsat.com:25461/live/murat34/murat34/77816.m3u8
-#EXTINF:-1,US: Sportime Ohio
-http://bdmsat.com:25461/live/murat34/murat34/77817.m3u8
-#EXTINF:-1,US: Spike HD
-http://bdmsat.com:25461/live/murat34/murat34/77818.m3u8
-#EXTINF:-1,US: SPECTRUM SPORTSNET Lakers
-http://bdmsat.com:25461/live/murat34/murat34/77819.m3u8
-#EXTINF:-1,US: SPECTRUM SPORTSNET
-http://bdmsat.com:25461/live/murat34/murat34/77820.m3u8
-#EXTINF:-1,US: SPECTRUM
-http://bdmsat.com:25461/live/murat34/murat34/77821.m3u8
-#EXTINF:-1,US: Sony Ten Sport 2
-http://bdmsat.com:25461/live/murat34/murat34/77822.m3u8
-#EXTINF:-1,US: Sony Six Sport
-http://bdmsat.com:25461/live/murat34/murat34/77823.m3u8
-#EXTINF:-1,US: SONY MOVIE Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/77824.m3u8
-#EXTINF:-1,US: Sony ESPN
-http://bdmsat.com:25461/live/murat34/murat34/77825.m3u8
-#EXTINF:-1,US: SNY HD
-http://bdmsat.com:25461/live/murat34/murat34/77826.m3u8
-#EXTINF:-1,US: SMITHSONIAN WEST
-http://bdmsat.com:25461/live/murat34/murat34/77827.m3u8
-#EXTINF:-1,US: SMITHSONIAN EAST
-http://bdmsat.com:25461/live/murat34/murat34/77828.m3u8
-#EXTINF:-1,US: Smithsonian Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/77829.m3u8
-#EXTINF:-1,US: SKYNET SPORTS 1
-http://bdmsat.com:25461/live/murat34/murat34/77830.m3u8
-#EXTINF:-1,US: SKY PORTS GOLF HD
-http://bdmsat.com:25461/live/murat34/murat34/77831.m3u8
-#EXTINF:-1,US: SHOWTIME WOMEN
-http://bdmsat.com:25461/live/murat34/murat34/77832.m3u8
-#EXTINF:-1,US: Showtime Showcase FHD
-http://bdmsat.com:25461/live/murat34/murat34/77833.m3u8
-#EXTINF:-1,US: SHOWTIME PACIFIC HD
-http://bdmsat.com:25461/live/murat34/murat34/77834.m3u8
-#EXTINF:-1,US: SHOWTIME NEXT
-http://bdmsat.com:25461/live/murat34/murat34/77835.m3u8
-#EXTINF:-1,US: Showtime FHD
-http://bdmsat.com:25461/live/murat34/murat34/77836.m3u8
-#EXTINF:-1,US: SHOWTIME FAMILY ZONE FHD
-http://bdmsat.com:25461/live/murat34/murat34/77837.m3u8
-#EXTINF:-1,US: Showtime Extreme FHD
-http://bdmsat.com:25461/live/murat34/murat34/77838.m3u8
-#EXTINF:-1,US: SHOWTIME BEYOND
-http://bdmsat.com:25461/live/murat34/murat34/77839.m3u8
-#EXTINF:-1,US: SHOWTIME (West) HD
-http://bdmsat.com:25461/live/murat34/murat34/77840.m3u8
-#EXTINF:-1,US: SHOWTIME (East) HD
-http://bdmsat.com:25461/live/murat34/murat34/77841.m3u8
-#EXTINF:-1,US: SEC Network HD
-http://bdmsat.com:25461/live/murat34/murat34/77842.m3u8
-#EXTINF:-1,US: Science Channel
-http://bdmsat.com:25461/live/murat34/murat34/77843.m3u8
-#EXTINF:-1,US: SBN Global
-http://bdmsat.com:25461/live/murat34/murat34/77844.m3u8
-#EXTINF:-1,US: SBG STADIUM
-http://bdmsat.com:25461/live/murat34/murat34/77845.m3u8
-#EXTINF:-1,US: RT News
-http://bdmsat.com:25461/live/murat34/murat34/77846.m3u8
-#EXTINF:-1,US: ROCK
-http://bdmsat.com:25461/live/murat34/murat34/77847.m3u8
-#EXTINF:-1,US: RIDE TV
-http://bdmsat.com:25461/live/murat34/murat34/77848.m3u8
-#EXTINF:-1,US: RFD TV
-http://bdmsat.com:25461/live/murat34/murat34/77849.m3u8
-#EXTINF:-1,US: REVOLT HD
-http://bdmsat.com:25461/live/murat34/murat34/77850.m3u8
-#EXTINF:-1,US: Reelz HD
-http://bdmsat.com:25461/live/murat34/murat34/77851.m3u8
-#EXTINF:-1,US: RED BULL TV HD
-http://bdmsat.com:25461/live/murat34/murat34/77852.m3u8
-#EXTINF:-1,US: RAP 2K
-http://bdmsat.com:25461/live/murat34/murat34/77853.m3u8
-#EXTINF:-1,US: RAP
-http://bdmsat.com:25461/live/murat34/murat34/77854.m3u8
-#EXTINF:-1,US: RACING TV
-http://bdmsat.com:25461/live/murat34/murat34/77855.m3u8
-#EXTINF:-1,US: R&B SOUL
-http://bdmsat.com:25461/live/murat34/murat34/77856.m3u8
-#EXTINF:-1,US: R&B AND SOUL
-http://bdmsat.com:25461/live/murat34/murat34/77857.m3u8
-#EXTINF:-1,US: QVC HD
-http://bdmsat.com:25461/live/murat34/murat34/77858.m3u8
-#EXTINF:-1,US: Pursuit Channel
-http://bdmsat.com:25461/live/murat34/murat34/77859.m3u8
-#EXTINF:-1,US: Premier Sports 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/77860.m3u8
-#EXTINF:-1,US: POP TV HD
-http://bdmsat.com:25461/live/murat34/murat34/77861.m3u8
-#EXTINF:-1,US: POP LATINO
-http://bdmsat.com:25461/live/murat34/murat34/77862.m3u8
-#EXTINF:-1,US: POP HITS
-http://bdmsat.com:25461/live/murat34/murat34/77863.m3u8
-#EXTINF:-1,US: POP AND COUNTRY
-http://bdmsat.com:25461/live/murat34/murat34/77864.m3u8
-#EXTINF:-1,US: PIXL
-http://bdmsat.com:25461/live/murat34/murat34/77865.m3u8
-#EXTINF:-1,US: PEOPLE TV
-http://bdmsat.com:25461/live/murat34/murat34/77866.m3u8
-#EXTINF:-1,US: PBS Kids HD
-http://bdmsat.com:25461/live/murat34/murat34/77867.m3u8
-#EXTINF:-1,US: PBS Kids (East) HD
-http://bdmsat.com:25461/live/murat34/murat34/77868.m3u8
-#EXTINF:-1,US: PBS HD
-http://bdmsat.com:25461/live/murat34/murat34/77869.m3u8
-#EXTINF:-1,US: PARAMOUNT NETWORK FHD
-http://bdmsat.com:25461/live/murat34/murat34/77870.m3u8
-#EXTINF:-1,US: PARAMOUNT Channel
-http://bdmsat.com:25461/live/murat34/murat34/77871.m3u8
-#EXTINF:-1,US: PAC-12 Washington FHD
-http://bdmsat.com:25461/live/murat34/murat34/77872.m3u8
-#EXTINF:-1,US: PAC-12 Oregon FHD
-http://bdmsat.com:25461/live/murat34/murat34/77873.m3u8
-#EXTINF:-1,US: PAC-12 Networks HD
-http://bdmsat.com:25461/live/murat34/murat34/77874.m3u8
-#EXTINF:-1,US: Pac-12 Mountain
-http://bdmsat.com:25461/live/murat34/murat34/77875.m3u8
-#EXTINF:-1,US: PAC-12 Los Angeles FHD
-http://bdmsat.com:25461/live/murat34/murat34/77876.m3u8
-#EXTINF:-1,US: PAC-12 Bay Area
-http://bdmsat.com:25461/live/murat34/murat34/77877.m3u8
-#EXTINF:-1,US: PAC-12 Arizona
-http://bdmsat.com:25461/live/murat34/murat34/77878.m3u8
-#EXTINF:-1,US: OXYGEN WEST
-http://bdmsat.com:25461/live/murat34/murat34/77879.m3u8
-#EXTINF:-1,US: Oxygen HD
-http://bdmsat.com:25461/live/murat34/murat34/77880.m3u8
-#EXTINF:-1,US: OXYGEN EAST
-http://bdmsat.com:25461/live/murat34/murat34/77881.m3u8
-#EXTINF:-1,US: OWN FHD
-http://bdmsat.com:25461/live/murat34/murat34/77882.m3u8
-#EXTINF:-1,US: OUTSIDE HD
-http://bdmsat.com:25461/live/murat34/murat34/77883.m3u8
-#EXTINF:-1,US: OUTERMAX
-http://bdmsat.com:25461/live/murat34/murat34/77884.m3u8
-#EXTINF:-1,US: Outdoor Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/77885.m3u8
-#EXTINF:-1,US: ONE AMERICAN NEWS NETWORK
-http://bdmsat.com:25461/live/murat34/murat34/77886.m3u8
-#EXTINF:-1,US: ONE AMERICA NEWS
-http://bdmsat.com:25461/live/murat34/murat34/77887.m3u8
-#EXTINF:-1,US: Olympic Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/77888.m3u8
-#EXTINF:-1,US: Nicktoons HD
-http://bdmsat.com:25461/live/murat34/murat34/77889.m3u8
-#EXTINF:-1,US: nickelodeon WEST
-http://bdmsat.com:25461/live/murat34/murat34/77890.m3u8
-#EXTINF:-1,US: nickelodeon KIDS
-http://bdmsat.com:25461/live/murat34/murat34/77891.m3u8
-#EXTINF:-1,US: nickelodeon HD
-http://bdmsat.com:25461/live/murat34/murat34/77892.m3u8
-#EXTINF:-1,US: nickelodeon EAST
-http://bdmsat.com:25461/live/murat34/murat34/77893.m3u8
-#EXTINF:-1,US: NICK MUSIC
-http://bdmsat.com:25461/live/murat34/murat34/77894.m3u8
-#EXTINF:-1,US: Nick Junior HD
-http://bdmsat.com:25461/live/murat34/murat34/77895.m3u8
-#EXTINF:-1,US: Nick Junior EAST
-http://bdmsat.com:25461/live/murat34/murat34/77896.m3u8
-#EXTINF:-1,US: NHL Network HD
-http://bdmsat.com:25461/live/murat34/murat34/77897.m3u8
-#EXTINF:-1,US: NHL GAME Winnipeg Jets at St Louis Blues
-http://bdmsat.com:25461/live/murat34/murat34/77898.m3u8
-#EXTINF:-1,US: NHL 01
-http://bdmsat.com:25461/live/murat34/murat34/77899.m3u8
-#EXTINF:-1,US: NHL 00 NHL NETWORK HD
-http://bdmsat.com:25461/live/murat34/murat34/77900.m3u8
-#EXTINF:-1,US: NFL RED ZONE HD
-http://bdmsat.com:25461/live/murat34/murat34/77901.m3u8
-#EXTINF:-1,US: NFL NOW HD
-http://bdmsat.com:25461/live/murat34/murat34/77902.m3u8
-#EXTINF:-1,US: NFL Network FHD
-http://bdmsat.com:25461/live/murat34/murat34/77903.m3u8
-#EXTINF:-1,US: NFL Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/77904.m3u8
-#EXTINF:-1,US: NEWSY
-http://bdmsat.com:25461/live/murat34/murat34/77905.m3u8
-#EXTINF:-1,US: News 12 New Jersey
-http://bdmsat.com:25461/live/murat34/murat34/77906.m3u8
-#EXTINF:-1,US: News 12 Long Island
-http://bdmsat.com:25461/live/murat34/murat34/77907.m3u8
-#EXTINF:-1,US: News 12 Hudsson
-http://bdmsat.com:25461/live/murat34/murat34/77908.m3u8
-#EXTINF:-1,US: News 12 (The Bronx)
-http://bdmsat.com:25461/live/murat34/murat34/77909.m3u8
-#EXTINF:-1,US: NEWS 12 (BROOKLYN)
-http://bdmsat.com:25461/live/murat34/murat34/77910.m3u8
-#EXTINF:-1,US: Network
-http://bdmsat.com:25461/live/murat34/murat34/77911.m3u8
-#EXTINF:-1,US: NESN Plus
-http://bdmsat.com:25461/live/murat34/murat34/77912.m3u8
-#EXTINF:-1,US: NESN HD
-http://bdmsat.com:25461/live/murat34/murat34/77913.m3u8
-#EXTINF:-1,US: NESN Boston
-http://bdmsat.com:25461/live/murat34/murat34/77914.m3u8
-#EXTINF:-1,US: NECN
-http://bdmsat.com:25461/live/murat34/murat34/77915.m3u8
-#EXTINF:-1,US: NE CABLE NEWS
-http://bdmsat.com:25461/live/murat34/murat34/77916.m3u8
-#EXTINF:-1,US: NBCSN WASHINGTON PLUS
-http://bdmsat.com:25461/live/murat34/murat34/77917.m3u8
-#EXTINF:-1,US: NBCSN WASHINGTON
-http://bdmsat.com:25461/live/murat34/murat34/77918.m3u8
-#EXTINF:-1,US: NBCSN PHILADELPHIAHD
-http://bdmsat.com:25461/live/murat34/murat34/77919.m3u8
-#EXTINF:-1,US: NBCSN PHILADELPHIA HD
-http://bdmsat.com:25461/live/murat34/murat34/77920.m3u8
-#EXTINF:-1,US: NBCSN Gold HD
-http://bdmsat.com:25461/live/murat34/murat34/77921.m3u8
-#EXTINF:-1,US: NBCSN FHD
-http://bdmsat.com:25461/live/murat34/murat34/77922.m3u8
-#EXTINF:-1,US: NBCSN CHICAGO PLUS
-http://bdmsat.com:25461/live/murat34/murat34/77923.m3u8
-#EXTINF:-1,US: NBCSN Chicago HD
-http://bdmsat.com:25461/live/murat34/murat34/77924.m3u8
-#EXTINF:-1,US: NBCSN California HD
-http://bdmsat.com:25461/live/murat34/murat34/77925.m3u8
-#EXTINF:-1,US: NBCSN Boston HD
-http://bdmsat.com:25461/live/murat34/murat34/77926.m3u8
-#EXTINF:-1,US: NBCSN Bay Area HD
-http://bdmsat.com:25461/live/murat34/murat34/77927.m3u8
-#EXTINF:-1,US: NBCSN (North West) HD
-http://bdmsat.com:25461/live/murat34/murat34/77928.m3u8
-#EXTINF:-1,US: NBC WASHINGTON DC WRC
-http://bdmsat.com:25461/live/murat34/murat34/77929.m3u8
-#EXTINF:-1,US: NBC Washington
-http://bdmsat.com:25461/live/murat34/murat34/77930.m3u8
-#EXTINF:-1,US: NBC ST LOUIS MO KSDK
-http://bdmsat.com:25461/live/murat34/murat34/77931.m3u8
-#EXTINF:-1,US: NBC ST LOUIS HD
-http://bdmsat.com:25461/live/murat34/murat34/77932.m3u8
-#EXTINF:-1,US: NBC Sports Philadelphia
-http://bdmsat.com:25461/live/murat34/murat34/77933.m3u8
-#EXTINF:-1,US: NBC SPORTS FHD
-http://bdmsat.com:25461/live/murat34/murat34/77934.m3u8
-#EXTINF:-1,US: NBC SPORTS CHICAGO Plus HD
-http://bdmsat.com:25461/live/murat34/murat34/77935.m3u8
-#EXTINF:-1,US: NBC Sports Chicago
-http://bdmsat.com:25461/live/murat34/murat34/77936.m3u8
-#EXTINF:-1,US: NBC Sports California
-http://bdmsat.com:25461/live/murat34/murat34/77937.m3u8
-#EXTINF:-1,US: NBC SPORTS BOSTON
-http://bdmsat.com:25461/live/murat34/murat34/77938.m3u8
-#EXTINF:-1,US: NBC Sports (Washington) HD
-http://bdmsat.com:25461/live/murat34/murat34/77939.m3u8
-#EXTINF:-1,US: NBC Sports (North West) HD
-http://bdmsat.com:25461/live/murat34/murat34/77940.m3u8
-#EXTINF:-1,US: NBC Sports (Bay Area) HD
-http://bdmsat.com:25461/live/murat34/murat34/77941.m3u8
-#EXTINF:-1,US: NBC SPORT NETWORK HD
-http://bdmsat.com:25461/live/murat34/murat34/77942.m3u8
-#EXTINF:-1,US: NBC SEATTLE WA KING
-http://bdmsat.com:25461/live/murat34/murat34/77943.m3u8
-#EXTINF:-1,US: NBC SEATTLE HD
-http://bdmsat.com:25461/live/murat34/murat34/77944.m3u8
-#EXTINF:-1,US: NBC SAN FRANCISCO HD
-http://bdmsat.com:25461/live/murat34/murat34/77945.m3u8
-#EXTINF:-1,US: NBC SAN FRANCISCO CA KNTV
-http://bdmsat.com:25461/live/murat34/murat34/77946.m3u8
-#EXTINF:-1,US: NBC SAN DIEGO HD
-http://bdmsat.com:25461/live/murat34/murat34/77947.m3u8
-#EXTINF:-1,US: NBC SAN DIEGO CA KNSD
-http://bdmsat.com:25461/live/murat34/murat34/77948.m3u8
-#EXTINF:-1,US: NBC SALT LAKE CITY UT KSL
-http://bdmsat.com:25461/live/murat34/murat34/77949.m3u8
-#EXTINF:-1,US: NBC SACRAMENTO CA KCRA
-http://bdmsat.com:25461/live/murat34/murat34/77950.m3u8
-#EXTINF:-1,US: NBC Sacramento
-http://bdmsat.com:25461/live/murat34/murat34/77951.m3u8
-#EXTINF:-1,US: NBC RALEIGH NC WRAL
-http://bdmsat.com:25461/live/murat34/murat34/77952.m3u8
-#EXTINF:-1,US: NBC Raleigh
-http://bdmsat.com:25461/live/murat34/murat34/77953.m3u8
-#EXTINF:-1,US: NBC PORTLAND OR KGW
-http://bdmsat.com:25461/live/murat34/murat34/77954.m3u8
-#EXTINF:-1,US: NBC PORTLAND HD
-http://bdmsat.com:25461/live/murat34/murat34/77955.m3u8
-#EXTINF:-1,US: NBC Portland
-http://bdmsat.com:25461/live/murat34/murat34/77956.m3u8
-#EXTINF:-1,US: NBC PITTSBURGH PA WPXI
-http://bdmsat.com:25461/live/murat34/murat34/77957.m3u8
-#EXTINF:-1,US: NBC PITTSBURGH HD
-http://bdmsat.com:25461/live/murat34/murat34/77958.m3u8
-#EXTINF:-1,US: NBC PHOENIX HD
-http://bdmsat.com:25461/live/murat34/murat34/77959.m3u8
-#EXTINF:-1,US: NBC PHOENIX AZ KPNX
-http://bdmsat.com:25461/live/murat34/murat34/77960.m3u8
-#EXTINF:-1,US: NBC PHILADELPHIA PA WCAU
-http://bdmsat.com:25461/live/murat34/murat34/77961.m3u8
-#EXTINF:-1,US: NBC Philadelphia
-http://bdmsat.com:25461/live/murat34/murat34/77962.m3u8
-#EXTINF:-1,US: NBC ORLANDO HD
-http://bdmsat.com:25461/live/murat34/murat34/77963.m3u8
-#EXTINF:-1,US: NBC ORLANDO FL WESH
-http://bdmsat.com:25461/live/murat34/murat34/77964.m3u8
-#EXTINF:-1,US: NBC Orlando
-http://bdmsat.com:25461/live/murat34/murat34/77965.m3u8
-#EXTINF:-1,US: NBC NEW YORK NY WNBC
-http://bdmsat.com:25461/live/murat34/murat34/77966.m3u8
-#EXTINF:-1,US: NBC NEW YORK HD
-http://bdmsat.com:25461/live/murat34/murat34/77967.m3u8
-#EXTINF:-1,US: NBC NEW ORLEANS LA WDSU
-http://bdmsat.com:25461/live/murat34/murat34/77968.m3u8
-#EXTINF:-1,US: NBC NEW ORLEANS HD
-http://bdmsat.com:25461/live/murat34/murat34/77969.m3u8
-#EXTINF:-1,US: NBC NASHVILLE TN WSMV
-http://bdmsat.com:25461/live/murat34/murat34/77970.m3u8
-#EXTINF:-1,US: NBC Nashville
-http://bdmsat.com:25461/live/murat34/murat34/77971.m3u8
-#EXTINF:-1,US: NBC MINNEAPOLIS MN KARE
-http://bdmsat.com:25461/live/murat34/murat34/77972.m3u8
-#EXTINF:-1,US: NBC Minneapolis
-http://bdmsat.com:25461/live/murat34/murat34/77973.m3u8
-#EXTINF:-1,US: NBC MILWUAKEE WI WTMJ
-http://bdmsat.com:25461/live/murat34/murat34/77974.m3u8
-#EXTINF:-1,US: NBC Milwaukee
-http://bdmsat.com:25461/live/murat34/murat34/77975.m3u8
-#EXTINF:-1,US: NBC MIAMI FL WTVJ
-http://bdmsat.com:25461/live/murat34/murat34/77976.m3u8
-#EXTINF:-1,US: NBC Miami
-http://bdmsat.com:25461/live/murat34/murat34/77977.m3u8
-#EXTINF:-1,US: NBC LOS ANGELES CA KNBC
-http://bdmsat.com:25461/live/murat34/murat34/77978.m3u8
-#EXTINF:-1,US: NBC Los Angeles
-http://bdmsat.com:25461/live/murat34/murat34/77979.m3u8
-#EXTINF:-1,US: NBC KANSAS CITY MO KSHB
-http://bdmsat.com:25461/live/murat34/murat34/77980.m3u8
-#EXTINF:-1,US: NBC Kansas City
-http://bdmsat.com:25461/live/murat34/murat34/77981.m3u8
-#EXTINF:-1,US: NBC JACKSONVILLE FL WTLV
-http://bdmsat.com:25461/live/murat34/murat34/77982.m3u8
-#EXTINF:-1,US: NBC Jacksonville
-http://bdmsat.com:25461/live/murat34/murat34/77983.m3u8
-#EXTINF:-1,US: NBC INDIANAPOLIS IN WTHR
-http://bdmsat.com:25461/live/murat34/murat34/77984.m3u8
-#EXTINF:-1,US: NBC Indianapolis
-http://bdmsat.com:25461/live/murat34/murat34/77985.m3u8
-#EXTINF:-1,US: NBC HOUSTON TX KPRC
-http://bdmsat.com:25461/live/murat34/murat34/77986.m3u8
-#EXTINF:-1,US: NBC HOUSTON HD
-http://bdmsat.com:25461/live/murat34/murat34/77987.m3u8
-#EXTINF:-1,US: NBC HD
-http://bdmsat.com:25461/live/murat34/murat34/77988.m3u8
-#EXTINF:-1,US: NBC HARTFORD HD
-http://bdmsat.com:25461/live/murat34/murat34/77989.m3u8
-#EXTINF:-1,US: NBC HARTFORD CT WVIT
-http://bdmsat.com:25461/live/murat34/murat34/77990.m3u8
-#EXTINF:-1,US: NBC GREEN BAY WI WGBA
-http://bdmsat.com:25461/live/murat34/murat34/77991.m3u8
-#EXTINF:-1,US: NBC Green Bay HD
-http://bdmsat.com:25461/live/murat34/murat34/77992.m3u8
-#EXTINF:-1,US: NBC GOLF HD
-http://bdmsat.com:25461/live/murat34/murat34/77993.m3u8
-#EXTINF:-1,US: NBC Gold PL 6 HD
-http://bdmsat.com:25461/live/murat34/murat34/77994.m3u8
-#EXTINF:-1,US: NBC Gold PL 5 HD
-http://bdmsat.com:25461/live/murat34/murat34/77995.m3u8
-#EXTINF:-1,US: NBC Gold PL 4 HD
-http://bdmsat.com:25461/live/murat34/murat34/77996.m3u8
-#EXTINF:-1,US: NBC Gold PL 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/77997.m3u8
-#EXTINF:-1,US: NBC Gold PL 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/77998.m3u8
-#EXTINF:-1,US: NBC Gold PL 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/77999.m3u8
-#EXTINF:-1,US: NBC E
-http://bdmsat.com:25461/live/murat34/murat34/78000.m3u8
-#EXTINF:-1,US: NBC DETROIT MI WDIV
-http://bdmsat.com:25461/live/murat34/murat34/78001.m3u8
-#EXTINF:-1,US: NBC DETROIT HD
-http://bdmsat.com:25461/live/murat34/murat34/78002.m3u8
-#EXTINF:-1,US: NBC DENVER CO KUSA
-http://bdmsat.com:25461/live/murat34/murat34/78003.m3u8
-#EXTINF:-1,US: NBC Denver
-http://bdmsat.com:25461/live/murat34/murat34/78004.m3u8
-#EXTINF:-1,US: NBC DALLAS TX KXAS
-http://bdmsat.com:25461/live/murat34/murat34/78005.m3u8
-#EXTINF:-1,US: NBC Dallas HD
-http://bdmsat.com:25461/live/murat34/murat34/78006.m3u8
-#EXTINF:-1,US: NBC CLEVELAND OH WKYC
-http://bdmsat.com:25461/live/murat34/murat34/78007.m3u8
-#EXTINF:-1,US: NBC CLEVELAND HD
-http://bdmsat.com:25461/live/murat34/murat34/78008.m3u8
-#EXTINF:-1,US: NBC Cleveland
-http://bdmsat.com:25461/live/murat34/murat34/78009.m3u8
-#EXTINF:-1,US: NBC CINCINNATI OH WLWT
-http://bdmsat.com:25461/live/murat34/murat34/78010.m3u8
-#EXTINF:-1,US: NBC Cincinnati
-http://bdmsat.com:25461/live/murat34/murat34/78011.m3u8
-#EXTINF:-1,US: NBC CHICAGO IL WMAQ
-http://bdmsat.com:25461/live/murat34/murat34/78012.m3u8
-#EXTINF:-1,US: NBC Chicago
-http://bdmsat.com:25461/live/murat34/murat34/78013.m3u8
-#EXTINF:-1,US: NBC CHARLOTTE NC WCNC
-http://bdmsat.com:25461/live/murat34/murat34/78014.m3u8
-#EXTINF:-1,US: NBC Charlotte HD
-http://bdmsat.com:25461/live/murat34/murat34/78015.m3u8
-#EXTINF:-1,US: NBC BUFFALO NY WGRZ
-http://bdmsat.com:25461/live/murat34/murat34/78016.m3u8
-#EXTINF:-1,US: NBC Buffalo
-http://bdmsat.com:25461/live/murat34/murat34/78017.m3u8
-#EXTINF:-1,US: NBC BOSTON MA WBTS
-http://bdmsat.com:25461/live/murat34/murat34/78018.m3u8
-#EXTINF:-1,US: NBC Boston HD
-http://bdmsat.com:25461/live/murat34/murat34/78019.m3u8
-#EXTINF:-1,US: NBC Bay Area
-http://bdmsat.com:25461/live/murat34/murat34/78020.m3u8
-#EXTINF:-1,US: NBC BALTIMORE MD WBAL
-http://bdmsat.com:25461/live/murat34/murat34/78021.m3u8
-#EXTINF:-1,US: NBC Baltimore HD
-http://bdmsat.com:25461/live/murat34/murat34/78022.m3u8
-#EXTINF:-1,US: NBC Austin
-http://bdmsat.com:25461/live/murat34/murat34/78023.m3u8
-#EXTINF:-1,US: NBC Atlanta HD
-http://bdmsat.com:25461/live/murat34/murat34/78024.m3u8
-#EXTINF:-1,US: NBC ATLANTA GA WXIA
-http://bdmsat.com:25461/live/murat34/murat34/78025.m3u8
-#EXTINF:-1,US: NBA Utah Jazz FHD
-http://bdmsat.com:25461/live/murat34/murat34/78026.m3u8
-#EXTINF:-1,US: NBA TV CALIFORNIA
-http://bdmsat.com:25461/live/murat34/murat34/78027.m3u8
-#EXTINF:-1,US: NBA Toronto Raptors FHD
-http://bdmsat.com:25461/live/murat34/murat34/78028.m3u8
-#EXTINF:-1,US: NBA San Antonio Spurs FHD
-http://bdmsat.com:25461/live/murat34/murat34/78029.m3u8
-#EXTINF:-1,US: NBA Sacramento Kings FHD
-http://bdmsat.com:25461/live/murat34/murat34/78030.m3u8
-#EXTINF:-1,US: NBA Portland Trail Blazers
-http://bdmsat.com:25461/live/murat34/murat34/78031.m3u8
-#EXTINF:-1,US: NBA Phoenix Suns FHD
-http://bdmsat.com:25461/live/murat34/murat34/78032.m3u8
-#EXTINF:-1,US: NBA Philadelphia 76ers FHD
-http://bdmsat.com:25461/live/murat34/murat34/78033.m3u8
-#EXTINF:-1,US: NBA Philadelphia
-http://bdmsat.com:25461/live/murat34/murat34/78034.m3u8
-#EXTINF:-1,US: NBA Orlando Magic
-http://bdmsat.com:25461/live/murat34/murat34/78035.m3u8
-#EXTINF:-1,US: NBA Oklahoma City Thunder
-http://bdmsat.com:25461/live/murat34/murat34/78036.m3u8
-#EXTINF:-1,US: NBA New York Knicks FHD
-http://bdmsat.com:25461/live/murat34/murat34/78037.m3u8
-#EXTINF:-1,US: NBA New Orleans Pelicans FHD
-http://bdmsat.com:25461/live/murat34/murat34/78038.m3u8
-#EXTINF:-1,US: NBA Network
-http://bdmsat.com:25461/live/murat34/murat34/78039.m3u8
-#EXTINF:-1,US: NBA Minnesota Timberwolves FHD
-http://bdmsat.com:25461/live/murat34/murat34/78040.m3u8
-#EXTINF:-1,US: NBA Milwaukee Bucks
-http://bdmsat.com:25461/live/murat34/murat34/78041.m3u8
-#EXTINF:-1,US: NBA Miami Heat
-http://bdmsat.com:25461/live/murat34/murat34/78042.m3u8
-#EXTINF:-1,US: NBA Memphis Grizzlies FHD
-http://bdmsat.com:25461/live/murat34/murat34/78043.m3u8
-#EXTINF:-1,US: NBA Los Angeles Lakers FHD
-http://bdmsat.com:25461/live/murat34/murat34/78044.m3u8
-#EXTINF:-1,US: NBA Los Angeles Clippers FHD
-http://bdmsat.com:25461/live/murat34/murat34/78045.m3u8
-#EXTINF:-1,US: NBA Indiana Pacers FHD
-http://bdmsat.com:25461/live/murat34/murat34/78046.m3u8
-#EXTINF:-1,US: NBA Houston Rockets FHD
-http://bdmsat.com:25461/live/murat34/murat34/78047.m3u8
-#EXTINF:-1,US: NBA HD
-http://bdmsat.com:25461/live/murat34/murat34/78048.m3u8
-#EXTINF:-1,US: NBA Golden State Warriors FHD
-http://bdmsat.com:25461/live/murat34/murat34/78049.m3u8
-#EXTINF:-1,US: NBA Detroit Pistons FHD
-http://bdmsat.com:25461/live/murat34/murat34/78050.m3u8
-#EXTINF:-1,US: NBA Denver Nuggets FHD
-http://bdmsat.com:25461/live/murat34/murat34/78051.m3u8
-#EXTINF:-1,US: NBA Cleveland Cavaliers FHD
-http://bdmsat.com:25461/live/murat34/murat34/78052.m3u8
-#EXTINF:-1,US: NBA Chicago Bulls FHD
-http://bdmsat.com:25461/live/murat34/murat34/78053.m3u8
-#EXTINF:-1,US: NBA Charlotte Hornets
-http://bdmsat.com:25461/live/murat34/murat34/78054.m3u8
-#EXTINF:-1,US: NBA Brooklyn Nets
-http://bdmsat.com:25461/live/murat34/murat34/78055.m3u8
-#EXTINF:-1,US: NAT GEO Wild HD
-http://bdmsat.com:25461/live/murat34/murat34/78056.m3u8
-#EXTINF:-1,US: NAT GEO PEOPLE
-http://bdmsat.com:25461/live/murat34/murat34/78057.m3u8
-#EXTINF:-1,US: NAT GEO Pacific
-http://bdmsat.com:25461/live/murat34/murat34/78058.m3u8
-#EXTINF:-1,US: NAT GEO HD
-http://bdmsat.com:25461/live/murat34/murat34/78059.m3u8
-#EXTINF:-1,US: NAT GEO EAST
-http://bdmsat.com:25461/live/murat34/murat34/78060.m3u8
-#EXTINF:-1,US: MOTOR TREND
-http://bdmsat.com:25461/live/murat34/murat34/78076.m3u8
-#EXTINF:-1,US: MoreMax HD
-http://bdmsat.com:25461/live/murat34/murat34/78077.m3u8
-#EXTINF:-1,US: MLB Strike One
-http://bdmsat.com:25461/live/murat34/murat34/78078.m3u8
-#EXTINF:-1,US: MLB Network HD
-http://bdmsat.com:25461/live/murat34/murat34/78079.m3u8
-#EXTINF:-1,US: MLB HD
-http://bdmsat.com:25461/live/murat34/murat34/78080.m3u8
-#EXTINF:-1,US: ME TV
-http://bdmsat.com:25461/live/murat34/murat34/78082.m3u8
-#EXTINF:-1,US: MAV TV
-http://bdmsat.com:25461/live/murat34/murat34/78083.m3u8
-#EXTINF:-1,US: LONGHORN NETWORK HD
-http://bdmsat.com:25461/live/murat34/murat34/78084.m3u8
-#EXTINF:-1,US: LOGO
-http://bdmsat.com:25461/live/murat34/murat34/78085.m3u8
-#EXTINF:-1,US: LMN
-http://bdmsat.com:25461/live/murat34/murat34/78086.m3u8
-#EXTINF:-1,US: lifetime movies FHD
-http://bdmsat.com:25461/live/murat34/murat34/78087.m3u8
-#EXTINF:-1,US: Lifetime Movie Network HD
-http://bdmsat.com:25461/live/murat34/murat34/78088.m3u8
-#EXTINF:-1,US: LIFETIME FHD
-http://bdmsat.com:25461/live/murat34/murat34/78089.m3u8
-#EXTINF:-1,US: Law And Crime
-http://bdmsat.com:25461/live/murat34/murat34/78090.m3u8
-#EXTINF:-1,US: KIDZ ONLY
-http://bdmsat.com:25461/live/murat34/murat34/78092.m3u8
-#EXTINF:-1,US: KIDZ BOP
-http://bdmsat.com:25461/live/murat34/murat34/78093.m3u8
-#EXTINF:-1,US: KIDS CHRISTMAS
-http://bdmsat.com:25461/live/murat34/murat34/78094.m3u8
-#EXTINF:-1,US: Investigation Discovery WEST
-http://bdmsat.com:25461/live/murat34/murat34/78097.m3u8
-#EXTINF:-1,US: Investigation Discovery Pacific HD
-http://bdmsat.com:25461/live/murat34/murat34/78098.m3u8
-#EXTINF:-1,US: Investigation Discovery FHD
-http://bdmsat.com:25461/live/murat34/murat34/78099.m3u8
-#EXTINF:-1,US: Investigation Discovery EAST
-http://bdmsat.com:25461/live/murat34/murat34/78100.m3u8
-#EXTINF:-1,US: Investgation Discovery HD
-http://bdmsat.com:25461/live/murat34/murat34/78101.m3u8
-#EXTINF:-1,US: Horror Channel
-http://bdmsat.com:25461/live/murat34/murat34/78107.m3u8
-#EXTINF:-1,US: Horizon Sports
-http://bdmsat.com:25461/live/murat34/murat34/78108.m3u8
-#EXTINF:-1,US: Home & Health
-http://bdmsat.com:25461/live/murat34/murat34/78109.m3u8
-#EXTINF:-1,US: History Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/78112.m3u8
-#EXTINF:-1,US: History Channel EAST
-http://bdmsat.com:25461/live/murat34/murat34/78113.m3u8
-#EXTINF:-1,US: HGTV WEST
-http://bdmsat.com:25461/live/murat34/murat34/78115.m3u8
-#EXTINF:-1,US: HGTV FHD
-http://bdmsat.com:25461/live/murat34/murat34/78116.m3u8
-#EXTINF:-1,US: HGTV EAST
-http://bdmsat.com:25461/live/murat34/murat34/78117.m3u8
-#EXTINF:-1,US: HBO Zone FHD
-http://bdmsat.com:25461/live/murat34/murat34/78118.m3u8
-#EXTINF:-1,US: HBO Sinature
-http://bdmsat.com:25461/live/murat34/murat34/78119.m3u8
-#EXTINF:-1,US: HBO Pacific
-http://bdmsat.com:25461/live/murat34/murat34/78120.m3u8
-#EXTINF:-1,US: HBO HD SIGNATURE
-http://bdmsat.com:25461/live/murat34/murat34/78121.m3u8
-#EXTINF:-1,US: HBO HD
-http://bdmsat.com:25461/live/murat34/murat34/78122.m3u8
-#EXTINF:-1,US: HBO Family FHD
-http://bdmsat.com:25461/live/murat34/murat34/78123.m3u8
-#EXTINF:-1,US: HBO COMEDY FHD
-http://bdmsat.com:25461/live/murat34/murat34/78124.m3u8
-#EXTINF:-1,US: HBO 2 West FHD
-http://bdmsat.com:25461/live/murat34/murat34/78125.m3u8
-#EXTINF:-1,US: HBO 2 FHD
-http://bdmsat.com:25461/live/murat34/murat34/78126.m3u8
-#EXTINF:-1,US: HBO 2 East HD
-http://bdmsat.com:25461/live/murat34/murat34/78127.m3u8
-#EXTINF:-1,US: HBO 2 COMEDY
-http://bdmsat.com:25461/live/murat34/murat34/78128.m3u8
-#EXTINF:-1,US: HBO (West) HD
-http://bdmsat.com:25461/live/murat34/murat34/78129.m3u8
-#EXTINF:-1,US: HBO (East) HD
-http://bdmsat.com:25461/live/murat34/murat34/78130.m3u8
-#EXTINF:-1,US: HALLMART MOVIES&MYSTERIES
-http://bdmsat.com:25461/live/murat34/murat34/78131.m3u8
-#EXTINF:-1,US: HALLMARK MOVIES AND MYSTERIES
-http://bdmsat.com:25461/live/murat34/murat34/78132.m3u8
-#EXTINF:-1,US: Hallmark Movies & Mysteries HD
-http://bdmsat.com:25461/live/murat34/murat34/78133.m3u8
-#EXTINF:-1,US: HALLMARK EAST
-http://bdmsat.com:25461/live/murat34/murat34/78134.m3u8
-#EXTINF:-1,US: Hallmark Drama HD
-http://bdmsat.com:25461/live/murat34/murat34/78135.m3u8
-#EXTINF:-1,US: Hallmark Channe HD
-http://bdmsat.com:25461/live/murat34/murat34/78136.m3u8
-#EXTINF:-1,US: Hallmark Chanel HD
-http://bdmsat.com:25461/live/murat34/murat34/78137.m3u8
-#EXTINF:-1,US: H2 HD
-http://bdmsat.com:25461/live/murat34/murat34/78138.m3u8
-#EXTINF:-1,US: GSN HD
-http://bdmsat.com:25461/live/murat34/murat34/78139.m3u8
-#EXTINF:-1,US: GAME SHOW NETWORK HD
-http://bdmsat.com:25461/live/murat34/murat34/78145.m3u8
-#EXTINF:-1,US: FYI
-http://bdmsat.com:25461/live/murat34/murat34/78147.m3u8
-#EXTINF:-1,US: FXX HD
-http://bdmsat.com:25461/live/murat34/murat34/78148.m3u8
-#EXTINF:-1,US: FXX EAST
-http://bdmsat.com:25461/live/murat34/murat34/78149.m3u8
-#EXTINF:-1,US: FXM HD
-http://bdmsat.com:25461/live/murat34/murat34/78150.m3u8
-#EXTINF:-1,US: FX MOVIES HD
-http://bdmsat.com:25461/live/murat34/murat34/78151.m3u8
-#EXTINF:-1,US: FX HD
-http://bdmsat.com:25461/live/murat34/murat34/78152.m3u8
-#EXTINF:-1,US: FX EAST
-http://bdmsat.com:25461/live/murat34/murat34/78153.m3u8
-#EXTINF:-1,US: FUSION
-http://bdmsat.com:25461/live/murat34/murat34/78154.m3u8
-#EXTINF:-1,US: Fuse HD
-http://bdmsat.com:25461/live/murat34/murat34/78155.m3u8
-#EXTINF:-1,US: FREEFORM EAST
-http://bdmsat.com:25461/live/murat34/murat34/78156.m3u8
-#EXTINF:-1,US: Freeform Channel
-http://bdmsat.com:25461/live/murat34/murat34/78157.m3u8
-#EXTINF:-1,US: FOXX HD
-http://bdmsat.com:25461/live/murat34/murat34/78158.m3u8
-#EXTINF:-1,US: FOX Washington
-http://bdmsat.com:25461/live/murat34/murat34/78159.m3u8
-#EXTINF:-1,US: FOX Waco
-http://bdmsat.com:25461/live/murat34/murat34/78160.m3u8
-#EXTINF:-1,US: FOX Tampa
-http://bdmsat.com:25461/live/murat34/murat34/78161.m3u8
-#EXTINF:-1,US: FOX ST LOUIS MO KTVI
-http://bdmsat.com:25461/live/murat34/murat34/78162.m3u8
-#EXTINF:-1,US: FOX ST LOUIS
-http://bdmsat.com:25461/live/murat34/murat34/78163.m3u8
-#EXTINF:-1,US: FOX SPORTS SPORTSTIME OHIO
-http://bdmsat.com:25461/live/murat34/murat34/78164.m3u8
-#EXTINF:-1,US: FOX SPORTS SPORTSTIME
-http://bdmsat.com:25461/live/murat34/murat34/78165.m3u8
-#EXTINF:-1,US: FOX SPORTS SP Ohio
-http://bdmsat.com:25461/live/murat34/murat34/78166.m3u8
-#EXTINF:-1,US: FOX SPORTS SOUTHWEST PLUS
-http://bdmsat.com:25461/live/murat34/murat34/78167.m3u8
-#EXTINF:-1,US: FOX SPORTS SAN ANTONIO
-http://bdmsat.com:25461/live/murat34/murat34/78168.m3u8
-#EXTINF:-1,US: FOX SPORTS Racing HD
-http://bdmsat.com:25461/live/murat34/murat34/78169.m3u8
-#EXTINF:-1,US: FOX SPORTS Oklahoma
-http://bdmsat.com:25461/live/murat34/murat34/78170.m3u8
-#EXTINF:-1,US: FOX SPORTS Ohio Plus
-http://bdmsat.com:25461/live/murat34/murat34/78171.m3u8
-#EXTINF:-1,US: FOX SPORTS NORTH CAROLINA
-http://bdmsat.com:25461/live/murat34/murat34/78172.m3u8
-#EXTINF:-1,US: FOX SPORTS New Orleans
-http://bdmsat.com:25461/live/murat34/murat34/78173.m3u8
-#EXTINF:-1,US: FOX SPORTS Kansas City
-http://bdmsat.com:25461/live/murat34/murat34/78174.m3u8
-#EXTINF:-1,US: FOX SPORTS HOUSTON
-http://bdmsat.com:25461/live/murat34/murat34/78175.m3u8
-#EXTINF:-1,US: FOX SPORTS GEORGIA
-http://bdmsat.com:25461/live/murat34/murat34/78176.m3u8
-#EXTINF:-1,US: FOX SPORTS FLORIDA
-http://bdmsat.com:25461/live/murat34/murat34/78177.m3u8
-#EXTINF:-1,US: FOX SPORTS DEPORTES HD
-http://bdmsat.com:25461/live/murat34/murat34/78178.m3u8
-#EXTINF:-1,US: FOX SPORTS Carolina HD
-http://bdmsat.com:25461/live/murat34/murat34/78179.m3u8
-#EXTINF:-1,US: FOX SPORTS 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/78180.m3u8
-#EXTINF:-1,US: FOX SPORTS 2 FHD
-http://bdmsat.com:25461/live/murat34/murat34/78181.m3u8
-#EXTINF:-1,US: FOX SPORTS 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/78182.m3u8
-#EXTINF:-1,US: FOX SPORTS (Wisconsin) HD
-http://bdmsat.com:25461/live/murat34/murat34/78183.m3u8
-#EXTINF:-1,US: FOX SPORTS (West) HD
-http://bdmsat.com:25461/live/murat34/murat34/78184.m3u8
-#EXTINF:-1,US: FOX SPORTS (Tennessee) HD
-http://bdmsat.com:25461/live/murat34/murat34/78185.m3u8
-#EXTINF:-1,US: FOX SPORTS (Sun) HD
-http://bdmsat.com:25461/live/murat34/murat34/78186.m3u8
-#EXTINF:-1,US: FOX SPORTS (South) HD
-http://bdmsat.com:25461/live/murat34/murat34/78187.m3u8
-#EXTINF:-1,US: FOX SPORTS (South West) HD
-http://bdmsat.com:25461/live/murat34/murat34/78188.m3u8
-#EXTINF:-1,US: FOX SPORTS (South East) HD
-http://bdmsat.com:25461/live/murat34/murat34/78189.m3u8
-#EXTINF:-1,US: FOX SPORTS (San Diego) HD
-http://bdmsat.com:25461/live/murat34/murat34/78190.m3u8
-#EXTINF:-1,US: FOX SPORTS (Prime Ticket) HD
-http://bdmsat.com:25461/live/murat34/murat34/78191.m3u8
-#EXTINF:-1,US: FOX SPORTS (Ohio) HD
-http://bdmsat.com:25461/live/murat34/murat34/78192.m3u8
-#EXTINF:-1,US: FOX SPORTS (North) HD
-http://bdmsat.com:25461/live/murat34/murat34/78193.m3u8
-#EXTINF:-1,US: FOX SPORTS (Mid West) HD
-http://bdmsat.com:25461/live/murat34/murat34/78194.m3u8
-#EXTINF:-1,US: FOX SPORTS (Detroit) HD
-http://bdmsat.com:25461/live/murat34/murat34/78195.m3u8
-#EXTINF:-1,US: FOX SPORTS (Carolinas) HD
-http://bdmsat.com:25461/live/murat34/murat34/78196.m3u8
-#EXTINF:-1,US: FOX SPORTS (Arizona) HD
-http://bdmsat.com:25461/live/murat34/murat34/78197.m3u8
-#EXTINF:-1,US: FOX SPCCER PLUS
-http://bdmsat.com:25461/live/murat34/murat34/78198.m3u8
-#EXTINF:-1,US: FOX SOCCER SUN HD
-http://bdmsat.com:25461/live/murat34/murat34/78199.m3u8
-#EXTINF:-1,US: FOX SOCCER PLUS HD
-http://bdmsat.com:25461/live/murat34/murat34/78200.m3u8
-#EXTINF:-1,US: FOX SEATTLE WA KCPQ
-http://bdmsat.com:25461/live/murat34/murat34/78201.m3u8
-#EXTINF:-1,US: FOX Seattle
-http://bdmsat.com:25461/live/murat34/murat34/78202.m3u8
-#EXTINF:-1,US: FOX SAN FRANCISCO HD
-http://bdmsat.com:25461/live/murat34/murat34/78203.m3u8
-#EXTINF:-1,US: FOX SAN FRANCISCO CA KTVU
-http://bdmsat.com:25461/live/murat34/murat34/78204.m3u8
-#EXTINF:-1,US: FOX SAN DIEGO CA KSWB
-http://bdmsat.com:25461/live/murat34/murat34/78205.m3u8
-#EXTINF:-1,US: FOX San Diego
-http://bdmsat.com:25461/live/murat34/murat34/78206.m3u8
-#EXTINF:-1,US: FOX SAN ANTONIO TX KABB
-http://bdmsat.com:25461/live/murat34/murat34/78207.m3u8
-#EXTINF:-1,US: FOX San Antonio
-http://bdmsat.com:25461/live/murat34/murat34/78208.m3u8
-#EXTINF:-1,US: FOX SALT LAKE CITY UT KSTU
-http://bdmsat.com:25461/live/murat34/murat34/78209.m3u8
-#EXTINF:-1,US: FOX Salt Lake City
-http://bdmsat.com:25461/live/murat34/murat34/78210.m3u8
-#EXTINF:-1,US: FOX SACRAMENTO CA KTXL
-http://bdmsat.com:25461/live/murat34/murat34/78211.m3u8
-#EXTINF:-1,US: FOX PITTSBURGH PA WPGH
-http://bdmsat.com:25461/live/murat34/murat34/78212.m3u8
-#EXTINF:-1,US: FOX Pittsburgh
-http://bdmsat.com:25461/live/murat34/murat34/78213.m3u8
-#EXTINF:-1,US: FOX PHOENIX AZ KSAZ
-http://bdmsat.com:25461/live/murat34/murat34/78214.m3u8
-#EXTINF:-1,US: FOX Phoenix
-http://bdmsat.com:25461/live/murat34/murat34/78215.m3u8
-#EXTINF:-1,US: FOX PHILADELPHIA PA WTXF
-http://bdmsat.com:25461/live/murat34/murat34/78216.m3u8
-#EXTINF:-1,US: FOX PHILADELPHIA HD
-http://bdmsat.com:25461/live/murat34/murat34/78217.m3u8
-#EXTINF:-1,US: FOX ORLANDO FL WOFL
-http://bdmsat.com:25461/live/murat34/murat34/78218.m3u8
-#EXTINF:-1,US: FOX Orlando
-http://bdmsat.com:25461/live/murat34/murat34/78219.m3u8
-#EXTINF:-1,US: FOX Ocala
-http://bdmsat.com:25461/live/murat34/murat34/78220.m3u8
-#EXTINF:-1,US: FOX NEWS Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/78221.m3u8
-#EXTINF:-1,US: FOX NEW YORK NY WNYW
-http://bdmsat.com:25461/live/murat34/murat34/78222.m3u8
-#EXTINF:-1,US: FOX NEW YORK HD
-http://bdmsat.com:25461/live/murat34/murat34/78223.m3u8
-#EXTINF:-1,US: FOX NEW ORLEANS LA WVUE
-http://bdmsat.com:25461/live/murat34/murat34/78224.m3u8
-#EXTINF:-1,US: FOX NEW ORLEANS HD
-http://bdmsat.com:25461/live/murat34/murat34/78225.m3u8
-#EXTINF:-1,US: Fox Network
-http://bdmsat.com:25461/live/murat34/murat34/78226.m3u8
-#EXTINF:-1,US: FOX NASHVILLE TN WZTV
-http://bdmsat.com:25461/live/murat34/murat34/78227.m3u8
-#EXTINF:-1,US: FOX Nashville
-http://bdmsat.com:25461/live/murat34/murat34/78228.m3u8
-#EXTINF:-1,US: FOX MINNEAPOLIS HD
-http://bdmsat.com:25461/live/murat34/murat34/78229.m3u8
-#EXTINF:-1,US: FOX MILWAUKEE WI WITI
-http://bdmsat.com:25461/live/murat34/murat34/78230.m3u8
-#EXTINF:-1,US: FOX Milwaukee
-http://bdmsat.com:25461/live/murat34/murat34/78231.m3u8
-#EXTINF:-1,US: FOX MIAMI FL WSVN
-http://bdmsat.com:25461/live/murat34/murat34/78232.m3u8
-#EXTINF:-1,US: FOX LOS ANGELES CA KTTV
-http://bdmsat.com:25461/live/murat34/murat34/78233.m3u8
-#EXTINF:-1,US: FOX Los Angeles
-http://bdmsat.com:25461/live/murat34/murat34/78234.m3u8
-#EXTINF:-1,US: FOX KANSAS CITY MO WDAF
-http://bdmsat.com:25461/live/murat34/murat34/78235.m3u8
-#EXTINF:-1,US: FOX Kansas City
-http://bdmsat.com:25461/live/murat34/murat34/78236.m3u8
-#EXTINF:-1,US: FOX JACKSONVILLE HD
-http://bdmsat.com:25461/live/murat34/murat34/78237.m3u8
-#EXTINF:-1,US: FOX JACKSONVILLE FL WFOX
-http://bdmsat.com:25461/live/murat34/murat34/78238.m3u8
-#EXTINF:-1,US: FOX INDIANAPOLIS IN WXIN
-http://bdmsat.com:25461/live/murat34/murat34/78239.m3u8
-#EXTINF:-1,US: FOX INDIANAPOLIS HD
-http://bdmsat.com:25461/live/murat34/murat34/78240.m3u8
-#EXTINF:-1,US: FOX HOUSTON TX KRIV
-http://bdmsat.com:25461/live/murat34/murat34/78241.m3u8
-#EXTINF:-1,US: FOX Houston
-http://bdmsat.com:25461/live/murat34/murat34/78242.m3u8
-#EXTINF:-1,US: FOX HD
-http://bdmsat.com:25461/live/murat34/murat34/78243.m3u8
-#EXTINF:-1,US: FOX HARTFORD CT WTIC
-http://bdmsat.com:25461/live/murat34/murat34/78244.m3u8
-#EXTINF:-1,US: FOX Hartford
-http://bdmsat.com:25461/live/murat34/murat34/78245.m3u8
-#EXTINF:-1,US: FOX GREEN BAY WI WLUK
-http://bdmsat.com:25461/live/murat34/murat34/78246.m3u8
-#EXTINF:-1,US: FOX GREEN BAY HD
-http://bdmsat.com:25461/live/murat34/murat34/78247.m3u8
-#EXTINF:-1,US: FOX DETROIT MI WJBK
-http://bdmsat.com:25461/live/murat34/murat34/78248.m3u8
-#EXTINF:-1,US: FOX Detroit
-http://bdmsat.com:25461/live/murat34/murat34/78249.m3u8
-#EXTINF:-1,US: FOX Deportes HD
-http://bdmsat.com:25461/live/murat34/murat34/78250.m3u8
-#EXTINF:-1,US: FOX DENVER CO KDVR
-http://bdmsat.com:25461/live/murat34/murat34/78251.m3u8
-#EXTINF:-1,US: FOX Denver
-http://bdmsat.com:25461/live/murat34/murat34/78252.m3u8
-#EXTINF:-1,US: FOX DALLAS TX KDFW
-http://bdmsat.com:25461/live/murat34/murat34/78253.m3u8
-#EXTINF:-1,US: FOX Dallas
-http://bdmsat.com:25461/live/murat34/murat34/78254.m3u8
-#EXTINF:-1,US: FOX COLUMBUS OH WTTE
-http://bdmsat.com:25461/live/murat34/murat34/78255.m3u8
-#EXTINF:-1,US: FOX Columbus
-http://bdmsat.com:25461/live/murat34/murat34/78256.m3u8
-#EXTINF:-1,US: Fox Collage Sports Pacific
-http://bdmsat.com:25461/live/murat34/murat34/78257.m3u8
-#EXTINF:-1,US: Fox Collage Sports Atlantic
-http://bdmsat.com:25461/live/murat34/murat34/78258.m3u8
-#EXTINF:-1,US: FOX CLEVELAND HD
-http://bdmsat.com:25461/live/murat34/murat34/78259.m3u8
-#EXTINF:-1,US: FOX CHICAGO IL WFLD
-http://bdmsat.com:25461/live/murat34/murat34/78260.m3u8
-#EXTINF:-1,US: FOX Chicago
-http://bdmsat.com:25461/live/murat34/murat34/78261.m3u8
-#EXTINF:-1,US: Fox Bussines Network
-http://bdmsat.com:25461/live/murat34/murat34/78262.m3u8
-#EXTINF:-1,US: FOX Business Network HD
-http://bdmsat.com:25461/live/murat34/murat34/78263.m3u8
-#EXTINF:-1,US: Fox Business HD
-http://bdmsat.com:25461/live/murat34/murat34/78264.m3u8
-#EXTINF:-1,US: FOX BUFFALO NY WUTV
-http://bdmsat.com:25461/live/murat34/murat34/78265.m3u8
-#EXTINF:-1,US: FOX BUFFALO HD
-http://bdmsat.com:25461/live/murat34/murat34/78266.m3u8
-#EXTINF:-1,US: FOX BOSTON MA WFXT
-http://bdmsat.com:25461/live/murat34/murat34/78267.m3u8
-#EXTINF:-1,US: FOX BOSTON HD
-http://bdmsat.com:25461/live/murat34/murat34/78268.m3u8
-#EXTINF:-1,US: FOX BALTIMORE MD WBFF
-http://bdmsat.com:25461/live/murat34/murat34/78269.m3u8
-#EXTINF:-1,US: FOX BALTIMORE HD
-http://bdmsat.com:25461/live/murat34/murat34/78270.m3u8
-#EXTINF:-1,US: FOX AUSTIN TX KTBC
-http://bdmsat.com:25461/live/murat34/murat34/78271.m3u8
-#EXTINF:-1,US: FOX Austin
-http://bdmsat.com:25461/live/murat34/murat34/78272.m3u8
-#EXTINF:-1,US: FOX ATLANTA HD
-http://bdmsat.com:25461/live/murat34/murat34/78273.m3u8
-#EXTINF:-1,US: FOX ATLANTA GA WAGA
-http://bdmsat.com:25461/live/murat34/murat34/78274.m3u8
-#EXTINF:-1,US: Fox Altanta
-http://bdmsat.com:25461/live/murat34/murat34/78275.m3u8
-#EXTINF:-1,US: FOX 43 Knoxville
-http://bdmsat.com:25461/live/murat34/murat34/78276.m3u8
-#EXTINF:-1,US: FOX 19 Cincinnati
-http://bdmsat.com:25461/live/murat34/murat34/78277.m3u8
-#EXTINF:-1,US: FOOD NETWORK WEST
-http://bdmsat.com:25461/live/murat34/murat34/78278.m3u8
-#EXTINF:-1,US: Food Network HD
-http://bdmsat.com:25461/live/murat34/murat34/78279.m3u8
-#EXTINF:-1,US: FOOD NETWORK EAST
-http://bdmsat.com:25461/live/murat34/murat34/78280.m3u8
-#EXTINF:-1,US: FIY
-http://bdmsat.com:25461/live/murat34/murat34/78281.m3u8
-#EXTINF:-1,US: Fishing Network
-http://bdmsat.com:25461/live/murat34/murat34/78282.m3u8
-#EXTINF:-1,US: FIGHT Sport 1
-http://bdmsat.com:25461/live/murat34/murat34/78283.m3u8
-#EXTINF:-1,US: FIGHT Network HD
-http://bdmsat.com:25461/live/murat34/murat34/78284.m3u8
-#EXTINF:-1,US: FIGHT BOX HD
-http://bdmsat.com:25461/live/murat34/murat34/78285.m3u8
-#EXTINF:-1,US: Fight
-http://bdmsat.com:25461/live/murat34/murat34/78286.m3u8
-#EXTINF:-1,US: Fantasy
-http://bdmsat.com:25461/live/murat34/murat34/78287.m3u8
-#EXTINF:-1,US: ET
-http://bdmsat.com:25461/live/murat34/murat34/78288.m3u8
-#EXTINF:-1,US: ESPNHD
-http://bdmsat.com:25461/live/murat34/murat34/78289.m3u8
-#EXTINF:-1,US: ESPN USA HD
-http://bdmsat.com:25461/live/murat34/murat34/78290.m3u8
-#EXTINF:-1,US: ESPN U HD
-http://bdmsat.com:25461/live/murat34/murat34/78291.m3u8
-#EXTINF:-1,US: ESPN SEC NETWORKHD
-http://bdmsat.com:25461/live/murat34/murat34/78292.m3u8
-#EXTINF:-1,US: ESPN plus
-http://bdmsat.com:25461/live/murat34/murat34/78293.m3u8
-#EXTINF:-1,US: ESPN NEWSHD
-http://bdmsat.com:25461/live/murat34/murat34/78294.m3u8
-#EXTINF:-1,US: ESPN News HD
-http://bdmsat.com:25461/live/murat34/murat34/78295.m3u8
-#EXTINF:-1,US: ESPN HD
-http://bdmsat.com:25461/live/murat34/murat34/78296.m3u8
-#EXTINF:-1,US: ESPN 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/78300.m3u8
-#EXTINF:-1,US: ESPN 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/78301.m3u8
-#EXTINF:-1,US: ESPN 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/78302.m3u8
-#EXTINF:-1,US: ESP News
-http://bdmsat.com:25461/live/murat34/murat34/78303.m3u8
-#EXTINF:-1,US: EPIX HITS HD
-http://bdmsat.com:25461/live/murat34/murat34/78304.m3u8
-#EXTINF:-1,US: EPIX FHD
-http://bdmsat.com:25461/live/murat34/murat34/78305.m3u8
-#EXTINF:-1,US: EPIX DRIVE IN
-http://bdmsat.com:25461/live/murat34/murat34/78306.m3u8
-#EXTINF:-1,US: EPIX 2
-http://bdmsat.com:25461/live/murat34/murat34/78307.m3u8
-#EXTINF:-1,US: Entertainment
-http://bdmsat.com:25461/live/murat34/murat34/78308.m3u8
-#EXTINF:-1,US: ELEVEN SPORTS Network
-http://bdmsat.com:25461/live/murat34/murat34/78309.m3u8
-#EXTINF:-1,US: ELEVEN SPORTS HD
-http://bdmsat.com:25461/live/murat34/murat34/78310.m3u8
-#EXTINF:-1,US: ELEVEN SPORTS 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/78311.m3u8
-#EXTINF:-1,US: Eleven
-http://bdmsat.com:25461/live/murat34/murat34/78312.m3u8
-#EXTINF:-1,US: EL REY NETWORK
-http://bdmsat.com:25461/live/murat34/murat34/78313.m3u8
-#EXTINF:-1,US: E! WEST
-http://bdmsat.com:25461/live/murat34/murat34/78314.m3u8
-#EXTINF:-1,US: E! FHD
-http://bdmsat.com:25461/live/murat34/murat34/78315.m3u8
-#EXTINF:-1,US: E! EAST
-http://bdmsat.com:25461/live/murat34/murat34/78316.m3u8
-#EXTINF:-1,US: DIY Network HD
-http://bdmsat.com:25461/live/murat34/murat34/78317.m3u8
-#EXTINF:-1,US: DIY HD
-http://bdmsat.com:25461/live/murat34/murat34/78318.m3u8
-#EXTINF:-1,US: Disney XD Pacific
-http://bdmsat.com:25461/live/murat34/murat34/78319.m3u8
-#EXTINF:-1,US: Disney XD FHD
-http://bdmsat.com:25461/live/murat34/murat34/78320.m3u8
-#EXTINF:-1,US: Disney XD EAST
-http://bdmsat.com:25461/live/murat34/murat34/78321.m3u8
-#EXTINF:-1,US: Disney Junior Pacific HD
-http://bdmsat.com:25461/live/murat34/murat34/78322.m3u8
-#EXTINF:-1,US: Disney Jr HD
-http://bdmsat.com:25461/live/murat34/murat34/78323.m3u8
-#EXTINF:-1,US: Disney JR EAST
-http://bdmsat.com:25461/live/murat34/murat34/78324.m3u8
-#EXTINF:-1,US: Disney Channel WEST
-http://bdmsat.com:25461/live/murat34/murat34/78325.m3u8
-#EXTINF:-1,US: Disney Channel Paficic
-http://bdmsat.com:25461/live/murat34/murat34/78326.m3u8
-#EXTINF:-1,US: Disney Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/78327.m3u8
-#EXTINF:-1,US: Disney Channel EAST
-http://bdmsat.com:25461/live/murat34/murat34/78328.m3u8
-#EXTINF:-1,US: Discovery TLC Pacific
-http://bdmsat.com:25461/live/murat34/murat34/78329.m3u8
-#EXTINF:-1,US: Discovery TLC
-http://bdmsat.com:25461/live/murat34/murat34/78330.m3u8
-#EXTINF:-1,US: Discovery Science FHD
-http://bdmsat.com:25461/live/murat34/murat34/78331.m3u8
-#EXTINF:-1,US: Discovery Pacific
-http://bdmsat.com:25461/live/murat34/murat34/78332.m3u8
-#EXTINF:-1,US: Discovery Life HD
-http://bdmsat.com:25461/live/murat34/murat34/78333.m3u8
-#EXTINF:-1,US: Discovery H&H
-http://bdmsat.com:25461/live/murat34/murat34/78334.m3u8
-#EXTINF:-1,US: Discovery Family HD
-http://bdmsat.com:25461/live/murat34/murat34/78335.m3u8
-#EXTINF:-1,US: Discovery FAMILIA HD
-http://bdmsat.com:25461/live/murat34/murat34/78336.m3u8
-#EXTINF:-1,US: Discovery Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/78337.m3u8
-#EXTINF:-1,US: Discovery Channel EAST
-http://bdmsat.com:25461/live/murat34/murat34/78338.m3u8
-#EXTINF:-1,US: Destination America HD
-http://bdmsat.com:25461/live/murat34/murat34/78339.m3u8
-#EXTINF:-1,US: DANCE EDM
-http://bdmsat.com:25461/live/murat34/murat34/78340.m3u8
-#EXTINF:-1,US: CW US HD
-http://bdmsat.com:25461/live/murat34/murat34/78341.m3u8
-#EXTINF:-1,US: CW HD
-http://bdmsat.com:25461/live/murat34/murat34/78342.m3u8
-#EXTINF:-1,US: CW 11
-http://bdmsat.com:25461/live/murat34/murat34/78343.m3u8
-#EXTINF:-1,US: CTV sci-fi FHD
-http://bdmsat.com:25461/live/murat34/murat34/78344.m3u8
-#EXTINF:-1,US: CTV DRAMA FHS
-http://bdmsat.com:25461/live/murat34/murat34/78345.m3u8
-#EXTINF:-1,US: CTV COMEDY EAST
-http://bdmsat.com:25461/live/murat34/murat34/78346.m3u8
-#EXTINF:-1,US: Crime+ Investigation FHD
-http://bdmsat.com:25461/live/murat34/murat34/78347.m3u8
-#EXTINF:-1,US: COZI TV HD
-http://bdmsat.com:25461/live/murat34/murat34/78348.m3u8
-#EXTINF:-1,US: COWBOY Channel
-http://bdmsat.com:25461/live/murat34/murat34/78349.m3u8
-#EXTINF:-1,US: COOKING Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/78350.m3u8
-#EXTINF:-1,US: COMET TV
-http://bdmsat.com:25461/live/murat34/murat34/78351.m3u8
-#EXTINF:-1,US: Comedy Central FHD
-http://bdmsat.com:25461/live/murat34/murat34/78352.m3u8
-#EXTINF:-1,US: COMEDY CENTRAL EAST
-http://bdmsat.com:25461/live/murat34/murat34/78353.m3u8
-#EXTINF:-1,US: CNN FHD
-http://bdmsat.com:25461/live/murat34/murat34/78354.m3u8
-#EXTINF:-1,US: CNBC WORLD HD
-http://bdmsat.com:25461/live/murat34/murat34/78355.m3u8
-#EXTINF:-1,US: CNBC W
-http://bdmsat.com:25461/live/murat34/murat34/78356.m3u8
-#EXTINF:-1,US: CNBC HD
-http://bdmsat.com:25461/live/murat34/murat34/78357.m3u8
-#EXTINF:-1,US: CMT HD
-http://bdmsat.com:25461/live/murat34/murat34/78358.m3u8
-#EXTINF:-1,US: CLEO TV HD
-http://bdmsat.com:25461/live/murat34/murat34/78359.m3u8
-#EXTINF:-1,US: Clasic Arts
-http://bdmsat.com:25461/live/murat34/murat34/78360.m3u8
-#EXTINF:-1,US: CINEMAX Moremax FHD
-http://bdmsat.com:25461/live/murat34/murat34/78361.m3u8
-#EXTINF:-1,US: Cinemax HD
-http://bdmsat.com:25461/live/murat34/murat34/78362.m3u8
-#EXTINF:-1,US: Cinemax East FHD
-http://bdmsat.com:25461/live/murat34/murat34/78363.m3u8
-#EXTINF:-1,US: CINEMAX ACTION MAX HD
-http://bdmsat.com:25461/live/murat34/murat34/78364.m3u8
-#EXTINF:-1,US: Cinemax Action FHD
-http://bdmsat.com:25461/live/murat34/murat34/78365.m3u8
-#EXTINF:-1,US: Cinemax (West) HD
-http://bdmsat.com:25461/live/murat34/murat34/78366.m3u8
-#EXTINF:-1,US: Cinema+ 2
-http://bdmsat.com:25461/live/murat34/murat34/78367.m3u8
-#EXTINF:-1,US: Cinema+ 1
-http://bdmsat.com:25461/live/murat34/murat34/78368.m3u8
-#EXTINF:-1,US: Cinema 41 Rambo Last Blood
-http://bdmsat.com:25461/live/murat34/murat34/78369.m3u8
-#EXTINF:-1,US: Cinema 40 Klaus
-http://bdmsat.com:25461/live/murat34/murat34/78370.m3u8
-#EXTINF:-1,US: Cinema 39 Scary Stories To Tell In The Dark
-http://bdmsat.com:25461/live/murat34/murat34/78371.m3u8
-#EXTINF:-1,US: Cinema 38 The Report
-http://bdmsat.com:25461/live/murat34/murat34/78372.m3u8
-#EXTINF:-1,US: Cinema 35 Dream Girl
-http://bdmsat.com:25461/live/murat34/murat34/78373.m3u8
-#EXTINF:-1,US: Cinema 34 Godzilla King Of The Monsters
-http://bdmsat.com:25461/live/murat34/murat34/78374.m3u8
-#EXTINF:-1,US: Cinema 33 Danger Close
-http://bdmsat.com:25461/live/murat34/murat34/78375.m3u8
-#EXTINF:-1,US: Cinema 32 Dumbo
-http://bdmsat.com:25461/live/murat34/murat34/78376.m3u8
-#EXTINF:-1,US: Cinema 31 John Wick Chapter 3
-http://bdmsat.com:25461/live/murat34/murat34/78377.m3u8
-#EXTINF:-1,US: Cinema 30 How To Train Your Dragon The Hidden World
-http://bdmsat.com:25461/live/murat34/murat34/78378.m3u8
-#EXTINF:-1,US: Cinema 29 Glass
-http://bdmsat.com:25461/live/murat34/murat34/78379.m3u8
-#EXTINF:-1,US: Cinema 28 Hustlers
-http://bdmsat.com:25461/live/murat34/murat34/78380.m3u8
-#EXTINF:-1,US: Cinema 27 Gemini Man
-http://bdmsat.com:25461/live/murat34/murat34/78381.m3u8
-#EXTINF:-1,US: Cinema 26 Pokemon Detective Pikachu
-http://bdmsat.com:25461/live/murat34/murat34/78382.m3u8
-#EXTINF:-1,US: Cinema 25 The Secret Life Of Pets 2
-http://bdmsat.com:25461/live/murat34/murat34/78383.m3u8
-#EXTINF:-1,US: Cinema 24 It 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/78384.m3u8
-#EXTINF:-1,US: Cinema 23 PPV
-http://bdmsat.com:25461/live/murat34/murat34/78385.m3u8
-#EXTINF:-1,US: Cinema 22
-http://bdmsat.com:25461/live/murat34/murat34/78386.m3u8
-#EXTINF:-1,US: Cinema 21
-http://bdmsat.com:25461/live/murat34/murat34/78387.m3u8
-#EXTINF:-1,US: Cinema 20
-http://bdmsat.com:25461/live/murat34/murat34/78388.m3u8
-#EXTINF:-1,US: Cinema 19 Hellboy
-http://bdmsat.com:25461/live/murat34/murat34/78389.m3u8
-#EXTINF:-1,US: Cinema 18
-http://bdmsat.com:25461/live/murat34/murat34/78390.m3u8
-#EXTINF:-1,US: Cinema 17
-http://bdmsat.com:25461/live/murat34/murat34/78391.m3u8
-#EXTINF:-1,US: Cinema 16
-http://bdmsat.com:25461/live/murat34/murat34/78392.m3u8
-#EXTINF:-1,US: Cinema 15
-http://bdmsat.com:25461/live/murat34/murat34/78393.m3u8
-#EXTINF:-1,US: Cinema 14
-http://bdmsat.com:25461/live/murat34/murat34/78394.m3u8
-#EXTINF:-1,US: Cinema 13
-http://bdmsat.com:25461/live/murat34/murat34/78395.m3u8
-#EXTINF:-1,US: Cinema 12
-http://bdmsat.com:25461/live/murat34/murat34/78396.m3u8
-#EXTINF:-1,US: Cinema 11
-http://bdmsat.com:25461/live/murat34/murat34/78397.m3u8
-#EXTINF:-1,US: Cinema 10
-http://bdmsat.com:25461/live/murat34/murat34/78398.m3u8
-#EXTINF:-1,US: Cinema 09 PPV
-http://bdmsat.com:25461/live/murat34/murat34/78399.m3u8
-#EXTINF:-1,US: Cinema 09
-http://bdmsat.com:25461/live/murat34/murat34/78400.m3u8
-#EXTINF:-1,US: Cinema 08
-http://bdmsat.com:25461/live/murat34/murat34/78401.m3u8
-#EXTINF:-1,US: Cinema 07
-http://bdmsat.com:25461/live/murat34/murat34/78402.m3u8
-#EXTINF:-1,US: Cinema 06 PPV
-http://bdmsat.com:25461/live/murat34/murat34/78403.m3u8
-#EXTINF:-1,US: Cinema 06
-http://bdmsat.com:25461/live/murat34/murat34/78404.m3u8
-#EXTINF:-1,US: Cinema 05 PPV
-http://bdmsat.com:25461/live/murat34/murat34/78405.m3u8
-#EXTINF:-1,US: Cinema 05
-http://bdmsat.com:25461/live/murat34/murat34/78406.m3u8
-#EXTINF:-1,US: Cinema 04 HD
-http://bdmsat.com:25461/live/murat34/murat34/78407.m3u8
-#EXTINF:-1,US: Cinema 03
-http://bdmsat.com:25461/live/murat34/murat34/78408.m3u8
-#EXTINF:-1,US: Cinema 02 PPV
-http://bdmsat.com:25461/live/murat34/murat34/78409.m3u8
-#EXTINF:-1,US: Cinema 02
-http://bdmsat.com:25461/live/murat34/murat34/78410.m3u8
-#EXTINF:-1,US: Cinema 01 PPV
-http://bdmsat.com:25461/live/murat34/murat34/78411.m3u8
-#EXTINF:-1,US: Cinema 01
-http://bdmsat.com:25461/live/murat34/murat34/78412.m3u8
-#EXTINF:-1,US: Cine Sony
-http://bdmsat.com:25461/live/murat34/murat34/78413.m3u8
-#EXTINF:-1,US: Chicagos CW 50
-http://bdmsat.com:25461/live/murat34/murat34/78414.m3u8
-#EXTINF:-1,US: Cheddar News
-http://bdmsat.com:25461/live/murat34/murat34/78415.m3u8
-#EXTINF:-1,US: Cheddar Business
-http://bdmsat.com:25461/live/murat34/murat34/78416.m3u8
-#EXTINF:-1,US: Cheddar
-http://bdmsat.com:25461/live/murat34/murat34/78417.m3u8
-#EXTINF:-1,US: Channel 5
-http://bdmsat.com:25461/live/murat34/murat34/78418.m3u8
-#EXTINF:-1,US: CBSN News HD
-http://bdmsat.com:25461/live/murat34/murat34/78419.m3u8
-#EXTINF:-1,US: CBSN HD
-http://bdmsat.com:25461/live/murat34/murat34/78420.m3u8
-#EXTINF:-1,US: CBS WASHINGTON DC WUSA
-http://bdmsat.com:25461/live/murat34/murat34/78421.m3u8
-#EXTINF:-1,US: CBS Washington
-http://bdmsat.com:25461/live/murat34/murat34/78422.m3u8
-#EXTINF:-1,US: CBS Waco TX
-http://bdmsat.com:25461/live/murat34/murat34/78423.m3u8
-#EXTINF:-1,US: CBS TAMPAS HD
-http://bdmsat.com:25461/live/murat34/murat34/78424.m3u8
-#EXTINF:-1,US: CBS TAMPA FL WTSP
-http://bdmsat.com:25461/live/murat34/murat34/78425.m3u8
-#EXTINF:-1,US: CBS ST LOUIS MO KMOV
-http://bdmsat.com:25461/live/murat34/murat34/78426.m3u8
-#EXTINF:-1,US: CBS ST LOUIS
-http://bdmsat.com:25461/live/murat34/murat34/78427.m3u8
-#EXTINF:-1,US: CBS Springfield
-http://bdmsat.com:25461/live/murat34/murat34/78428.m3u8
-#EXTINF:-1,US: CBS Sports Network HD
-http://bdmsat.com:25461/live/murat34/murat34/78429.m3u8
-#EXTINF:-1,US: CBS Sports HQ
-http://bdmsat.com:25461/live/murat34/murat34/78430.m3u8
-#EXTINF:-1,US: CBS Sports
-http://bdmsat.com:25461/live/murat34/murat34/78431.m3u8
-#EXTINF:-1,US: CBS SEATTLE WA KIRO
-http://bdmsat.com:25461/live/murat34/murat34/78432.m3u8
-#EXTINF:-1,US: CBS Seattle
-http://bdmsat.com:25461/live/murat34/murat34/78433.m3u8
-#EXTINF:-1,US: CBS San Francisco HD
-http://bdmsat.com:25461/live/murat34/murat34/78434.m3u8
-#EXTINF:-1,US: CBS SAN FRANCISCO CA KPIX
-http://bdmsat.com:25461/live/murat34/murat34/78435.m3u8
-#EXTINF:-1,US: CBS SAN DIEGO CA KFMB
-http://bdmsat.com:25461/live/murat34/murat34/78436.m3u8
-#EXTINF:-1,US: CBS San Diego
-http://bdmsat.com:25461/live/murat34/murat34/78437.m3u8
-#EXTINF:-1,US: CBS SAN ANTONIO TX KENS
-http://bdmsat.com:25461/live/murat34/murat34/78438.m3u8
-#EXTINF:-1,US: CBS San Antonio HD
-http://bdmsat.com:25461/live/murat34/murat34/78439.m3u8
-#EXTINF:-1,US: CBS Sacramento HD
-http://bdmsat.com:25461/live/murat34/murat34/78440.m3u8
-#EXTINF:-1,US: CBS SACRAMENTO CA KOVR
-http://bdmsat.com:25461/live/murat34/murat34/78441.m3u8
-#EXTINF:-1,US: CBS REALITY
-http://bdmsat.com:25461/live/murat34/murat34/78442.m3u8
-#EXTINF:-1,US: CBS POP
-http://bdmsat.com:25461/live/murat34/murat34/78443.m3u8
-#EXTINF:-1,US: CBS PITTSBURGH PA KDKA
-http://bdmsat.com:25461/live/murat34/murat34/78444.m3u8
-#EXTINF:-1,US: CBS Pittsburgh
-http://bdmsat.com:25461/live/murat34/murat34/78445.m3u8
-#EXTINF:-1,US: CBS PHOENIX AZ KPHO
-http://bdmsat.com:25461/live/murat34/murat34/78446.m3u8
-#EXTINF:-1,US: CBS Phoenix
-http://bdmsat.com:25461/live/murat34/murat34/78447.m3u8
-#EXTINF:-1,US: CBS PHILADELPHIA PA KYW
-http://bdmsat.com:25461/live/murat34/murat34/78448.m3u8
-#EXTINF:-1,US: CBS PHILADELPHIA HD
-http://bdmsat.com:25461/live/murat34/murat34/78449.m3u8
-#EXTINF:-1,US: CBS ORLANDO FL WKMG
-http://bdmsat.com:25461/live/murat34/murat34/78450.m3u8
-#EXTINF:-1,US: CBS Orlando
-http://bdmsat.com:25461/live/murat34/murat34/78451.m3u8
-#EXTINF:-1,US: CBS NY HD
-http://bdmsat.com:25461/live/murat34/murat34/78452.m3u8
-#EXTINF:-1,US: CBS NEWS
-http://bdmsat.com:25461/live/murat34/murat34/78453.m3u8
-#EXTINF:-1,US: CBS NEW YORK NY WCBS
-http://bdmsat.com:25461/live/murat34/murat34/78454.m3u8
-#EXTINF:-1,US: CBS New York FHD
-http://bdmsat.com:25461/live/murat34/murat34/78455.m3u8
-#EXTINF:-1,US: CBS NEW ORLEANS LA WWL
-http://bdmsat.com:25461/live/murat34/murat34/78456.m3u8
-#EXTINF:-1,US: CBS New Orleans
-http://bdmsat.com:25461/live/murat34/murat34/78457.m3u8
-#EXTINF:-1,US: CBS NASHVILLE TN WTVF
-http://bdmsat.com:25461/live/murat34/murat34/78458.m3u8
-#EXTINF:-1,US: CBS Nashville
-http://bdmsat.com:25461/live/murat34/murat34/78459.m3u8
-#EXTINF:-1,US: CBS MINNEAPOLIS MN WCCO
-http://bdmsat.com:25461/live/murat34/murat34/78460.m3u8
-#EXTINF:-1,US: CBS MINNEAPOLIS HD
-http://bdmsat.com:25461/live/murat34/murat34/78461.m3u8
-#EXTINF:-1,US: CBS MILWAUKEE WI WDJT
-http://bdmsat.com:25461/live/murat34/murat34/78462.m3u8
-#EXTINF:-1,US: CBS Milwaukee
-http://bdmsat.com:25461/live/murat34/murat34/78463.m3u8
-#EXTINF:-1,US: CBS Miami HD
-http://bdmsat.com:25461/live/murat34/murat34/78464.m3u8
-#EXTINF:-1,US: CBS MIAMI FL WFOR
-http://bdmsat.com:25461/live/murat34/murat34/78465.m3u8
-#EXTINF:-1,US: CBS LOS ANGELES CA KCBS
-http://bdmsat.com:25461/live/murat34/murat34/78466.m3u8
-#EXTINF:-1,US: CBS Los Angeles
-http://bdmsat.com:25461/live/murat34/murat34/78467.m3u8
-#EXTINF:-1,US: CBS Little Rock
-http://bdmsat.com:25461/live/murat34/murat34/78468.m3u8
-#EXTINF:-1,US: CBS Lincoln NE
-http://bdmsat.com:25461/live/murat34/murat34/78469.m3u8
-#EXTINF:-1,US: CBS KANSAS CITY MO KCTV
-http://bdmsat.com:25461/live/murat34/murat34/78470.m3u8
-#EXTINF:-1,US: CBS Kansas City HD
-http://bdmsat.com:25461/live/murat34/murat34/78471.m3u8
-#EXTINF:-1,US: CBS JACKSONVILLE FL WJAX
-http://bdmsat.com:25461/live/murat34/murat34/78472.m3u8
-#EXTINF:-1,US: CBS Jacksonville
-http://bdmsat.com:25461/live/murat34/murat34/78473.m3u8
-#EXTINF:-1,US: CBS HOUSTON TX KHOU
-http://bdmsat.com:25461/live/murat34/murat34/78474.m3u8
-#EXTINF:-1,US: CBS HOUSTON HD
-http://bdmsat.com:25461/live/murat34/murat34/78475.m3u8
-#EXTINF:-1,US: CBS HD
-http://bdmsat.com:25461/live/murat34/murat34/78476.m3u8
-#EXTINF:-1,US: CBS Hartford HD
-http://bdmsat.com:25461/live/murat34/murat34/78477.m3u8
-#EXTINF:-1,US: CBS HARTFORD CT WFSB
-http://bdmsat.com:25461/live/murat34/murat34/78478.m3u8
-#EXTINF:-1,US: CBS GREENSBORO NC WFMY
-http://bdmsat.com:25461/live/murat34/murat34/78479.m3u8
-#EXTINF:-1,US: CBS GREENSBORO HD
-http://bdmsat.com:25461/live/murat34/murat34/78480.m3u8
-#EXTINF:-1,US: CBS DETROIT MI WWJ
-http://bdmsat.com:25461/live/murat34/murat34/78481.m3u8
-#EXTINF:-1,US: CBS DETROIT HD
-http://bdmsat.com:25461/live/murat34/murat34/78482.m3u8
-#EXTINF:-1,US: CBS DENVER HD
-http://bdmsat.com:25461/live/murat34/murat34/78483.m3u8
-#EXTINF:-1,US: CBS DENVER CO KCNC
-http://bdmsat.com:25461/live/murat34/murat34/78484.m3u8
-#EXTINF:-1,US: CBS DALLAS TX KTVT
-http://bdmsat.com:25461/live/murat34/murat34/78485.m3u8
-#EXTINF:-1,US: CBS Dallas HD
-http://bdmsat.com:25461/live/murat34/murat34/78486.m3u8
-#EXTINF:-1,US: CBS COLUMBUS OH WBNS
-http://bdmsat.com:25461/live/murat34/murat34/78487.m3u8
-#EXTINF:-1,US: CBS COLUMBUS HD
-http://bdmsat.com:25461/live/murat34/murat34/78488.m3u8
-#EXTINF:-1,US: CBS Colorado
-http://bdmsat.com:25461/live/murat34/murat34/78489.m3u8
-#EXTINF:-1,US: CBS CLEVELAND OH WOIO
-http://bdmsat.com:25461/live/murat34/murat34/78490.m3u8
-#EXTINF:-1,US: CBS CLEVELAND HD
-http://bdmsat.com:25461/live/murat34/murat34/78491.m3u8
-#EXTINF:-1,US: CBS Cleveland
-http://bdmsat.com:25461/live/murat34/murat34/78492.m3u8
-#EXTINF:-1,US: CBS CHICAGO IL WBBM
-http://bdmsat.com:25461/live/murat34/murat34/78493.m3u8
-#EXTINF:-1,US: CBS CHICAGO HD
-http://bdmsat.com:25461/live/murat34/murat34/78494.m3u8
-#EXTINF:-1,US: CBS CHARLOTTE NC WBTV
-http://bdmsat.com:25461/live/murat34/murat34/78495.m3u8
-#EXTINF:-1,US: CBS CHARLOTTE HD
-http://bdmsat.com:25461/live/murat34/murat34/78496.m3u8
-#EXTINF:-1,US: CBS BOSTON MA WBZ
-http://bdmsat.com:25461/live/murat34/murat34/78497.m3u8
-#EXTINF:-1,US: CBS Boston HD
-http://bdmsat.com:25461/live/murat34/murat34/78498.m3u8
-#EXTINF:-1,US: CBS BALTIMORE MD WJZ
-http://bdmsat.com:25461/live/murat34/murat34/78499.m3u8
-#EXTINF:-1,US: CBS Baltimore HD
-http://bdmsat.com:25461/live/murat34/murat34/78500.m3u8
-#EXTINF:-1,US: CBS ATLANTA GA WGCL
-http://bdmsat.com:25461/live/murat34/murat34/78501.m3u8
-#EXTINF:-1,US: CBS Atlanta
-http://bdmsat.com:25461/live/murat34/murat34/78502.m3u8
-#EXTINF:-1,US: CBS 8 Knoxville TN HD
-http://bdmsat.com:25461/live/murat34/murat34/78503.m3u8
-#EXTINF:-1,US: CBS 2 WBM (Chicago) HD
-http://bdmsat.com:25461/live/murat34/murat34/78504.m3u8
-#EXTINF:-1,US: CBS 12 Cincinnati
-http://bdmsat.com:25461/live/murat34/murat34/78505.m3u8
-#EXTINF:-1,US: CARTOON NETWORK WEST
-http://bdmsat.com:25461/live/murat34/murat34/78506.m3u8
-#EXTINF:-1,US: Cartoon Network Pacific
-http://bdmsat.com:25461/live/murat34/murat34/78507.m3u8
-#EXTINF:-1,US: Cartoon Network HD
-http://bdmsat.com:25461/live/murat34/murat34/78508.m3u8
-#EXTINF:-1,US: CARTOON NETWORK (East) HD
-http://bdmsat.com:25461/live/murat34/murat34/78509.m3u8
-#EXTINF:-1,US: CAPITAL TV
-http://bdmsat.com:25461/live/murat34/murat34/78510.m3u8
-#EXTINF:-1,US: C-SPAN 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/78511.m3u8
-#EXTINF:-1,US: C-SPAN 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/78512.m3u8
-#EXTINF:-1,US: C-SPAN 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/78513.m3u8
-#EXTINF:-1,US: BYU SPORTS TV HD
-http://bdmsat.com:25461/live/murat34/murat34/78514.m3u8
-#EXTINF:-1,US: BUZZR TV
-http://bdmsat.com:25461/live/murat34/murat34/78515.m3u8
-#EXTINF:-1,US: Buzzer
-http://bdmsat.com:25461/live/murat34/murat34/78516.m3u8
-#EXTINF:-1,US: BTN Sports
-http://bdmsat.com:25461/live/murat34/murat34/78517.m3u8
-#EXTINF:-1,US: BTN HD
-http://bdmsat.com:25461/live/murat34/murat34/78518.m3u8
-#EXTINF:-1,US: BT Sport ESPN
-http://bdmsat.com:25461/live/murat34/murat34/78519.m3u8
-#EXTINF:-1,US: BRITS AND HITS
-http://bdmsat.com:25461/live/murat34/murat34/78520.m3u8
-#EXTINF:-1,US: BRAVO WEST
-http://bdmsat.com:25461/live/murat34/murat34/78521.m3u8
-#EXTINF:-1,US: Bravo HD
-http://bdmsat.com:25461/live/murat34/murat34/78522.m3u8
-#EXTINF:-1,US: BRAVO EAST
-http://bdmsat.com:25461/live/murat34/murat34/78523.m3u8
-#EXTINF:-1,US: Bounce TV
-http://bdmsat.com:25461/live/murat34/murat34/78524.m3u8
-#EXTINF:-1,US: Boomerang HD
-http://bdmsat.com:25461/live/murat34/murat34/78525.m3u8
-#EXTINF:-1,US: Bloomberg News
-http://bdmsat.com:25461/live/murat34/murat34/78526.m3u8
-#EXTINF:-1,US: Bloomberg HD
-http://bdmsat.com:25461/live/murat34/murat34/78527.m3u8
-#EXTINF:-1,US: Blaze
-http://bdmsat.com:25461/live/murat34/murat34/78528.m3u8
-#EXTINF:-1,US: Bigten 4
-http://bdmsat.com:25461/live/murat34/murat34/78529.m3u8
-#EXTINF:-1,US: Bigten 3
-http://bdmsat.com:25461/live/murat34/murat34/78530.m3u8
-#EXTINF:-1,US: BIG TEN NETWORK HD
-http://bdmsat.com:25461/live/murat34/murat34/78531.m3u8
-#EXTINF:-1,US: BET WEST
-http://bdmsat.com:25461/live/murat34/murat34/78532.m3u8
-#EXTINF:-1,US: BET SOUL
-http://bdmsat.com:25461/live/murat34/murat34/78533.m3u8
-#EXTINF:-1,US: BET JAMS
-http://bdmsat.com:25461/live/murat34/murat34/78534.m3u8
-#EXTINF:-1,US: BET HER HD
-http://bdmsat.com:25461/live/murat34/murat34/78535.m3u8
-#EXTINF:-1,US: BET GOSPEL
-http://bdmsat.com:25461/live/murat34/murat34/78536.m3u8
-#EXTINF:-1,US: BET FHD
-http://bdmsat.com:25461/live/murat34/murat34/78537.m3u8
-#EXTINF:-1,US: beIN Sports USA
-http://bdmsat.com:25461/live/murat34/murat34/78538.m3u8
-#EXTINF:-1,US: beIN Sports HD
-http://bdmsat.com:25461/live/murat34/murat34/78539.m3u8
-#EXTINF:-1,US: beIN Sports English
-http://bdmsat.com:25461/live/murat34/murat34/78540.m3u8
-#EXTINF:-1,US: beIN Sports 8 Connect
-http://bdmsat.com:25461/live/murat34/murat34/78541.m3u8
-#EXTINF:-1,US: beIN Sports 6 Connect
-http://bdmsat.com:25461/live/murat34/murat34/78542.m3u8
-#EXTINF:-1,US: beIN Sports 5 Connect
-http://bdmsat.com:25461/live/murat34/murat34/78543.m3u8
-#EXTINF:-1,US: BBC WORLD NEWS HD
-http://bdmsat.com:25461/live/murat34/murat34/78544.m3u8
-#EXTINF:-1,US: BBC AMRICA
-http://bdmsat.com:25461/live/murat34/murat34/78545.m3u8
-#EXTINF:-1,US: BBC America HD
-http://bdmsat.com:25461/live/murat34/murat34/78546.m3u8
-#EXTINF:-1,US: Baby TV HD
-http://bdmsat.com:25461/live/murat34/murat34/78547.m3u8
-#EXTINF:-1,US: BABY FIRST
-http://bdmsat.com:25461/live/murat34/murat34/78548.m3u8
-#EXTINF:-1,US: AXS TV
-http://bdmsat.com:25461/live/murat34/murat34/78549.m3u8
-#EXTINF:-1,US: AWE Channel
-http://bdmsat.com:25461/live/murat34/murat34/78550.m3u8
-#EXTINF:-1,US: AT&T SPORTSNET
-http://bdmsat.com:25461/live/murat34/murat34/78551.m3u8
-#EXTINF:-1,US: ASPIRE TV
-http://bdmsat.com:25461/live/murat34/murat34/78552.m3u8
-#EXTINF:-1,US: Antenna TV
-http://bdmsat.com:25461/live/murat34/murat34/78553.m3u8
-#EXTINF:-1,US: ANIMAL PLANET HD
-http://bdmsat.com:25461/live/murat34/murat34/78554.m3u8
-#EXTINF:-1,US: ANIMAL PLANET EAST
-http://bdmsat.com:25461/live/murat34/murat34/78555.m3u8
-#EXTINF:-1,US: AMERICAN HEROES Channel
-http://bdmsat.com:25461/live/murat34/murat34/78556.m3u8
-#EXTINF:-1,US: American Hero Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/78557.m3u8
-#EXTINF:-1,US: American Classic Network
-http://bdmsat.com:25461/live/murat34/murat34/78558.m3u8
-#EXTINF:-1,US: AMC HD
-http://bdmsat.com:25461/live/murat34/murat34/78559.m3u8
-#EXTINF:-1,US: ALTERNATIVE
-http://bdmsat.com:25461/live/murat34/murat34/78560.m3u8
-#EXTINF:-1,US: AHC
-http://bdmsat.com:25461/live/murat34/murat34/78561.m3u8
-#EXTINF:-1,US: AFN Sport 2
-http://bdmsat.com:25461/live/murat34/murat34/78562.m3u8
-#EXTINF:-1,US: AFN Sport
-http://bdmsat.com:25461/live/murat34/murat34/78563.m3u8
-#EXTINF:-1,US: AFN Prime Pacific HD
-http://bdmsat.com:25461/live/murat34/murat34/78564.m3u8
-#EXTINF:-1,US: AE Mundo
-http://bdmsat.com:25461/live/murat34/murat34/78565.m3u8
-#EXTINF:-1,US: Adult Swim
-http://bdmsat.com:25461/live/murat34/murat34/78566.m3u8
-#EXTINF:-1,US: ACTV
-http://bdmsat.com:25461/live/murat34/murat34/78567.m3u8
-#EXTINF:-1,US: Action Sports
-http://bdmsat.com:25461/live/murat34/murat34/78568.m3u8
-#EXTINF:-1,US: ACTION Max FHD
-http://bdmsat.com:25461/live/murat34/murat34/78569.m3u8
-#EXTINF:-1,US: ACC Network HD
-http://bdmsat.com:25461/live/murat34/murat34/78570.m3u8
-#EXTINF:-1,US: ABC WASHINGTON DC WJLA
-http://bdmsat.com:25461/live/murat34/murat34/78571.m3u8
-#EXTINF:-1,US: ABC Washington
-http://bdmsat.com:25461/live/murat34/murat34/78572.m3u8
-#EXTINF:-1,US: ABC TAMPA BAY FL WFTS
-http://bdmsat.com:25461/live/murat34/murat34/78573.m3u8
-#EXTINF:-1,US: ABC Tampa Bay
-http://bdmsat.com:25461/live/murat34/murat34/78574.m3u8
-#EXTINF:-1,US: ABC St Paul MN
-http://bdmsat.com:25461/live/murat34/murat34/78575.m3u8
-#EXTINF:-1,US: ABC ST LOUIS MO KDNL
-http://bdmsat.com:25461/live/murat34/murat34/78576.m3u8
-#EXTINF:-1,US: ABC St Louis
-http://bdmsat.com:25461/live/murat34/murat34/78577.m3u8
-#EXTINF:-1,US: ABC SEATTLE WA KOMO
-http://bdmsat.com:25461/live/murat34/murat34/78578.m3u8
-#EXTINF:-1,US: ABC SAN FRANCISCO CA KGO
-http://bdmsat.com:25461/live/murat34/murat34/78579.m3u8
-#EXTINF:-1,US: ABC San Francisco
-http://bdmsat.com:25461/live/murat34/murat34/78580.m3u8
-#EXTINF:-1,US: ABC SAN DIEGO CA KGTV
-http://bdmsat.com:25461/live/murat34/murat34/78581.m3u8
-#EXTINF:-1,US: ABC San Diego
-http://bdmsat.com:25461/live/murat34/murat34/78582.m3u8
-#EXTINF:-1,US: ABC SAN ANTONIO TX KSAT
-http://bdmsat.com:25461/live/murat34/murat34/78583.m3u8
-#EXTINF:-1,US: ABC San Antonio
-http://bdmsat.com:25461/live/murat34/murat34/78584.m3u8
-#EXTINF:-1,US: ABC SALT LAKE CITY UT KTVX
-http://bdmsat.com:25461/live/murat34/murat34/78585.m3u8
-#EXTINF:-1,US: ABC Salt lake city
-http://bdmsat.com:25461/live/murat34/murat34/78586.m3u8
-#EXTINF:-1,US: ABC Saint Paul
-http://bdmsat.com:25461/live/murat34/murat34/78587.m3u8
-#EXTINF:-1,US: ABC Sacramento HD
-http://bdmsat.com:25461/live/murat34/murat34/78588.m3u8
-#EXTINF:-1,US: ABC SACRAMENTO CA KXTV
-http://bdmsat.com:25461/live/murat34/murat34/78589.m3u8
-#EXTINF:-1,US: ABC RALEIGH NC WTVD
-http://bdmsat.com:25461/live/murat34/murat34/78590.m3u8
-#EXTINF:-1,US: ABC PORTLAND OR KATU
-http://bdmsat.com:25461/live/murat34/murat34/78591.m3u8
-#EXTINF:-1,US: ABC Portland
-http://bdmsat.com:25461/live/murat34/murat34/78592.m3u8
-#EXTINF:-1,US: ABC PITTSBURGH PA WTAE
-http://bdmsat.com:25461/live/murat34/murat34/78593.m3u8
-#EXTINF:-1,US: ABC Pittsburgh HD
-http://bdmsat.com:25461/live/murat34/murat34/78594.m3u8
-#EXTINF:-1,US: ABC PHOENIX HD
-http://bdmsat.com:25461/live/murat34/murat34/78595.m3u8
-#EXTINF:-1,US: ABC PHOENIX AZ KNXV
-http://bdmsat.com:25461/live/murat34/murat34/78596.m3u8
-#EXTINF:-1,US: ABC Philadelphia
-http://bdmsat.com:25461/live/murat34/murat34/78597.m3u8
-#EXTINF:-1,US: ABC ORLANDO HD
-http://bdmsat.com:25461/live/murat34/murat34/78598.m3u8
-#EXTINF:-1,US: ABC ORLANDO FL WFTV
-http://bdmsat.com:25461/live/murat34/murat34/78599.m3u8
-#EXTINF:-1,US: ABC Orlando
-http://bdmsat.com:25461/live/murat34/murat34/78600.m3u8
-#EXTINF:-1,US: ABC News HD
-http://bdmsat.com:25461/live/murat34/murat34/78601.m3u8
-#EXTINF:-1,US: ABC NEW YORK WABC
-http://bdmsat.com:25461/live/murat34/murat34/78602.m3u8
-#EXTINF:-1,US: ABC New York HD
-http://bdmsat.com:25461/live/murat34/murat34/78603.m3u8
-#EXTINF:-1,US: ABC NASHVILLE TN WKRN
-http://bdmsat.com:25461/live/murat34/murat34/78604.m3u8
-#EXTINF:-1,US: ABC Nashville
-http://bdmsat.com:25461/live/murat34/murat34/78605.m3u8
-#EXTINF:-1,US: ABC MILWAUKEE WI WISN
-http://bdmsat.com:25461/live/murat34/murat34/78606.m3u8
-#EXTINF:-1,US: ABC Milwaukee
-http://bdmsat.com:25461/live/murat34/murat34/78607.m3u8
-#EXTINF:-1,US: ABC Miami HD
-http://bdmsat.com:25461/live/murat34/murat34/78608.m3u8
-#EXTINF:-1,US: ABC MIAMI FL WPLG
-http://bdmsat.com:25461/live/murat34/murat34/78609.m3u8
-#EXTINF:-1,US: ABC Louisville
-http://bdmsat.com:25461/live/murat34/murat34/78610.m3u8
-#EXTINF:-1,US: ABC LOS ANGELES CA KABC
-http://bdmsat.com:25461/live/murat34/murat34/78611.m3u8
-#EXTINF:-1,US: ABC Los Angeles
-http://bdmsat.com:25461/live/murat34/murat34/78612.m3u8
-#EXTINF:-1,US: ABC KANSAS CITY MO KMBC
-http://bdmsat.com:25461/live/murat34/murat34/78613.m3u8
-#EXTINF:-1,US: ABC Kansas City HD
-http://bdmsat.com:25461/live/murat34/murat34/78614.m3u8
-#EXTINF:-1,US: ABC INDIANAPOLIS IN WRTV
-http://bdmsat.com:25461/live/murat34/murat34/78615.m3u8
-#EXTINF:-1,US: ABC Indianapolis
-http://bdmsat.com:25461/live/murat34/murat34/78616.m3u8
-#EXTINF:-1,US: ABC HOUSTON TX KTRK
-http://bdmsat.com:25461/live/murat34/murat34/78617.m3u8
-#EXTINF:-1,US: ABC HOUSTON HD
-http://bdmsat.com:25461/live/murat34/murat34/78618.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71670
+#EXTINF:-1,CA: YOOPA (FR)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71584
+#EXTINF:-1,CA: YTV
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71671
+#EXTINF:-1,CA: YTV East
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71672
+#EXTINF:-1,US: A&E HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71266
 #EXTINF:-1,US: ABC HD
-http://bdmsat.com:25461/live/murat34/murat34/78619.m3u8
-#EXTINF:-1,US: ABC FRESNO CA KFSN
-http://bdmsat.com:25461/live/murat34/murat34/78620.m3u8
-#EXTINF:-1,US: ABC Fresno
-http://bdmsat.com:25461/live/murat34/murat34/78621.m3u8
-#EXTINF:-1,US: ABC FAMILY/SPARK
-http://bdmsat.com:25461/live/murat34/murat34/78622.m3u8
-#EXTINF:-1,US: ABC durham
-http://bdmsat.com:25461/live/murat34/murat34/78623.m3u8
-#EXTINF:-1,US: ABC DETROIT MI WXYZ
-http://bdmsat.com:25461/live/murat34/murat34/78624.m3u8
-#EXTINF:-1,US: ABC Detroit
-http://bdmsat.com:25461/live/murat34/murat34/78625.m3u8
-#EXTINF:-1,US: ABC DENVER HD
-http://bdmsat.com:25461/live/murat34/murat34/78626.m3u8
-#EXTINF:-1,US: ABC DENVER CO KMGH
-http://bdmsat.com:25461/live/murat34/murat34/78627.m3u8
-#EXTINF:-1,US: ABC DALLAS TX WFAA
-http://bdmsat.com:25461/live/murat34/murat34/78628.m3u8
-#EXTINF:-1,US: ABC Dallas
-http://bdmsat.com:25461/live/murat34/murat34/78629.m3u8
-#EXTINF:-1,US: ABC CLEVELAND OH WEWS
-http://bdmsat.com:25461/live/murat34/murat34/78630.m3u8
-#EXTINF:-1,US: ABC Cleveland
-http://bdmsat.com:25461/live/murat34/murat34/78631.m3u8
-#EXTINF:-1,US: ABC CHICAGO IL WLS
-http://bdmsat.com:25461/live/murat34/murat34/78632.m3u8
-#EXTINF:-1,US: ABC CHICAGO HD
-http://bdmsat.com:25461/live/murat34/murat34/78633.m3u8
-#EXTINF:-1,US: ABC CHARLOTTE NC WSOC
-http://bdmsat.com:25461/live/murat34/murat34/78634.m3u8
-#EXTINF:-1,US: ABC Charlotte
-http://bdmsat.com:25461/live/murat34/murat34/78635.m3u8
-#EXTINF:-1,US: ABC BOSTON MA WCVB
-http://bdmsat.com:25461/live/murat34/murat34/78636.m3u8
-#EXTINF:-1,US: ABC BOSTON HD
-http://bdmsat.com:25461/live/murat34/murat34/78637.m3u8
-#EXTINF:-1,US: ABC BALTIMORE MD WMAR
-http://bdmsat.com:25461/live/murat34/murat34/78638.m3u8
-#EXTINF:-1,US: ABC BALTIMORE HD
-http://bdmsat.com:25461/live/murat34/murat34/78639.m3u8
-#EXTINF:-1,US: ABC ATLANTA HD
-http://bdmsat.com:25461/live/murat34/murat34/78640.m3u8
-#EXTINF:-1,US: ABC ATLANTA GA WSB
-http://bdmsat.com:25461/live/murat34/murat34/78641.m3u8
-#EXTINF:-1,US: ABC Action News
-http://bdmsat.com:25461/live/murat34/murat34/78642.m3u8
-#EXTINF:-1,US: ABC 8 (Dallas) HD
-http://bdmsat.com:25461/live/murat34/murat34/78643.m3u8
-#EXTINF:-1,US: ABC 7 SWFL
-http://bdmsat.com:25461/live/murat34/murat34/78644.m3u8
-#EXTINF:-1,US: ABC 6 (Columbus)
-http://bdmsat.com:25461/live/murat34/murat34/78645.m3u8
-#EXTINF:-1,US: ABC (West) HD
-http://bdmsat.com:25461/live/murat34/murat34/78646.m3u8
-#EXTINF:-1,US: A&E FHD
-http://bdmsat.com:25461/live/murat34/murat34/78647.m3u8
-#EXTINF:-1,US: A NETWORK WEST
-http://bdmsat.com:25461/live/murat34/murat34/78648.m3u8
-#EXTINF:-1,US: A NETWORK EAST
-http://bdmsat.com:25461/live/murat34/murat34/78649.m3u8
-#EXTINF:-1,US: A NBC Sports Washington
-http://bdmsat.com:25461/live/murat34/murat34/78650.m3u8
-#EXTINF:-1,US: A NBC Sports Philadelphia
-http://bdmsat.com:25461/live/murat34/murat34/78651.m3u8
-#EXTINF:-1,US: A NBC Sports Northwest
-http://bdmsat.com:25461/live/murat34/murat34/78652.m3u8
-#EXTINF:-1,US: A NBC Sports Chicago
-http://bdmsat.com:25461/live/murat34/murat34/78653.m3u8
-#EXTINF:-1,US: A NBC Sports California
-http://bdmsat.com:25461/live/murat34/murat34/78654.m3u8
-#EXTINF:-1,US: A NBC Sports Boston
-http://bdmsat.com:25461/live/murat34/murat34/78655.m3u8
-#EXTINF:-1,US: A NBC Sports Bay Area
-http://bdmsat.com:25461/live/murat34/murat34/78656.m3u8
-#EXTINF:-1,US: 90S
-http://bdmsat.com:25461/live/murat34/murat34/78657.m3u8
-#EXTINF:-1,US: 5 USA
-http://bdmsat.com:25461/live/murat34/murat34/78658.m3u8
-#EXTINF:-1,US: 5 STAR MAX HD
-http://bdmsat.com:25461/live/murat34/murat34/78659.m3u8
-#EXTINF:-1,UK: 4 MUSIC K
-http://bdmsat.com:25461/live/murat34/murat34/79452.m3u8
-#EXTINF:-1,UK: 4 Seven FHD
-http://bdmsat.com:25461/live/murat34/murat34/79453.m3u8
-#EXTINF:-1,UK: 5 Select HD
-http://bdmsat.com:25461/live/murat34/murat34/79454.m3u8
-#EXTINF:-1,UK: 5 Spike HD
-http://bdmsat.com:25461/live/murat34/murat34/79455.m3u8
-#EXTINF:-1,UK: 5 STAR +1
-http://bdmsat.com:25461/live/murat34/murat34/79456.m3u8
-#EXTINF:-1,UK: 5 STAR HD
-http://bdmsat.com:25461/live/murat34/murat34/79457.m3u8
-#EXTINF:-1,UK: 5 USA HD
-http://bdmsat.com:25461/live/murat34/murat34/79458.m3u8
-#EXTINF:-1,UK: 24/7 Marvel Movies
-http://bdmsat.com:25461/live/murat34/murat34/79459.m3u8
-#EXTINF:-1,UK: 24/7 Resident Evil Movies
-http://bdmsat.com:25461/live/murat34/murat34/79460.m3u8
-#EXTINF:-1,UK: 24/7 sci-fi Movies
-http://bdmsat.com:25461/live/murat34/murat34/79461.m3u8
-#EXTINF:-1,UK: 3E HD
-http://bdmsat.com:25461/live/murat34/murat34/79462.m3u8
-#EXTINF:-1,UK: 4Music HD
-http://bdmsat.com:25461/live/murat34/murat34/79463.m3u8
-#EXTINF:-1,UK: 5a
-http://bdmsat.com:25461/live/murat34/murat34/79464.m3u8
-#EXTINF:-1,UK: 92 News
-http://bdmsat.com:25461/live/murat34/murat34/79465.m3u8
-#EXTINF:-1,UK: ABC News
-http://bdmsat.com:25461/live/murat34/murat34/79466.m3u8
-#EXTINF:-1,UK: ABP News HD
-http://bdmsat.com:25461/live/murat34/murat34/79467.m3u8
-#EXTINF:-1,UK: AL JAZEERA NEWS
-http://bdmsat.com:25461/live/murat34/murat34/79468.m3u8
-#EXTINF:-1,UK: Alibi +1
-http://bdmsat.com:25461/live/murat34/murat34/79469.m3u8
-#EXTINF:-1,UK: Alibi HD
-http://bdmsat.com:25461/live/murat34/murat34/79470.m3u8
-#EXTINF:-1,UK: AMC From BT
-http://bdmsat.com:25461/live/murat34/murat34/79471.m3u8
-#EXTINF:-1,UK: AMC HD
-http://bdmsat.com:25461/live/murat34/murat34/79472.m3u8
-#EXTINF:-1,UK: And TV
-http://bdmsat.com:25461/live/murat34/murat34/79473.m3u8
-#EXTINF:-1,UK: ANIMAL PLANET FHD
-http://bdmsat.com:25461/live/murat34/murat34/79474.m3u8
-#EXTINF:-1,UK: ARISE NEWS
-http://bdmsat.com:25461/live/murat34/murat34/79475.m3u8
-#EXTINF:-1,UK: ARY News HD
-http://bdmsat.com:25461/live/murat34/murat34/79476.m3u8
-#EXTINF:-1,UK: At The Races FHD
-http://bdmsat.com:25461/live/murat34/murat34/79477.m3u8
-#EXTINF:-1,UK: Baby Nursery Rhymes
-http://bdmsat.com:25461/live/murat34/murat34/79478.m3u8
-#EXTINF:-1,UK: BABY TV FHD
-http://bdmsat.com:25461/live/murat34/murat34/79479.m3u8
-#EXTINF:-1,UK: BBC 1 (SCOTLAND)
-http://bdmsat.com:25461/live/murat34/murat34/79480.m3u8
-#EXTINF:-1,UK: BBC 1 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79481.m3u8
-#EXTINF:-1,UK: BBC 1 Northern Ireland HD
-http://bdmsat.com:25461/live/murat34/murat34/79482.m3u8
-#EXTINF:-1,UK: BBC 1 Scotland
-http://bdmsat.com:25461/live/murat34/murat34/79483.m3u8
-#EXTINF:-1,UK: BBC 1 Wales
-http://bdmsat.com:25461/live/murat34/murat34/79484.m3u8
-#EXTINF:-1,UK: BBC 1 Yorks
-http://bdmsat.com:25461/live/murat34/murat34/79485.m3u8
-#EXTINF:-1,UK: BBC 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79486.m3u8
-#EXTINF:-1,UK: BBC 2 Northern Ireland
-http://bdmsat.com:25461/live/murat34/murat34/79487.m3u8
-#EXTINF:-1,UK: BBC 2 Scotland
-http://bdmsat.com:25461/live/murat34/murat34/79488.m3u8
-#EXTINF:-1,UK: BBC 2 Wales
-http://bdmsat.com:25461/live/murat34/murat34/79489.m3u8
-#EXTINF:-1,UK: BBC 3 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79490.m3u8
-#EXTINF:-1,UK: BBC 4 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79491.m3u8
-#EXTINF:-1,UK: BBC Alba
-http://bdmsat.com:25461/live/murat34/murat34/79492.m3u8
-#EXTINF:-1,UK: BBC CBEEBIES HD
-http://bdmsat.com:25461/live/murat34/murat34/79493.m3u8
-#EXTINF:-1,UK: BBC Entertainement
-http://bdmsat.com:25461/live/murat34/murat34/79494.m3u8
-#EXTINF:-1,UK: BBC First
-http://bdmsat.com:25461/live/murat34/murat34/79495.m3u8
-#EXTINF:-1,UK: BBC News FHD
-http://bdmsat.com:25461/live/murat34/murat34/79496.m3u8
-#EXTINF:-1,UK: BBC Parliament
-http://bdmsat.com:25461/live/murat34/murat34/79497.m3u8
-#EXTINF:-1,UK: BBC Red Button
-http://bdmsat.com:25461/live/murat34/murat34/79498.m3u8
-#EXTINF:-1,UK: BBC Scotland HD
-http://bdmsat.com:25461/live/murat34/murat34/79499.m3u8
-#EXTINF:-1,UK: BBC Wales
-http://bdmsat.com:25461/live/murat34/murat34/79500.m3u8
-#EXTINF:-1,UK: BBC World News Europe HD
-http://bdmsat.com:25461/live/murat34/murat34/79501.m3u8
-#EXTINF:-1,UK: BBC World News HD
-http://bdmsat.com:25461/live/murat34/murat34/79502.m3u8
-#EXTINF:-1,UK: BBC3/CBBC HD
-http://bdmsat.com:25461/live/murat34/murat34/79503.m3u8
-#EXTINF:-1,UK: beIN Sports 11 HD
-http://bdmsat.com:25461/live/murat34/murat34/79504.m3u8
-#EXTINF:-1,UK: beIN Sports 12 HD
-http://bdmsat.com:25461/live/murat34/murat34/79505.m3u8
-#EXTINF:-1,UK: BET HD
-http://bdmsat.com:25461/live/murat34/murat34/79506.m3u8
-#EXTINF:-1,UK: BET Star
-http://bdmsat.com:25461/live/murat34/murat34/79507.m3u8
-#EXTINF:-1,UK: Blaze HD
-http://bdmsat.com:25461/live/murat34/murat34/79508.m3u8
-#EXTINF:-1,UK: BLOOMBERG HD
-http://bdmsat.com:25461/live/murat34/murat34/79509.m3u8
-#EXTINF:-1,UK: BLOOMBERG us
-http://bdmsat.com:25461/live/murat34/murat34/79510.m3u8
-#EXTINF:-1,UK: Boomerang +1
-http://bdmsat.com:25461/live/murat34/murat34/79511.m3u8
-#EXTINF:-1,UK: Boomerang HD
-http://bdmsat.com:25461/live/murat34/murat34/79512.m3u8
-#EXTINF:-1,UK: Box Hits
-http://bdmsat.com:25461/live/murat34/murat34/79513.m3u8
-#EXTINF:-1,UK: BOX NATION FHD
-http://bdmsat.com:25461/live/murat34/murat34/79514.m3u8
-#EXTINF:-1,UK: Box Office 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79515.m3u8
-#EXTINF:-1,UK: Box Office 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79516.m3u8
-#EXTINF:-1,UK: Box Office 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/79517.m3u8
-#EXTINF:-1,UK: Box Office 4 HD
-http://bdmsat.com:25461/live/murat34/murat34/79518.m3u8
-#EXTINF:-1,UK: BOX OFFICE 5 HD
-http://bdmsat.com:25461/live/murat34/murat34/79519.m3u8
-#EXTINF:-1,UK: Box Office 6 HD
-http://bdmsat.com:25461/live/murat34/murat34/79520.m3u8
-#EXTINF:-1,UK: BOX OFFICE 7
-http://bdmsat.com:25461/live/murat34/murat34/79521.m3u8
-#EXTINF:-1,UK: BOX OFFICE 8
-http://bdmsat.com:25461/live/murat34/murat34/79522.m3u8
-#EXTINF:-1,UK: BOX OFFICE 9
-http://bdmsat.com:25461/live/murat34/murat34/79523.m3u8
-#EXTINF:-1,UK: BOX OFFICE 10
-http://bdmsat.com:25461/live/murat34/murat34/79524.m3u8
-#EXTINF:-1,UK: British Muslim TV
-http://bdmsat.com:25461/live/murat34/murat34/79525.m3u8
-#EXTINF:-1,UK: BT ESPN HD
-http://bdmsat.com:25461/live/murat34/murat34/79526.m3u8
-#EXTINF:-1,UK: BT Sport
-http://bdmsat.com:25461/live/murat34/murat34/79527.m3u8
-#EXTINF:-1,UK: BT Sport 1 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79528.m3u8
-#EXTINF:-1,UK: BT Sport 2 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79529.m3u8
-#EXTINF:-1,UK: BT Sport 3 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79530.m3u8
-#EXTINF:-1,UK: BT Sport 1 EXTRA
-http://bdmsat.com:25461/live/murat34/murat34/79531.m3u8
-#EXTINF:-1,UK: BT Sport 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79532.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79533.m3u8
-#EXTINF:-1,UK: BT Sport 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/79534.m3u8
-#EXTINF:-1,UK: BT Sport ESPN FHD
-http://bdmsat.com:25461/live/murat34/murat34/79535.m3u8
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://bdmsat.com:25461/live/murat34/murat34/79536.m3u8
-#EXTINF:-1,UK: BT Sport Extra
-http://bdmsat.com:25461/live/murat34/murat34/79537.m3u8
-#EXTINF:-1,UK: BT Sport Extra 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79538.m3u8
-#EXTINF:-1,UK: BT Sport EXTRA 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79539.m3u8
-#EXTINF:-1,UK: BT Sport Extra 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/79540.m3u8
-#EXTINF:-1,UK: BT Sport EXTRA 4 HD
-http://bdmsat.com:25461/live/murat34/murat34/79541.m3u8
-#EXTINF:-1,UK: BT Sport EXTRA 5 HD
-http://bdmsat.com:25461/live/murat34/murat34/79542.m3u8
-#EXTINF:-1,UK: BT Sport EXTRA 6 HD
-http://bdmsat.com:25461/live/murat34/murat34/79543.m3u8
-#EXTINF:-1,UK: CAPITAL TV
-http://bdmsat.com:25461/live/murat34/murat34/79544.m3u8
-#EXTINF:-1,UK: CARTOON NET FHD
-http://bdmsat.com:25461/live/murat34/murat34/79545.m3u8
-#EXTINF:-1,UK: Cartoon Network FHD
-http://bdmsat.com:25461/live/murat34/murat34/79546.m3u8
-#EXTINF:-1,UK: Cartoonito HD
-http://bdmsat.com:25461/live/murat34/murat34/79547.m3u8
-#EXTINF:-1,UK: CBBC FHD
-http://bdmsat.com:25461/live/murat34/murat34/79548.m3u8
-#EXTINF:-1,UK: CBeebies FHD
-http://bdmsat.com:25461/live/murat34/murat34/79549.m3u8
-#EXTINF:-1,UK: CBS Action
-http://bdmsat.com:25461/live/murat34/murat34/79550.m3u8
-#EXTINF:-1,UK: CBS Drama HD
-http://bdmsat.com:25461/live/murat34/murat34/79551.m3u8
-#EXTINF:-1,UK: CBS Justice HD
-http://bdmsat.com:25461/live/murat34/murat34/79552.m3u8
-#EXTINF:-1,UK: CBS Reality HD
-http://bdmsat.com:25461/live/murat34/murat34/79553.m3u8
-#EXTINF:-1,UK: CBSN News HD
-http://bdmsat.com:25461/live/murat34/murat34/79554.m3u8
-#EXTINF:-1,UK: CGTN Documentary
-http://bdmsat.com:25461/live/murat34/murat34/79555.m3u8
-#EXTINF:-1,UK: CGTN News
-http://bdmsat.com:25461/live/murat34/murat34/79556.m3u8
-#EXTINF:-1,UK: Challenge HD
-http://bdmsat.com:25461/live/murat34/murat34/79557.m3u8
-#EXTINF:-1,UK: Channel 4 +1
-http://bdmsat.com:25461/live/murat34/murat34/79558.m3u8
-#EXTINF:-1,UK: Channel 4 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79559.m3u8
-#EXTINF:-1,UK: Channel 5 +1
-http://bdmsat.com:25461/live/murat34/murat34/79560.m3u8
-#EXTINF:-1,UK: Channel 5 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79561.m3u8
-#EXTINF:-1,UK: Channel AKA
-http://bdmsat.com:25461/live/murat34/murat34/79562.m3u8
-#EXTINF:-1,UK: Chart Show Hits
-http://bdmsat.com:25461/live/murat34/murat34/79563.m3u8
-#EXTINF:-1,UK: Chart Show TV
-http://bdmsat.com:25461/live/murat34/murat34/79564.m3u8
-#EXTINF:-1,UK: Chelsea FC
-http://bdmsat.com:25461/live/murat34/murat34/79565.m3u8
-#EXTINF:-1,UK: Chelsea TV
-http://bdmsat.com:25461/live/murat34/murat34/79566.m3u8
-#EXTINF:-1,UK: Citv
-http://bdmsat.com:25461/live/murat34/murat34/79567.m3u8
-#EXTINF:-1,UK: CITV HD
-http://bdmsat.com:25461/live/murat34/murat34/79568.m3u8
-#EXTINF:-1,UK: Club MTV
-http://bdmsat.com:25461/live/murat34/murat34/79569.m3u8
-#EXTINF:-1,UK: CNA
-http://bdmsat.com:25461/live/murat34/murat34/79570.m3u8
-#EXTINF:-1,UK: CNBC B
-http://bdmsat.com:25461/live/murat34/murat34/79571.m3u8
-#EXTINF:-1,UK: CNBC HD
-http://bdmsat.com:25461/live/murat34/murat34/79572.m3u8
-#EXTINF:-1,UK: CNBC News
-http://bdmsat.com:25461/live/murat34/murat34/79573.m3u8
-#EXTINF:-1,UK: CNN ENGLISH
-http://bdmsat.com:25461/live/murat34/murat34/79574.m3u8
-#EXTINF:-1,UK: CNN HD
-http://bdmsat.com:25461/live/murat34/murat34/79575.m3u8
-#EXTINF:-1,UK: Comedy Central +1
-http://bdmsat.com:25461/live/murat34/murat34/79576.m3u8
-#EXTINF:-1,UK: Comedy Central Extra HD
-http://bdmsat.com:25461/live/murat34/murat34/79577.m3u8
-#EXTINF:-1,UK: Comedy Central FHD
-http://bdmsat.com:25461/live/murat34/murat34/79578.m3u8
-#EXTINF:-1,UK: Comedy Extra
-http://bdmsat.com:25461/live/murat34/murat34/79579.m3u8
-#EXTINF:-1,UK: Create & Craft
-http://bdmsat.com:25461/live/murat34/murat34/79580.m3u8
-#EXTINF:-1,UK: Crime+ Investigation FHD
-http://bdmsat.com:25461/live/murat34/murat34/79581.m3u8
-#EXTINF:-1,UK: Cruise 1st TV
-http://bdmsat.com:25461/live/murat34/murat34/79582.m3u8
-#EXTINF:-1,UK: Darama
-http://bdmsat.com:25461/live/murat34/murat34/79583.m3u8
-#EXTINF:-1,UK: Dave FHD
-http://bdmsat.com:25461/live/murat34/murat34/79584.m3u8
-#EXTINF:-1,UK: Dave Ja Vu
-http://bdmsat.com:25461/live/murat34/murat34/79585.m3u8
-#EXTINF:-1,UK: Destination America
-http://bdmsat.com:25461/live/murat34/murat34/79586.m3u8
-#EXTINF:-1,UK: DISCODERY Science
-http://bdmsat.com:25461/live/murat34/murat34/79587.m3u8
-#EXTINF:-1,UK: Discovery +1
-http://bdmsat.com:25461/live/murat34/murat34/79588.m3u8
-#EXTINF:-1,UK: Discovery Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/79589.m3u8
-#EXTINF:-1,UK: Discovery H&H
-http://bdmsat.com:25461/live/murat34/murat34/79590.m3u8
-#EXTINF:-1,UK: Discovery History HD
-http://bdmsat.com:25461/live/murat34/murat34/79591.m3u8
-#EXTINF:-1,UK: Discovery Science HD
-http://bdmsat.com:25461/live/murat34/murat34/79592.m3u8
-#EXTINF:-1,UK: Discovery Shed HD
-http://bdmsat.com:25461/live/murat34/murat34/79593.m3u8
-#EXTINF:-1,UK: Discovery Turbo HD
-http://bdmsat.com:25461/live/murat34/murat34/79594.m3u8
-#EXTINF:-1,UK: Disney Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/79595.m3u8
-#EXTINF:-1,UK: Disney Junior HD
-http://bdmsat.com:25461/live/murat34/murat34/79596.m3u8
-#EXTINF:-1,UK: Disney XD FHD
-http://bdmsat.com:25461/live/murat34/murat34/79597.m3u8
-#EXTINF:-1,UK: DMAX HD
-http://bdmsat.com:25461/live/murat34/murat34/79598.m3u8
-#EXTINF:-1,UK: Drama Channel
-http://bdmsat.com:25461/live/murat34/murat34/79599.m3u8
-#EXTINF:-1,UK: Dubai Racing
-http://bdmsat.com:25461/live/murat34/murat34/79600.m3u8
-#EXTINF:-1,UK: Dubai Racing 1
-http://bdmsat.com:25461/live/murat34/murat34/79601.m3u8
-#EXTINF:-1,UK: Dubai Racing 2
-http://bdmsat.com:25461/live/murat34/murat34/79602.m3u8
-#EXTINF:-1,UK: E Network
-http://bdmsat.com:25461/live/murat34/murat34/79603.m3u8
-#EXTINF:-1,UK: E! FHD
-http://bdmsat.com:25461/live/murat34/murat34/79604.m3u8
-#EXTINF:-1,UK: E4 +1
-http://bdmsat.com:25461/live/murat34/murat34/79605.m3u8
-#EXTINF:-1,UK: E4 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79606.m3u8
-#EXTINF:-1,UK: Eden FHD
-http://bdmsat.com:25461/live/murat34/murat34/79607.m3u8
-#EXTINF:-1,UK: EIR SPORTS 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79608.m3u8
-#EXTINF:-1,UK: EIR SPORTS 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79609.m3u8
-#EXTINF:-1,UK: ELEVEN SPORTS 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79610.m3u8
-#EXTINF:-1,UK: ELEVEN SPORTS HD
-http://bdmsat.com:25461/live/murat34/murat34/79611.m3u8
-#EXTINF:-1,UK: ESPN 2
-http://bdmsat.com:25461/live/murat34/murat34/79612.m3u8
-#EXTINF:-1,UK: ESPN HD
-http://bdmsat.com:25461/live/murat34/murat34/79613.m3u8
-#EXTINF:-1,UK: euronews FHD
-http://bdmsat.com:25461/live/murat34/murat34/79614.m3u8
-#EXTINF:-1,UK: EUROSPORT 1 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79615.m3u8
-#EXTINF:-1,UK: EUROSPORT 2 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79616.m3u8
-#EXTINF:-1,UK: F1
-http://bdmsat.com:25461/live/murat34/murat34/79617.m3u8
-#EXTINF:-1,UK: FC CHELSEA TV
-http://bdmsat.com:25461/live/murat34/murat34/79618.m3u8
-#EXTINF:-1,UK: FC Liverpool TV
-http://bdmsat.com:25461/live/murat34/murat34/79619.m3u8
-#EXTINF:-1,UK: FIGHT Box FHD
-http://bdmsat.com:25461/live/murat34/murat34/79620.m3u8
-#EXTINF:-1,UK: FIGHT Channel
-http://bdmsat.com:25461/live/murat34/murat34/79621.m3u8
-#EXTINF:-1,UK: Film 4 +1
-http://bdmsat.com:25461/live/murat34/murat34/79622.m3u8
-#EXTINF:-1,UK: Film 4 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79623.m3u8
-#EXTINF:-1,UK: Fine Living Network
-http://bdmsat.com:25461/live/murat34/murat34/79624.m3u8
-#EXTINF:-1,UK: Five
-http://bdmsat.com:25461/live/murat34/murat34/79625.m3u8
-#EXTINF:-1,UK: Food Network +1
-http://bdmsat.com:25461/live/murat34/murat34/79626.m3u8
-#EXTINF:-1,UK: Food Network HD
-http://bdmsat.com:25461/live/murat34/murat34/79627.m3u8
-#EXTINF:-1,UK: FOX FHD
-http://bdmsat.com:25461/live/murat34/murat34/79628.m3u8
-#EXTINF:-1,UK: Fox Movies Action HD
-http://bdmsat.com:25461/live/murat34/murat34/79629.m3u8
-#EXTINF:-1,UK: Fox Movies HD
-http://bdmsat.com:25461/live/murat34/murat34/79630.m3u8
-#EXTINF:-1,UK: Fox News HD
-http://bdmsat.com:25461/live/murat34/murat34/79631.m3u8
-#EXTINF:-1,UK: FOX SPORTS HD
-http://bdmsat.com:25461/live/murat34/murat34/79632.m3u8
-#EXTINF:-1,UK: FRANCE 24 ENG
-http://bdmsat.com:25461/live/murat34/murat34/79633.m3u8
-#EXTINF:-1,UK: FRANCE 24 ENGLISH
-http://bdmsat.com:25461/live/murat34/murat34/79634.m3u8
-#EXTINF:-1,UK: France 24 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79635.m3u8
-#EXTINF:-1,UK: Free Sports HD
-http://bdmsat.com:25461/live/murat34/murat34/79636.m3u8
-#EXTINF:-1,UK: Front Runner
-http://bdmsat.com:25461/live/murat34/murat34/79637.m3u8
-#EXTINF:-1,UK: Geo News
-http://bdmsat.com:25461/live/murat34/murat34/79638.m3u8
-#EXTINF:-1,UK: GOLD Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/79639.m3u8
-#EXTINF:-1,UK: Good Food HD
-http://bdmsat.com:25461/live/murat34/murat34/79640.m3u8
-#EXTINF:-1,UK: H2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79641.m3u8
-#EXTINF:-1,UK: Hallmark Drama HD
-http://bdmsat.com:25461/live/murat34/murat34/79642.m3u8
-#EXTINF:-1,UK: Hillsong Channel
-http://bdmsat.com:25461/live/murat34/murat34/79643.m3u8
-#EXTINF:-1,UK: Hip-Hop R&B Music TV
-http://bdmsat.com:25461/live/murat34/murat34/79644.m3u8
-#EXTINF:-1,UK: History 2 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79645.m3u8
-#EXTINF:-1,UK: History Channel +1
-http://bdmsat.com:25461/live/murat34/murat34/79646.m3u8
-#EXTINF:-1,UK: History Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/79647.m3u8
-#EXTINF:-1,UK: Hit TV
-http://bdmsat.com:25461/live/murat34/murat34/79648.m3u8
-#EXTINF:-1,UK: Home & Health
-http://bdmsat.com:25461/live/murat34/murat34/79649.m3u8
-#EXTINF:-1,UK: Home HD
-http://bdmsat.com:25461/live/murat34/murat34/79650.m3u8
-#EXTINF:-1,UK: HomeHealth+1
-http://bdmsat.com:25461/live/murat34/murat34/79651.m3u8
-#EXTINF:-1,UK: Horror Channel +1
-http://bdmsat.com:25461/live/murat34/murat34/79652.m3u8
-#EXTINF:-1,UK: Horror Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/79653.m3u8
-#EXTINF:-1,UK: Horse & Country
-http://bdmsat.com:25461/live/murat34/murat34/79654.m3u8
-#EXTINF:-1,UK: Hum Europe
-http://bdmsat.com:25461/live/murat34/murat34/79655.m3u8
-#EXTINF:-1,UK: Hum News
-http://bdmsat.com:25461/live/murat34/murat34/79656.m3u8
-#EXTINF:-1,UK: iConcerts HD
-http://bdmsat.com:25461/live/murat34/murat34/79657.m3u8
-#EXTINF:-1,UK: ID
-http://bdmsat.com:25461/live/murat34/murat34/79658.m3u8
-#EXTINF:-1,UK: Insight TV
-http://bdmsat.com:25461/live/murat34/murat34/79659.m3u8
-#EXTINF:-1,UK: Investigation Discovery HD
-http://bdmsat.com:25461/live/murat34/murat34/79660.m3u8
-#EXTINF:-1,UK: itv 1 +1
-http://bdmsat.com:25461/live/murat34/murat34/79661.m3u8
-#EXTINF:-1,UK: itv 1 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79662.m3u8
-#EXTINF:-1,UK: itv 2 +1
-http://bdmsat.com:25461/live/murat34/murat34/79663.m3u8
-#EXTINF:-1,UK: itv 2 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79664.m3u8
-#EXTINF:-1,UK: itv 3 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79665.m3u8
-#EXTINF:-1,UK: itv 4 +1
-http://bdmsat.com:25461/live/murat34/murat34/79666.m3u8
-#EXTINF:-1,UK: itv 4 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79667.m3u8
-#EXTINF:-1,UK: itv BE FHD
-http://bdmsat.com:25461/live/murat34/murat34/79668.m3u8
-#EXTINF:-1,UK: itv Encore
-http://bdmsat.com:25461/live/murat34/murat34/79669.m3u8
-#EXTINF:-1,UK: itv FHD
-http://bdmsat.com:25461/live/murat34/murat34/79670.m3u8
-#EXTINF:-1,UK: Jio Football
-http://bdmsat.com:25461/live/murat34/murat34/79671.m3u8
-#EXTINF:-1,UK: Jio Sports
-http://bdmsat.com:25461/live/murat34/murat34/79672.m3u8
-#EXTINF:-1,UK: KERRANG!
-http://bdmsat.com:25461/live/murat34/murat34/79673.m3u8
-#EXTINF:-1,UK: Kids Tom And Jerry
-http://bdmsat.com:25461/live/murat34/murat34/79674.m3u8
-#EXTINF:-1,UK: Kiss TV
-http://bdmsat.com:25461/live/murat34/murat34/79675.m3u8
-#EXTINF:-1,UK: KIX
-http://bdmsat.com:25461/live/murat34/murat34/79676.m3u8
-#EXTINF:-1,UK: Ladbrokes TV
-http://bdmsat.com:25461/live/murat34/murat34/79677.m3u8
-#EXTINF:-1,UK: Lego Toons
-http://bdmsat.com:25461/live/murat34/murat34/79678.m3u8
-#EXTINF:-1,UK: LFC TV FHD
-http://bdmsat.com:25461/live/murat34/murat34/79679.m3u8
-#EXTINF:-1,UK: Lifetime FHD
-http://bdmsat.com:25461/live/murat34/murat34/79680.m3u8
-#EXTINF:-1,UK: Liverpool FC
-http://bdmsat.com:25461/live/murat34/murat34/79681.m3u8
-#EXTINF:-1,UK: Liverpool TV
-http://bdmsat.com:25461/live/murat34/murat34/79682.m3u8
-#EXTINF:-1,UK: Living
-http://bdmsat.com:25461/live/murat34/murat34/79683.m3u8
-#EXTINF:-1,UK: London Live HD
-http://bdmsat.com:25461/live/murat34/murat34/79684.m3u8
-#EXTINF:-1,UK: Magic TV
-http://bdmsat.com:25461/live/murat34/murat34/79685.m3u8
-#EXTINF:-1,UK: MAN UTD TV
-http://bdmsat.com:25461/live/murat34/murat34/79686.m3u8
-#EXTINF:-1,UK: More 4 +1
-http://bdmsat.com:25461/live/murat34/murat34/79687.m3u8
-#EXTINF:-1,UK: More 4 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79688.m3u8
-#EXTINF:-1,UK: MOTORS TV FHD
-http://bdmsat.com:25461/live/murat34/murat34/79689.m3u8
-#EXTINF:-1,UK: Motorsport TV
-http://bdmsat.com:25461/live/murat34/murat34/79690.m3u8
-#EXTINF:-1,UK: MovieDrama HD
-http://bdmsat.com:25461/live/murat34/murat34/79691.m3u8
-#EXTINF:-1,UK: Movies 4 Men
-http://bdmsat.com:25461/live/murat34/murat34/79692.m3u8
-#EXTINF:-1,UK: Movies 24
-http://bdmsat.com:25461/live/murat34/murat34/79693.m3u8
-#EXTINF:-1,UK: Movies4Men
-http://bdmsat.com:25461/live/murat34/murat34/79694.m3u8
-#EXTINF:-1,UK: MSNBC TV
-http://bdmsat.com:25461/live/murat34/murat34/79695.m3u8
-#EXTINF:-1,UK: MTV Base HD
-http://bdmsat.com:25461/live/murat34/murat34/79696.m3u8
-#EXTINF:-1,UK: MTV Classic HD
-http://bdmsat.com:25461/live/murat34/murat34/79697.m3u8
-#EXTINF:-1,UK: MTV Club
-http://bdmsat.com:25461/live/murat34/murat34/79698.m3u8
-#EXTINF:-1,UK: MTV Dance HD
-http://bdmsat.com:25461/live/murat34/murat34/79699.m3u8
-#EXTINF:-1,UK: MTV FHD
-http://bdmsat.com:25461/live/murat34/murat34/79700.m3u8
-#EXTINF:-1,UK: MTV Hits HD
-http://bdmsat.com:25461/live/murat34/murat34/79701.m3u8
-#EXTINF:-1,UK: MTV Live HD
-http://bdmsat.com:25461/live/murat34/murat34/79702.m3u8
-#EXTINF:-1,UK: MTV Music HD
-http://bdmsat.com:25461/live/murat34/murat34/79703.m3u8
-#EXTINF:-1,UK: MTV OMG HD
-http://bdmsat.com:25461/live/murat34/murat34/79704.m3u8
-#EXTINF:-1,UK: MTV Rocks HD
-http://bdmsat.com:25461/live/murat34/murat34/79705.m3u8
-#EXTINF:-1,UK: MTV UK HD
-http://bdmsat.com:25461/live/murat34/murat34/79706.m3u8
-#EXTINF:-1,UK: Music Box
-http://bdmsat.com:25461/live/murat34/murat34/79707.m3u8
-#EXTINF:-1,UK: MUTV FHD
-http://bdmsat.com:25461/live/murat34/murat34/79708.m3u8
-#EXTINF:-1,UK: My 5
-http://bdmsat.com:25461/live/murat34/murat34/79709.m3u8
-#EXTINF:-1,UK: MYTV
-http://bdmsat.com:25461/live/murat34/murat34/79710.m3u8
-#EXTINF:-1,UK: NAT GEO FHD
-http://bdmsat.com:25461/live/murat34/murat34/79711.m3u8
-#EXTINF:-1,UK: NAT GEO People
-http://bdmsat.com:25461/live/murat34/murat34/79712.m3u8
-#EXTINF:-1,UK: NAT GEO Wild FHD
-http://bdmsat.com:25461/live/murat34/murat34/79713.m3u8
-#EXTINF:-1,UK: NAT GEOGRAPHY
-http://bdmsat.com:25461/live/murat34/murat34/79714.m3u8
-#EXTINF:-1,UK: Nat People
-http://bdmsat.com:25461/live/murat34/murat34/79715.m3u8
-#EXTINF:-1,UK: NBA TV
-http://bdmsat.com:25461/live/murat34/murat34/79716.m3u8
-#EXTINF:-1,UK: NBC Sports Network
-http://bdmsat.com:25461/live/murat34/murat34/79717.m3u8
-#EXTINF:-1,UK: NBCSN
-http://bdmsat.com:25461/live/murat34/murat34/79718.m3u8
-#EXTINF:-1,UK: News Max
-http://bdmsat.com:25461/live/murat34/murat34/79719.m3u8
-#EXTINF:-1,UK: NFL Network
-http://bdmsat.com:25461/live/murat34/murat34/79720.m3u8
-#EXTINF:-1,UK: NHK WORLD HD
-http://bdmsat.com:25461/live/murat34/murat34/79721.m3u8
-#EXTINF:-1,UK: Nick Junior +1
-http://bdmsat.com:25461/live/murat34/murat34/79722.m3u8
-#EXTINF:-1,UK: Nick Junior HD
-http://bdmsat.com:25461/live/murat34/murat34/79723.m3u8
-#EXTINF:-1,UK: Nick Junior Peppa FHD
-http://bdmsat.com:25461/live/murat34/murat34/79724.m3u8
-#EXTINF:-1,UK: Nick Junior Too HD
-http://bdmsat.com:25461/live/murat34/murat34/79725.m3u8
-#EXTINF:-1,UK: Nickeledion Jr
-http://bdmsat.com:25461/live/murat34/murat34/79726.m3u8
-#EXTINF:-1,UK: nickelodeon HD
-http://bdmsat.com:25461/live/murat34/murat34/79727.m3u8
-#EXTINF:-1,UK: NickJr Too
-http://bdmsat.com:25461/live/murat34/murat34/79728.m3u8
-#EXTINF:-1,UK: Nicktoons HD
-http://bdmsat.com:25461/live/murat34/murat34/79729.m3u8
-#EXTINF:-1,UK: NOW 90s
-http://bdmsat.com:25461/live/murat34/murat34/79730.m3u8
-#EXTINF:-1,UK: NTV
-http://bdmsat.com:25461/live/murat34/murat34/79731.m3u8
-#EXTINF:-1,UK: PARAMOUNT HD
-http://bdmsat.com:25461/live/murat34/murat34/79732.m3u8
-#EXTINF:-1,UK: Paramount Network
-http://bdmsat.com:25461/live/murat34/murat34/79733.m3u8
-#EXTINF:-1,UK: PBS America
-http://bdmsat.com:25461/live/murat34/murat34/79734.m3u8
-#EXTINF:-1,UK: Peppa
-http://bdmsat.com:25461/live/murat34/murat34/79735.m3u8
-#EXTINF:-1,UK: Pick HD
-http://bdmsat.com:25461/live/murat34/murat34/79736.m3u8
-#EXTINF:-1,UK: Pick TV +1
-http://bdmsat.com:25461/live/murat34/murat34/79737.m3u8
-#EXTINF:-1,UK: POP HD
-http://bdmsat.com:25461/live/murat34/murat34/79738.m3u8
-#EXTINF:-1,UK: POP Max +1
-http://bdmsat.com:25461/live/murat34/murat34/79739.m3u8
-#EXTINF:-1,UK: Pop Max HD
-http://bdmsat.com:25461/live/murat34/murat34/79740.m3u8
-#EXTINF:-1,UK: Pop TV +1
-http://bdmsat.com:25461/live/murat34/murat34/79741.m3u8
-#EXTINF:-1,UK: POP UK HD
-http://bdmsat.com:25461/live/murat34/murat34/79742.m3u8
-#EXTINF:-1,UK: Popcornflix Action Movies
-http://bdmsat.com:25461/live/murat34/murat34/79743.m3u8
-#EXTINF:-1,UK: Premier Sports 1 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79744.m3u8
-#EXTINF:-1,UK: Premier Sports 2 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79745.m3u8
-#EXTINF:-1,UK: Premier Sports HD
-http://bdmsat.com:25461/live/murat34/murat34/79746.m3u8
-#EXTINF:-1,UK: Press TV
-http://bdmsat.com:25461/live/murat34/murat34/79747.m3u8
-#EXTINF:-1,UK: PTV Sports
-http://bdmsat.com:25461/live/murat34/murat34/79748.m3u8
-#EXTINF:-1,UK: Quest +1
-http://bdmsat.com:25461/live/murat34/murat34/79749.m3u8
-#EXTINF:-1,UK: Quest FHD
-http://bdmsat.com:25461/live/murat34/murat34/79750.m3u8
-#EXTINF:-1,UK: Quest Red +1
-http://bdmsat.com:25461/live/murat34/murat34/79751.m3u8
-#EXTINF:-1,UK: Quest Red HD
-http://bdmsat.com:25461/live/murat34/murat34/79752.m3u8
-#EXTINF:-1,UK: QVC
-http://bdmsat.com:25461/live/murat34/murat34/79753.m3u8
-#EXTINF:-1,UK: QVC Beauty
-http://bdmsat.com:25461/live/murat34/murat34/79754.m3u8
-#EXTINF:-1,UK: QVC Extra
-http://bdmsat.com:25461/live/murat34/murat34/79755.m3u8
-#EXTINF:-1,UK: QVC Style
-http://bdmsat.com:25461/live/murat34/murat34/79756.m3u8
-#EXTINF:-1,UK: Racing FHD
-http://bdmsat.com:25461/live/murat34/murat34/79757.m3u8
-#EXTINF:-1,UK: Rangers TV HD
-http://bdmsat.com:25461/live/murat34/murat34/79758.m3u8
-#EXTINF:-1,UK: Rap 2K Music TV
-http://bdmsat.com:25461/live/murat34/murat34/79759.m3u8
-#EXTINF:-1,UK: Real Lives HD
-http://bdmsat.com:25461/live/murat34/murat34/79760.m3u8
-#EXTINF:-1,UK: Really HD
-http://bdmsat.com:25461/live/murat34/murat34/79761.m3u8
-#EXTINF:-1,UK: Reuters
-http://bdmsat.com:25461/live/murat34/murat34/79762.m3u8
-#EXTINF:-1,UK: Rishtey
-http://bdmsat.com:25461/live/murat34/murat34/79763.m3u8
-#EXTINF:-1,UK: ROK TV
-http://bdmsat.com:25461/live/murat34/murat34/79764.m3u8
-#EXTINF:-1,UK: RT NEWS
-http://bdmsat.com:25461/live/murat34/murat34/79765.m3u8
-#EXTINF:-1,UK: RTE 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79766.m3u8
-#EXTINF:-1,UK: RTE 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79767.m3u8
-#EXTINF:-1,UK: RTE JR HD
-http://bdmsat.com:25461/live/murat34/murat34/79768.m3u8
-#EXTINF:-1,UK: RTE News HD
-http://bdmsat.com:25461/live/murat34/murat34/79769.m3u8
-#EXTINF:-1,UK: RTE News Now
-http://bdmsat.com:25461/live/murat34/murat34/79770.m3u8
-#EXTINF:-1,UK: Rush Sport 1 (Live During event)
-http://bdmsat.com:25461/live/murat34/murat34/79771.m3u8
-#EXTINF:-1,UK: RUSH Sport 2 (Live During event)
-http://bdmsat.com:25461/live/murat34/murat34/79772.m3u8
-#EXTINF:-1,UK: Rush Sport EPL
-http://bdmsat.com:25461/live/murat34/murat34/79773.m3u8
-#EXTINF:-1,UK: S4C FHD
-http://bdmsat.com:25461/live/murat34/murat34/79774.m3u8
-#EXTINF:-1,UK: Sab TV
-http://bdmsat.com:25461/live/murat34/murat34/79775.m3u8
-#EXTINF:-1,UK: SET Max
-http://bdmsat.com:25461/live/murat34/murat34/79776.m3u8
-#EXTINF:-1,UK: SETANTA
-http://bdmsat.com:25461/live/murat34/murat34/79777.m3u8
-#EXTINF:-1,UK: Setanta Ireland
-http://bdmsat.com:25461/live/murat34/murat34/79778.m3u8
-#EXTINF:-1,UK: Setanta Premier Sports HD
-http://bdmsat.com:25461/live/murat34/murat34/79779.m3u8
-#EXTINF:-1,UK: Setanta Sports
-http://bdmsat.com:25461/live/murat34/murat34/79780.m3u8
-#EXTINF:-1,UK: Sky 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79781.m3u8
-#EXTINF:-1,UK: Sky 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79782.m3u8
-#EXTINF:-1,UK: Sky Action & Adventure HD
-http://bdmsat.com:25461/live/murat34/murat34/79783.m3u8
-#EXTINF:-1,UK: Sky Action HD
-http://bdmsat.com:25461/live/murat34/murat34/79784.m3u8
-#EXTINF:-1,UK: SKY ART 1
-http://bdmsat.com:25461/live/murat34/murat34/79785.m3u8
-#EXTINF:-1,UK: Sky Arts FHD
-http://bdmsat.com:25461/live/murat34/murat34/79786.m3u8
-#EXTINF:-1,UK: Sky Atlantic FHD
-http://bdmsat.com:25461/live/murat34/murat34/79787.m3u8
-#EXTINF:-1,UK: SKY CIMEMA ACTION
-http://bdmsat.com:25461/live/murat34/murat34/79788.m3u8
-#EXTINF:-1,UK: Sky Cinema Action & Adventure FHD
-http://bdmsat.com:25461/live/murat34/murat34/79789.m3u8
-#EXTINF:-1,UK: Sky Cinema Action FHD
-http://bdmsat.com:25461/live/murat34/murat34/79790.m3u8
-#EXTINF:-1,UK: Sky Cinema CHRISTMAS HD
-http://bdmsat.com:25461/live/murat34/murat34/79791.m3u8
-#EXTINF:-1,UK: Sky Cinema Comedy FHD
-http://bdmsat.com:25461/live/murat34/murat34/79792.m3u8
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
-http://bdmsat.com:25461/live/murat34/murat34/79793.m3u8
-#EXTINF:-1,UK: Sky Cinema Disney FHD
-http://bdmsat.com:25461/live/murat34/murat34/79794.m3u8
-#EXTINF:-1,UK: Sky Cinema Drama & Romance FHD
-http://bdmsat.com:25461/live/murat34/murat34/79795.m3u8
-#EXTINF:-1,UK: Sky Cinema Drama FHD
-http://bdmsat.com:25461/live/murat34/murat34/79796.m3u8
-#EXTINF:-1,UK: Sky Cinema Family FHD
-http://bdmsat.com:25461/live/murat34/murat34/79797.m3u8
-#EXTINF:-1,UK: Sky Cinema GreatS FHD
-http://bdmsat.com:25461/live/murat34/murat34/79798.m3u8
-#EXTINF:-1,UK: Sky Cinema Hits FHD
-http://bdmsat.com:25461/live/murat34/murat34/79799.m3u8
-#EXTINF:-1,UK: Sky Cinema Horror FHD
-http://bdmsat.com:25461/live/murat34/murat34/79800.m3u8
-#EXTINF:-1,UK: Sky Cinema Megahits HD
-http://bdmsat.com:25461/live/murat34/murat34/79801.m3u8
-#EXTINF:-1,UK: Sky Cinema Modern Geant
-http://bdmsat.com:25461/live/murat34/murat34/79802.m3u8
-#EXTINF:-1,UK: Sky Cinema Modern Greats HD
-http://bdmsat.com:25461/live/murat34/murat34/79803.m3u8
-#EXTINF:-1,UK: Sky Cinema Oscars
-http://bdmsat.com:25461/live/murat34/murat34/79804.m3u8
-#EXTINF:-1,UK: Sky Cinema Premier HD
-http://bdmsat.com:25461/live/murat34/murat34/79805.m3u8
-#EXTINF:-1,UK: Sky Cinema Premiere +1
-http://bdmsat.com:25461/live/murat34/murat34/79806.m3u8
-#EXTINF:-1,UK: Sky Cinema Premiere FHD
-http://bdmsat.com:25461/live/murat34/murat34/79807.m3u8
-#EXTINF:-1,UK: Sky Cinema sci-fi & horror FHD
-http://bdmsat.com:25461/live/murat34/murat34/79808.m3u8
-#EXTINF:-1,UK: Sky Cinema Select FHD
-http://bdmsat.com:25461/live/murat34/murat34/79809.m3u8
-#EXTINF:-1,UK: Sky Cinema Showcase HD
-http://bdmsat.com:25461/live/murat34/murat34/79810.m3u8
-#EXTINF:-1,UK: Sky Cinema SyFi Horror
-http://bdmsat.com:25461/live/murat34/murat34/79811.m3u8
-#EXTINF:-1,UK: Sky Cinema Thriller 1
-http://bdmsat.com:25461/live/murat34/murat34/79812.m3u8
-#EXTINF:-1,UK: Sky Cinema Thriller FHD
-http://bdmsat.com:25461/live/murat34/murat34/79813.m3u8
-#EXTINF:-1,UK: Sky Cinema Witness
-http://bdmsat.com:25461/live/murat34/murat34/79814.m3u8
-#EXTINF:-1,UK: Sky Comedy HD
-http://bdmsat.com:25461/live/murat34/murat34/79815.m3u8
-#EXTINF:-1,UK: Sky Crime HD
-http://bdmsat.com:25461/live/murat34/murat34/79816.m3u8
-#EXTINF:-1,UK: Sky Discovery Science
-http://bdmsat.com:25461/live/murat34/murat34/79817.m3u8
-#EXTINF:-1,UK: SKY Disney HD
-http://bdmsat.com:25461/live/murat34/murat34/79818.m3u8
-#EXTINF:-1,UK: SKY DRAMA HD
-http://bdmsat.com:25461/live/murat34/murat34/79819.m3u8
-#EXTINF:-1,UK: Sky Drama Movies
-http://bdmsat.com:25461/live/murat34/murat34/79820.m3u8
-#EXTINF:-1,UK: Sky Drama Romance
-http://bdmsat.com:25461/live/murat34/murat34/79821.m3u8
-#EXTINF:-1,UK: Sky F1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79822.m3u8
-#EXTINF:-1,UK: Sky Family HD
-http://bdmsat.com:25461/live/murat34/murat34/79823.m3u8
-#EXTINF:-1,UK: SKY GOLD FHD
-http://bdmsat.com:25461/live/murat34/murat34/79824.m3u8
-#EXTINF:-1,UK: Sky Greats
-http://bdmsat.com:25461/live/murat34/murat34/79825.m3u8
-#EXTINF:-1,UK: Sky Hits HD
-http://bdmsat.com:25461/live/murat34/murat34/79826.m3u8
-#EXTINF:-1,UK: Sky Living HD
-http://bdmsat.com:25461/live/murat34/murat34/79827.m3u8
-#EXTINF:-1,UK: Sky Modern Greats HD
-http://bdmsat.com:25461/live/murat34/murat34/79828.m3u8
-#EXTINF:-1,UK: Sky News Arabia HD
-http://bdmsat.com:25461/live/murat34/murat34/79829.m3u8
-#EXTINF:-1,UK: Sky News FHD
-http://bdmsat.com:25461/live/murat34/murat34/79830.m3u8
-#EXTINF:-1,UK: Sky News Live HD
-http://bdmsat.com:25461/live/murat34/murat34/79831.m3u8
-#EXTINF:-1,UK: Sky Premier
-http://bdmsat.com:25461/live/murat34/murat34/79832.m3u8
-#EXTINF:-1,UK: SKY PREMIERE HD
-http://bdmsat.com:25461/live/murat34/murat34/79833.m3u8
-#EXTINF:-1,UK: SKY SCFI & HORROR HD
-http://bdmsat.com:25461/live/murat34/murat34/79834.m3u8
-#EXTINF:-1,UK: Sky sci-fi & Horror
-http://bdmsat.com:25461/live/murat34/murat34/79835.m3u8
-#EXTINF:-1,UK: Sky Select HD
-http://bdmsat.com:25461/live/murat34/murat34/79836.m3u8
-#EXTINF:-1,UK: Sky Select Movies
-http://bdmsat.com:25461/live/murat34/murat34/79837.m3u8
-#EXTINF:-1,UK: Sky ShowCase
-http://bdmsat.com:25461/live/murat34/murat34/79838.m3u8
-#EXTINF:-1,UK: Sky Sports 2 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79839.m3u8
-#EXTINF:-1,UK: Sky Sports 3 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79840.m3u8
-#EXTINF:-1,UK: Sky Sports 4 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79841.m3u8
-#EXTINF:-1,UK: Sky Sports 5 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79842.m3u8
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79843.m3u8
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79844.m3u8
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/79845.m3u8
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://bdmsat.com:25461/live/murat34/murat34/79846.m3u8
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://bdmsat.com:25461/live/murat34/murat34/79847.m3u8
-#EXTINF:-1,UK: Sky Sports ACTION F1 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79848.m3u8
-#EXTINF:-1,UK: Sky Sports Action FHD
-http://bdmsat.com:25461/live/murat34/murat34/79849.m3u8
-#EXTINF:-1,UK: Sky Sports Arena FHD
-http://bdmsat.com:25461/live/murat34/murat34/79850.m3u8
-#EXTINF:-1,UK: Sky Sports Cricket FHD
-http://bdmsat.com:25461/live/murat34/murat34/79851.m3u8
-#EXTINF:-1,UK: Sky Sports F1 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79852.m3u8
-#EXTINF:-1,UK: Sky Sports FOOTBALL FHD
-http://bdmsat.com:25461/live/murat34/murat34/79853.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event FHD
-http://bdmsat.com:25461/live/murat34/murat34/79854.m3u8
-#EXTINF:-1,UK: Sky Sports Mix FHD
-http://bdmsat.com:25461/live/murat34/murat34/79855.m3u8
-#EXTINF:-1,UK: Sky Sports News FHD
-http://bdmsat.com:25461/live/murat34/murat34/79856.m3u8
-#EXTINF:-1,UK: Sky Sports PPREMIER LEAGUE FHD
-http://bdmsat.com:25461/live/murat34/murat34/79857.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League FHD
-http://bdmsat.com:25461/live/murat34/murat34/79858.m3u8
-#EXTINF:-1,UK: Sky Sports Racing FHD
-http://bdmsat.com:25461/live/murat34/murat34/79859.m3u8
-#EXTINF:-1,UK: Sky Sports Action HD
-http://bdmsat.com:25461/live/murat34/murat34/79860.m3u8
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://bdmsat.com:25461/live/murat34/murat34/79861.m3u8
-#EXTINF:-1,UK: Sky Sports At The Races
-http://bdmsat.com:25461/live/murat34/murat34/79862.m3u8
-#EXTINF:-1,UK: Sky Sports Box Office
-http://bdmsat.com:25461/live/murat34/murat34/79863.m3u8
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://bdmsat.com:25461/live/murat34/murat34/79864.m3u8
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79865.m3u8
-#EXTINF:-1,UK: Sky Sports FOOTABLL HD
-http://bdmsat.com:25461/live/murat34/murat34/79866.m3u8
-#EXTINF:-1,UK: Sky Sports FOOTBAL
-http://bdmsat.com:25461/live/murat34/murat34/79867.m3u8
-#EXTINF:-1,UK: Sky Sports Football HD
-http://bdmsat.com:25461/live/murat34/murat34/79868.m3u8
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://bdmsat.com:25461/live/murat34/murat34/79869.m3u8
-#EXTINF:-1,UK: Sky Sports HD
-http://bdmsat.com:25461/live/murat34/murat34/79870.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://bdmsat.com:25461/live/murat34/murat34/79871.m3u8
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://bdmsat.com:25461/live/murat34/murat34/79872.m3u8
-#EXTINF:-1,UK: Sky Sports News HD
-http://bdmsat.com:25461/live/murat34/murat34/79873.m3u8
-#EXTINF:-1,UK: Sky Sports Premier Langue HD
-http://bdmsat.com:25461/live/murat34/murat34/79874.m3u8
-#EXTINF:-1,UK: Sky Sports PREMIERE LEAGUE HD
-http://bdmsat.com:25461/live/murat34/murat34/79875.m3u8
-#EXTINF:-1,UK: Sky Sports Racing HD
-http://bdmsat.com:25461/live/murat34/murat34/79876.m3u8
-#EXTINF:-1,UK: Sky Sports The Open HD
-http://bdmsat.com:25461/live/murat34/murat34/79877.m3u8
-#EXTINF:-1,UK: SKY SPOTS F1
-http://bdmsat.com:25461/live/murat34/murat34/79878.m3u8
-#EXTINF:-1,UK: SKY STORE BOX OFFICE 1 HD
-http://bdmsat.com:25461/live/murat34/murat34/79879.m3u8
-#EXTINF:-1,UK: SKY STORE BOX OFFICE 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79880.m3u8
-#EXTINF:-1,UK: SKY STORE BOX OFFICE 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/79881.m3u8
-#EXTINF:-1,UK: SKY STORE BOX OFFICE 4 HD
-http://bdmsat.com:25461/live/murat34/murat34/79882.m3u8
-#EXTINF:-1,UK: SKY STORE BOX OFFICE 5 HD
-http://bdmsat.com:25461/live/murat34/murat34/79883.m3u8
-#EXTINF:-1,UK: SKY THRILLER HD
-http://bdmsat.com:25461/live/murat34/murat34/79884.m3u8
-#EXTINF:-1,UK: Sky Uk RTE 1
-http://bdmsat.com:25461/live/murat34/murat34/79885.m3u8
-#EXTINF:-1,UK: Sky Witness HD
-http://bdmsat.com:25461/live/murat34/murat34/79886.m3u8
-#EXTINF:-1,UK: Sky1 +1
-http://bdmsat.com:25461/live/murat34/murat34/79887.m3u8
-#EXTINF:-1,UK: SKYDE SPORTS 2
-http://bdmsat.com:25461/live/murat34/murat34/79888.m3u8
-#EXTINF:-1,UK: Smithsonian HD
-http://bdmsat.com:25461/live/murat34/murat34/79889.m3u8
-#EXTINF:-1,UK: SONY Channel
-http://bdmsat.com:25461/live/murat34/murat34/79890.m3u8
-#EXTINF:-1,UK: Sony Crime
-http://bdmsat.com:25461/live/murat34/murat34/79891.m3u8
-#EXTINF:-1,UK: Sony Entertainment
-http://bdmsat.com:25461/live/murat34/murat34/79892.m3u8
-#EXTINF:-1,UK: Sony Movie HD
-http://bdmsat.com:25461/live/murat34/murat34/79893.m3u8
-#EXTINF:-1,UK: Sony Movies +1
-http://bdmsat.com:25461/live/murat34/murat34/79894.m3u8
-#EXTINF:-1,UK: Sony Movies Action
-http://bdmsat.com:25461/live/murat34/murat34/79895.m3u8
-#EXTINF:-1,UK: Sony Movies Christmas HD
-http://bdmsat.com:25461/live/murat34/murat34/79896.m3u8
-#EXTINF:-1,UK: SONY SIX
-http://bdmsat.com:25461/live/murat34/murat34/79897.m3u8
-#EXTINF:-1,UK: Sony Six Sport
-http://bdmsat.com:25461/live/murat34/murat34/79898.m3u8
-#EXTINF:-1,UK: Spike
-http://bdmsat.com:25461/live/murat34/murat34/79899.m3u8
-#EXTINF:-1,UK: Sports Arena HD
-http://bdmsat.com:25461/live/murat34/murat34/79900.m3u8
-#EXTINF:-1,UK: STAR 5
-http://bdmsat.com:25461/live/murat34/murat34/79901.m3u8
-#EXTINF:-1,UK: Star Bharat
-http://bdmsat.com:25461/live/murat34/murat34/79902.m3u8
-#EXTINF:-1,UK: Star Gold
-http://bdmsat.com:25461/live/murat34/murat34/79903.m3u8
-#EXTINF:-1,UK: Star Jalsha
-http://bdmsat.com:25461/live/murat34/murat34/79904.m3u8
-#EXTINF:-1,UK: Star Plus FHD
-http://bdmsat.com:25461/live/murat34/murat34/79905.m3u8
-#EXTINF:-1,UK: Starz TV
-http://bdmsat.com:25461/live/murat34/murat34/79906.m3u8
-#EXTINF:-1,UK: SYFY +1
-http://bdmsat.com:25461/live/murat34/murat34/79907.m3u8
-#EXTINF:-1,UK: SYFY FHD
-http://bdmsat.com:25461/live/murat34/murat34/79908.m3u8
-#EXTINF:-1,UK: Takbeer TV
-http://bdmsat.com:25461/live/murat34/murat34/79909.m3u8
-#EXTINF:-1,UK: Talking Pictures HD
-http://bdmsat.com:25461/live/murat34/murat34/79910.m3u8
-#EXTINF:-1,UK: TCM FHD
-http://bdmsat.com:25461/live/murat34/murat34/79911.m3u8
-#EXTINF:-1,UK: Tennis Channel
-http://bdmsat.com:25461/live/murat34/murat34/79912.m3u8
-#EXTINF:-1,UK: TG4 HD
-http://bdmsat.com:25461/live/murat34/murat34/79913.m3u8
-#EXTINF:-1,UK: Thane
-http://bdmsat.com:25461/live/murat34/murat34/79914.m3u8
-#EXTINF:-1,UK: The BOX
-http://bdmsat.com:25461/live/murat34/murat34/79915.m3u8
-#EXTINF:-1,UK: The Races
-http://bdmsat.com:25461/live/murat34/murat34/79916.m3u8
-#EXTINF:-1,UK: The Vault
-http://bdmsat.com:25461/live/murat34/murat34/79917.m3u8
-#EXTINF:-1,UK: Tiny Pop +1
-http://bdmsat.com:25461/live/murat34/murat34/79918.m3u8
-#EXTINF:-1,UK: Tiny Pop HD
-http://bdmsat.com:25461/live/murat34/murat34/79919.m3u8
-#EXTINF:-1,UK: TLC FHD
-http://bdmsat.com:25461/live/murat34/murat34/79920.m3u8
-#EXTINF:-1,UK: TLC IRELAND
-http://bdmsat.com:25461/live/murat34/murat34/79921.m3u8
-#EXTINF:-1,UK: Tom & Jerry HD
-http://bdmsat.com:25461/live/murat34/murat34/79922.m3u8
-#EXTINF:-1,UK: Travel Channel FHD
-http://bdmsat.com:25461/live/murat34/murat34/79923.m3u8
-#EXTINF:-1,UK: Tru TV HD
-http://bdmsat.com:25461/live/murat34/murat34/79924.m3u8
-#EXTINF:-1,UK: True Crime
-http://bdmsat.com:25461/live/murat34/murat34/79925.m3u8
-#EXTINF:-1,UK: True Ent
-http://bdmsat.com:25461/live/murat34/murat34/79926.m3u8
-#EXTINF:-1,UK: True Movies
-http://bdmsat.com:25461/live/murat34/murat34/79927.m3u8
-#EXTINF:-1,UK: True Movies +1
-http://bdmsat.com:25461/live/murat34/murat34/79928.m3u8
-#EXTINF:-1,UK: True Movies 1
-http://bdmsat.com:25461/live/murat34/murat34/79929.m3u8
-#EXTINF:-1,UK: True Movies 2
-http://bdmsat.com:25461/live/murat34/murat34/79930.m3u8
-#EXTINF:-1,UK: True TV
-http://bdmsat.com:25461/live/murat34/murat34/79931.m3u8
-#EXTINF:-1,UK: TV 3 FHD
-http://bdmsat.com:25461/live/murat34/murat34/79932.m3u8
-#EXTINF:-1,UK: TV 5
-http://bdmsat.com:25461/live/murat34/murat34/79933.m3u8
-#EXTINF:-1,UK: UFC FIGHT night Pass HD
-http://bdmsat.com:25461/live/murat34/murat34/79934.m3u8
-#EXTINF:-1,UK: UFC FIGHT Pass
-http://bdmsat.com:25461/live/murat34/murat34/79935.m3u8
-#EXTINF:-1,UK: Universal Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/79936.m3u8
-#EXTINF:-1,UK: UTV FHD
-http://bdmsat.com:25461/live/murat34/murat34/79937.m3u8
-#EXTINF:-1,UK: UTV Ireland
-http://bdmsat.com:25461/live/murat34/murat34/79938.m3u8
-#EXTINF:-1,UK: VH1
-http://bdmsat.com:25461/live/murat34/murat34/79939.m3u8
-#EXTINF:-1,UK: VH1 Classic HD
-http://bdmsat.com:25461/live/murat34/murat34/79940.m3u8
-#EXTINF:-1,UK: VICELAND
-http://bdmsat.com:25461/live/murat34/murat34/79941.m3u8
-#EXTINF:-1,UK: Viceland HD
-http://bdmsat.com:25461/live/murat34/murat34/79942.m3u8
-#EXTINF:-1,UK: Virgin Media 2 HD
-http://bdmsat.com:25461/live/murat34/murat34/79943.m3u8
-#EXTINF:-1,UK: Virgin Media 3 HD
-http://bdmsat.com:25461/live/murat34/murat34/79944.m3u8
-#EXTINF:-1,UK: Virgin one HD
-http://bdmsat.com:25461/live/murat34/murat34/79945.m3u8
-#EXTINF:-1,UK: VIRGIN SPORT IRELAND
-http://bdmsat.com:25461/live/murat34/murat34/79946.m3u8
-#EXTINF:-1,UK: Virgin Three HD
-http://bdmsat.com:25461/live/murat34/murat34/79947.m3u8
-#EXTINF:-1,UK: Virgin Two HD
-http://bdmsat.com:25461/live/murat34/murat34/79948.m3u8
-#EXTINF:-1,UK: VIVA
-http://bdmsat.com:25461/live/murat34/murat34/79949.m3u8
-#EXTINF:-1,UK: W 1
-http://bdmsat.com:25461/live/murat34/murat34/79950.m3u8
-#EXTINF:-1,UK: W HD
-http://bdmsat.com:25461/live/murat34/murat34/79951.m3u8
-#EXTINF:-1,UK: Watch HD
-http://bdmsat.com:25461/live/murat34/murat34/79952.m3u8
-#EXTINF:-1,UK: Willow Cricket HD
-http://bdmsat.com:25461/live/murat34/murat34/79953.m3u8
-#EXTINF:-1,UK: WWE Channel HD
-http://bdmsat.com:25461/live/murat34/murat34/79954.m3u8
-#EXTINF:-1,UK: WWE Network HD
-http://bdmsat.com:25461/live/murat34/murat34/79955.m3u8
-#EXTINF:-1,UK: WWE Raw Network HD
-http://bdmsat.com:25461/live/murat34/murat34/79956.m3u8
-#EXTINF:-1,UK: YESTERDAY +1
-http://bdmsat.com:25461/live/murat34/murat34/79957.m3u8
-#EXTINF:-1,UK: Yesterday HD
-http://bdmsat.com:25461/live/murat34/murat34/79958.m3u8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71265
+#EXTINF:-1,US: ABC news
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71267
+#EXTINF:-1,US: AFL Live 1 UHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71455
+#EXTINF:-1,US: AFL Live 2 UHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71456
+#EXTINF:-1,US: AFL Live 3 UHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71457
+#EXTINF:-1,US: AFL Live 4 UHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71458
+#EXTINF:-1,US: AFL Live 5 UHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71459
+#EXTINF:-1,US: AFL Live 6 UHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71460
+#EXTINF:-1,US: AFL Live 7 UHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71461
+#EXTINF:-1,US: AFL Live 8 UHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71462
+#EXTINF:-1,US: AFL Live 9 UHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71463
+#EXTINF:-1,US: AFN Prime HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71358
+#EXTINF:-1,US: AHL Game 1 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71464
+#EXTINF:-1,US: AHL Game 2 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71465
+#EXTINF:-1,US: AHL Game 3 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71466
+#EXTINF:-1,US: AHL Game 4 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71467
+#EXTINF:-1,US: AHL Game 5 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71468
+#EXTINF:-1,US: AMC HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71273
+#EXTINF:-1,US: Animal Planet
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71293
+#EXTINF:-1,US: Animal Planet FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71294
+#EXTINF:-1,US: beIN Sports Connect 1 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71445
+#EXTINF:-1,US: beIN Sports Connect 10 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71454
+#EXTINF:-1,US: beIN Sports Connect 2 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71446
+#EXTINF:-1,US: beIN Sports Connect 3 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71447
+#EXTINF:-1,US: beIN Sports Connect 4 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71448
+#EXTINF:-1,US: beIN Sports Connect 5 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71449
+#EXTINF:-1,US: beIN Sports Connect 6 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71450
+#EXTINF:-1,US: beIN Sports Connect 7 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71451
+#EXTINF:-1,US: beIN Sports Connect 8 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71452
+#EXTINF:-1,US: beIN Sports Connect 9 FHD (Live During Events Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71453
+#EXTINF:-1,US: beIN Sports Connect Ñ HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71444
+#EXTINF:-1,US: beIN Sports FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71421
+#EXTINF:-1,US: BET HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71274
+#EXTINF:-1,US: Big Ten Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71399
+#EXTINF:-1,US: Bloomberg HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71275
+#EXTINF:-1,US: Boomerang HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71282
+#EXTINF:-1,US: Bravo HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71276
+#EXTINF:-1,US: byu tv
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71356
+#EXTINF:-1,US: C-Span 1
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71277
+#EXTINF:-1,US: C-Span 2
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71278
+#EXTINF:-1,US: C-Span 3
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71279
+#EXTINF:-1,US: Cartoon Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71284
+#EXTINF:-1,US: CBS Sports Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71392
+#EXTINF:-1,US: CBSN
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71269
+#EXTINF:-1,US: CBSN HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71270
+#EXTINF:-1,US: CineMax 5StarMax
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71359
+#EXTINF:-1,US: Cinemax ActionMax East
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71362
+#EXTINF:-1,US: CineMax HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71361
+#EXTINF:-1,US: Cinemax MoreMax HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71363
+#EXTINF:-1,US: CineMax MovieMax HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71360
+#EXTINF:-1,US: Cinemax ThrillerMax HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71364
+#EXTINF:-1,US: CMT HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71339
+#EXTINF:-1,US: CNBC HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71271
+#EXTINF:-1,US: CNN News HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71280
+#EXTINF:-1,US: CNN News SD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71281
+#EXTINF:-1,US: Comedy Central HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71289
+#EXTINF:-1,US: Daystar HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71300
+#EXTINF:-1,US: Discovery Channel
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71299
+#EXTINF:-1,US: Discovery Channel HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71301
+#EXTINF:-1,US: Discovery Science
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71309
+#EXTINF:-1,US: Discovery Science HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71302
+#EXTINF:-1,US: Discovery Showcase HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71303
+#EXTINF:-1,US: Discovery Velocity
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71304
+#EXTINF:-1,US: Discovery Velocity HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71305
+#EXTINF:-1,US: Disney Channel HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71285
+#EXTINF:-1,US: Disney XD HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71286
+#EXTINF:-1,US: DIY Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71291
+#EXTINF:-1,US: DW
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71292
+#EXTINF:-1,US: E! Entertainment HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71310
+#EXTINF:-1,US: E! Entertainment SD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71311
+#EXTINF:-1,US: Eleven Sports 1 FHD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71422
+#EXTINF:-1,US: ESPN   HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71315
+#EXTINF:-1,US: ESPN 1
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71312
+#EXTINF:-1,US: ESPN 2
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71313
+#EXTINF:-1,US: ESPN 2 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71314
+#EXTINF:-1,US: ESPN NEWS
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71316
+#EXTINF:-1,US: Espn Plus: 02 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71469
+#EXTINF:-1,US: Espn Plus:03 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71470
+#EXTINF:-1,US: Espn Plus:04 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71471
+#EXTINF:-1,US: Espn Plus:05 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71472
+#EXTINF:-1,US: Espn Plus:06 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71473
+#EXTINF:-1,US: Espn Plus:07 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71474
+#EXTINF:-1,US: Espn Plus:08 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71475
+#EXTINF:-1,US: Espn Plus:09 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71476
+#EXTINF:-1,US: Espn Plus:10 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71477
+#EXTINF:-1,US: Espn Plus:11 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71478
+#EXTINF:-1,US: Espn Plus:12 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71479
+#EXTINF:-1,US: Espn Plus:13 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71480
+#EXTINF:-1,US: Espn Plus:14 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71481
+#EXTINF:-1,US: Espn Plus:15 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71482
+#EXTINF:-1,US: Espn Plus:16 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71483
+#EXTINF:-1,US: Espn Plus:17 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71484
+#EXTINF:-1,US: Espn Plus:18 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71485
+#EXTINF:-1,US: Espn Plus:19 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71486
+#EXTINF:-1,US: Espn Plus:20 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71487
+#EXTINF:-1,US: ESPN U HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71317
+#EXTINF:-1,US: Fashion TV
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71354
+#EXTINF:-1,US: Fashion TV SD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71355
+#EXTINF:-1,US: Fight Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71383
+#EXTINF:-1,US: Fight Sport
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71393
+#EXTINF:-1,US: Food Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71322
+#EXTINF:-1,US: Fox Business HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71325
+#EXTINF:-1,US: Fox HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71323
+#EXTINF:-1,US: Fox News HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71324
+#EXTINF:-1,US: Fox Soccer Plus HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71394
+#EXTINF:-1,US: Fox Sport 1 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71395
+#EXTINF:-1,US: Fox Sport 2 HD (FS2)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71396
+#EXTINF:-1,US: Fox Sports 1 HD (FS1)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71397
+#EXTINF:-1,US: Fox Sports 2 HD (FS2)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71398
+#EXTINF:-1,US: Fox Sports College Central HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71400
+#EXTINF:-1,US: Fox Sports West Plus HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71404
+#EXTINF:-1,US: Fox Sports Wisconsin HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71407
+#EXTINF:-1,US: FreeForm FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71326
+#EXTINF:-1,US: Fuel HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71408
+#EXTINF:-1,US: FX
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71318
+#EXTINF:-1,US: FX HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71319
+#EXTINF:-1,US: FXM HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71320
+#EXTINF:-1,US: FXX HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71321
+#EXTINF:-1,US: Game Show Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71409
+#EXTINF:-1,US: GRIT HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71327
+#EXTINF:-1,US: Hallmark Channel HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71372
+#EXTINF:-1,US: HBO
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71365
+#EXTINF:-1,US: HBO 2 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71367
+#EXTINF:-1,US: HBO Comedy HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71368
+#EXTINF:-1,US: HBO Family HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71369
+#EXTINF:-1,US: HBO HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71366
+#EXTINF:-1,US: HBO Signature HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71370
+#EXTINF:-1,US: HBO Zone HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71371
+#EXTINF:-1,US: HGTV HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71328
+#EXTINF:-1,US: History HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71297
+#EXTINF:-1,US: HLN HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71329
+#EXTINF:-1,US: ID Extra
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71307
+#EXTINF:-1,US: ID Extra HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71306
+#EXTINF:-1,US: IFC HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71330
+#EXTINF:-1,US: Investigation Discovery HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71308
+#EXTINF:-1,US: Lifetime HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71331
+#EXTINF:-1,US: Longhorn Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71403
+#EXTINF:-1,US: MLB Extra Innings 721 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71488
+#EXTINF:-1,US: MLB Extra Innings 722 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71489
+#EXTINF:-1,US: MLB Extra Innings 723 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71490
+#EXTINF:-1,US: MLB Extra Innings 724 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71491
+#EXTINF:-1,US: MLB Extra Innings 725 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71492
+#EXTINF:-1,US: MLB Extra Innings 726 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71493
+#EXTINF:-1,US: MLB Extra Innings 727 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71494
+#EXTINF:-1,US: MLB Extra Innings 728 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71495
+#EXTINF:-1,US: MLB Extra Innings 729 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71496
+#EXTINF:-1,US: MLB Extra Innings 730 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71497
+#EXTINF:-1,US: MLB Extra Innings 731 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71498
+#EXTINF:-1,US: MLB Extra Innings 732 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71499
+#EXTINF:-1,US: MLB Extra Innings 733 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71500
+#EXTINF:-1,US: MLB Extra Innings 734 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71501
+#EXTINF:-1,US: MLB Extra Innings 735 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71502
+#EXTINF:-1,US: MLB Extra Innings 736 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71503
+#EXTINF:-1,US: MLB Extra Innings 737 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71504
+#EXTINF:-1,US: MLB Extra Innings 738 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71505
+#EXTINF:-1,US: MLB Extra Innings 739 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71506
+#EXTINF:-1,US: MLB Extra Innings 740 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71507
+#EXTINF:-1,US: MLB Extra Innings 741 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71508
+#EXTINF:-1,US: MLB Extra Innings 742 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71509
+#EXTINF:-1,US: MLB Extra Innings 743 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71510
+#EXTINF:-1,US: MLB Extra Innings 744 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71511
+#EXTINF:-1,US: MLB Extra Innings 745 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71512
+#EXTINF:-1,US: MLB Extra Innings 746 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71513
+#EXTINF:-1,US: MLB Extra Innings 747 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71514
+#EXTINF:-1,US: MLB Extra Innings 748 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71515
+#EXTINF:-1,US: MLB Extra Innings 749 HD US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71516
+#EXTINF:-1,US: MLB HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71410
+#EXTINF:-1,US: MLB Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71411
+#EXTINF:-1,US: MSNBC HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71272
+#EXTINF:-1,US: MTV HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71350
+#EXTINF:-1,US: MTV Live HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71349
+#EXTINF:-1,US: National Geographic
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71296
+#EXTINF:-1,US: National Geographic Wild HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71295
+#EXTINF:-1,US: NBA HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71412
+#EXTINF:-1,US: NBA League Pass 1
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71429
+#EXTINF:-1,US: NBA League Pass 10
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71438
+#EXTINF:-1,US: NBA League Pass 11
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71439
+#EXTINF:-1,US: NBA League Pass 12
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71440
+#EXTINF:-1,US: NBA League Pass 13
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71441
+#EXTINF:-1,US: NBA League Pass 14
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71442
+#EXTINF:-1,US: NBA League Pass 15
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71443
+#EXTINF:-1,US: NBA League Pass 2
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71430
+#EXTINF:-1,US: NBA League Pass 3
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71431
+#EXTINF:-1,US: NBA League Pass 4
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71432
+#EXTINF:-1,US: NBA League Pass 5
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71433
+#EXTINF:-1,US: NBA League Pass 6
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71434
+#EXTINF:-1,US: NBA League Pass 7
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71435
+#EXTINF:-1,US: NBA League Pass 8
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71436
+#EXTINF:-1,US: NBA League Pass 9
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71437
+#EXTINF:-1,US: NBA TV HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71413
+#EXTINF:-1,US: NBC HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71268
+#EXTINF:-1,US: NBC News
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71564
+#EXTINF:-1,US: NBC Sports GOLD 1 (EPL Live Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71425
+#EXTINF:-1,US: NBC Sports GOLD 3 (EPL Live Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71426
+#EXTINF:-1,US: NBC Sports GOLD 4 (EPL Live Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71427
+#EXTINF:-1,US: NBC Sports GOLD 5 (EPL Live Only)
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71428
+#EXTINF:-1,US: NBC Sports Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71424
+#EXTINF:-1,US: NBCSN
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71423
+#EXTINF:-1,US: NFL Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71414
+#EXTINF:-1,US: NFL Now HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71415
+#EXTINF:-1,US: NFL Redzone HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71416
+#EXTINF:-1,US: NFL Sunday Ticket 705 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71517
+#EXTINF:-1,US: NFL Sunday Ticket 706 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71518
+#EXTINF:-1,US: NFL Sunday Ticket 707 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71519
+#EXTINF:-1,US: NFL Sunday Ticket 708 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71520
+#EXTINF:-1,US: NFL Sunday Ticket 709 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71521
+#EXTINF:-1,US: NFL Sunday Ticket 710 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71522
+#EXTINF:-1,US: NFL Sunday Ticket 711 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71523
+#EXTINF:-1,US: NFL Sunday Ticket 712 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71524
+#EXTINF:-1,US: NFL Sunday Ticket 713 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71525
+#EXTINF:-1,US: NFL Sunday Ticket 714 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71526
+#EXTINF:-1,US: NFL Sunday Ticket 715 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71527
+#EXTINF:-1,US: NFL Sunday Ticket 716 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71528
+#EXTINF:-1,US: NFL Sunday Ticket 717 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71529
+#EXTINF:-1,US: NHL Centre Ice 769 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71530
+#EXTINF:-1,US: NHL Centre Ice 770 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71531
+#EXTINF:-1,US: NHL Centre Ice 771 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71532
+#EXTINF:-1,US: NHL Centre Ice 772 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71533
+#EXTINF:-1,US: NHL Centre Ice 773 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71534
+#EXTINF:-1,US: NHL Centre Ice 774 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71535
+#EXTINF:-1,US: NHL Centre Ice 775 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71536
+#EXTINF:-1,US: NHL Centre Ice 776 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71537
+#EXTINF:-1,US: NHL Centre Ice 777 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71538
+#EXTINF:-1,US: NHL Centre Ice 778 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71539
+#EXTINF:-1,US: NHL Centre Ice 779 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71540
+#EXTINF:-1,US: NHL Centre Ice 780 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71541
+#EXTINF:-1,US: NHL Centre Ice 781 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71542
+#EXTINF:-1,US: NHL Centre Ice 782 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71543
+#EXTINF:-1,US: NHL Centre Ice 783 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71544
+#EXTINF:-1,US: NHL Centre Ice 784 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71545
+#EXTINF:-1,US: NHL Centre Ice 785 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71546
+#EXTINF:-1,US: NHL Centre Ice 786 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71547
+#EXTINF:-1,US: NHL Centre Ice 787 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71548
+#EXTINF:-1,US: NHL Centre Ice 788 US
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71549
+#EXTINF:-1,US: NHL Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71417
+#EXTINF:-1,US: Nick Jr HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71287
+#EXTINF:-1,US: Nickelodeon HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71288
+#EXTINF:-1,US: Olympic Channel HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71405
+#EXTINF:-1,US: Outdoor Channel HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71333
+#EXTINF:-1,US: OWN - The Oprah Winfrey Network
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71332
+#EXTINF:-1,US: PAC-12
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71418
+#EXTINF:-1,US: PBS HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71334
+#EXTINF:-1,US: PBS Kids
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71283
+#EXTINF:-1,US: RT Documentary
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71335
+#EXTINF:-1,US: Rugby Pass 01 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71550
+#EXTINF:-1,US: Rugby Pass 02 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71551
+#EXTINF:-1,US: Rugby Pass 03 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71552
+#EXTINF:-1,US: Rugby Pass 04 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71553
+#EXTINF:-1,US: Rugby Pass 05 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71554
+#EXTINF:-1,US: Rugby Pass 06 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71555
+#EXTINF:-1,US: Rugby Pass 07 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71556
+#EXTINF:-1,US: Rugby Pass 08 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71557
+#EXTINF:-1,US: Rugby Pass 09 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71558
+#EXTINF:-1,US: Rugby Pass 10 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71559
+#EXTINF:-1,US: SEC Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71336
+#EXTINF:-1,US: Showtime 1 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71373
+#EXTINF:-1,US: Showtime 2 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71374
+#EXTINF:-1,US: Showtime Beyond HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71375
+#EXTINF:-1,US: Showtime Extreme HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71376
+#EXTINF:-1,US: Showtime Showcase HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71377
+#EXTINF:-1,US: Spike - Paramount Network HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71338
+#EXTINF:-1,US: Sportsnet 360 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71391
+#EXTINF:-1,US: SportsNet East HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71420
+#EXTINF:-1,US: SportsNet One HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71419
+#EXTINF:-1,US: Stadium
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71560
+#EXTINF:-1,US: Stadium 1
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71561
+#EXTINF:-1,US: Stadium 2
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71562
+#EXTINF:-1,US: Stadium 3
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71563
+#EXTINF:-1,US: Starz Cinema HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71378
+#EXTINF:-1,US: Starz Comedy HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71379
+#EXTINF:-1,US: Starz Edge HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71380
+#EXTINF:-1,US: Starz Encore HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71381
+#EXTINF:-1,US: Starz Kids & Family HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71382
+#EXTINF:-1,US: Sundance HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71337
+#EXTINF:-1,US: SyFy HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71340
+#EXTINF:-1,US: TBS HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71341
+#EXTINF:-1,US: Tennies Channel
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71406
+#EXTINF:-1,US: THE CW HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71290
+#EXTINF:-1,US: TLC HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71342
+#EXTINF:-1,US: TNT HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71343
+#EXTINF:-1,US: Travel Channel HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71298
+#EXTINF:-1,US: Tru TV
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71357
+#EXTINF:-1,US: TSN 1 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71384
+#EXTINF:-1,US: TSN 2 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71385
+#EXTINF:-1,US: TSN 3 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71386
+#EXTINF:-1,US: TSN 4 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71387
+#EXTINF:-1,US: TSN 5 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71388
+#EXTINF:-1,US: UFC Fight Pass PPV
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71389
+#EXTINF:-1,US: Univision HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71346
+#EXTINF:-1,US: Univision Kids
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71347
+#EXTINF:-1,US: USA Network FHD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71345
+#EXTINF:-1,US: Velocity HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71348
+#EXTINF:-1,US: VH 1 HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71351
+#EXTINF:-1,US: Viceland
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71344
+#EXTINF:-1,US: Willow Cricket HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71352
+#EXTINF:-1,US: World Fashion HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71353
+#EXTINF:-1,US: WWE HD
+http://xeex.iptvs.news:8080/Ender59/endeR5998/71390
 
