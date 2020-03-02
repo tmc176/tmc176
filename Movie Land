@@ -1,307 +1,993 @@
 #EXTM3U
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3535.png",HBO
-http://vvn.neoredi.com/iptv/ch3535?code=135114454296143&key=28724
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3534.png",HBO Zone
-http://vvn.neoredi.com/iptv/ch3534?code=135114454296143&key=53995
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3533.png",HBO Signature
-http://vvn.neoredi.com/iptv/ch3533?code=135114454296143&key=55642
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3532.png",HBO Comedy
-http://vvn.neoredi.com/iptv/ch3532?code=135114454296143&key=53952
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3531.png",FXX
-http://vvn.neoredi.com/iptv/ch3531?code=135114454296143&key=29056
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3530.png",FX
-http://vvn.neoredi.com/iptv/ch3530?code=135114454296143&key=24701
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3527.png",Action Max HD
-http://vvn.neoredi.com/iptv/ch3527?code=135114454296143&key=14720
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3504.png",ABC news
-http://vvn.neoredi.com/iptv/ch3504?code=135114454296143&key=11437
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3501.png",HG TV
-http://vvn.neoredi.com/iptv/ch3501?code=135114454296143&key=23290
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3502.png",Viceland
-http://vvn.neoredi.com/iptv/ch3502?code=135114454296143&key=32043
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",Beinsports
-http://vvn.neoredi.com/iptv/ch3529?code=135114454296143&key=22106
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
-http://vvn.neoredi.com/iptv/ch3522?code=135114454296143&key=12157
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
-http://vvn.neoredi.com/iptv/ch3525?code=135114454296143&key=51646
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
-http://vvn.neoredi.com/iptv/ch3523?code=135114454296143&key=54617
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
-http://vvn.neoredi.com/iptv/ch3524?code=135114454296143&key=24582
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
-http://vvn.neoredi.com/iptv/ch3526?code=135114454296143&key=38701
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png",NBC HD
-http://vvn.neoredi.com/iptv/ch3521?code=135114454296143&key=61270
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png",WWE net.
-http://vvn.neoredi.com/iptv/ch3518?code=135114454296143&key=21916
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",NHL net. HD
-http://vvn.neoredi.com/iptv/ch3517?code=135114454296143&key=50778
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC Sports net.
-http://vvn.neoredi.com/iptv/ch3516?code=135114454296143&key=50917
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",NBA HD
-http://vvn.neoredi.com/iptv/ch3515?code=135114454296143&key=40035
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",Fox Sport 1 HD
-http://vvn.neoredi.com/iptv/ch3513?code=135114454296143&key=30356
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png",Fox Sport 2 HD
-http://vvn.neoredi.com/iptv/ch3514?code=135114454296143&key=23881
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",ESPN2 HD
-http://vvn.neoredi.com/iptv/ch3512?code=135114454296143&key=16615
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
-http://vvn.neoredi.com/iptv/ch3511?code=135114454296143&key=54244
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
-http://vvn.neoredi.com/iptv/ch3510?code=135114454296143&key=60519
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3505.png",Willow cricket HD
-http://vvn.neoredi.com/iptv/ch3505?code=135114454296143&key=33017
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3507.png",ABC
-http://vvn.neoredi.com/iptv/ch3507?code=135114454296143&key=19745
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3536.png",SHOWTIME
-http://vvn.neoredi.com/iptv/ch3536?code=135114454296143&key=55698
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3537.png",USA Net.
-http://vvn.neoredi.com/iptv/ch3537?code=135114454296143&key=52146
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3538.png",MLB Net.
-http://vvn.neoredi.com/iptv/ch3538?code=135114454296143&key=44711
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3509.png",TBS HD
-http://vvn.neoredi.com/iptv/ch3509?code=135114454296143&key=35342
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3508.png",TNT HD
-http://vvn.neoredi.com/iptv/ch3508?code=135114454296143&key=38265
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3520.png",FOX HD
-http://vvn.neoredi.com/iptv/ch3520?code=135114454296143&key=38096
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3528.png",AMC HD
-http://vvn.neoredi.com/iptv/ch3528?code=135114454296143&key=46099
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3506.png",E. USA
-http://vvn.neoredi.com/iptv/ch3506?code=135114454296143&key=42746
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3519.png",CBS HD
-http://vvn.neoredi.com/iptv/ch3519?code=135114454296143&key=15078
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3503.png",TLC HD
-http://vvn.neoredi.com/iptv/ch3503?code=135114454296143&key=26270
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1860.png",BBC News
-http://vvn.neoredi.com/iptv/ch1860?code=135114454296143&key=12677
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1800.png",BBC1
-http://vvn.neoredi.com/iptv/ch1800?code=135114454296143&key=47310
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1801.png",BBC2
-http://vvn.neoredi.com/iptv/ch1801?code=135114454296143&key=33734
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1802.png",CBBC
-http://vvn.neoredi.com/iptv/ch1802?code=135114454296143&key=40731
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1803.png",BBC4
-http://vvn.neoredi.com/iptv/ch1803?code=135114454296143&key=31277
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1898.png",CNN UK
-http://vvn.neoredi.com/iptv/ch1898?code=135114454296143&key=24660
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1805.png",ITV 1 UK
-http://vvn.neoredi.com/iptv/ch1805?code=135114454296143&key=58699
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1806.png",ITV 2 UK
-http://vvn.neoredi.com/iptv/ch1806?code=135114454296143&key=50780
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1946.png",Itv 3 UK
-http://vvn.neoredi.com/iptv/ch1946?code=135114454296143&key=32166
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1808.png",ITV 4 UK
-http://vvn.neoredi.com/iptv/ch1808?code=135114454296143&key=38326
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1804.png",ITV BE
-http://vvn.neoredi.com/iptv/ch1804?code=135114454296143&key=26076
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1807.png",C ITV
-http://vvn.neoredi.com/iptv/ch1807?code=135114454296143&key=37341
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1816.png",STV UK HD
-http://vvn.neoredi.com/iptv/ch1816?code=135114454296143&key=50627
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1892.png",UTV UK HD
-http://vvn.neoredi.com/iptv/ch1892?code=135114454296143&key=40337
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/911.png",Channel 5 UK
-http://vvn.neoredi.com/iptv/ch911?code=135114454296143&key=19838
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1938.png",5 USA UK
-http://vvn.neoredi.com/iptv/ch1938?code=135114454296143&key=59081
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1894.png",5 Stars UK
-http://vvn.neoredi.com/iptv/ch1894?code=135114454296143&key=47955
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1896.png",My 5 UK
-http://vvn.neoredi.com/iptv/ch1896?code=135114454296143&key=33694
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/910.png",Channel 4 UK
-http://vvn.neoredi.com/iptv/ch910?code=135114454296143&key=11492
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1891.png",Film 4 UK
-http://vvn.neoredi.com/iptv/ch1891?code=135114454296143&key=22405
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1934.png",4 Music UK
-http://vvn.neoredi.com/iptv/ch1934?code=135114454296143&key=21472
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1813.png",E-4 UK
-http://vvn.neoredi.com/iptv/ch1813?code=135114454296143&key=22082
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1812.png",4 Seven UK
-http://vvn.neoredi.com/iptv/ch1812?code=135114454296143&key=40264
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1940.png",More 4 UK
-http://vvn.neoredi.com/iptv/ch1940?code=135114454296143&key=50495
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1835.png",CBS Reality
-http://vvn.neoredi.com/iptv/ch1835?code=135114454296143&key=36212
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1836.png",CBS Action
-http://vvn.neoredi.com/iptv/ch1836?code=135114454296143&key=50297
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1837.png",CBS Drama
-http://vvn.neoredi.com/iptv/ch1837?code=135114454296143&key=30691
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1935.png",Sky News UK
-http://vvn.neoredi.com/iptv/ch1935?code=135114454296143&key=14446
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1053.png",SKY Sport news UK
-http://vvn.neoredi.com/iptv/ch1053?code=135114454296143&key=62639
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
-http://vvn.neoredi.com/iptv/ch922?code=135114454296143&key=22520
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
-http://vvn.neoredi.com/iptv/ch937?code=135114454296143&key=57619
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/914.png",SKY Sport Golf UK
-http://vvn.neoredi.com/iptv/ch914?code=135114454296143&key=36946
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/915.png",SKY Sport Action UK
-http://vvn.neoredi.com/iptv/ch915?code=135114454296143&key=26032
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/916.png",SKY Sport Criket UK
-http://vvn.neoredi.com/iptv/ch916?code=135114454296143&key=19074
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/931.png",Sport Mix UK
-http://vvn.neoredi.com/iptv/ch931?code=135114454296143&key=47032
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
-http://vvn.neoredi.com/iptv/ch1828?code=135114454296143&key=45498
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
-http://vvn.neoredi.com/iptv/ch1829?code=135114454296143&key=57494
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
-http://vvn.neoredi.com/iptv/ch1830?code=135114454296143&key=30373
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1831.png",BT Sport Europe
-http://vvn.neoredi.com/iptv/ch1831?code=135114454296143&key=34703
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1832.png",Setana Sport 1
-http://vvn.neoredi.com/iptv/ch1832?code=135114454296143&key=59826
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1833.png",ESPN
-http://vvn.neoredi.com/iptv/ch1833?code=135114454296143&key=52699
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1834.png",Premiere Sport UK
-http://vvn.neoredi.com/iptv/ch1834?code=135114454296143&key=50740
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",Sky Sport F1 UK
-http://vvn.neoredi.com/iptv/ch930?code=135114454296143&key=27502
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/929.png",Eurosport 1 UK
-http://vvn.neoredi.com/iptv/ch929?code=135114454296143&key=56546
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/918.png",Eurosport 2
-http://vvn.neoredi.com/iptv/ch918?code=135114454296143&key=57382
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1858.png",Front Runner UK
-http://vvn.neoredi.com/iptv/ch1858?code=135114454296143&key=51144
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1944.png",Front runner 2 UK
-http://vvn.neoredi.com/iptv/ch1944?code=135114454296143&key=57589
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1852.png",Free Sport UK
-http://vvn.neoredi.com/iptv/ch1852?code=135114454296143&key=35550
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/927.png",Manchester Ud. TV
-http://vvn.neoredi.com/iptv/ch927?code=135114454296143&key=22222
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1700.png",Sony Movies UK
-http://vvn.neoredi.com/iptv/ch1700?code=135114454296143&key=54410
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1809.png",SKY One UK
-http://vvn.neoredi.com/iptv/ch1809?code=135114454296143&key=47141
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1810.png",SKY two UK
-http://vvn.neoredi.com/iptv/ch1810?code=135114454296143&key=35977
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1055.png",Sky Select UK
-http://vvn.neoredi.com/iptv/ch1055?code=135114454296143&key=50870
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1054.png",Sky Thriller UK
-http://vvn.neoredi.com/iptv/ch1054?code=135114454296143&key=54967
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/924.png",Sky Family UK
-http://vvn.neoredi.com/iptv/ch924?code=135114454296143&key=29804
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/919.png",Sky Comedy UK
-http://vvn.neoredi.com/iptv/ch919?code=135114454296143&key=31766
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/917.png",Sky Action UK
-http://vvn.neoredi.com/iptv/ch917?code=135114454296143&key=52659
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/909.png",Sky Select UK
-http://vvn.neoredi.com/iptv/ch909?code=135114454296143&key=18171
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/908.png",Sky Horror UK
-http://vvn.neoredi.com/iptv/ch908?code=135114454296143&key=21827
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/907.png",Sky Premiere UK
-http://vvn.neoredi.com/iptv/ch907?code=135114454296143&key=35692
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/925.png",Sky Living UK
-http://vvn.neoredi.com/iptv/ch925?code=135114454296143&key=61488
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/905.png",Fox UK
-http://vvn.neoredi.com/iptv/ch905?code=135114454296143&key=48545
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/906.png",Sky Animal UK
-http://vvn.neoredi.com/iptv/ch906?code=135114454296143&key=54915
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/923.png",Discovery Science UK
-http://vvn.neoredi.com/iptv/ch923?code=135114454296143&key=45534
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/928.png",Discovery Showcase U
-http://vvn.neoredi.com/iptv/ch928?code=135114454296143&key=26580
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/934.png",Discovery History UK
-http://vvn.neoredi.com/iptv/ch934?code=135114454296143&key=26659
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1825.png",Discovery Ch. UK
-http://vvn.neoredi.com/iptv/ch1825?code=135114454296143&key=20795
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1819.png",Food Network UK
-http://vvn.neoredi.com/iptv/ch1819?code=135114454296143&key=62669
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/936.png",Disney Junior UK
-http://vvn.neoredi.com/iptv/ch936?code=135114454296143&key=42674
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/958.png",Sky Disney UK
-http://vvn.neoredi.com/iptv/ch958?code=135114454296143&key=48964
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1820.png",Disney XD UK
-http://vvn.neoredi.com/iptv/ch1820?code=135114454296143&key=42323
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/912.png",Nick Jr. Too UK
-http://vvn.neoredi.com/iptv/ch912?code=135114454296143&key=61154
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/913.png",Baby Tv UK
-http://vvn.neoredi.com/iptv/ch913?code=135114454296143&key=58359
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/932.png",Nick Jr. UK
-http://vvn.neoredi.com/iptv/ch932?code=135114454296143&key=41359
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1817.png",Pop Max UK
-http://vvn.neoredi.com/iptv/ch1817?code=135114454296143&key=63957
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1936.png",Pop UK
-http://vvn.neoredi.com/iptv/ch1936?code=135114454296143&key=31831
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1893.png",Tiny Pop UK
-http://vvn.neoredi.com/iptv/ch1893?code=135114454296143&key=38922
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1945.png",Euronews UK
-http://vvn.neoredi.com/iptv/ch1945?code=135114454296143&key=13179
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1826.png",CNBC UK
-http://vvn.neoredi.com/iptv/ch1826?code=135114454296143&key=53409
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1943.png",Dave UK
-http://vvn.neoredi.com/iptv/ch1943?code=135114454296143&key=51245
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1942.png",Really UK
-http://vvn.neoredi.com/iptv/ch1942?code=135114454296143&key=13539
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1941.png",DRAMA UK
-http://vvn.neoredi.com/iptv/ch1941?code=135114454296143&key=57175
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1939.png",Keep it country UK
-http://vvn.neoredi.com/iptv/ch1939?code=135114454296143&key=16173
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1937.png",True Movies UK
-http://vvn.neoredi.com/iptv/ch1937?code=135114454296143&key=29104
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1900.png",Bloomber UK
-http://vvn.neoredi.com/iptv/ch1900?code=135114454296143&key=12307
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1899.png",Quest UK
-http://vvn.neoredi.com/iptv/ch1899?code=135114454296143&key=21633
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1897.png",Community
-http://vvn.neoredi.com/iptv/ch1897?code=135114454296143&key=19938
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1895.png",Yesterday UK
-http://vvn.neoredi.com/iptv/ch1895?code=135114454296143&key=26967
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1859.png",My channel UK
-http://vvn.neoredi.com/iptv/ch1859?code=135114454296143&key=21683
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1857.png",Home UK
-http://vvn.neoredi.com/iptv/ch1857?code=135114454296143&key=38283
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1856.png",Pick TV UK
-http://vvn.neoredi.com/iptv/ch1856?code=135114454296143&key=45778
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1855.png",PBS America UK
-http://vvn.neoredi.com/iptv/ch1855?code=135114454296143&key=25953
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1854.png",VIVA UK
-http://vvn.neoredi.com/iptv/ch1854?code=135114454296143&key=31964
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1853.png",Starz UK
-http://vvn.neoredi.com/iptv/ch1853?code=135114454296143&key=38255
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1851.png",True entertainment UK
-http://vvn.neoredi.com/iptv/ch1851?code=135114454296143&key=34739
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1850.png",Spike UK
-http://vvn.neoredi.com/iptv/ch1850?code=135114454296143&key=28912
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1849.png",Blaze UK
-http://vvn.neoredi.com/iptv/ch1849?code=135114454296143&key=48985
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1848.png",Flava UK
-http://vvn.neoredi.com/iptv/ch1848?code=135114454296143&key=36832
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1818.png",Your Tv UK
-http://vvn.neoredi.com/iptv/ch1818?code=135114454296143&key=30346
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1815.png",True Crime UK
-http://vvn.neoredi.com/iptv/ch1815?code=135114454296143&key=46521
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1814.png",Showcase UK
-http://vvn.neoredi.com/iptv/ch1814?code=135114454296143&key=55606
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1811.png",TV-ONE UK
-http://vvn.neoredi.com/iptv/ch1811?code=135114454296143&key=10963
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/956.png",TLC UK
-http://vvn.neoredi.com/iptv/ch956?code=135114454296143&key=62198
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1822.png",Horse and Country UK
-http://vvn.neoredi.com/iptv/ch1822?code=135114454296143&key=36527
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1823.png",Travel Ch. UK
-http://vvn.neoredi.com/iptv/ch1823?code=135114454296143&key=12437
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1824.png",Tru TV UK
-http://vvn.neoredi.com/iptv/ch1824?code=135114454296143&key=60777
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1827.png",S4cdigidol
-http://vvn.neoredi.com/iptv/ch1827?code=135114454296143&key=43422
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1839.png",Horror Ch. UK
-http://vvn.neoredi.com/iptv/ch1839?code=135114454296143&key=52677
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1840.png",ABN UK
-http://vvn.neoredi.com/iptv/ch1840?code=135114454296143&key=64641
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1841.png",Channels 24
-http://vvn.neoredi.com/iptv/ch1841?code=135114454296143&key=61235
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1842.png",Irish TV
-http://vvn.neoredi.com/iptv/ch1842?code=135114454296143&key=45071
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1843.png",Now Music
-http://vvn.neoredi.com/iptv/ch1843?code=135114454296143&key=49435
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1845.png",Movies4Men
-http://vvn.neoredi.com/iptv/ch1845?code=135114454296143&key=54868
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1846.png",Setana UK
-http://vvn.neoredi.com/iptv/ch1846?code=135114454296143&key=59541
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1847.png",Channel S
-http://vvn.neoredi.com/iptv/ch1847?code=135114454296143&key=19166
+#EXTINF:-1,PPV 1 - (EN) AEW REVOLUTION - 02/29 - 8PM EST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/83342
+#EXTINF:-1,PPV 2 - (ES) AEW REVOLUTION - 02/29 - 8PM EST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/83343
+#EXTINF:-1,*NBC SPORTS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/170
+#EXTINF:-1,*CBS SPORTS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/169
+#EXTINF:-1,*TSN 1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/138
+#EXTINF:-1,*TSN 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/139
+#EXTINF:-1,*TSN 3 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/140
+#EXTINF:-1,*TSN 4 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/141
+#EXTINF:-1,*TSN 5 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/142
+#EXTINF:-1,*ESPN HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/143
+#EXTINF:-1,ESPN 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/144
+#EXTINF:-1,ESPN NEWS HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59038
+#EXTINF:-1,ESPN U HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4064
+#EXTINF:-1,ESPN ACC HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/86092
+#EXTINF:-1,BIG 10 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/3950
+#EXTINF:-1,FOX COLLEGE ATLANTIC
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59885
+#EXTINF:-1,FOX COLLEGE PACIFIC
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59886
+#EXTINF:-1,PAC 12 ARIZONA
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9691
+#EXTINF:-1,PAC 12 BAY AREA
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9690
+#EXTINF:-1,PAC 12 LOS ANGELES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9692
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9689
+#EXTINF:-1,PAC 12 NETWORK
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9687
+#EXTINF:-1,PAC 12 OREGON
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9688
+#EXTINF:-1,*FOX SPORTS 1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/145
+#EXTINF:-1,*FOX SPORTS 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/146
+#EXTINF:-1,*SPORTSNET ONT HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/148
+#EXTINF:-1,*SPORTSNET ONE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/149
+#EXTINF:-1,*SPORTSNET PACIFIC HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2434
+#EXTINF:-1,SPORTSNET WEST HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8890
+#EXTINF:-1,*SPORTSNET 360 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/147
+#EXTINF:-1,*SPORTSNET WORLD HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/150
+#EXTINF:-1,*NFL NETWORK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/157
+#EXTINF:-1,*NHL NETWORK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/156
+#EXTINF:-1,LEAFS TV
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59039
+#EXTINF:-1,*NBA HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/165
+#EXTINF:-1,MSG HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/10052
+#EXTINF:-1,MLB NETWORK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2193
+#EXTINF:-1,YES TV HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/10034
+#EXTINF:-1,GOLF HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/166
+#EXTINF:-1,WWE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/168
+#EXTINF:-1,WRESTLING PPV
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/82718
+#EXTINF:-1,TENNIS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/167
+#EXTINF:-1,FIGHT - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71284
+#EXTINF:-1,MAVTV
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/68854
+#EXTINF:-1,TVG - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59036
+#EXTINF:-1,TVG 2 - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/81931
+#EXTINF:-1,ATG LIVE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80384
+#EXTINF:-1,KANAL 75 INT
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80388
+#EXTINF:-1,LADBROKES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80390
+#EXTINF:-1,SIS ONE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80387
+#EXTINF:-1,SIS RACING
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80385
+#EXTINF:-1,SIS TWO
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80386
+#EXTINF:-1,RACING.COM (AU)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80783
+#EXTINF:-1,WFN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/26231
+#EXTINF:-1,OUTDOOR CHANNEL
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9049
+#EXTINF:-1,SPORTSMAN NETWORK
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9050
+#EXTINF:-1,BEIN SPORTS 1 (AU)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80782
+#EXTINF:-1,BEIN SPORTS 2 (AU)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80781
+#EXTINF:-1,BEIN SPORTS 3 (AU)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80780
+#EXTINF:-1,*BEIN SPORTS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/171
+#EXTINF:-1,BEIN DEPORTES HD (ES)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/236
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4814
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4813
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4812
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4811
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4810
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4809
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4808
+#EXTINF:-1,BEIN SPORTS 8 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4807
+#EXTINF:-1,BEIN SPORTS 9 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4806
+#EXTINF:-1,BEIN SPORTS 10 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4805
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/74480
+#EXTINF:-1,BEIN SPORTS 12 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/74479
+#EXTINF:-1,BEIN SPORTS 13 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/74478
+#EXTINF:-1,BEIN SPORTS NEWS (AR)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4815
+#EXTINF:-1,NBC SPORTS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/81965
+#EXTINF:-1,FLOW 1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71116
+#EXTINF:-1,FLOW 1 SD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71115
+#EXTINF:-1,SONY SIX HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/193
+#EXTINF:-1,SONY ESPN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4191
+#EXTINF:-1,PTV SPORTS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/195
+#EXTINF:-1,WILLOW CRICKET HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/198
+#EXTINF:-1,WILLOW XTRA HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9630
+#EXTINF:-1,STAR SPORTS HINDI
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/201
+#EXTINF:-1,STAR SPORTS 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/202
+#EXTINF:-1,TEN 1
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4193
+#EXTINF:-1,TEN 2
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4194
+#EXTINF:-1,TEN 3
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4195
+#EXTINF:-1,SKY BOX NATION
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/209
+#EXTINF:-1,EURO SPORT 1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/211
+#EXTINF:-1,EURO SPORT 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/212
+#EXTINF:-1,SKY SPORTS NEWS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/203
+#EXTINF:-1,SKY SPORTS CRICKET
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/205
+#EXTINF:-1,SKY SPORTS ACTION
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/206
+#EXTINF:-1,SKY SPORTS ARENA
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/207
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/208
+#EXTINF:-1,SKY AT THE RACES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2197
+#EXTINF:-1,SKY SPORTS F1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/210
+#EXTINF:-1,SKY SPORTS MIX
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/194
+#EXTINF:-1,EIR SPORTS 1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/234
+#EXTINF:-1,TYC SPORTS INT (ES)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/240
+#EXTINF:-1,ESPN DEPORTES HD (ES)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/238
+#EXTINF:-1,FOX DEPORTES (ES)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/237
+#EXTINF:-1,NBC HD EAST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7
+#EXTINF:-1,CBS HD EAST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8
+#EXTINF:-1,ABC HD EAST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/10
+#EXTINF:-1,FOX HD EAST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9
+#EXTINF:-1,*CP24 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/11
+#EXTINF:-1,CP24 (H264)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71459
+#EXTINF:-1,OMNI 1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/12
+#EXTINF:-1,OMNI 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/13
+#EXTINF:-1,CITY TV HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/14
+#EXTINF:-1,*GLOBAL EAST HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/15
+#EXTINF:-1,*CTV EAST HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/16
+#EXTINF:-1,CTV NORTH
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/17
+#EXTINF:-1,CTV KITCHNER - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71277
+#EXTINF:-1,CTV2 LONDON - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71281
+#EXTINF:-1,CBC EAST HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/18
+#EXTINF:-1,CBC WINDSOR - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71279
+#EXTINF:-1,CBC HALIFAX
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4075
+#EXTINF:-1,CTV HALIFAX
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4074
+#EXTINF:-1,CBC ATLANTIC - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71278
+#EXTINF:-1,CBC CHARLOTTETOWN HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/72691
+#EXTINF:-1,CTV MONCTON - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71282
+#EXTINF:-1,CTV NB - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71283
+#EXTINF:-1,NTV (NEWFOUNDLAND) - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/68073
+#EXTINF:-1,CBC OTTAWA - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/45499
+#EXTINF:-1,CTV OTTAWA - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/65625
+#EXTINF:-1,CTV 2 OTTAWA - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59130
+#EXTINF:-1,CTV WINNIPEG
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/63327
+#EXTINF:-1,CBC WINNIPEG - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/46716
+#EXTINF:-1,CBC EDMONTON - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/46715
+#EXTINF:-1,CTV EDMONTON - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/65628
+#EXTINF:-1,GLOBAL EDMONTON - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/65627
+#EXTINF:-1,NBC HD WEST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/303
+#EXTINF:-1,FOX HD WEST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/305
+#EXTINF:-1,ABC HD WEST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/306
+#EXTINF:-1,CBS HD WEST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/304
+#EXTINF:-1,CW11 HD WEST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2421
+#EXTINF:-1,CBC CALGARY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7339
+#EXTINF:-1,CTV CALGARY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7338
+#EXTINF:-1,CITY CALGARY - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71280
+#EXTINF:-1,GLOBAL LETHBRIDGE - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71285
+#EXTINF:-1,OMNI CALGARY - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71286
+#EXTINF:-1,OMNI PRAIRIES - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71288
+#EXTINF:-1,BC1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/307
+#EXTINF:-1,GLOBAL BC HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/308
+#EXTINF:-1,CTV VANCOUVER HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/310
+#EXTINF:-1,CTV 2 VANCOUVER HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2418
+#EXTINF:-1,CITY VANCOUVER HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/311
+#EXTINF:-1,CBC VANCOUVER HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/309
+#EXTINF:-1,OMNI BC - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71287
+#EXTINF:-1,CBC HD (MTL)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/15074
+#EXTINF:-1,CTV HD (MTL)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2398
+#EXTINF:-1,GLOBAL HD (MTL)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2397
+#EXTINF:-1,CITY HD (MTL)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/15073
+#EXTINF:-1,*USA NETWORK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/312
+#EXTINF:-1,GSN HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/12769
+#EXTINF:-1,TV LAND HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/313
+#EXTINF:-1,DEJAVIEW  - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/48517
+#EXTINF:-1,METV HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/15072
+#EXTINF:-1,YES TV
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6962
+#EXTINF:-1,FX HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/314
+#EXTINF:-1,FXX HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/315
+#EXTINF:-1,COMEDY NETWORK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/316
+#EXTINF:-1,*****RETRO TV SHOWS*****
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67827
+#EXTINF:-1,247-THE SIX MILLION DOLLAR MAN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/72961
+#EXTINF:-1,247-WKRP
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/72962
+#EXTINF:-1,247-WONDER WOMAN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/72960
+#EXTINF:-1,247-FRIENDS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67818
+#EXTINF:-1,247-GET SMART
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67805
+#EXTINF:-1,STAR TREK THE NEX GEN 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/70539
+#EXTINF:-1,THE A-TEAM 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/70538
+#EXTINF:-1,247-70'S SHOW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67794
+#EXTINF:-1,247-SEINFELD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67816
+#EXTINF:-1,247-21 JUMP STREET
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67801
+#EXTINF:-1,247-HOME IMPROVEMENT
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67823
+#EXTINF:-1,247-I DREAM OF JEANNIE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67817
+#EXTINF:-1,247-I LOVE LUCY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67824
+#EXTINF:-1,247-ALL IN THE FAMILY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67799
+#EXTINF:-1,247-BEWITCHED
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67810
+#EXTINF:-1,247-DEADLIEST CATCH
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67798
+#EXTINF:-1,247-DUKES OF HAZARD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67826
+#EXTINF:-1,247-BEVERLY HILLBILLIES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67820
+#EXTINF:-1,247-BEVERLY HILLS 90210
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67821
+#EXTINF:-1,247-CHEERS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67819
+#EXTINF:-1,247-FAMILY MATTERS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67808
+#EXTINF:-1,247-FAMILY TIES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67809
+#EXTINF:-1,247-FRASIER
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67796
+#EXTINF:-1,247-FRESH PRINCE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/68271
+#EXTINF:-1,247-GILLIGAN'S ISLAND
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67793
+#EXTINF:-1,247-GOLDEN GIRLS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67804
+#EXTINF:-1,247-HAPPY DAYS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67813
+#EXTINF:-1,247-JEFFERSONS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67822
+#EXTINF:-1,247-KNIGHTRIDER
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67814
+#EXTINF:-1,247-MASH
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67811
+#EXTINF:-1,247-MELROSE PLACE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67803
+#EXTINF:-1,247-MORK AND MINDY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67807
+#EXTINF:-1,247-MURPHY BROWN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67812
+#EXTINF:-1,247-NIGHT COURT
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67825
+#EXTINF:-1,247-SCRUBS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67795
+#EXTINF:-1,247-STAND UP COMEDY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67797
+#EXTINF:-1,*****CARTOONS*****
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67850
+#EXTINF:-1,247-TMNT
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/72959
+#EXTINF:-1,247-ANIMANIACS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67832
+#EXTINF:-1,247-LOONEY TUNES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67846
+#EXTINF:-1,247-PAW PATROL
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67849
+#EXTINF:-1,247-PEPPA PIG
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67848
+#EXTINF:-1,247-POKEMON
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67840
+#EXTINF:-1,247-POPEYE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67838
+#EXTINF:-1,247-ROCKY AND BULLWINKLE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/68270
+#EXTINF:-1,247-RUGRATS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67836
+#EXTINF:-1,247-SPIDERMAN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67839
+#EXTINF:-1,247-SPONGEBOB
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67842
+#EXTINF:-1,247-THE JETSONS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67833
+#EXTINF:-1,247-BATMAN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67835
+#EXTINF:-1,247-BEAVIS AND BUTTHEAD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67831
+#EXTINF:-1,247-DARK WING DUCK
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67830
+#EXTINF:-1,247-DEXTERS LABORATORY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67828
+#EXTINF:-1,247-DISNEY SHORTS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67841
+#EXTINF:-1,247-DRAGON BALL Z (1)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67843
+#EXTINF:-1,247-DRAGON BALL Z (2)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67834
+#EXTINF:-1,247-DUCK TALES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67829
+#EXTINF:-1,247-FLINTSTONES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67844
+#EXTINF:-1,247-HE MAN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67845
+#EXTINF:-1,247-SCOOBY DOO
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67847
+#EXTINF:-1,DUDE PERFECT 24x7 (SPORTS)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/5871
+#EXTINF:-1,CT FLETCHER 24X7 (SPORTS)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6132
+#EXTINF:-1,BRO SCIENCE 24X7 (SPORT)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6587
+#EXTINF:-1,AND1 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7833
+#EXTINF:-1,PROFESSOR LIVE 24X7 (SPORT)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7832
+#EXTINF:-1,FAIL ARMY 24X7 (SPORT)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7836
+#EXTINF:-1,REMI GAILLARD 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/5874
+#EXTINF:-1,JUST FOR LAUGHS 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6130
+#EXTINF:-1,PYROBOOBY 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6127
+#EXTINF:-1,JUS REIGN 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6591
+#EXTINF:-1,SUPERWOMAN 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6590
+#EXTINF:-1,VITALYZD TV 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6592
+#EXTINF:-1,ROMAN ATWOOD 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6594
+#EXTINF:-1,*TBS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/317
+#EXTINF:-1,SHARK TANK 24x7 - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8888
+#EXTINF:-1,MARRIED WITH CHILDREN 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6582
+#EXTINF:-1,FRESH PRINCE 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7834
+#EXTINF:-1,FRIENDS 24x7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8782
+#EXTINF:-1,PARAMOUNT NETWORK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/318
+#EXTINF:-1,*DISCOVERY HD (CDN)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/319
+#EXTINF:-1,DISCOVERY HD (USA)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/56250
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/320
+#EXTINF:-1,MAN VS WILD 24X7 - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8091
+#EXTINF:-1,CRAZY RUSSIAN 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/5870
+#EXTINF:-1,ELECTROBOOM 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/5872
+#EXTINF:-1,FSP RUSSIA 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6588
+#EXTINF:-1,SMITHSONIAN HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/3951
+#EXTINF:-1,*HALLMARK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/321
+#EXTINF:-1,*HALLMARK MOVIES MYSTERY HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4599
+#EXTINF:-1,HALLMARK DRAMA
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/83349
+#EXTINF:-1,OXYGEN HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59037
+#EXTINF:-1,ION HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59033
+#EXTINF:-1,*HISTORY HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/322
+#EXTINF:-1,*ID HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/324
+#EXTINF:-1,LIFE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/325
+#EXTINF:-1,*LIFETIME MOVIES HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/326
+#EXTINF:-1,IFC HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/327
+#EXTINF:-1,POP HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/82603
+#EXTINF:-1,*TLC HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/328
+#EXTINF:-1,DIY HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/329
+#EXTINF:-1,FYI HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/42684
+#EXTINF:-1,OLN - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67103
+#EXTINF:-1,LOVE NATURE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1258
+#EXTINF:-1,MAKEFUL - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67102
+#EXTINF:-1,NAT GEO HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/330
+#EXTINF:-1,*NAT GEO WILD HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/331
+#EXTINF:-1,ANIMAL PLANET HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/332
+#EXTINF:-1,COOKING CHANNEL HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6108
+#EXTINF:-1,FOOD HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/333
+#EXTINF:-1,FOOD HD (USA)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80508
+#EXTINF:-1,GUSTO - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67101
+#EXTINF:-1,APTN - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67104
+#EXTINF:-1,GINX (CDN) - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67115
+#EXTINF:-1,EPIC MEAL TIME 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6129
+#EXTINF:-1,MOTOR TREND HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/367
+#EXTINF:-1,VICELAND HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/323
+#EXTINF:-1,AMC HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/334
+#EXTINF:-1,ELREY HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/10046
+#EXTINF:-1,SUNDANCE HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/10039
+#EXTINF:-1,HGTV HD (CDN)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/42685
+#EXTINF:-1,*HGTV HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/335
+#EXTINF:-1,COTTAGE TV HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/42394
+#EXTINF:-1,PEACHTREE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/337
+#EXTINF:-1,WGN HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9163
+#EXTINF:-1,WGN NEWS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8688
+#EXTINF:-1,E! HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/338
+#EXTINF:-1,BOOK - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67100
+#EXTINF:-1,SYFY HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/339
+#EXTINF:-1,CTV-SCIFI HD (SPACE)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8110
+#EXTINF:-1,TRU TV HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/340
+#EXTINF:-1,TNT HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/341
+#EXTINF:-1,WE TV HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/342
+#EXTINF:-1,SLICE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/343
+#EXTINF:-1,ANNA AKANA 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6133
+#EXTINF:-1,MYHARTO 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6128
+#EXTINF:-1,W NETWORK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/344
+#EXTINF:-1,SHOWCASE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/346
+#EXTINF:-1,*A&E HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/347
+#EXTINF:-1,OWN HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/348
+#EXTINF:-1,QVC - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67097
+#EXTINF:-1,TSC - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67098
+#EXTINF:-1,TRAVEL HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/349
+#EXTINF:-1,TRAVEL XP - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59402
+#EXTINF:-1,DESTINATION AMERICA HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7482
+#EXTINF:-1,MTV HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/350
+#EXTINF:-1,BET HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/351
+#EXTINF:-1,REVOLT HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/10042
+#EXTINF:-1,CMT HD  - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/12266
+#EXTINF:-1,MUCH MUSIC HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4141
+#EXTINF:-1,UMF TV 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7831
+#EXTINF:-1,M20 MUSIC CHANNEL
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4140
+#EXTINF:-1,BRAVO HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/353
+#EXTINF:-1,*VH1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/354
+#EXTINF:-1,VH1 (US) - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/70262
+#EXTINF:-1,VISION HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/355
+#EXTINF:-1,PBS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/356
+#EXTINF:-1,CHCH HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/358
+#EXTINF:-1,CW11 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/359
+#EXTINF:-1,BBC AMERICA HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/357
+#EXTINF:-1,*CNN HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/360
+#EXTINF:-1,CBC NEWS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/361
+#EXTINF:-1,CTV NEWS NETWORK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2423
+#EXTINF:-1,HLN HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/362
+#EXTINF:-1,*FOX NEWS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/363
+#EXTINF:-1,CBS NEWS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/3078
+#EXTINF:-1,ABC NEWS HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/3077
+#EXTINF:-1,CNBC HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/364
+#EXTINF:-1,FOX NEWS BUSINESS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4600
+#EXTINF:-1,TRT WORLD HD (TR)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/27136
+#EXTINF:-1,BLOOMBERG HD (NA)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1662
+#EXTINF:-1,BNN HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/366
+#EXTINF:-1,MSNBC HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/365
+#EXTINF:-1,DW NEWS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67410
+#EXTINF:-1,EURONEWS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67409
+#EXTINF:-1,WEATHER CANADA
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/3079
+#EXTINF:-1,WEATHER USA HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/3080
+#EXTINF:-1,ALJAZEERA ENGLISH
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1661
+#EXTINF:-1,FRANCE 24
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4796
+#EXTINF:-1,CCTV NEWS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/3965
+#EXTINF:-1,BBC WORLD NEWS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9546
+#EXTINF:-1,RTE NEWS NOW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7191
+#EXTINF:-1,RT NEWS ENGLISH
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/512
+#EXTINF:-1,RT DOCUMENTARY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/3075
+#EXTINF:-1,TCM HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/368
+#EXTINF:-1,MOVIE TIME HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/369
+#EXTINF:-1,ADULT SWIM HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/370
+#EXTINF:-1,FXM HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/56246
+#EXTINF:-1,PPV MOVIES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8784
+#EXTINF:-1,SCIENCE FICTION NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8887
+#EXTINF:-1,CLINT EASTWOOD 24x7 (NEW)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9782
+#EXTINF:-1,JCVD 24x7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/5838
+#EXTINF:-1,JACKIE CHAN 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/5873
+#EXTINF:-1,JET LI 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/6131
+#EXTINF:-1,007 4 LIFE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7493
+#EXTINF:-1,80'S ACTION HITZ HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7497
+#EXTINF:-1,80'S COMEDY HITZ HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7496
+#EXTINF:-1,80'S DRAMA HITZ HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7495
+#EXTINF:-1,80'S HORROR HITZ HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7494
+#EXTINF:-1,CRAVE 1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9505
+#EXTINF:-1,CRAVE 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9506
+#EXTINF:-1,CRAVE 3 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9507
+#EXTINF:-1,HBO 1 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/26321
+#EXTINF:-1,HBO 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/26322
+#EXTINF:-1,HBO EAST HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/371
+#EXTINF:-1,HBO COMEDY HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/373
+#EXTINF:-1,HBO FAMILY HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4829
+#EXTINF:-1,HBO SIGNATURE HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/372
+#EXTINF:-1,HBO ZONE HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4828
+#EXTINF:-1,CINEMAX EAST HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/380
+#EXTINF:-1,ACTION MAX HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/383
+#EXTINF:-1,MOREMAX HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/381
+#EXTINF:-1,5STAR MAX HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/382
+#EXTINF:-1,THRILLER MAX HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/80332
+#EXTINF:-1,SHOWTIME EAST HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/11361
+#EXTINF:-1,SHOWTIME 2 HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/11362
+#EXTINF:-1,SHOWTIME BEYOND HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/11363
+#EXTINF:-1,SHOWTIME WOMEN HD (NEW)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/11359
+#EXTINF:-1,SHOWTIME EXTREME HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/11358
+#EXTINF:-1,SHOWTIME NEXT HD (NEW)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/11360
+#EXTINF:-1,FLIX - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59056
+#EXTINF:-1,SUPER CHANNEL FUSE - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71289
+#EXTINF:-1,VAULT (CDN) - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/67114
+#EXTINF:-1,STARZ HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/374
+#EXTINF:-1,STARZ EDGE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/377
+#EXTINF:-1,STARZ COMEDY HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/376
+#EXTINF:-1,STARZ BLACK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/378
+#EXTINF:-1,ENCORE WESTERN HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/379
+#EXTINF:-1,EPIX EAST HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/69016
+#EXTINF:-1,EPIX 2 HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/69014
+#EXTINF:-1,EPIX DRIVE IN'S HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/69012
+#EXTINF:-1,EPIX HITS HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/69013
+#EXTINF:-1,99 MUSIC (RADIO)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71344
+#EXTINF:-1,FAME 95 (RADIO)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71342
+#EXTINF:-1,HITZ 92 (RADIO)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71341
+#EXTINF:-1,POWER 106 (RADIO)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71345
+#EXTINF:-1,RJR 94 (RADIO)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/71343
+#EXTINF:-1,TVO HD (NA)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/391
+#EXTINF:-1,PBS KIDS - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/15071
+#EXTINF:-1,YTV HD (NA)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/390
+#EXTINF:-1,DISCOVERY FAMILY HD - NEW
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/59034
+#EXTINF:-1,DISNEY HD EAST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/392
+#EXTINF:-1,ABC SPARK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4063
+#EXTINF:-1,TREEHOUSE HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/393
+#EXTINF:-1,MAGIC SCHOOL BUS 24x7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8092
+#EXTINF:-1,BABY EINSTEIN 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8089
+#EXTINF:-1,PEPPA PIG 24x7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9737
+#EXTINF:-1,PAW PATROL 24x7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9736
+#EXTINF:-1,SONIC BOOM 24x7 (NEW)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/42215
+#EXTINF:-1,PJ MASK 24x7 (NEW)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/42216
+#EXTINF:-1,SUPER WINGS 24x7 (NEW)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/38759
+#EXTINF:-1,TROLLHUNTERS 24x7 (NEW)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/43224
+#EXTINF:-1,TRANSFORMER - RETRO 24x7 (NEW)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/65803
+#EXTINF:-1,NICKELODEON HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/394
+#EXTINF:-1,CARTOON NETWORK HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/395
+#EXTINF:-1,FAMILY HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/396
+#EXTINF:-1,DISNEY XD HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/397
+#EXTINF:-1,DISNEY ALL DAY 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7804
+#EXTINF:-1,DUCK TALES 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7498
+#EXTINF:-1,SPIDERMAN 24x7 (NEW)
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9976
+#EXTINF:-1,BATMAN THE ANIMATED SERIES 24x7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7499
+#EXTINF:-1,STAR WARS CLONE WARS 24X7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7835
+#EXTINF:-1,STAR WARS REBELS 24x7
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/8090
+#EXTINF:-1,TELETOON HD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2422
+#EXTINF:-1,SKY DISNEY CHANNEL
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1745
+#EXTINF:-1,SKY DISNEY JR
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1746
+#EXTINF:-1,SKY DISNEY XD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1747
+#EXTINF:-1,SKY CARTOON NETWORK
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1773
+#EXTINF:-1,SKY NICKTOONS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1729
+#EXTINF:-1,SKY NICK JR
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1716
+#EXTINF:-1,SKY RTE JR
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9625
+#EXTINF:-1,SKY BOOMERANG
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/9626
+#EXTINF:-1,TRUE MOVIES
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1786
+#EXTINF:-1,SKY MOVIES DISNEY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1743
+#EXTINF:-1,SKY MOVIES ACTION & ADVENTURE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1738
+#EXTINF:-1,SKY MOVIES COMEDY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1737
+#EXTINF:-1,SKY MOVIES PREMIERE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1733
+#EXTINF:-1,SKY MOVIES FAMILY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1736
+#EXTINF:-1,SKY MOVIES DRAMA & ROMANCE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1779
+#EXTINF:-1,SKY MOVIES THRILLER
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1742
+#EXTINF:-1,SKY NAT GEO
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1755
+#EXTINF:-1,SKY NAT GEO WILD
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1756
+#EXTINF:-1,SKY TCM
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1785
+#EXTINF:-1,SKY TLC
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1790
+#EXTINF:-1,SKY HISTORY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1758
+#EXTINF:-1,SKY H2
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1754
+#EXTINF:-1,SKY REALLY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1757
+#EXTINF:-1,SKY ARTS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/2196
+#EXTINF:-1,SKY QUEST
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1768
+#EXTINF:-1,SKY TRU TV
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1723
+#EXTINF:-1,SKY TBN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1722
+#EXTINF:-1,SKY FOOD NETWORK
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1788
+#EXTINF:-1,SKY LIVING
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1739
+#EXTINF:-1,SKY HOME
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1718
+#EXTINF:-1,SKY FOX
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1741
+#EXTINF:-1,SKY EDEN
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1789
+#EXTINF:-1,SKY DISCOVERY TURBO
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1767
+#EXTINF:-1,SKY DISCOVERY SHED
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1761
+#EXTINF:-1,SKY DISCOVERY SCIENCE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1766
+#EXTINF:-1,SKY DISCOVERY HISTORY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1765
+#EXTINF:-1,SKY DISCOVERY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1764
+#EXTINF:-1,SKY DAVE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1775
+#EXTINF:-1,SKY COMEDY CENTRAL
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1748
+#EXTINF:-1,SKY BBC 1
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1783
+#EXTINF:-1,SKY BBC 2
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1784
+#EXTINF:-1,SKY BBC 4
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4848
+#EXTINF:-1,SKY ITV 1
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4865
+#EXTINF:-1,SKY ITV 2
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4864
+#EXTINF:-1,SKY ITV 3
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4863
+#EXTINF:-1,SKY ITV 4
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4862
+#EXTINF:-1,SKY ITV BE
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4860
+#EXTINF:-1,SKY RTE 1
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4859
+#EXTINF:-1,SKY RTE 2
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/4858
+#EXTINF:-1,SKY ATLANTIC
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1740
+#EXTINF:-1,SKY ANIMAL PLANET
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1760
+#EXTINF:-1,SKY ALIBI
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1774
+#EXTINF:-1,SKY 2
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/1749
+#EXTINF:-1,CBS ACTION
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7184
+#EXTINF:-1,CBS DRAMA
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7186
+#EXTINF:-1,CBS REALITY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7187
+#EXTINF:-1,SKY MORE4
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7177
+#EXTINF:-1,SKY 5 STAR
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7181
+#EXTINF:-1,SKY CHANNEL 4
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7175
+#EXTINF:-1,SKY CHANNEL 5
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7176
+#EXTINF:-1,SKY CRIME AND INVESTIGATION
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7190
+#EXTINF:-1,SKY E4
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7178
+#EXTINF:-1,SKY FILM4
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7189
+#EXTINF:-1,SKY HORROR
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7179
+#EXTINF:-1,SKY NEWS
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7173
+#EXTINF:-1,SKY E!
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7192
+#EXTINF:-1,SKY SYFY
+http://ok2.se:8000/4155F7UdbXhE4Yqp2/dccaF9U1Z2xjgkHM0/7174
