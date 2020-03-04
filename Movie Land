@@ -1,788 +1,312 @@
 #EXTM3U
-#EXTINF:-1,NBC HD EAST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7
-#EXTINF:-1,CBS HD EAST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8
-#EXTINF:-1,ABC HD EAST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/10
-#EXTINF:-1,FOX HD EAST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9
-#EXTINF:-1,*CP24 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/11
-#EXTINF:-1,CP24 (H264)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71459
-#EXTINF:-1,OMNI 1 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/12
-#EXTINF:-1,OMNI 2 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/13
-#EXTINF:-1,CITY TV HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/14
-#EXTINF:-1,*GLOBAL EAST HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/15
-#EXTINF:-1,*CTV EAST HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/16
-#EXTINF:-1,CTV NORTH
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/17
-#EXTINF:-1,CTV KITCHNER - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71277
-#EXTINF:-1,CTV2 LONDON - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71281
-#EXTINF:-1,CBC EAST HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/18
-#EXTINF:-1,CBC WINDSOR - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71279
-#EXTINF:-1,CBC HALIFAX
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4075
-#EXTINF:-1,CTV HALIFAX
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4074
-#EXTINF:-1,CBC ATLANTIC - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71278
-#EXTINF:-1,CBC CHARLOTTETOWN HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/72691
-#EXTINF:-1,CTV MONCTON - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71282
-#EXTINF:-1,CTV NB - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71283
-#EXTINF:-1,NTV (NEWFOUNDLAND) - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/68073
-#EXTINF:-1,CBC OTTAWA - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/45499
-#EXTINF:-1,CTV OTTAWA - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/65625
-#EXTINF:-1,CTV 2 OTTAWA - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/59130
-#EXTINF:-1,CTV WINNIPEG
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/63327
-#EXTINF:-1,CBC WINNIPEG - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/46716
-#EXTINF:-1,CBC EDMONTON - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/46715
-#EXTINF:-1,CTV EDMONTON - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/65628
-#EXTINF:-1,GLOBAL EDMONTON - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/65627
-#EXTINF:-1,NBC HD WEST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/303
-#EXTINF:-1,FOX HD WEST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/305
-#EXTINF:-1,ABC HD WEST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/306
-#EXTINF:-1,CBS HD WEST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/304
-#EXTINF:-1,CW11 HD WEST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/2421
-#EXTINF:-1,CBC CALGARY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7339
-#EXTINF:-1,CTV CALGARY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7338
-#EXTINF:-1,CITY CALGARY - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71280
-#EXTINF:-1,GLOBAL LETHBRIDGE - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71285
-#EXTINF:-1,OMNI CALGARY - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71286
-#EXTINF:-1,OMNI PRAIRIES - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71288
-#EXTINF:-1,BC1 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/307
-#EXTINF:-1,GLOBAL BC HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/308
-#EXTINF:-1,CTV VANCOUVER HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/310
-#EXTINF:-1,CTV 2 VANCOUVER HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/2418
-#EXTINF:-1,CITY VANCOUVER HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/311
-#EXTINF:-1,CBC VANCOUVER HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/309
-#EXTINF:-1,OMNI BC - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71287
-#EXTINF:-1,CBC HD (MTL)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/15074
-#EXTINF:-1,CTV HD (MTL)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/2398
-#EXTINF:-1,GLOBAL HD (MTL)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/2397
-#EXTINF:-1,CITY HD (MTL)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/15073
-#EXTINF:-1,*USA NETWORK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/312
-#EXTINF:-1,GSN HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/12769
-#EXTINF:-1,TV LAND HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/313
-#EXTINF:-1,DEJAVIEW  - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/48517
-#EXTINF:-1,METV HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/15072
-#EXTINF:-1,YES TV HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/10034
-#EXTINF:-1,YES TV
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6962
-#EXTINF:-1,FX HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/314
-#EXTINF:-1,FXX HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/315
-#EXTINF:-1,COMEDY NETWORK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/316
-#EXTINF:-1,*****RETRO TV SHOWS*****
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67827
-#EXTINF:-1,247-THE SIX MILLION DOLLAR MAN
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/72961
-#EXTINF:-1,247-WKRP
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/72962
-#EXTINF:-1,247-WONDER WOMAN
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/72960
-#EXTINF:-1,247-FRIENDS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67818
-#EXTINF:-1,247-GET SMART
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67805
-#EXTINF:-1,STAR TREK THE NEX GEN 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/70539
-#EXTINF:-1,THE A-TEAM 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/70538
-#EXTINF:-1,247-70'S SHOW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67794
-#EXTINF:-1,247-SEINFELD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67816
-#EXTINF:-1,247-21 JUMP STREET
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67801
-#EXTINF:-1,247-HOME IMPROVEMENT
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67823
-#EXTINF:-1,247-I DREAM OF JEANNIE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67817
-#EXTINF:-1,247-I LOVE LUCY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67824
-#EXTINF:-1,247-ALL IN THE FAMILY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67799
-#EXTINF:-1,247-BEWITCHED
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67810
-#EXTINF:-1,247-DEADLIEST CATCH
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67798
-#EXTINF:-1,247-DUKES OF HAZARD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67826
-#EXTINF:-1,247-BEVERLY HILLBILLIES
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67820
-#EXTINF:-1,247-BEVERLY HILLS 90210
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67821
-#EXTINF:-1,247-CHEERS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67819
-#EXTINF:-1,247-FAMILY MATTERS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67808
-#EXTINF:-1,247-FAMILY TIES
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67809
-#EXTINF:-1,247-FRASIER
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67796
-#EXTINF:-1,247-FRESH PRINCE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/68271
-#EXTINF:-1,247-GILLIGAN'S ISLAND
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67793
-#EXTINF:-1,247-GOLDEN GIRLS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67804
-#EXTINF:-1,247-HAPPY DAYS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67813
-#EXTINF:-1,247-JEFFERSONS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67822
-#EXTINF:-1,247-KNIGHTRIDER
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67814
-#EXTINF:-1,247-MASH
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67811
-#EXTINF:-1,247-MELROSE PLACE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67803
-#EXTINF:-1,247-MORK AND MINDY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67807
-#EXTINF:-1,247-MURPHY BROWN
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67812
-#EXTINF:-1,247-NIGHT COURT
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67825
-#EXTINF:-1,247-SCRUBS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67795
-#EXTINF:-1,247-STAND UP COMEDY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67797
-#EXTINF:-1,*****CARTOONS*****
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67850
-#EXTINF:-1,247-TMNT
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/72959
-#EXTINF:-1,247-ANIMANIACS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67832
-#EXTINF:-1,247-LOONEY TUNES
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67846
-#EXTINF:-1,247-PAW PATROL
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67849
-#EXTINF:-1,247-PEPPA PIG
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67848
-#EXTINF:-1,247-POKEMON
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67840
-#EXTINF:-1,247-POPEYE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67838
-#EXTINF:-1,247-ROCKY AND BULLWINKLE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/68270
-#EXTINF:-1,247-RUGRATS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67836
-#EXTINF:-1,247-SPIDERMAN
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67839
-#EXTINF:-1,247-SPONGEBOB
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67842
-#EXTINF:-1,247-THE JETSONS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67833
-#EXTINF:-1,247-BATMAN
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67835
-#EXTINF:-1,247-BEAVIS AND BUTTHEAD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67831
-#EXTINF:-1,247-DARK WING DUCK
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67830
-#EXTINF:-1,247-DEXTERS LABORATORY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67828
-#EXTINF:-1,247-DISNEY SHORTS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67841
-#EXTINF:-1,247-DRAGON BALL Z (1)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67843
-#EXTINF:-1,247-DRAGON BALL Z (2)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67834
-#EXTINF:-1,247-DUCK TALES
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67829
-#EXTINF:-1,247-FLINTSTONES
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67844
-#EXTINF:-1,247-HE MAN
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67845
-#EXTINF:-1,247-SCOOBY DOO
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67847
-#EXTINF:-1,DUDE PERFECT 24x7 (SPORTS)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/5871
-#EXTINF:-1,CT FLETCHER 24X7 (SPORTS)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6132
-#EXTINF:-1,BRO SCIENCE 24X7 (SPORT)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6587
-#EXTINF:-1,AND1 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7833
-#EXTINF:-1,PROFESSOR LIVE 24X7 (SPORT)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7832
-#EXTINF:-1,FAIL ARMY 24X7 (SPORT)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7836
-#EXTINF:-1,REMI GAILLARD 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/5874
-#EXTINF:-1,JUST FOR LAUGHS 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6130
-#EXTINF:-1,PYROBOOBY 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6127
-#EXTINF:-1,JUS REIGN 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6591
-#EXTINF:-1,SUPERWOMAN 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6590
-#EXTINF:-1,VITALYZD TV 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6592
-#EXTINF:-1,ROMAN ATWOOD 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6594
-#EXTINF:-1,*TBS HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/317
-#EXTINF:-1,SHARK TANK 24x7 - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8888
-#EXTINF:-1,MARRIED WITH CHILDREN 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6582
-#EXTINF:-1,FRESH PRINCE 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7834
-#EXTINF:-1,FRIENDS 24x7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8782
-#EXTINF:-1,PARAMOUNT NETWORK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/318
-#EXTINF:-1,*DISCOVERY HD (CDN)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/319
-#EXTINF:-1,DISCOVERY HD (USA)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/56250
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/320
-#EXTINF:-1,MAN VS WILD 24X7 - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8091
-#EXTINF:-1,CRAZY RUSSIAN 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/5870
-#EXTINF:-1,ELECTROBOOM 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/5872
-#EXTINF:-1,FSP RUSSIA 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6588
-#EXTINF:-1,SMITHSONIAN HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/3951
-#EXTINF:-1,*HALLMARK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/321
-#EXTINF:-1,*HALLMARK MOVIES MYSTERY HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4599
-#EXTINF:-1,HALLMARK DRAMA
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/83349
-#EXTINF:-1,OXYGEN HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/59037
-#EXTINF:-1,ION HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/59033
-#EXTINF:-1,*HISTORY HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/322
-#EXTINF:-1,*ID HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/324
-#EXTINF:-1,LIFE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/325
-#EXTINF:-1,*LIFETIME MOVIES HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/326
-#EXTINF:-1,IFC HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/327
-#EXTINF:-1,POP HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/82603
-#EXTINF:-1,*TLC HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/328
-#EXTINF:-1,DIY HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/329
-#EXTINF:-1,FYI HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/42684
-#EXTINF:-1,OLN - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67103
-#EXTINF:-1,LOVE NATURE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1258
-#EXTINF:-1,MAKEFUL - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67102
-#EXTINF:-1,NAT GEO HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/330
-#EXTINF:-1,*NAT GEO WILD HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/331
-#EXTINF:-1,ANIMAL PLANET HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/332
-#EXTINF:-1,COOKING CHANNEL HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6108
-#EXTINF:-1,FOOD HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/333
-#EXTINF:-1,FOOD HD (USA)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/80508
-#EXTINF:-1,GUSTO - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67101
-#EXTINF:-1,APTN - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67104
-#EXTINF:-1,GINX (CDN) - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67115
-#EXTINF:-1,EPIC MEAL TIME 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6129
-#EXTINF:-1,MOTOR TREND HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/367
-#EXTINF:-1,VICELAND HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/323
-#EXTINF:-1,AMC HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/334
-#EXTINF:-1,ELREY HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/10046
-#EXTINF:-1,SUNDANCE HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/10039
-#EXTINF:-1,HGTV HD (CDN)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/42685
-#EXTINF:-1,*HGTV HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/335
-#EXTINF:-1,COTTAGE TV HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/42394
-#EXTINF:-1,PEACHTREE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/337
-#EXTINF:-1,WGN HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9163
-#EXTINF:-1,WGN NEWS HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8688
-#EXTINF:-1,E! HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/338
-#EXTINF:-1,BOOK - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67100
-#EXTINF:-1,SYFY HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/339
-#EXTINF:-1,CTV-SCIFI HD (SPACE)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8110
-#EXTINF:-1,TRU TV HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/340
-#EXTINF:-1,TNT HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/341
-#EXTINF:-1,WE TV HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/342
-#EXTINF:-1,SLICE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/343
-#EXTINF:-1,ANNA AKANA 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6133
-#EXTINF:-1,MYHARTO 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6128
-#EXTINF:-1,W NETWORK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/344
-#EXTINF:-1,SHOWCASE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/346
-#EXTINF:-1,*A&E HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/347
-#EXTINF:-1,OWN HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/348
-#EXTINF:-1,QVC - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67097
-#EXTINF:-1,TSC - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67098
-#EXTINF:-1,TRAVEL HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/349
-#EXTINF:-1,TRAVEL XP - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/59402
-#EXTINF:-1,DESTINATION AMERICA HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7482
-#EXTINF:-1,MTV HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/350
-#EXTINF:-1,BET HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/351
-#EXTINF:-1,REVOLT HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/10042
-#EXTINF:-1,CMT HD  - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/12266
-#EXTINF:-1,MUCH MUSIC HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4141
-#EXTINF:-1,UMF TV 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7831
-#EXTINF:-1,BRAVO HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/353
-#EXTINF:-1,*VH1 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/354
-#EXTINF:-1,VH1 (US) - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/70262
-#EXTINF:-1,VISION HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/355
-#EXTINF:-1,PBS HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/356
-#EXTINF:-1,CHCH HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/358
-#EXTINF:-1,CW11 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/359
-#EXTINF:-1,BBC AMERICA HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/357
-#EXTINF:-1,*CNN HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/360
-#EXTINF:-1,CBC NEWS HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/361
-#EXTINF:-1,CTV NEWS NETWORK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/2423
-#EXTINF:-1,HLN HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/362
-#EXTINF:-1,*FOX NEWS HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/363
-#EXTINF:-1,CBS NEWS HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/3078
-#EXTINF:-1,ABC NEWS HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/3077
-#EXTINF:-1,CNBC HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/364
-#EXTINF:-1,FOX NEWS BUSINESS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4600
-#EXTINF:-1,TRT WORLD HD (TR)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/27136
-#EXTINF:-1,BLOOMBERG HD (NA)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1662
-#EXTINF:-1,BNN HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/366
-#EXTINF:-1,MSNBC HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/365
-#EXTINF:-1,DW NEWS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67410
-#EXTINF:-1,EURONEWS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67409
-#EXTINF:-1,WEATHER CANADA
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/3079
-#EXTINF:-1,WEATHER USA HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/3080
-#EXTINF:-1,ALJAZEERA ENGLISH
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1661
-#EXTINF:-1,FRANCE 24
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4796
-#EXTINF:-1,CCTV NEWS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/3965
-#EXTINF:-1,BBC WORLD NEWS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9546
-#EXTINF:-1,RTE NEWS NOW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7191
-#EXTINF:-1,RT NEWS ENGLISH
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/512
-#EXTINF:-1,RT DOCUMENTARY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/3075
-#EXTINF:-1,TCM HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/368
-#EXTINF:-1,MOVIE TIME HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/369
-#EXTINF:-1,ADULT SWIM HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/370
-#EXTINF:-1,FXM HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/56246
-#EXTINF:-1,PPV MOVIES
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8784
-#EXTINF:-1,SCIENCE FICTION NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8887
-#EXTINF:-1,CLINT EASTWOOD 24x7 (NEW)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9782
-#EXTINF:-1,JCVD 24x7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/5838
-#EXTINF:-1,JACKIE CHAN 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/5873
-#EXTINF:-1,JET LI 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/6131
-#EXTINF:-1,007 4 LIFE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7493
-#EXTINF:-1,80'S ACTION HITZ HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7497
-#EXTINF:-1,80'S COMEDY HITZ HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7496
-#EXTINF:-1,80'S DRAMA HITZ HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7495
-#EXTINF:-1,80'S HORROR HITZ HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7494
-#EXTINF:-1,CRAVE 1 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9505
-#EXTINF:-1,CRAVE 2 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9506
-#EXTINF:-1,CRAVE 3 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9507
-#EXTINF:-1,HBO 1 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/26321
-#EXTINF:-1,HBO 2 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/26322
-#EXTINF:-1,HBO EAST HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/371
-#EXTINF:-1,HBO COMEDY HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/373
-#EXTINF:-1,HBO FAMILY HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4829
-#EXTINF:-1,HBO SIGNATURE HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/372
-#EXTINF:-1,HBO ZONE HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4828
-#EXTINF:-1,CINEMAX EAST HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/380
-#EXTINF:-1,ACTION MAX HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/383
-#EXTINF:-1,MOREMAX HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/381
-#EXTINF:-1,5STAR MAX HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/382
-#EXTINF:-1,THRILLER MAX HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/80332
-#EXTINF:-1,SHOWTIME EAST HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/11361
-#EXTINF:-1,SHOWTIME 2 HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/11362
-#EXTINF:-1,SHOWTIME BEYOND HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/11363
-#EXTINF:-1,SHOWTIME WOMEN HD (NEW)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/11359
-#EXTINF:-1,SHOWTIME EXTREME HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/11358
-#EXTINF:-1,SHOWTIME NEXT HD (NEW)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/11360
-#EXTINF:-1,FLIX - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/59056
-#EXTINF:-1,SUPER CHANNEL FUSE - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71289
-#EXTINF:-1,VAULT (CDN) - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/67114
-#EXTINF:-1,STARZ HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/374
-#EXTINF:-1,STARZ EDGE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/377
-#EXTINF:-1,STARZ COMEDY HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/376
-#EXTINF:-1,STARZ BLACK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/378
-#EXTINF:-1,ENCORE WESTERN HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/379
-#EXTINF:-1,EPIX EAST HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/69016
-#EXTINF:-1,EPIX 2 HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/69014
-#EXTINF:-1,EPIX DRIVE IN'S HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/69012
-#EXTINF:-1,EPIX HITS HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/69013
-#EXTINF:-1,99 MUSIC (RADIO)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71344
-#EXTINF:-1,FAME 95 (RADIO)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71342
-#EXTINF:-1,HITZ 92 (RADIO)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71341
-#EXTINF:-1,POWER 106 (RADIO)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71345
-#EXTINF:-1,RJR 94 (RADIO)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/71343
-#EXTINF:-1,TVO HD (NA)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/391
-#EXTINF:-1,PBS KIDS - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/15071
-#EXTINF:-1,YTV HD (NA)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/390
-#EXTINF:-1,DISCOVERY FAMILY HD - NEW
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/59034
-#EXTINF:-1,DISNEY HD EAST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/392
-#EXTINF:-1,ABC SPARK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4063
-#EXTINF:-1,TREEHOUSE HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/393
-#EXTINF:-1,MAGIC SCHOOL BUS 24x7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8092
-#EXTINF:-1,BABY EINSTEIN 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8089
-#EXTINF:-1,PEPPA PIG 24x7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9737
-#EXTINF:-1,PAW PATROL 24x7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9736
-#EXTINF:-1,SONIC BOOM 24x7 (NEW)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/42215
-#EXTINF:-1,PJ MASK 24x7 (NEW)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/42216
-#EXTINF:-1,SUPER WINGS 24x7 (NEW)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/38759
-#EXTINF:-1,TROLLHUNTERS 24x7 (NEW)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/43224
-#EXTINF:-1,TRANSFORMER - RETRO 24x7 (NEW)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/65803
-#EXTINF:-1,NICKELODEON HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/394
-#EXTINF:-1,CARTOON NETWORK HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/395
-#EXTINF:-1,FAMILY HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/396
-#EXTINF:-1,DISNEY XD HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/397
-#EXTINF:-1,DISNEY ALL DAY 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7804
-#EXTINF:-1,DUCK TALES 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7498
-#EXTINF:-1,SPIDERMAN 24x7 (NEW)
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9976
-#EXTINF:-1,BATMAN THE ANIMATED SERIES 24x7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7499
-#EXTINF:-1,STAR WARS CLONE WARS 24X7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7835
-#EXTINF:-1,STAR WARS REBELS 24x7
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/8090
-#EXTINF:-1,TELETOON HD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/2422
-#EXTINF:-1,SKY DISNEY CHANNEL
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1745
-#EXTINF:-1,SKY DISNEY JR
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1746
-#EXTINF:-1,SKY DISNEY XD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1747
-#EXTINF:-1,SKY CARTOON NETWORK
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1773
-#EXTINF:-1,SKY NICKTOONS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1729
-#EXTINF:-1,SKY NICK JR
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1716
-#EXTINF:-1,SKY RTE JR
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9625
-#EXTINF:-1,SKY BOOMERANG
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/9626
-#EXTINF:-1,TRUE MOVIES
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1786
-#EXTINF:-1,SKY MOVIES DISNEY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1743
-#EXTINF:-1,SKY MOVIES ACTION & ADVENTURE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1738
-#EXTINF:-1,SKY MOVIES COMEDY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1737
-#EXTINF:-1,SKY MOVIES PREMIERE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1733
-#EXTINF:-1,SKY MOVIES FAMILY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1736
-#EXTINF:-1,SKY MOVIES DRAMA & ROMANCE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1779
-#EXTINF:-1,SKY MOVIES THRILLER
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1742
-#EXTINF:-1,SKY NAT GEO
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1755
-#EXTINF:-1,SKY NAT GEO WILD
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1756
-#EXTINF:-1,SKY TCM
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1785
-#EXTINF:-1,SKY TLC
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1790
-#EXTINF:-1,SKY HISTORY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1758
-#EXTINF:-1,SKY H2
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1754
-#EXTINF:-1,SKY REALLY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1757
-#EXTINF:-1,SKY ARTS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/2196
-#EXTINF:-1,SKY QUEST
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1768
-#EXTINF:-1,SKY TRU TV
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1723
-#EXTINF:-1,SKY TBN
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1722
-#EXTINF:-1,SKY FOOD NETWORK
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1788
-#EXTINF:-1,SKY LIVING
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1739
-#EXTINF:-1,SKY HOME
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1718
-#EXTINF:-1,SKY FOX
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1741
-#EXTINF:-1,SKY EDEN
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1789
-#EXTINF:-1,SKY DISCOVERY TURBO
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1767
-#EXTINF:-1,SKY DISCOVERY SHED
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1761
-#EXTINF:-1,SKY DISCOVERY SCIENCE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1766
-#EXTINF:-1,SKY DISCOVERY HISTORY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1765
-#EXTINF:-1,SKY DISCOVERY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1764
-#EXTINF:-1,SKY DAVE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1775
-#EXTINF:-1,SKY COMEDY CENTRAL
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1748
-#EXTINF:-1,SKY BBC 1
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1783
-#EXTINF:-1,SKY BBC 2
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1784
-#EXTINF:-1,SKY BBC 4
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4848
-#EXTINF:-1,SKY ITV 1
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4865
-#EXTINF:-1,SKY ITV 2
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4864
-#EXTINF:-1,SKY ITV 3
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4863
-#EXTINF:-1,SKY ITV 4
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4862
-#EXTINF:-1,SKY ITV BE
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4860
-#EXTINF:-1,SKY RTE 1
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4859
-#EXTINF:-1,SKY RTE 2
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/4858
-#EXTINF:-1,SKY ATLANTIC
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1740
-#EXTINF:-1,SKY ANIMAL PLANET
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1760
-#EXTINF:-1,SKY ALIBI
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1774
-#EXTINF:-1,SKY 2
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/1749
-#EXTINF:-1,CBS ACTION
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7184
-#EXTINF:-1,CBS DRAMA
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7186
-#EXTINF:-1,CBS REALITY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7187
-#EXTINF:-1,SKY MORE4
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7177
-#EXTINF:-1,SKY 5 STAR
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7181
-#EXTINF:-1,SKY CHANNEL 4
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7175
-#EXTINF:-1,SKY CHANNEL 5
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7176
-#EXTINF:-1,SKY CRIME AND INVESTIGATION
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7190
-#EXTINF:-1,SKY E4
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7178
-#EXTINF:-1,SKY FILM4
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7189
-#EXTINF:-1,SKY HORROR
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7179
-#EXTINF:-1,SKY NEWS
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7173
-#EXTINF:-1,SKY E!
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7192
-#EXTINF:-1,SKY SYFY
-http://ok2.se:8000/c6c3F7UMznbI4mBfz/0adfF9U1Qs9bar3S5/7174
+#EXTINF:-1 tvg-id="" tvg-name="CA | YES TV" tvg-logo="" group-title="CANADA",CA | YES TV
+http://tvprime.tv:8080/Peggy/Peggy1/5588
+#EXTINF:-1 tvg-id="" tvg-name="CA | W_NETWORK" tvg-logo="" group-title="CANADA",CA | W_NETWORK
+http://tvprime.tv:8080/Peggy/Peggy1/5589
+#EXTINF:-1 tvg-id="" tvg-name="CA | VISION" tvg-logo="" group-title="CANADA",CA | VISION
+http://tvprime.tv:8080/Peggy/Peggy1/5590
+#EXTINF:-1 tvg-id="NICKELODEON *HQ" tvg-name="CA | Nickelodeon" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/04/Evolucio%CC%81n-del-logo-Nickelodeon-el-naranja-explosivo.jpg" group-title="CANADA",CA | Nickelodeon
+http://tvprime.tv:8080/Peggy/Peggy1/5591
+#EXTINF:-1 tvg-id="" tvg-name="CA | FX" tvg-logo="" group-title="CANADA",CA | FX
+http://tvprime.tv:8080/Peggy/Peggy1/5593
+#EXTINF:-1 tvg-id="" tvg-name="CA | FXX" tvg-logo="" group-title="CANADA",CA | FXX
+http://tvprime.tv:8080/Peggy/Peggy1/5594
+#EXTINF:-1 tvg-id="" tvg-name="CA | MovieTime" tvg-logo="" group-title="CANADA",CA | MovieTime
+http://tvprime.tv:8080/Peggy/Peggy1/5595
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV SCI-FI" tvg-logo="" group-title="CANADA",CA | CTV SCI-FI
+http://tvprime.tv:8080/Peggy/Peggy1/5599
+#EXTINF:-1 tvg-id="" tvg-name="CA | TCM" tvg-logo="" group-title="CANADA",CA | TCM
+http://tvprime.tv:8080/Peggy/Peggy1/5604
+#EXTINF:-1 tvg-id="" tvg-name="CA | Showcase" tvg-logo="" group-title="CANADA",CA | Showcase
+http://tvprime.tv:8080/Peggy/Peggy1/5605
+#EXTINF:-1 tvg-id="" tvg-name="CA | SPORTSNET_PACIFIC" tvg-logo="" group-title="CANADA",CA | SPORTSNET_PACIFIC
+http://tvprime.tv:8080/Peggy/Peggy1/5608
+#EXTINF:-1 tvg-id="" tvg-name="CA | SPORTSNET_ONTARIO" tvg-logo="" group-title="CANADA",CA | SPORTSNET_ONTARIO
+http://tvprime.tv:8080/Peggy/Peggy1/5609
+#EXTINF:-1 tvg-id="" tvg-name="CA | SPORTSNET_ONE" tvg-logo="" group-title="CANADA",CA | SPORTSNET_ONE
+http://tvprime.tv:8080/Peggy/Peggy1/5610
+#EXTINF:-1 tvg-id="" tvg-name="CA | SPORTSNET_EAST" tvg-logo="" group-title="CANADA",CA | SPORTSNET_EAST
+http://tvprime.tv:8080/Peggy/Peggy1/5611
+#EXTINF:-1 tvg-id="" tvg-name="CA | SPORTSNET_360" tvg-logo="" group-title="CANADA",CA | SPORTSNET_360
+http://tvprime.tv:8080/Peggy/Peggy1/5612
+#EXTINF:-1 tvg-id="" tvg-name="CA | TCTV2" tvg-logo="" group-title="CANADA",CA | TCTV2
+http://tvprime.tv:8080/Peggy/Peggy1/5613
+#EXTINF:-1 tvg-id="" tvg-name="CA | Headline News" tvg-logo="" group-title="CANADA",CA | Headline News
+http://tvprime.tv:8080/Peggy/Peggy1/5616
+#EXTINF:-1 tvg-id="" tvg-name="CA | Game+" tvg-logo="" group-title="CANADA",CA | Game+
+http://tvprime.tv:8080/Peggy/Peggy1/5618
+#EXTINF:-1 tvg-id="" tvg-name="CA | CNBC" tvg-logo="" group-title="CANADA",CA | CNBC
+http://tvprime.tv:8080/Peggy/Peggy1/5620
+#EXTINF:-1 tvg-id="" tvg-name="CA | PEACHTREE" tvg-logo="" group-title="CANADA",CA | PEACHTREE
+http://tvprime.tv:8080/Peggy/Peggy1/5621
+#EXTINF:-1 tvg-id="" tvg-name="CA | PBS Buffalo (WNED)" tvg-logo="" group-title="CANADA",CA | PBS Buffalo (WNED)
+http://tvprime.tv:8080/Peggy/Peggy1/5622
+#EXTINF:-1 tvg-id="" tvg-name="CA | OWN" tvg-logo="" group-title="CANADA",CA | OWN
+http://tvprime.tv:8080/Peggy/Peggy1/5623
+#EXTINF:-1 tvg-id="" tvg-name="CA | OMNI_2" tvg-logo="" group-title="CANADA",CA | OMNI_2
+http://tvprime.tv:8080/Peggy/Peggy1/5624
+#EXTINF:-1 tvg-id="" tvg-name="CA | OMNI_1" tvg-logo="" group-title="CANADA",CA | OMNI_1
+http://tvprime.tv:8080/Peggy/Peggy1/5625
+#EXTINF:-1 tvg-id="" tvg-name="CA | OLN" tvg-logo="" group-title="CANADA",CA | OLN
+http://tvprime.tv:8080/Peggy/Peggy1/5626
+#EXTINF:-1 tvg-id="" tvg-name="CA | CablePulse 24" tvg-logo="" group-title="CANADA",CA | CablePulse 24
+http://tvprime.tv:8080/Peggy/Peggy1/5628
+#EXTINF:-1 tvg-id="" tvg-name="CA | NBA_TV" tvg-logo="" group-title="CANADA",CA | NBA_TV
+http://tvprime.tv:8080/Peggy/Peggy1/5629
+#EXTINF:-1 tvg-id="" tvg-name="CA | NAT_GEO" tvg-logo="" group-title="CANADA",CA | NAT_GEO
+http://tvprime.tv:8080/Peggy/Peggy1/5630
+#EXTINF:-1 tvg-id="" tvg-name="CA | MUCH_MUSIC" tvg-logo="" group-title="CANADA",CA | MUCH_MUSIC
+http://tvprime.tv:8080/Peggy/Peggy1/5631
+#EXTINF:-1 tvg-id="" tvg-name="CA | MTV" tvg-logo="" group-title="CANADA",CA | MTV
+http://tvprime.tv:8080/Peggy/Peggy1/5632
+#EXTINF:-1 tvg-id="" tvg-name="CA | Makeful" tvg-logo="" group-title="CANADA",CA | Makeful
+http://tvprime.tv:8080/Peggy/Peggy1/5633
+#EXTINF:-1 tvg-id="" tvg-name="CA | HLN" tvg-logo="" group-title="CANADA",CA | HLN
+http://tvprime.tv:8080/Peggy/Peggy1/5635
+#EXTINF:-1 tvg-id="CA | History HD" tvg-name="CA | History Channel" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg" group-title="CANADA",CA | History Channel
+http://tvprime.tv:8080/Peggy/Peggy1/5636
+#EXTINF:-1 tvg-id="" tvg-name="CA | GOLF" tvg-logo="" group-title="CANADA",CA | GOLF
+http://tvprime.tv:8080/Peggy/Peggy1/5638
+#EXTINF:-1 tvg-id="" tvg-name="CA | Global Toronto (CIII)" tvg-logo="" group-title="CANADA",CA | Global Toronto (CIII)
+http://tvprime.tv:8080/Peggy/Peggy1/5639
+#EXTINF:-1 tvg-id="" tvg-name="CA | Game TV" tvg-logo="" group-title="CANADA",CA | Game TV
+http://tvprime.tv:8080/Peggy/Peggy1/5640
+#EXTINF:-1 tvg-id="" tvg-name="CA | FAMILY" tvg-logo="" group-title="CANADA",CA | FAMILY
+http://tvprime.tv:8080/Peggy/Peggy1/5644
+#EXTINF:-1 tvg-id="" tvg-name="CA | FAMILY CHRGD" tvg-logo="" group-title="CANADA",CA | FAMILY CHRGD
+http://tvprime.tv:8080/Peggy/Peggy1/5645
+#EXTINF:-1 tvg-id="CA | E! FHD" tvg-name="CA | E! Entertainment Television" tvg-logo="http://img2.wikia.nocookie.net/__cb20121013134331/milgreen/images/f/fe/E!_(Milgreen).png" group-title="CANADA",CA | E! Entertainment Television
+http://tvprime.tv:8080/Peggy/Peggy1/5646
+#EXTINF:-1 tvg-id="" tvg-name="CA | DTOUR" tvg-logo="" group-title="CANADA",CA | DTOUR
+http://tvprime.tv:8080/Peggy/Peggy1/5647
+#EXTINF:-1 tvg-id="" tvg-name="CA | DIY Network" tvg-logo="" group-title="CANADA",CA | DIY Network
+http://tvprime.tv:8080/Peggy/Peggy1/5648
+#EXTINF:-1 tvg-id="" tvg-name="CA | DISNEY_XD" tvg-logo="" group-title="CANADA",CA | DISNEY_XD
+http://tvprime.tv:8080/Peggy/Peggy1/5649
+#EXTINF:-1 tvg-id="USA | Disney Channel" tvg-name="CA | Disney Channel" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/disney_channel_0.png?itok=2y1CSwfM" group-title="CANADA",CA | Disney Channel
+http://tvprime.tv:8080/Peggy/Peggy1/5650
+#EXTINF:-1 tvg-id="" tvg-name="CA | Discovery Channel" tvg-logo="" group-title="CANADA",CA | Discovery Channel
+http://tvprime.tv:8080/Peggy/Peggy1/5651
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV TORONTO (CFTO)" tvg-logo="" group-title="CANADA",CA | CTV TORONTO (CFTO)
+http://tvprime.tv:8080/Peggy/Peggy1/5654
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV News Channel" tvg-logo="" group-title="CANADA",CA | CTV News Channel
+http://tvprime.tv:8080/Peggy/Peggy1/5655
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV COMEDY" tvg-logo="" group-title="CANADA",CA | CTV COMEDY
+http://tvprime.tv:8080/Peggy/Peggy1/5656
+#EXTINF:-1 tvg-id="" tvg-name="CA | CPAC EN" tvg-logo="" group-title="CANADA",CA | CPAC EN
+http://tvprime.tv:8080/Peggy/Peggy1/5657
+#EXTINF:-1 tvg-id="" tvg-name="CA | CMT" tvg-logo="" group-title="CANADA",CA | CMT
+http://tvprime.tv:8080/Peggy/Peggy1/5659
+#EXTINF:-1 tvg-id="" tvg-name="CA | Citytv Toronto" tvg-logo="" group-title="CANADA",CA | Citytv Toronto
+http://tvprime.tv:8080/Peggy/Peggy1/5660
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Toronto (CBLT)" tvg-logo="" group-title="CANADA",CA | CBC Toronto (CBLT)
+http://tvprime.tv:8080/Peggy/Peggy1/5662
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC News Network" tvg-logo="" group-title="CANADA",CA | CBC News Network
+http://tvprime.tv:8080/Peggy/Peggy1/5663
+#EXTINF:-1 tvg-id="" tvg-name="CA | BBC Canada" tvg-logo="" group-title="CANADA",CA | BBC Canada
+http://tvprime.tv:8080/Peggy/Peggy1/5665
+#EXTINF:-1 tvg-id="" tvg-name="CA | TVA Montreal (CFTM)" tvg-logo="" group-title="CANADA",CA | TVA Montreal (CFTM)
+http://tvprime.tv:8080/Peggy/Peggy1/5667
+#EXTINF:-1 tvg-id="" tvg-name="CA | AMC" tvg-logo="" group-title="CANADA",CA | AMC
+http://tvprime.tv:8080/Peggy/Peggy1/5669
+#EXTINF:-1 tvg-id="" tvg-name="CA | CPAC FR" tvg-logo="" group-title="CANADA",CA | CPAC FR
+http://tvprime.tv:8080/Peggy/Peggy1/5673
+#EXTINF:-1 tvg-id="" tvg-name="CA | A&E" tvg-logo="" group-title="CANADA",CA | A&E
+http://tvprime.tv:8080/Peggy/Peggy1/5677
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN_5" tvg-logo="" group-title="CANADA",CA | TSN_5
+http://tvprime.tv:8080/Peggy/Peggy1/5678
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN_4" tvg-logo="" group-title="CANADA",CA | TSN_4
+http://tvprime.tv:8080/Peggy/Peggy1/5679
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN_3" tvg-logo="" group-title="CANADA",CA | TSN_3
+http://tvprime.tv:8080/Peggy/Peggy1/5680
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN_2" tvg-logo="" group-title="CANADA",CA | TSN_2
+http://tvprime.tv:8080/Peggy/Peggy1/5681
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN_1" tvg-logo="" group-title="CANADA",CA | TSN_1
+http://tvprime.tv:8080/Peggy/Peggy1/5682
+#EXTINF:-1 tvg-id="CA | Tlc  HD" tvg-name="CA | TLC" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/tlc_logo.png?itok=8Ljw2n5Z" group-title="CANADA",CA | TLC
+http://tvprime.tv:8080/Peggy/Peggy1/5683
+#EXTINF:-1 tvg-id="" tvg-name="CA | Crime & Investigation" tvg-logo="" group-title="CANADA",CA | Crime & Investigation
+http://tvprime.tv:8080/Peggy/Peggy1/5684
+#EXTINF:-1 tvg-id="" tvg-name="CA | Much" tvg-logo="" group-title="CANADA",CA | Much
+http://tvprime.tv:8080/Peggy/Peggy1/5685
+#EXTINF:-1 tvg-id="" tvg-name="CA | MLB Network" tvg-logo="" group-title="CANADA",CA | MLB Network
+http://tvprime.tv:8080/Peggy/Peggy1/5686
+#EXTINF:-1 tvg-id="" tvg-name="CA | ICI RDI" tvg-logo="" group-title="CANADA",CA | ICI RDI
+http://tvprime.tv:8080/Peggy/Peggy1/5687
+#EXTINF:-1 tvg-id="" tvg-name="CA | TV Ontario" tvg-logo="" group-title="CANADA",CA | TV Ontario
+http://tvprime.tv:8080/Peggy/Peggy1/5688
+#EXTINF:-1 tvg-id="USA | beIN Sports" tvg-name="CA | BEIN SPORTS" tvg-logo="https://comparaiso.es/sites/default/files/images/beinlogo-300.png" group-title="CANADA",CA | BEIN SPORTS
+http://tvprime.tv:8080/Peggy/Peggy1/5689
+#EXTINF:-1 tvg-id="" tvg-name="CA | Animal Planet" tvg-logo="" group-title="CANADA",CA | Animal Planet
+http://tvprime.tv:8080/Peggy/Peggy1/5690
+#EXTINF:-1 tvg-id="" tvg-name="CA | SPORTSNET_PPV" tvg-logo="" group-title="CANADA",CA | SPORTSNET_PPV
+http://tvprime.tv:8080/Peggy/Peggy1/5691
+#EXTINF:-1 tvg-id="" tvg-name="CA | TVA Sports 2" tvg-logo="" group-title="CANADA",CA | TVA Sports 2
+http://tvprime.tv:8080/Peggy/Peggy1/5693
+#EXTINF:-1 tvg-id="" tvg-name="CA | TVA  Sports" tvg-logo="" group-title="CANADA",CA | TVA  Sports
+http://tvprime.tv:8080/Peggy/Peggy1/5694
+#EXTINF:-1 tvg-id="" tvg-name="CA | Metro Media (FR)" tvg-logo="" group-title="CANADA",CA | Metro Media (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5695
+#EXTINF:-1 tvg-id="" tvg-name="CA | Rogers TV FR" tvg-logo="" group-title="CANADA",CA | Rogers TV FR
+http://tvprime.tv:8080/Peggy/Peggy1/5696
+#EXTINF:-1 tvg-id="" tvg-name="CA | TV Rogers" tvg-logo="" group-title="CANADA",CA | TV Rogers
+http://tvprime.tv:8080/Peggy/Peggy1/5697
+#EXTINF:-1 tvg-id="" tvg-name="CA | Crave 1" tvg-logo="" group-title="CANADA",CA | Crave 1
+http://tvprime.tv:8080/Peggy/Peggy1/5698
+#EXTINF:-1 tvg-id="" tvg-name="CA | Crave 2" tvg-logo="" group-title="CANADA",CA | Crave 2
+http://tvprime.tv:8080/Peggy/Peggy1/5699
+#EXTINF:-1 tvg-id="" tvg-name="CA | Crave 4" tvg-logo="" group-title="CANADA",CA | Crave 4
+http://tvprime.tv:8080/Peggy/Peggy1/5701
+#EXTINF:-1 tvg-id="" tvg-name="CA | HBO 2" tvg-logo="" group-title="CANADA",CA | HBO 2
+http://tvprime.tv:8080/Peggy/Peggy1/5702
+#EXTINF:-1 tvg-id="" tvg-name="CA | HBO 1" tvg-logo="" group-title="CANADA",CA | HBO 1
+http://tvprime.tv:8080/Peggy/Peggy1/5703
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC3" tvg-logo="" group-title="CANADA",CA | CBC3
+http://tvprime.tv:8080/Peggy/Peggy1/5706
+#EXTINF:-1 tvg-id="" tvg-name="CA | Global National" tvg-logo="" group-title="CANADA",CA | Global National
+http://tvprime.tv:8080/Peggy/Peggy1/5707
+#EXTINF:-1 tvg-id="" tvg-name="CA | Starz 1" tvg-logo="" group-title="CANADA",CA | Starz 1
+http://tvprime.tv:8080/Peggy/Peggy1/5708
+#EXTINF:-1 tvg-id="" tvg-name="CA | TELEMAGINO  (FR)" tvg-logo="" group-title="CANADA",CA | TELEMAGINO  (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5710
+#EXTINF:-1 tvg-id="" tvg-name="CA | Addik TV (FR)" tvg-logo="" group-title="CANADA",CA | Addik TV (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5711
+#EXTINF:-1 tvg-id="" tvg-name="CA | AHC" tvg-logo="" group-title="CANADA",CA | AHC
+http://tvprime.tv:8080/Peggy/Peggy1/5712
+#EXTINF:-1 tvg-id="" tvg-name="CA | APTN" tvg-logo="" group-title="CANADA",CA | APTN
+http://tvprime.tv:8080/Peggy/Peggy1/5713
+#EXTINF:-1 tvg-id="" tvg-name="CA | BET" tvg-logo="" group-title="CANADA",CA | BET
+http://tvprime.tv:8080/Peggy/Peggy1/5714
+#EXTINF:-1 tvg-id="" tvg-name="CA | Canal Savoir" tvg-logo="" group-title="CANADA",CA | Canal Savoir
+http://tvprime.tv:8080/Peggy/Peggy1/5716
+#EXTINF:-1 tvg-id="" tvg-name="CA | CASA (FR)" tvg-logo="" group-title="CANADA",CA | CASA (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5717
+#EXTINF:-1 tvg-id="" tvg-name="CA | CinePOP (FR)" tvg-logo="" group-title="CANADA",CA | CinePOP (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5718
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV" tvg-logo="" group-title="CANADA",CA | CTV
+http://tvprime.tv:8080/Peggy/Peggy1/5719
+#EXTINF:-1 tvg-id="" tvg-name="CA | Disney Junior (FR)" tvg-logo="" group-title="CANADA",CA | Disney Junior (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5720
+#EXTINF:-1 tvg-id="" tvg-name="CA | Historia (FR)" tvg-logo="" group-title="CANADA",CA | Historia (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5722
+#EXTINF:-1 tvg-id="" tvg-name="CA | ICI ARTV (FR)" tvg-logo="" group-title="CANADA",CA | ICI ARTV (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5723
+#EXTINF:-1 tvg-id="" tvg-name="CA | ICI Montreal (FR)" tvg-logo="" group-title="CANADA",CA | ICI Montreal (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5724
+#EXTINF:-1 tvg-id="" tvg-name="CA | ICI RDI (FR)" tvg-logo="" group-title="CANADA",CA | ICI RDI (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5725
+#EXTINF:-1 tvg-id="" tvg-name="CA | ICI Vancouver (FR)" tvg-logo="" group-title="CANADA",CA | ICI Vancouver (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5726
+#EXTINF:-1 tvg-id="" tvg-name="CA | LCN (FR)" tvg-logo="" group-title="CANADA",CA | LCN (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5727
+#EXTINF:-1 tvg-id="" tvg-name="CA | Prise 2 (FR)" tvg-logo="" group-title="CANADA",CA | Prise 2 (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5730
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS (FR)" tvg-logo="" group-title="CANADA",CA | RDS (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5731
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS 2 (FR)" tvg-logo="" group-title="CANADA",CA | RDS 2 (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5732
+#EXTINF:-1 tvg-id="" tvg-name="CA | RDS INFO (FR)" tvg-logo="" group-title="CANADA",CA | RDS INFO (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5733
+#EXTINF:-1 tvg-id="" tvg-name="CA | Télé Québec (FR)" tvg-logo="" group-title="CANADA",CA | Télé Québec (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5735
+#EXTINF:-1 tvg-id="" tvg-name="CA | Télémagino (FR)" tvg-logo="" group-title="CANADA",CA | Télémagino (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5736
+#EXTINF:-1 tvg-id="" tvg-name="CA | TV5 Quebec (FR)" tvg-logo="" group-title="CANADA",CA | TV5 Quebec (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5737
+#EXTINF:-1 tvg-id="" tvg-name="CA | Vie (FR)" tvg-logo="" group-title="CANADA",CA | Vie (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5738
+#EXTINF:-1 tvg-id="" tvg-name="CA | VRAK TV (FR)" tvg-logo="" group-title="CANADA",CA | VRAK TV (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5739
+#EXTINF:-1 tvg-id="" tvg-name="CA | Z Tele (FR)" tvg-logo="" group-title="CANADA",CA | Z Tele (FR)
+http://tvprime.tv:8080/Peggy/Peggy1/5741
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Montreal" tvg-logo="" group-title="CANADA",CA | CBC Montreal
+http://tvprime.tv:8080/Peggy/Peggy1/5743
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC Montreal HD" tvg-logo="" group-title="CANADA",CA | CBC Montreal HD
+http://tvprime.tv:8080/Peggy/Peggy1/5744
+#EXTINF:-1 tvg-id="" tvg-name="CA | BBC WORLD NEWS" tvg-logo="" group-title="CANADA",CA | BBC WORLD NEWS
+http://tvprime.tv:8080/Peggy/Peggy1/5745
+#EXTINF:-1 tvg-id="" tvg-name="CA | BOOK TV" tvg-logo="" group-title="CANADA",CA | BOOK TV
+http://tvprime.tv:8080/Peggy/Peggy1/5746
+#EXTINF:-1 tvg-id="CA | CARTOON NETWORK" tvg-name="CA | CARTOON NETWORK" tvg-logo="https://pm1.narvii.com/6466/0ed83137cec9f532e42ddc644eb6bb2614a0ed6e_hq.jpg" group-title="CANADA",CA | CARTOON NETWORK
+http://tvprime.tv:8080/Peggy/Peggy1/5747
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBCLGARY" tvg-logo="" group-title="CANADA",CA | CBCLGARY
+http://tvprime.tv:8080/Peggy/Peggy1/5748
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC OTTAWA" tvg-logo="" group-title="CANADA",CA | CBC OTTAWA
+http://tvprime.tv:8080/Peggy/Peggy1/5749
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC TORONTO" tvg-logo="" group-title="CANADA",CA | CBC TORONTO
+http://tvprime.tv:8080/Peggy/Peggy1/5750
+#EXTINF:-1 tvg-id="" tvg-name="CA | CBC VANCOUVER" tvg-logo="" group-title="CANADA",CA | CBC VANCOUVER
+http://tvprime.tv:8080/Peggy/Peggy1/5751
+#EXTINF:-1 tvg-id="" tvg-name="CA | CITYLGARY" tvg-logo="" group-title="CANADA",CA | CITYLGARY
+http://tvprime.tv:8080/Peggy/Peggy1/5752
+#EXTINF:-1 tvg-id="" tvg-name="CA | CITY TORONTO" tvg-logo="" group-title="CANADA",CA | CITY TORONTO
+http://tvprime.tv:8080/Peggy/Peggy1/5754
+#EXTINF:-1 tvg-id="" tvg-name="CA | CITY VANCOUVER" tvg-logo="" group-title="CANADA",CA | CITY VANCOUVER
+http://tvprime.tv:8080/Peggy/Peggy1/5755
+#EXTINF:-1 tvg-id="" tvg-name="CA | CNN" tvg-logo="" group-title="CANADA",CA | CNN
+http://tvprime.tv:8080/Peggy/Peggy1/5756
+#EXTINF:-1 tvg-id="" tvg-name="CA | CNN INTERNATIONAL" tvg-logo="" group-title="CANADA",CA | CNN INTERNATIONAL
+http://tvprime.tv:8080/Peggy/Peggy1/5757
+#EXTINF:-1 tvg-id="" tvg-name="CA | COOKING CHANNEL" tvg-logo="" group-title="CANADA",CA | COOKING CHANNEL
+http://tvprime.tv:8080/Peggy/Peggy1/5758
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV 2 VANCOUVER" tvg-logo="" group-title="CANADA",CA | CTV 2 VANCOUVER
+http://tvprime.tv:8080/Peggy/Peggy1/5762
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTVLGARY" tvg-logo="" group-title="CANADA",CA | CTVLGARY
+http://tvprime.tv:8080/Peggy/Peggy1/5763
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV MONTREAL" tvg-logo="" group-title="CANADA",CA | CTV MONTREAL
+http://tvprime.tv:8080/Peggy/Peggy1/5765
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV NEWS NETWORK" tvg-logo="" group-title="CANADA",CA | CTV NEWS NETWORK
+http://tvprime.tv:8080/Peggy/Peggy1/5766
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV OTTAWA" tvg-logo="" group-title="CANADA",CA | CTV OTTAWA
+http://tvprime.tv:8080/Peggy/Peggy1/5767
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV TORONTO" tvg-logo="" group-title="CANADA",CA | CTV TORONTO
+http://tvprime.tv:8080/Peggy/Peggy1/5768
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV VANCOUVER" tvg-logo="" group-title="CANADA",CA | CTV VANCOUVER
+http://tvprime.tv:8080/Peggy/Peggy1/5769
+#EXTINF:-1 tvg-id="CA | Discovery science HD" tvg-name="CA | DISCOVERY SCIENCE" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png" group-title="CANADA",CA | DISCOVERY SCIENCE
+http://tvprime.tv:8080/Peggy/Peggy1/5773
+#EXTINF:-1 tvg-id="" tvg-name="CA | FOX NEWS" tvg-logo="" group-title="CANADA",CA | FOX NEWS
+http://tvprime.tv:8080/Peggy/Peggy1/5774
+#EXTINF:-1 tvg-id="" tvg-name="CA | GLOBAL TORONTO" tvg-logo="" group-title="CANADA",CA | GLOBAL TORONTO
+http://tvprime.tv:8080/Peggy/Peggy1/5776
+#EXTINF:-1 tvg-id="" tvg-name="CA | GLOBAL VANCOUVER" tvg-logo="" group-title="CANADA",CA | GLOBAL VANCOUVER
+http://tvprime.tv:8080/Peggy/Peggy1/5777
+#EXTINF:-1 tvg-id="" tvg-name="CA | GSN" tvg-logo="" group-title="CANADA",CA | GSN
+http://tvprime.tv:8080/Peggy/Peggy1/5778
+#EXTINF:-1 tvg-id="H2 *HD" tvg-name="CA | H2" tvg-logo="https://cdn.mitvstatic.com/channels/gt_h2_m.png" group-title="CANADA",CA | H2
+http://tvprime.tv:8080/Peggy/Peggy1/5780
+#EXTINF:-1 tvg-id="" tvg-name="CA | ID" tvg-logo="" group-title="CANADA",CA | ID
+http://tvprime.tv:8080/Peggy/Peggy1/5781
+#EXTINF:-1 tvg-id="" tvg-name="CA | MAVTV" tvg-logo="" group-title="CANADA",CA | MAVTV
+http://tvprime.tv:8080/Peggy/Peggy1/5783
+#EXTINF:-1 tvg-id="" tvg-name="CA | MAX" tvg-logo="" group-title="CANADA",CA | MAX
+http://tvprime.tv:8080/Peggy/Peggy1/5784
+#EXTINF:-1 tvg-id="" tvg-name="CA | MIRACLE" tvg-logo="" group-title="CANADA",CA | MIRACLE
+http://tvprime.tv:8080/Peggy/Peggy1/5786
+#EXTINF:-1 tvg-id="" tvg-name="CA | MTV 2" tvg-logo="" group-title="CANADA",CA | MTV 2
+http://tvprime.tv:8080/Peggy/Peggy1/5787
+#EXTINF:-1 tvg-id="" tvg-name="CA | NTV" tvg-logo="" group-title="CANADA",CA | NTV
+http://tvprime.tv:8080/Peggy/Peggy1/5788
+#EXTINF:-1 tvg-id="" tvg-name="CA | ONE" tvg-logo="" group-title="CANADA",CA | ONE
+http://tvprime.tv:8080/Peggy/Peggy1/5789
+#EXTINF:-1 tvg-id="" tvg-name="CA | PRISE" tvg-logo="" group-title="CANADA",CA | PRISE
+http://tvprime.tv:8080/Peggy/Peggy1/5790
+#EXTINF:-1 tvg-id="" tvg-name="CA | SERIES Plus" tvg-logo="" group-title="CANADA",CA | SERIES Plus
+http://tvprime.tv:8080/Peggy/Peggy1/5791
+#EXTINF:-1 tvg-id="" tvg-name="CA | SHOPPING" tvg-logo="" group-title="CANADA",CA | SHOPPING
+http://tvprime.tv:8080/Peggy/Peggy1/5792
+#EXTINF:-1 tvg-id="" tvg-name="CA | SILVER SCREEN CLASSICS" tvg-logo="" group-title="CANADA",CA | SILVER SCREEN CLASSICS
+http://tvprime.tv:8080/Peggy/Peggy1/5793
+#EXTINF:-1 tvg-id="" tvg-name="CA | SPIKE TV / PARAMOUNT" tvg-logo="" group-title="CANADA",CA | SPIKE TV / PARAMOUNT
+http://tvprime.tv:8080/Peggy/Peggy1/5794
+#EXTINF:-1 tvg-id="" tvg-name="CA | TRAVEL ESCAPE" tvg-logo="" group-title="CANADA",CA | TRAVEL ESCAPE
+http://tvprime.tv:8080/Peggy/Peggy1/5795
+#EXTINF:-1 tvg-id="" tvg-name="CA | TVO" tvg-logo="" group-title="CANADA",CA | TVO
+http://tvprime.tv:8080/Peggy/Peggy1/5796
+#EXTINF:-1 tvg-id="" tvg-name="CA | WFN" tvg-logo="" group-title="CANADA",CA | WFN
+http://tvprime.tv:8080/Peggy/Peggy1/5797
+#EXTINF:-1 tvg-id="" tvg-name="CA | WGN" tvg-logo="" group-title="CANADA",CA | WGN
+http://tvprime.tv:8080/Peggy/Peggy1/5798
+#EXTINF:-1 tvg-id="" tvg-name="CA | Wild TV" tvg-logo="" group-title="CANADA",CA | Wild TV
+http://tvprime.tv:8080/Peggy/Peggy1/5799
 
