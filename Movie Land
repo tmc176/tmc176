@@ -1,76 +1,76 @@
 #EXTM3U
 #EXTINF:-1,VIP HD ABC
-http://104.218.60.145:83/live/Delmacostello/8023634654/308970.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308970.m3u8
 #EXTINF:-1,VIP HD ABC EAST
-http://104.218.60.145:83/live/Delmacostello/8023634654/308969.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308969.m3u8
 #EXTINF:-1,VIP HD CBS EAST
-http://104.218.60.145:83/live/Delmacostello/8023634654/308948.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308948.m3u8
 #EXTINF:-1,VIP HD CBS SPORTS NETWORK
-http://104.218.60.145:83/live/Delmacostello/8023634654/308946.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308946.m3u8
 #EXTINF:-1,VIP HD FOX 5 HD
-http://104.218.60.145:83/live/Delmacostello/8023634654/308905.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308905.m3u8
 #EXTINF:-1,VIP HD FOX 50
-http://104.218.60.145:83/live/Delmacostello/8023634654/308904.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308904.m3u8
 #EXTINF:-1,VIP HD Motor Trend
-http://104.218.60.145:83/live/Delmacostello/8023634654/308922.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308922.m3u8
 #EXTINF:-1,VIP HD NBA TV
-http://104.218.60.145:83/live/Delmacostello/8023634654/308844.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308844.m3u8
 #EXTINF:-1,VIP HD NBC 10 EAST
-http://104.218.60.145:83/live/Delmacostello/8023634654/308843.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308843.m3u8
 #EXTINF:-1,VIP HD OUTDOOR CHANNEL
-http://104.218.60.145:83/live/Delmacostello/8023634654/308818.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308818.m3u8
 #EXTINF:-1,ABC West
-http://104.218.60.145:83/live/Delmacostello/8023634654/143434.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/143434.m3u8
 #EXTINF:-1,CBS East
-http://104.218.60.145:83/live/Delmacostello/8023634654/142627.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/142627.m3u8
 #EXTINF:-1,CNN
-http://104.218.60.145:83/live/Delmacostello/8023634654/353543.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/353543.m3u8
 #EXTINF:-1,CNN SD
-http://104.218.60.145:83/live/Delmacostello/8023634654/355981.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/355981.m3u8
 #EXTINF:-1,FOX East
-http://104.218.60.145:83/live/Delmacostello/8023634654/142659.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/142659.m3u8
 #EXTINF:-1,Fox News
-http://104.218.60.145:83/live/Delmacostello/8023634654/142661.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/142661.m3u8
 #EXTINF:-1,NBC East
-http://104.218.60.145:83/live/Delmacostello/8023634654/300088.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/300088.m3u8
 #EXTINF:-1,Pursuit Channel
-http://104.218.60.145:83/live/Delmacostello/8023634654/354961.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/354961.m3u8
 #EXTINF:-1,|CA| CBC CALGARY HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40571.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40571.m3u8
 #EXTINF:-1,|CA| CBC MONTREAL HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40572.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40572.m3u8
 #EXTINF:-1,|CA| CBC Montreal HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40573.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40573.m3u8
 #EXTINF:-1,|CA| CBC NEWS
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40574.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40574.m3u8
 #EXTINF:-1,|CA| CBC NEWS HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40575.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40575.m3u8
 #EXTINF:-1,|CA| CBC NOVA SCOTIA
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40576.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40576.m3u8
 #EXTINF:-1,|CA| CBC OTTAWA
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40577.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40577.m3u8
 #EXTINF:-1,|CA| CBC TORONTO FHD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40578.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40578.m3u8
 #EXTINF:-1,|CA| CBC TORONTO HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40579.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40579.m3u8
 #EXTINF:-1,|CA| CBC VANCOUVER
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40580.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40580.m3u8
 #EXTINF:-1,|CA| CHCH FHD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40583.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40583.m3u8
 #EXTINF:-1,|CA| CHCH HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40584.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40584.m3u8
 #EXTINF:-1,|CA| CITY CALGARY
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40586.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40586.m3u8
 #EXTINF:-1,|CA| CITY MONTREAL
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40587.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40587.m3u8
 #EXTINF:-1,|CA| CITY SASKATCHEWAN
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40588.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40588.m3u8
 #EXTINF:-1,|CA| CITY TORONTO
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40589.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40589.m3u8
 #EXTINF:-1,|CA| City Toronto HD
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40590.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40590.m3u8
 #EXTINF:-1,|CA| CITY VANCOUVER
-http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40591.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40591.m3u8
 #EXTINF:-1,|CA| City Vancouver HD
 http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40592.m3u8
 #EXTINF:-1,|CA| CITY WINNIPEG
