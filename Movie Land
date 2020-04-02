@@ -4,13 +4,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.
 #EXTINF:-1,CANADA: ABC BUFFALO HD
 http://104.218.60.145:83/Delmacostello/8023634654/378925
 #EXTINF:-1,CANADA: ABC EAST
-http://104.218.60.145:83/Delmacostello/8023634654/306264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/Delmacostello/8023634654/306264
 #EXTINF:-1,CANADA: ABC SHARK HD
-http://104.218.60.145:83/Delmacostello/8023634654/378926
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/Delmacostello/8023634654/378926
 #EXTINF:-1,CANADA: ABC WEST
-http://104.218.60.145:83/Delmacostello/8023634654/306262
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/Delmacostello/8023634654/306262
 #EXTINF:-1,CANADA: ADULT SWIM HD
-http://104.218.60.145:83/Delmacostello/8023634654/378928
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/Delmacostello/8023634654/378928
 #EXTINF:-1,CANADA: AMC
 http://104.218.60.145:83/Delmacostello/8023634654/379632
 #EXTINF:-1,CANADA: ANIMAL PLANET
