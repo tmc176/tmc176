@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,CA | A&E
-http://disfruta.net:80/oscar2/oscar2/3077
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/3077
 #EXTINF:-1,CA | CBC MONTREAL
-http://disfruta.net:80/oscar2/oscar2/3078
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/3078
 #EXTINF:-1,CA | CBC CALGARY
-http://disfruta.net:80/oscar2/oscar2/3079
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/3079
 #EXTINF:-1,CA | CBC OTTAWA
-http://disfruta.net:80/oscar2/oscar2/3080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/oscar2/oscar2/3080
 #EXTINF:-1,CA | CBC VANCOUVER
 http://disfruta.net:80/oscar2/oscar2/3081
 #EXTINF:-1,CA | AMC
