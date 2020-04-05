@@ -15,7 +15,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.prem
 #EXTINF:-1,|CA| SPORTSNET ONE HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40760.m3u8
 #EXTINF:-1,|CA| SPORTSNET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40761.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvbest.org:80/joyce3/273769/1728
 #EXTINF:-1,|CA| TSN  3HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40795.m3u8
 #EXTINF:-1,|CA| TSN 1HD
