@@ -3,20 +3,20 @@
 #EXTINF:-1,VIP HD Motor Trend
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308922.m3u8
 #EXTINF:-1,|CA| SPORTSNET EAST HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://showflix.org:5890/mahir/1234/67238
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://showflix.org:5890/mahir/1234/67238
 #EXTINF:-1,|CA| SPORTSNET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://showflix.org:5890/mahir/1234/67240
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://showflix.org:5890/mahir/1234/67240
 #EXTINF:-1,|CA| TSN  3HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://showflix.org:5890/mahir/1234/67246
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://showflix.org:5890/mahir/1234/67246
 #EXTINF:-1,|CA| TSN 1HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://showflix.org:5890/mahir/1234/67244
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://showflix.org:5890/mahir/1234/67244
 #EXTINF:-1,|CA| TSN 2HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://showflix.org:5890/mahir/1234/67245
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://showflix.org:5890/mahir/1234/67245
 #EXTINF:-1,|CA| TSN 5HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://showflix.org:5890/mahir/1234/67248
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://showflix.org:5890/mahir/1234/67248
 #EXTINF:-1,VIP HD CBS SPORTS NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308946.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308946.m3u8
 #EXTINF:-1,|CA| WWE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40813.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40813.m3u8
 #EXTINF:-1,VIP HD NBA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308844.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308844.m3u8
