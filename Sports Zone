@@ -15,8 +15,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://showflix
 #EXTINF:-1,|CA| TSN 5HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://showflix.org:5890/mahir/1234/67248
 #EXTINF:-1,VIP HD CBS SPORTS NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308946.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/16148
+#EXTINF:-1,NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/671
 #EXTINF:-1,|CA| WWE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/live/KOUETCHE/PatrickAwoussom2020/40813.m3u8
-#EXTINF:-1,VIP HD NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/Delmacostello/8023634654/308844.m3u8
