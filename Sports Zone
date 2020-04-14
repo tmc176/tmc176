@@ -42,7 +42,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.14
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/9294
 #EXTINF:-1,USA/CA: UFC FIGHT PASS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/17529
-#EXTINF:-1,USA/CA: Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22126
+#EXTINF:-1,CA : FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22126.m3u8
 #EXTINF:-1,USA/CA: USA Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/17802
