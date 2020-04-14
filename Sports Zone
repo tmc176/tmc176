@@ -2,22 +2,30 @@
 
 #EXTINF:-1,VIP HD Motor Trend
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/11078
-#EXTINF:-1,USA/CA: TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22324
-#EXTINF:-1,USA/CA: TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22322
-#EXTINF:-1,USA/CA: TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22320
-#EXTINF:-1,USA/CA: TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22318
-#EXTINF:-1,USA/CA: TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22316
-#EXTINF:-1,USA/CA: SPORTSNET 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22346
-#EXTINF:-1,USA/CA: SPORTSNET EAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22345
-#EXTINF:-1,USA/CA: SPORTSNET ONTARIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/StevenD2020/StevFr2019/22341
+#EXTINF:-1,CA: TSN 1  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22324.m3u8
+#EXTINF:-1,CA: TSN 2  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22322.m3u8
+#EXTINF:-1,CA: TSN 3  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22320.m3u8
+#EXTINF:-1,CA: TSN 4  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22318.m3u8
+#EXTINF:-1,CA: TSN 5  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22316.m3u8
+#EXTINF:-1,CA: SportsNet EAST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22345.m3u8
+#EXTINF:-1,CA: SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22346.m3u8
+#EXTINF:-1,CA: SPORTSNET ONTARIO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22342.m3u8
+#EXTINF:-1,CA: SportsNet Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22341.m3u8
+#EXTINF:-1,CA: SPORTSNET PACIFIC  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22340.m3u8
+#EXTINF:-1,CA: SportsNet WEST  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22339.m3u8
+#EXTINF:-1,CA: SportsNet WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22338.m3u8
 #EXTINF:-1,VIP HD CBS SPORTS NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/16148
 #EXTINF:-1,NBCSN
