@@ -2,30 +2,28 @@
 
 #EXTINF:-1,VIP HD Motor Trend
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/11078
-#EXTINF:-1,CA: TSN 1  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22324.m3u8
-#EXTINF:-1,CA: TSN 2  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22322.m3u8
-#EXTINF:-1,CA: TSN 3  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22320.m3u8
-#EXTINF:-1,CA: TSN 4  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22318.m3u8
-#EXTINF:-1,CA: TSN 5  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22316.m3u8
-#EXTINF:-1,CA: SportsNet EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22345.m3u8
-#EXTINF:-1,CA: SPORTSNET 360
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22346.m3u8
-#EXTINF:-1,CA: SPORTSNET ONTARIO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22342.m3u8
-#EXTINF:-1,CA: SportsNet Ontario HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22341.m3u8
-#EXTINF:-1,CA: SPORTSNET PACIFIC  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22340.m3u8
-#EXTINF:-1,CA: SportsNet WEST  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22339.m3u8
-#EXTINF:-1,CA: SportsNet WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22338.m3u8
+#EXTINF:-1,TSN 1 HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9032
+#EXTINF:-1,TSN 2 HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9033
+#EXTINF:-1,TSN 3 HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9034
+#EXTINF:-1,TSN 4 HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9035
+#EXTINF:-1,TSN 5 HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9036
+#EXTINF:-1,SportsNet Ontario HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29024
+#EXTINF:-1,SportsNet Pacific HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/10342
+#EXTINF:-1,SportsNet One HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/10344
+#EXTINF:-1,SportsNet West HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/10345
+#EXTINF:-1,SportsNet 360 HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/10700
+#EXTINF:-1,SportsNet East HD CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/13692
 #EXTINF:-1,VIP HD CBS SPORTS NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/16148
 #EXTINF:-1,NBCSN
