@@ -3,27 +3,55 @@
 #EXTINF:-1,VIP HD Motor Trend
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/11078
 #EXTINF:-1,TSN 1 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9032
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40796
 #EXTINF:-1,TSN 2 HD CA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9033
 #EXTINF:-1,TSN 3 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9034
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40795
 #EXTINF:-1,TSN 4 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9035
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40797
 #EXTINF:-1,TSN 5 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/9036
-#EXTINF:-1,SportsNet Ontario HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/29024
-#EXTINF:-1,SportsNet Pacific HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/10342
-#EXTINF:-1,SportsNet One HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/10344
-#EXTINF:-1,SportsNet West HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/10345
-#EXTINF:-1,SportsNet 360 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/10700
-#EXTINF:-1,SportsNet East HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.swedeniptv.tvip.xyz:80/vzFbA6M9/wJPU899/13692
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40798
+#EXTINF:-1,CA| SPORTNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40746
+#EXTINF:-1,CA| SPORTNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40747
+#EXTINF:-1,CA| SPORTNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40748
+#EXTINF:-1,CA| SPORTS NET EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40749
+#EXTINF:-1,CA| SPORTS NET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40750
+#EXTINF:-1,CA| SPORTS NET ONTARIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40751
+#EXTINF:-1,CA| SPORTS NET PACIFIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40752
+#EXTINF:-1,CA| SPORTS NET WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40753
+#EXTINF:-1,CA| SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40755
+#EXTINF:-1,CA| SPORTSNET 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40756
+#EXTINF:-1,CA| SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40757
+#EXTINF:-1,CA| SPORTSNET EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40758
+#EXTINF:-1,CA| SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40759
+#EXTINF:-1,CA| SPORTSNET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40760
+#EXTINF:-1,CA| SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40761
+#EXTINF:-1,CA| SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40762
+#EXTINF:-1,CA| SPORTSNET PACIFIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40763
+#EXTINF:-1,CA| SPORTSNET WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40764
+#EXTINF:-1,CA| SPORTSNET WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40765
+#EXTINF:-1,CA| SPORTSNET WORLD HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40766
 #EXTINF:-1,VIP HD CBS SPORTS NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/16148
 #EXTINF:-1,NBCSN
@@ -37,10 +65,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.14
 #EXTINF:-1,USA/CA: ESPN 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/9281
 #EXTINF:-1,|CA| WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/9294
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40813
 #EXTINF:-1,USA/CA: UFC FIGHT PASS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/17529
-#EXTINF:-1,CA : FIGHT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/StevenD2020/StevFr2019/22126.m3u8
+#EXTINF:-1,CA| FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40648
 #EXTINF:-1,USA/CA: USA Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/17802
+#EXTINF:-1,CA| NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40710
+#EXTINF:-1,CA| MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/40694
