@@ -1,188 +1,75 @@
 #EXTM3U
-
-#EXTINF:-1,VIP HD Motor Trend
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/11078
+#EXTINF:-1,USA SD : Motor Trend
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/168738
+#EXTINF:-1,CANADA: MOTOR TREND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/358889
 #EXTINF:-1,TSN HD 1
-http://yourdnshere.xyz:83/Kericage/6824106935/254103
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254103
 #EXTINF:-1,TSN HD 2
-http://yourdnshere.xyz:83/Kericage/6824106935/254102
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254102
 #EXTINF:-1,TSN HD 3
-http://yourdnshere.xyz:83/Kericage/6824106935/254101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254101
 #EXTINF:-1,TSN HD 4
-http://yourdnshere.xyz:83/Kericage/6824106935/254100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254100
 #EXTINF:-1,TSN HD 5
-http://yourdnshere.xyz:83/Kericage/6824106935/263009
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/263009
 #EXTINF:-1,SPORTSNET 360 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/254087
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254087
 #EXTINF:-1,SPORTSNET EAST HD
-http://yourdnshere.xyz:83/Kericage/6824106935/268855
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/268855
 #EXTINF:-1,SPORTSNET N.Y HD
-http://yourdnshere.xyz:83/Kericage/6824106935/262802
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/262802
 #EXTINF:-1,SPORTSNET ONE HD
-http://yourdnshere.xyz:83/Kericage/6824106935/254086
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254086
 #EXTINF:-1,SPORTSNET ONTARIO HD
-http://yourdnshere.xyz:83/Kericage/6824106935/325962
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/325962
 #EXTINF:-1,SPORTSNET WEST HD
-http://yourdnshere.xyz:83/Kericage/6824106935/254084
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254084
 #EXTINF:-1,SPORTSNET WORLD HD
-http://yourdnshere.xyz:83/Kericage/6824106935/254082
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254082
 #EXTINF:-1,NBCSN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/671
 #EXTINF:-1,FOX SPORTS 1 Low BW
-http://yourdnshere.xyz:83/Kericage/6824106935/254406
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254406
 #EXTINF:-1,FOX SPORTS 2
-http://yourdnshere.xyz:83/Kericage/6824106935/254407
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254407
 #EXTINF:-1,FOX SPORTS 2 Low BW
-http://yourdnshere.xyz:83/Kericage/6824106935/254405
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254405
 #EXTINF:-1,CBS Sports HQ
-http://yourdnshere.xyz:83/Kericage/6824106935/354981
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/354981
 #EXTINF:-1,CBS Sports Network
-http://yourdnshere.xyz:83/Kericage/6824106935/254402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254402
 #EXTINF:-1,ESPN 2
-http://yourdnshere.xyz:83/Kericage/6824106935/254370
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254370
 #EXTINF:-1,ESPN 2 Low BW
-http://yourdnshere.xyz:83/Kericage/6824106935/303755
-#EXTINF:-1,ESPN Classic
-http://yourdnshere.xyz:83/Kericage/6824106935/354758
-#EXTINF:-1,ESPN Deportes
-http://yourdnshere.xyz:83/Kericage/6824106935/328558
-#EXTINF:-1,ESPN Low BW
-http://yourdnshere.xyz:83/Kericage/6824106935/311856
-#EXTINF:-1,ESPN News
-http://yourdnshere.xyz:83/Kericage/6824106935/254369
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/303755
 #EXTINF:-1,ESPN U
-http://yourdnshere.xyz:83/Kericage/6824106935/254368
-#EXTINF:-1,ESPN (PLUS) : STREAM 01 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378375
-#EXTINF:-1,ESPN (PLUS) : STREAM 02 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378376
-#EXTINF:-1,ESPN (PLUS) : STREAM 03 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378377
-#EXTINF:-1,ESPN (PLUS) : STREAM 04 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378378
-#EXTINF:-1,ESPN (PLUS) : STREAM 05 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378379
-#EXTINF:-1,ESPN (PLUS) : STREAM 06 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378380
-#EXTINF:-1,ESPN (PLUS) : STREAM 07 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378381
-#EXTINF:-1,ESPN (PLUS) : STREAM 08 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378382
-#EXTINF:-1,ESPN (PLUS) : STREAM 09 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378383
-#EXTINF:-1,ESPN (PLUS) : STREAM 10 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378384
-#EXTINF:-1,ESPN (PLUS) : STREAM 11 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378385
-#EXTINF:-1,ESPN (PLUS) : STREAM 12 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378386
-#EXTINF:-1,ESPN (PLUS) : STREAM 13 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378387
-#EXTINF:-1,ESPN (PLUS) : STREAM 14 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378388
-#EXTINF:-1,ESPN (PLUS) : STREAM 15 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378389
-#EXTINF:-1,ESPN (PLUS) : STREAM 16 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378390
-#EXTINF:-1,ESPN (PLUS) : STREAM 17 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378391
-#EXTINF:-1,ESPN (PLUS) : STREAM 18 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378392
-#EXTINF:-1,ESPN (PLUS) : STREAM 19 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378393
-#EXTINF:-1,ESPN (PLUS) : STREAM 20 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378394
-#EXTINF:-1,ESPN (PLUS) : STREAM 21 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378395
-#EXTINF:-1,ESPN (PLUS) : STREAM 22 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378396
-#EXTINF:-1,ESPN (PLUS) : STREAM 23 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378397
-#EXTINF:-1,ESPN (PLUS) : STREAM 24 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378398
-#EXTINF:-1,ESPN (PLUS) : STREAM 25 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378399
-#EXTINF:-1,ESPN (PLUS) : STREAM 26 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378400
-#EXTINF:-1,ESPN (PLUS) : STREAM 27 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378401
-#EXTINF:-1,ESPN (PLUS) : STREAM 28 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378402
-#EXTINF:-1,ESPN (PLUS) : STREAM 29 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378403
-#EXTINF:-1,ESPN (PLUS) : STREAM 30 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378404
-#EXTINF:-1,ESPN (PLUS) : STREAM 31 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378405
-#EXTINF:-1,ESPN (PLUS) : STREAM 32 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378406
-#EXTINF:-1,ESPN (PLUS) : STREAM 33 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378407
-#EXTINF:-1,ESPN (PLUS) : STREAM 34 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378408
-#EXTINF:-1,ESPN (PLUS) : STREAM 35 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378409
-#EXTINF:-1,ESPN (PLUS) : STREAM 36 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378410
-#EXTINF:-1,ESPN (PLUS) : STREAM 37 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378411
-#EXTINF:-1,ESPN (PLUS) : STREAM 38 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378412
-#EXTINF:-1,ESPN (PLUS) : STREAM 39 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378413
-#EXTINF:-1,ESPN (PLUS) : STREAM 40 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378414
-#EXTINF:-1,ESPN (PLUS) : STREAM 41 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378415
-#EXTINF:-1,ESPN (PLUS) : STREAM 42 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378416
-#EXTINF:-1,ESPN (PLUS) : STREAM 43 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378417
-#EXTINF:-1,ESPN (PLUS) : STREAM 44 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378418
-#EXTINF:-1,ESPN (PLUS) : STREAM 45 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378419
-#EXTINF:-1,ESPN (PLUS) : STREAM 46 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378420
-#EXTINF:-1,ESPN (PLUS) : STREAM 47 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378421
-#EXTINF:-1,ESPN (PLUS) : STREAM 48 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378422
-#EXTINF:-1,ESPN (PLUS) : STREAM 49 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378423
-#EXTINF:-1,ESPN (PLUS) : STREAM 50 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378424
-#EXTINF:-1,ESPN (PLUS) : STREAM 51 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378425
-#EXTINF:-1,ESPN (PLUS) : STREAM 52 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378426
-#EXTINF:-1,ESPN (PLUS) : STREAM 53 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378427
-#EXTINF:-1,ESPN (PLUS) : STREAM 54 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378428
-#EXTINF:-1,ESPN (PLUS) : STREAM 55 HD
-http://yourdnshere.xyz:83/Kericage/6824106935/378429
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254368
 #EXTINF:-1,NHL NETWORK low bandwith
-http://yourdnshere.xyz:83/Kericage/6824106935/143098
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/143098
 #EXTINF:-1,USA: NHL NETWORK
-http://yourdnshere.xyz:83/Kericage/6824106935/308823
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308823
 #EXTINF:-1,VIP HD WWE
-http://yourdnshere.xyz:83/Kericage/6824106935/308759
-#EXTINF:-1,USA/CA: UFC FIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/17529
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308759
+#EXTINF:-1,UFC FIGHT PASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/262820
+#EXTINF:-1,UFC TV:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/374282
+#EXTINF:-1,WWE PPV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/262650
+#EXTINF:-1,VIP USA HD USA : Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308766
 #EXTINF:-1,Fight Channel
-http://yourdnshere.xyz:83/Kericage/6824106935/143079
-#EXTINF:-1,USA/CA: USA Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/17802
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/143079
 #EXTINF:-1,NFL Network HD
-http://yourdnshere.xyz:83/Kericage/6824106935/303751
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/303751
 #EXTINF:-1,NFL Network SD
-http://yourdnshere.xyz:83/Kericage/6824106935/313554
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313554
 #EXTINF:-1,NFL Red Zone HD
-http://yourdnshere.xyz:83/Kericage/6824106935/369086
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/369086
 #EXTINF:-1,NFL Red Zone SD
-http://yourdnshere.xyz:83/Kericage/6824106935/371468
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/371468
 #EXTINF:-1,MLB NETWORK
-http://yourdnshere.xyz:83/Kericage/6824106935/143356
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/143356
 #EXTINF:-1,MLB STRIKE ZONE
-http://yourdnshere.xyz:83/Kericage/6824106935/356799
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/356799
