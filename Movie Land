@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,Coronavirus LIVE MAP 1
+http://yourdnshere.xyz:83/Kericage/6824106935/382186
+#EXTINF:-1,Coronavirus LIVE MAP 2
+http://yourdnshere.xyz:83/Kericage/6824106935/382185
+#EXTINF:-1,Coronavirus LIVE MAP 3
+http://yourdnshere.xyz:83/Kericage/6824106935/382187
+#EXTINF:-1,Coronavirus LIVE MAP 4
+http://yourdnshere.xyz:83/Kericage/6824106935/382240
+#EXTINF:-1,Coronavirus LIVE MAP 5
+http://yourdnshere.xyz:83/Kericage/6824106935/382368
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
 https://bthlsamd-i.akamaihd.net/hls/live/621268/BTCAL_HLSAMD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Montreal" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Montreal
