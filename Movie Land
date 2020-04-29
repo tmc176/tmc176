@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,Coronavirus LIVE MAP 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382186
 #EXTINF:-1,Coronavirus LIVE MAP 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382185
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382185
 #EXTINF:-1,Coronavirus LIVE MAP 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382187
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382187
 #EXTINF:-1,Coronavirus LIVE MAP 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382240
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382240
 #EXTINF:-1,Coronavirus LIVE MAP 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382368
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/382368
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
 https://bthlsamd-i.akamaihd.net/hls/live/621268/BTCAL_HLSAMD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Montreal" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Montreal
