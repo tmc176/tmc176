@@ -1,75 +1,51 @@
 #EXTM3U
-#EXTINF:-1,USA SD : Motor Trend
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/168738
-#EXTINF:-1,CANADA: MOTOR TREND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/358889
-#EXTINF:-1,TSN HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254103
-#EXTINF:-1,TSN HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254102
-#EXTINF:-1,TSN HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254101
-#EXTINF:-1,TSN HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254100
-#EXTINF:-1,TSN HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/263009
-#EXTINF:-1,SPORTSNET 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254087
-#EXTINF:-1,SPORTSNET EAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/268855
-#EXTINF:-1,SPORTSNET N.Y HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/262802
-#EXTINF:-1,SPORTSNET ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254086
-#EXTINF:-1,SPORTSNET ONTARIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/325962
+#EXTINF:-1,MOTOR TREND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/367
+#EXTINF:-1,*TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/138
+#EXTINF:-1,*TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/139
+#EXTINF:-1,*TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/140
+#EXTINF:-1,*TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/141
+#EXTINF:-1,*TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/142
+#EXTINF:-1,*SPORTSNET ONT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/148
+#EXTINF:-1,*SPORTSNET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/149
 #EXTINF:-1,SPORTSNET WEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254084
-#EXTINF:-1,SPORTSNET WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254082
-#EXTINF:-1,NBCSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://45.58.140.229:80/responsiblyrob65@gmail.com/Na5pzQSi6e/671
-#EXTINF:-1,FOX SPORTS 1 Low BW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254406
-#EXTINF:-1,FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254407
-#EXTINF:-1,FOX SPORTS 2 Low BW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254405
-#EXTINF:-1,CBS Sports HQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/354981
-#EXTINF:-1,CBS Sports Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254402
-#EXTINF:-1,ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254370
-#EXTINF:-1,ESPN 2 Low BW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/303755
-#EXTINF:-1,ESPN U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254368
-#EXTINF:-1,NHL NETWORK low bandwith
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/143098
-#EXTINF:-1,USA: NHL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308823
-#EXTINF:-1,VIP HD WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308759
-#EXTINF:-1,UFC FIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/262820
-#EXTINF:-1,UFC TV:
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/374282
-#EXTINF:-1,WWE PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/262650
-#EXTINF:-1,VIP USA HD USA : Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308766
-#EXTINF:-1,Fight Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/143079
-#EXTINF:-1,NFL Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/303751
-#EXTINF:-1,NFL Network SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/313554
-#EXTINF:-1,NFL Red Zone HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/369086
-#EXTINF:-1,NFL Red Zone SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/371468
-#EXTINF:-1,MLB NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/143356
-#EXTINF:-1,MLB STRIKE ZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/356799
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8890
+#EXTINF:-1,*SPORTSNET PACIFIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/2434
+#EXTINF:-1,*SPORTSNET 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/147
+#EXTINF:-1,*SPORTSNET WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/150
+#EXTINF:-1,*FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/145
+#EXTINF:-1,*FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/146
+#EXTINF:-1,*NBC SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/170
+#EXTINF:-1,*CBS SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/169
+#EXTINF:-1,*ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/143
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/144
+#EXTINF:-1,*NFL NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/157
+#EXTINF:-1,*NHL NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/156
+#EXTINF:-1,LEAFS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/59039
+#EXTINF:-1,*NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/165
+#EXTINF:-1,MLB NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/2193
+#EXTINF:-1,WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/168
+#EXTINF:-1,FIGHT - NEW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/71284
