@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Coronavirus LIVE MAP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/382186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/41485.m3u8
 #EXTINF:-1,Coronavirus LIVE MAP 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/382185
 #EXTINF:-1,Coronavirus LIVE MAP 3
