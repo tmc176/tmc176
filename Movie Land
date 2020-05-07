@@ -1,17 +1,17 @@
 #EXTM3U
 
 #EXTINF:-1,Coronavirus LIVE MAP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mahs.work:80/live/0rk7azufRR/kva8UgbJiy/41485.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382186.m3u8
 #EXTINF:-1,Coronavirus LIVE MAP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/382185
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382185.m3u8
 #EXTINF:-1,Coronavirus LIVE MAP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/382187
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382187.m3u8
 #EXTINF:-1,Coronavirus LIVE MAP 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/382240
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382240.m3u8
 #EXTINF:-1,Coronavirus LIVE MAP 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/382368
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382368.m3u8
 #EXTINF:-1,Coronavirus LIVE MAP 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.217:83/forty1234/forty4321/382409
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382409.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
 https://bthlsamd-i.akamaihd.net/hls/live/621268/BTCAL_HLSAMD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Montreal" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Montreal
