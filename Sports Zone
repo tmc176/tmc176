@@ -1,41 +1,41 @@
 #EXTM3U
 
 #EXTINF:-1,MOTOR TREND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/367
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/358889
 #EXTINF:-1,*TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/138
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254103
 #EXTINF:-1,*TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/139
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254102
 #EXTINF:-1,*TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254101
 #EXTINF:-1,*TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/141
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254100
 #EXTINF:-1,*TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/142
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/263009
 #EXTINF:-1,*SPORTSNET ONT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/148
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/268855
 #EXTINF:-1,*SPORTSNET ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/149
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254086
 #EXTINF:-1,SPORTSNET WEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/8890
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254084
 #EXTINF:-1,*SPORTSNET PACIFIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/2434
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/325962
 #EXTINF:-1,*SPORTSNET 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/147
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254087
 #EXTINF:-1,*SPORTSNET WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/150
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254082
 #EXTINF:-1,*FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/145
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254408
 #EXTINF:-1,*FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/146
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254407
 #EXTINF:-1,*NBC SPORTS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/170
 #EXTINF:-1,*CBS SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/169
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254402
 #EXTINF:-1,*ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/143
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/311856
 #EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/144
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254370
 #EXTINF:-1,*NFL NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/157
 #EXTINF:-1,*NHL NETWORK HD
