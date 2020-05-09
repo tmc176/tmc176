@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,Coronavirus LIVE MAP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.218:83/dircharlie/90393092/382186
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/382186
 #EXTINF:-1,Coronavirus LIVE MAP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382185.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/382185
 #EXTINF:-1,Coronavirus LIVE MAP 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.218:83/dircharlie/90393092/382187
 #EXTINF:-1,Coronavirus LIVE MAP 4
