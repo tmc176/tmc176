@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,Coronavirus LIVE MAP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/382186
-#EXTINF:-1,Coronavirus LIVE MAP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/382185
+#EXTINF:-1 tvg-ID="" tvg-name="Event 1: Coronavirus Live Map & Counter" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 1: Coronavirus Live Map & Counter
+http://mediahere.ca:80/Dave00Trial/Today16this!/46457
+#EXTINF:-1 tvg-ID="" tvg-name="Event 2: Coronavirus Pandemic: Real Time Counter World Map News" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 2: Coronavirus Pandemic: Real Time Counter World Map News
+http://mediahere.ca:80/Dave00Trial/Today16this!/46458
 #EXTINF:-1,Coronavirus LIVE MAP 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.218:83/dircharlie/90393092/382187
 #EXTINF:-1,Coronavirus LIVE MAP 4
