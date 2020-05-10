@@ -3,7 +3,7 @@
 #EXTINF:-1,MOTOR TREND HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/358889
 #EXTINF:-1,*TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13619.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13619.m3u8
 #EXTINF:-1,*TSN 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13620.m3u8
 #EXTINF:-1,*TSN 3 HD
