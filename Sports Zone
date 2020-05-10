@@ -48,6 +48,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.c
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xilo.vip:80/live/ABCD1234/ABCD1234/44641.m3u8
 #EXTINF:-1,MLB NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13613.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Event 3: WWE Money In The Bank 2020 7PM ET" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 3: WWE Money In The Bank 2020 7PM ET
+http://mediahere.ca:80/Dave00Trial/Today16this!/46460
 #EXTINF:-1,WWE HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xilo.vip:80/live/ABCD1234/ABCD1234/1744.m3u8
 #EXTINF:-1,USA:UFC FIGHT PASS
