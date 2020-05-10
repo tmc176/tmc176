@@ -3,15 +3,15 @@
 #EXTINF:-1,MOTOR TREND HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/358889
 #EXTINF:-1,*TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254103
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13619.m3u8
 #EXTINF:-1,*TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254102
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13620.m3u8
 #EXTINF:-1,*TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13621.m3u8
 #EXTINF:-1,*TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13622.m3u8
 #EXTINF:-1,*TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/263009
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13623.m3u8
 #EXTINF:-1,*SPORTSNET ONT HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/268855
 #EXTINF:-1,*SPORTSNET ONE HD
@@ -23,30 +23,32 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.exp
 #EXTINF:-1,*SPORTSNET 360 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254087
 #EXTINF:-1,*SPORTSNET WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254082
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13618.m3u8
 #EXTINF:-1,*FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254408
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13603.m3u8
 #EXTINF:-1,*FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254407
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13604.m3u8
 #EXTINF:-1,*NBC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/170
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13610.m3u8
 #EXTINF:-1,*CBS SPORTS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254402
 #EXTINF:-1,*ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/311856
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13605.m3u8
 #EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.expathdtv.xyz:83/OM1qxKIalX/8ItAbtKxSz/254370
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13606.m3u8
+#EXTINF:-1,USA:ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13607.m3u8
 #EXTINF:-1,*NFL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/157
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13612.m3u8
 #EXTINF:-1,*NHL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/156
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13611.m3u8
 #EXTINF:-1,LEAFS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/59039
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13611.m3u8
 #EXTINF:-1,*NBA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/165
 #EXTINF:-1,MLB NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/2193
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13613.m3u8
 #EXTINF:-1,WWE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/168
-#EXTINF:-1,FIGHT - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/5B0kLebtb1/Ne3PS6KiPL/71284
+#EXTINF:-1,USA:UFC FIGHT PASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13617.m3u8
