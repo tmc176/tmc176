@@ -4,15 +4,15 @@ http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3088
 #EXTINF:-1,MOTOR TREND HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xilo.vip:80/live/ABCD1234/ABCD1234/44659.m3u8
 #EXTINF:-1,*TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xilo.vip:80/live/ABCD1234/ABCD1234/45308.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9444.m3u8
 #EXTINF:-1,*TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13620.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/22782.m3u8
 #EXTINF:-1,*TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13621.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/22783.m3u8
 #EXTINF:-1,*TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13622.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32756.m3u8
 #EXTINF:-1,*TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13623.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32742.m3u8
 #EXTINF:-1,*SPORTSNET ONT HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xilo.vip:80/live/ABCD1234/ABCD1234/45323.m3u8
 #EXTINF:-1,*SPORTSNET ONE HD
@@ -24,31 +24,31 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xilo.vip:80/
 #EXTINF:-1,*SPORTSNET 360 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xilo.vip:80/live/ABCD1234/ABCD1234/45324.m3u8
 #EXTINF:-1,*SPORTSNET WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13618.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9442.m3u8
 #EXTINF:-1,*FOX SPORTS 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9476.m3u8
 #EXTINF:-1,*FOX SPORTS 2 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9475.m3u8
 #EXTINF:-1,*NBC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3105
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32710.m3u8
 #EXTINF:-1,*CBS SPORTS HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/22582.m3u8
 #EXTINF:-1,USA | ESPN 1
-http://vip1080.us:8000/live/Hakan/asdfghj/9484.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9484.m3u8
 #EXTINF:-1,ESPN 2 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9483.m3u8
 #EXTINF:-1,USA:ESPN U
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32690.m3u8
 #EXTINF:-1,*NFL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3104
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32726.m3u8
 #EXTINF:-1,*NHL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13611.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9451.m3u8
 #EXTINF:-1,LEAFS TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13611.m3u8
 #EXTINF:-1,*NBA HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3108
 #EXTINF:-1,MLB NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3112
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/20401.m3u8
 #EXTINF:-1,WWE HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3083
 #EXTINF:-1,US076:TNT-HD
@@ -56,6 +56,6 @@ http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3092
 EXTINF:-1,US079:USA-Network
 http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3089
 #EXTINF:-1,USA:UFC FIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3084
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32776.m3u8
 #EXTINF:-1,[US] FIGHT NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/30045
