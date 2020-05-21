@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:-1,US080:Velocity-HD
-http://disfruta.net:80/user23/user23/692
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/692
 #EXTINF:-1,MOTOR TREND HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xilo.vip:80/live/ABCD1234/ABCD1234/44659.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xilo.vip:80/live/ABCD1234/ABCD1234/44659.m3u8
 #EXTINF:-1,*TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3153
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3153
 #EXTINF:-1,*TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3155
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3155
 #EXTINF:-1,*TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3157
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url==http://disfruta.net:80/user23/user23/3157
 #EXTINF:-1,*TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3159
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3159
 #EXTINF:-1,*TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3161
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3161
 #EXTINF:-1,CA | SportsNet 360
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3135
 #EXTINF:-1,CA | SportsNet East
-http://disfruta.net:80/user23/user23/3136
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3136
 #EXTINF:-1,CA | SportsNet One
-http://disfruta.net:80/user23/user23/3137
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3137
 #EXTINF:-1,CA | SportsNet Ontario
-http://disfruta.net:80/user23/user23/3138
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3138
 #EXTINF:-1,CA | SportsNet PACIFIC
-http://disfruta.net:80/user23/user23/3139
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3139
 #EXTINF:-1,CA | SportsNet West
-http://disfruta.net:80/user23/user23/3140
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3140
 #EXTINF:-1,CA | SportsNet World
-http://disfruta.net:80/user23/user23/3141
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3141
 #EXTINF:-1,CA | SportsNet World HD
-http://disfruta.net:80/user23/user23/3142
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3142
 #EXTINF:-1,*FOX SPORTS 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9476.m3u8
 #EXTINF:-1,*FOX SPORTS 2 HD
