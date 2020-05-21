@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,US080:Velocity-HD
-http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3088
+http://disfruta.net:80/user23/user23/692
 #EXTINF:-1,MOTOR TREND HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xilo.vip:80/live/ABCD1234/ABCD1234/44659.m3u8
 #EXTINF:-1,*TSN 1 HD
@@ -10,9 +10,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net
 #EXTINF:-1,*TSN 3 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3157
 #EXTINF:-1,*TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32756.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3159
 #EXTINF:-1,*TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32742.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3161
 #EXTINF:-1,CA | SportsNet 360
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://disfruta.net:80/user23/user23/3135
 #EXTINF:-1,CA | SportsNet East
