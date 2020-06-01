@@ -1,4 +1,5 @@
 #EXTM3U
+x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
 x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
