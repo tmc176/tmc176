@@ -1,17 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-ID="" tvg-name="Event 1: Coronavirus Live Map & Counter" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 1: Coronavirus Live Map & Counter
-http://mediahere.ca:80/Dave00Trial/Today16this!/46457
-#EXTINF:-1 tvg-ID="" tvg-name="Event 2: Coronavirus Pandemic: Real Time Counter World Map News" tvg-logo="https://pbs.twimg.com/profile_images/654018346078367746/1VU4-ax__400x400.jpg" group-title="Live Events",Event 2: Coronavirus Pandemic: Real Time Counter World Map News
-http://mediahere.ca:80/Dave00Trial/Today16this!/46458
-#EXTINF:-1,Coronavirus LIVE MAP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.218:83/dircharlie/90393092/382187
-#EXTINF:-1,Coronavirus LIVE MAP 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.218:83/dircharlie/90393092/382240
-#EXTINF:-1,Coronavirus LIVE MAP 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.218:83/dircharlie/90393092/382368
-#EXTINF:-1,Coronavirus LIVE MAP 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.218:83/dircharlie/90393092/382409
+x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
+x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
 https://bthlsamd-i.akamaihd.net/hls/live/621268/BTCAL_HLSAMD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Montreal" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Montreal
@@ -52,4 +41,201 @@ https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",City TV
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
-
+#EXTINF:-1 group-title="USA",AMC
+http://rayito-tv.xyz:41001/elliot/elliot/32104
+#EXTINF:-1 group-title="USA",Discovery ID
+http://rayito-tv.xyz:41001/elliot/elliot/32105
+#EXTINF:-1 group-title="USA",CNBC
+http://rayito-tv.xyz:41001/elliot/elliot/32106
+#EXTINF:-1 group-title="USA",Comedy Central
+http://rayito-tv.xyz:41001/elliot/elliot/32107
+#EXTINF:-1 group-title="USA",Destination America
+http://rayito-tv.xyz:41001/elliot/elliot/32108
+#EXTINF:-1 group-title="USA",Discovery Family
+http://rayito-tv.xyz:41001/elliot/elliot/32109
+#EXTINF:-1 group-title="USA",Discovery Life
+http://rayito-tv.xyz:41001/elliot/elliot/32110
+#EXTINF:-1 group-title="USA",Discovery Science
+http://rayito-tv.xyz:41001/elliot/elliot/32111
+#EXTINF:-1 group-title="USA",Food Network
+http://rayito-tv.xyz:41001/elliot/elliot/32112
+#EXTINF:-1 group-title="USA",FX
+http://rayito-tv.xyz:41001/elliot/elliot/32113
+#EXTINF:-1 group-title="USA",FXX
+http://rayito-tv.xyz:41001/elliot/elliot/32114
+#EXTINF:-1 group-title="USA",Hallmark
+http://rayito-tv.xyz:41001/elliot/elliot/32115
+#EXTINF:-1 group-title="USA",Hallmark Drama
+http://rayito-tv.xyz:41001/elliot/elliot/32116
+#EXTINF:-1 group-title="USA",History Channel
+http://rayito-tv.xyz:41001/elliot/elliot/32117
+#EXTINF:-1 group-title="USA",Lifetime
+http://rayito-tv.xyz:41001/elliot/elliot/32118
+#EXTINF:-1 group-title="USA",Nat Geo
+http://rayito-tv.xyz:41001/elliot/elliot/32119
+#EXTINF:-1 group-title="USA",Nat Geo Wild
+http://rayito-tv.xyz:41001/elliot/elliot/32120
+#EXTINF:-1 group-title="USA",PBS KIDS
+http://rayito-tv.xyz:41001/elliot/elliot/32121
+#EXTINF:-1 group-title="USA",SyFy
+http://rayito-tv.xyz:41001/elliot/elliot/32122
+#EXTINF:-1 group-title="USA",TBS
+http://rayito-tv.xyz:41001/elliot/elliot/32123
+#EXTINF:-1 group-title="USA",TCM
+http://rayito-tv.xyz:41001/elliot/elliot/32124
+#EXTINF:-1 group-title="USA",The Weather Channel
+http://rayito-tv.xyz:41001/elliot/elliot/32125
+#EXTINF:-1 group-title="USA",TLC
+http://rayito-tv.xyz:41001/elliot/elliot/32126
+#EXTINF:-1 group-title="USA",Travel Channel
+http://rayito-tv.xyz:41001/elliot/elliot/32127
+#EXTINF:-1 group-title="USA",E!
+http://rayito-tv.xyz:41001/elliot/elliot/32128
+#EXTINF:-1 group-title="USA",Unimas
+http://rayito-tv.xyz:41001/elliot/elliot/32129
+#EXTINF:-1 group-title="USA",Galavision
+http://rayito-tv.xyz:41001/elliot/elliot/32130
+#EXTINF:-1 group-title="USA",Telemundo
+http://rayito-tv.xyz:41001/elliot/elliot/32131
+#EXTINF:-1 group-title="USA",Telemundo Chicago
+http://rayito-tv.xyz:41001/elliot/elliot/32132
+#EXTINF:-1 group-title="USA",Telemundo LA
+http://rayito-tv.xyz:41001/elliot/elliot/32133
+#EXTINF:-1 group-title="USA",Telemundo Miami
+http://rayito-tv.xyz:41001/elliot/elliot/32134
+#EXTINF:-1 group-title="USA",Telemundo Texas
+http://rayito-tv.xyz:41001/elliot/elliot/32135
+#EXTINF:-1 group-title="USA",Univision
+http://rayito-tv.xyz:41001/elliot/elliot/32136
+#EXTINF:-1 group-title="USA",NBC Universo
+http://rayito-tv.xyz:41001/elliot/elliot/32137
+#EXTINF:-1 group-title="USA",Discovery Familia
+http://rayito-tv.xyz:41001/elliot/elliot/32138
+#EXTINF:-1 group-title="USA",Discovery
+http://rayito-tv.xyz:41001/elliot/elliot/32139
+#EXTINF:-1 group-title="USA",Cartoon Network
+http://rayito-tv.xyz:41001/elliot/elliot/32140
+#EXTINF:-1 group-title="USA",Disney Channel
+http://rayito-tv.xyz:41001/elliot/elliot/32141
+#EXTINF:-1 group-title="USA",Disney Jr
+http://rayito-tv.xyz:41001/elliot/elliot/32142
+#EXTINF:-1 group-title="USA",Disney XD
+http://rayito-tv.xyz:41001/elliot/elliot/32143
+#EXTINF:-1 group-title="USA",Nick
+http://rayito-tv.xyz:41001/elliot/elliot/32144
+#EXTINF:-1 group-title="USA",Nick Jr
+http://rayito-tv.xyz:41001/elliot/elliot/32145
+#EXTINF:-1 group-title="USA",Nicktoons
+http://rayito-tv.xyz:41001/elliot/elliot/32146
+#EXTINF:-1 group-title="USA",Universal Kids
+http://rayito-tv.xyz:41001/elliot/elliot/32147
+#EXTINF:-1 group-title="USA",Cinemax East
+http://rayito-tv.xyz:41001/elliot/elliot/32148
+#EXTINF:-1 group-title="USA",EPIX
+http://rayito-tv.xyz:41001/elliot/elliot/32149
+#EXTINF:-1 group-title="USA",Showtime
+http://rayito-tv.xyz:41001/elliot/elliot/32150
+#EXTINF:-1 group-title="USA",Showtime 2
+http://rayito-tv.xyz:41001/elliot/elliot/32151
+#EXTINF:-1 group-title="USA",Showtime Showcase
+http://rayito-tv.xyz:41001/elliot/elliot/32152
+#EXTINF:-1 group-title="USA",Showtime Extreme
+http://rayito-tv.xyz:41001/elliot/elliot/32153
+#EXTINF:-1 group-title="USA",Starz Encore Western
+http://rayito-tv.xyz:41001/elliot/elliot/32154
+#EXTINF:-1 group-title="USA",Starz
+http://rayito-tv.xyz:41001/elliot/elliot/32155
+#EXTINF:-1 group-title="USA",Starz Black
+http://rayito-tv.xyz:41001/elliot/elliot/32156
+#EXTINF:-1 group-title="USA",HBO ESP
+http://rayito-tv.xyz:41001/elliot/elliot/32157
+#EXTINF:-1 group-title="USA",HBO ZONE
+http://rayito-tv.xyz:41001/elliot/elliot/32158
+#EXTINF:-1 group-title="USA",STARZ ESP
+http://rayito-tv.xyz:41001/elliot/elliot/32159
+#EXTINF:-1 group-title="USA",STARZ EDGE
+http://rayito-tv.xyz:41001/elliot/elliot/32160
+#EXTINF:-1 group-title="USA",HBO Signature ESP
+http://rayito-tv.xyz:41001/elliot/elliot/32161
+#EXTINF:-1 group-title="USA",SHOWTIME ESP
+http://rayito-tv.xyz:41001/elliot/elliot/32162
+#EXTINF:-1 group-title="USA",HBO
+http://rayito-tv.xyz:41001/elliot/elliot/32163
+#EXTINF:-1 group-title="USA",HBO Latino
+http://rayito-tv.xyz:41001/elliot/elliot/32164
+#EXTINF:-1 group-title="USA",Cinemax
+http://rayito-tv.xyz:41001/elliot/elliot/32165
+#EXTINF:-1 group-title="USA",American Horrors
+http://rayito-tv.xyz:41001/elliot/elliot/32166
+#EXTINF:-1 group-title="USA",Sundance
+http://rayito-tv.xyz:41001/elliot/elliot/32167
+#EXTINF:-1 group-title="USA",A&E
+http://rayito-tv.xyz:41001/elliot/elliot/32168
+#EXTINF:-1 group-title="USA",Paramount
+http://rayito-tv.xyz:41001/elliot/elliot/32169
+#EXTINF:-1 group-title="USA",USA Network
+http://rayito-tv.xyz:41001/elliot/elliot/32170
+#EXTINF:-1 group-title="USA",HBO Family
+http://rayito-tv.xyz:41001/elliot/elliot/32171
+#EXTINF:-1 group-title="USA",Hbo Siganture
+http://rayito-tv.xyz:41001/elliot/elliot/32172
+#EXTINF:-1 group-title="USA",Fox News
+http://rayito-tv.xyz:41001/elliot/elliot/32173
+#EXTINF:-1 group-title="USA",Fox NY
+http://rayito-tv.xyz:41001/elliot/elliot/32174
+#EXTINF:-1 group-title="USA",ABC
+http://rayito-tv.xyz:41001/elliot/elliot/32175
+#EXTINF:-1 group-title="USA",CBS
+http://rayito-tv.xyz:41001/elliot/elliot/32176
+#EXTINF:-1 group-title="USA",HBO Comedy
+http://rayito-tv.xyz:41001/elliot/elliot/32177
+#EXTINF:-1 group-title="USA",BBC America
+http://rayito-tv.xyz:41001/elliot/elliot/32178
+#EXTINF:-1 group-title="USA",Boomerang
+http://rayito-tv.xyz:41001/elliot/elliot/32179
+#EXTINF:-1 group-title="USA",Bravo TV
+http://rayito-tv.xyz:41001/elliot/elliot/32180
+#EXTINF:-1 group-title="USA",Tru TV
+http://rayito-tv.xyz:41001/elliot/elliot/32181
+#EXTINF:-1 group-title="USA",Cooking Channel
+http://rayito-tv.xyz:41001/elliot/elliot/32182
+#EXTINF:-1 group-title="USA",DIY Premium
+http://rayito-tv.xyz:41001/elliot/elliot/32183
+#EXTINF:-1 group-title="USA",Discovery Velocity
+http://rayito-tv.xyz:41001/elliot/elliot/32184
+#EXTINF:-1 group-title="USA",Own Channel
+http://rayito-tv.xyz:41001/elliot/elliot/32185
+#EXTINF:-1 group-title="USA",El Rey Network
+http://rayito-tv.xyz:41001/elliot/elliot/32186
+#EXTINF:-1 group-title="USA",FXM
+http://rayito-tv.xyz:41001/elliot/elliot/32187
+#EXTINF:-1 group-title="USA",HBO West
+http://rayito-tv.xyz:41001/elliot/elliot/32188
+#EXTINF:-1 group-title="USA",CBS MIAMI
+http://rayito-tv.xyz:41001/elliot/elliot/32189
+#EXTINF:-1 group-title="USA",CNN
+http://rayito-tv.xyz:41001/elliot/elliot/32190
+#EXTINF:-1 group-title="USA",CBS Houston
+http://rayito-tv.xyz:41001/elliot/elliot/32191
+#EXTINF:-1 group-title="USA",H2
+http://rayito-tv.xyz:41001/elliot/elliot/32192
+#EXTINF:-1 group-title="USA",TNT
+http://rayito-tv.xyz:41001/elliot/elliot/32193
+#EXTINF:-1 group-title="USA",ABC New York HD
+http://rayito-tv.xyz:41001/elliot/elliot/32194
+#EXTINF:-1 group-title="USA",BET
+http://rayito-tv.xyz:41001/elliot/elliot/32008
+#EXTINF:-1 group-title="USA",BET Her
+http://rayito-tv.xyz:41001/elliot/elliot/32009
+#EXTINF:-1 group-title="USA",CMT
+http://rayito-tv.xyz:41001/elliot/elliot/32010
+#EXTINF:-1 group-title="USA",MTV
+http://rayito-tv.xyz:41001/elliot/elliot/32011
+#EXTINF:-1 group-title="USA",MTV 2
+http://rayito-tv.xyz:41001/elliot/elliot/32012
+#EXTINF:-1 group-title="USA",VH1
+http://rayito-tv.xyz:41001/elliot/elliot/32013
+#EXTINF:-1 group-title="LATINO",Telehit Urbano
+http://rayito-tv.xyz:41001/elliot/elliot/32014
+#EXTINF:-1 group-title="USA",Mtv Live
+http://rayito-tv.xyz:41001/elliot/elliot/32015
