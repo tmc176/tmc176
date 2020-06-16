@@ -30,39 +30,39 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta
 #EXTINF:-1,CA | SportsNet World HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3142
 #EXTINF:-1,*FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9476.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14653.ts
 #EXTINF:-1,*FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9475.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14654.ts
 #EXTINF:-1,*NBC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32710.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14671.ts
 #EXTINF:-1,*CBS SPORTS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/22582.m3u8
 #EXTINF:-1,USA | ESPN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9484.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14649.ts
 #EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9483.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14650.ts
 #EXTINF:-1,USA:ESPN U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32690.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14651.ts
 #EXTINF:-1,*NFL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32726.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14663.ts
 #EXTINF:-1,*NHL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/9451.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14664.ts
 #EXTINF:-1,LEAFS TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://eu.ipguzel.com:2086/live/baris1/baris1/13611.m3u8
 #EXTINF:-1,*NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/3108
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14662.ts
 #EXTINF:-1,MLB NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/20401.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14659.ts
 #EXTINF:-1,|US| WWE Network HD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76856
 #EXTINF:-1,|US| WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76857
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14674.ts
 #EXTINF:-1,US076:TNT-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/768692
 EXTINF:-1,US079:USA-Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76864
 #EXTINF:-1,USA:UFC FIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip1080.us:8000/live/Hakan/asdfghj/32776.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14646.ts
 #EXTINF:-1,[US] FIGHT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vo01.mohdtv.com:8880/cuka/SDoRtfb2KL/30045
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1899/1899/14652.ts
 
