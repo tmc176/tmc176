@@ -4,29 +4,29 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:80
 #EXTINF:-1,MOTOR TREND HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104605.m3u8
 #EXTINF:-1,*TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/6353
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4744
 #EXTINF:-1,*TSN 2 HD
-http://mytv.fun:8080/wbr9zy927/24q0sgo2z/6352
+http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4745
 #EXTINF:-1,*TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/6351
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4746
 #EXTINF:-1,*TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3159
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4747
 #EXTINF:-1,*TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/6349
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4748
 #EXTINF:-1,CA | SportsNet 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/14388
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4751
 #EXTINF:-1,CA | SportsNet East
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/14318
 #EXTINF:-1,CA | SportsNet One
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/4894
 #EXTINF:-1,CA | SportsNet Ontario
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/14406
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4749
 #EXTINF:-1,CA | SportsNet PACIFIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/14318
 #EXTINF:-1,CA | SportsNet West
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/wbr9zy927/24q0sgo2z/4861
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4754
 #EXTINF:-1,CA | SportsNet World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3141
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.159.58.217:8000/islaminamdar/haAs1vog6v/4750
 #EXTINF:-1,CA | SportsNet World HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://disfruta.net:80/user23/user23/3142
 #EXTINF:-1,*FOX SPORTS 1 HD
