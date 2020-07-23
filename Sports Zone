@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,CA: MAVTV CANADA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2906.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/18553.m3u8
 #EXTINF:-1,US080:Velocity-HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/104605.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/28547.m3u8
 #EXTINF:-1,MOTOR TREND HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/33.m3u8
 #EXTINF:-1,*TSN 1 HD
@@ -54,7 +54,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.4
 #EXTINF:-1,MLB NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/444.m3u8
 #EXTINF:-1,|US| WWE Network HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/1687.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67506.m3u8
 #EXTINF:-1,|US| WWE HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/1943.m3u8
 #EXTINF:-1,US076:TNT-HD
