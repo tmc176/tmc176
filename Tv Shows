@@ -1,60 +1,15 @@
 #EXTM3U
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/You_Should_Have_Left_2020_en.mp4.png",You Should Have Left
-http://reds.ppdn.tn/vod/You_Should_Have_Left_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Wasp_Network_2019_en.mp4.png",Wasp Network
-http://reds.ppdn.tn/vod/Wasp_Network_2019_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Vampire_Dad_2020_en.mp4.png",Vampire Dad
-http://reds.ppdn.tn/vod/Vampire_Dad_2020_en.mp4?code=340123681274919&key=54076
+
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Tread_2020_en.mp4.png",Tread
 http://reds.ppdn.tn/vod/Tread_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Top_Gunner_2020_en.mp4.png",Top Gunner
-http://reds.ppdn.tn/vod/Top_Gunner_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Rising_Hawk_2019_en.mp4.png",The Rising Hawk
-http://reds.ppdn.tn/vod/The_Rising_Hawk_2019_en.mp4?code=340123681274919&key=54076
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Man_Standing_Next_2020_en.mp4.png",The Man Standing Next
 http://reds.ppdn.tn/vod/The_Man_Standing_Next_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Fox_Hunter_2020_en.mp4.png",The Fox Hunter
-http://reds.ppdn.tn/vod/The_Fox_Hunter_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/The_Eastern_Front_2020_en.mp4.png",The Eastern Front
-http://reds.ppdn.tn/vod/The_Eastern_Front_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Tainted_2020_en.mp4.png",Tainted
-http://reds.ppdn.tn/vod/Tainted_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Spelling_The_Dream_2020_en.mp4.png",Spelling The Dream
-http://reds.ppdn.tn/vod/Spelling_The_Dream_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Scare_Package_2019_en.mp4.png",Scare Package
-http://reds.ppdn.tn/vod/Scare_Package_2019_en.mp4?code=340123681274919&key=54076
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Run_With_The_Hunted_2019_en.mp4.png",Run With The Hunted
 http://reds.ppdn.tn/vod/Run_With_The_Hunted_2019_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Ouija_Blood_Ritual_2020_en.mp4.png",Ouija Blood Ritual
-http://reds.ppdn.tn/vod/Ouija_Blood_Ritual_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Nobody_Knows_Im_Here_2020_en.mp4.png",Nobody Knows Im Here
-http://reds.ppdn.tn/vod/Nobody_Knows_Im_Here_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Lost_Bullet_2020_en.mp4.png",Lost Bullet
-http://reds.ppdn.tn/vod/Lost_Bullet_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Looks_That_Kill_2020_en.mp4.png",Looks That Kill
-http://reds.ppdn.tn/vod/Looks_That_Kill_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Kill_Mode_2020_en.mp4.png",Kill Mode
-http://reds.ppdn.tn/vod/Kill_Mode_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Jesus_Trejo_Stay_At_Home_Son_2020_en.mp4.png",Jesus Trejo Stay At Home Son
-http://reds.ppdn.tn/vod/Jesus_Trejo_Stay_At_Home_Son_2020_en.mp4?code=340123681274919&key=54076
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/I_Am_Vengeance_Retaliation_2020_en.mp4.png",I Am Vengeance Retaliation
 http://reds.ppdn.tn/vod/I_Am_Vengeance_Retaliation_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/For_The_Weekend_2020_en.mp4.png",For The Weekend
-http://reds.ppdn.tn/vod/For_The_Weekend_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Eric_Andre_Legalize_Everything_2020_en.mp4.png",Eric Andre Legalize Everything
-http://reds.ppdn.tn/vod/Eric_Andre_Legalize_Everything_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Devils_Night_Dawn_Of_The_Nain_Rouge_2020_en.mp4.png",Devils Night Dawn Of The Nain Rouge
-http://reds.ppdn.tn/vod/Devils_Night_Dawn_Of_The_Nain_Rouge_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Days_Of_Violence_2020_en.mp4.png",Days Of Violence
-http://reds.ppdn.tn/vod/Days_Of_Violence_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Athlete_A_2020_en.mp4.png",Athlete A
-http://reds.ppdn.tn/vod/Athlete_A_2020_en.mp4?code=340123681274919&key=54076
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Alienated_2020_en.mp4.png",Alienated
 http://reds.ppdn.tn/vod/Alienated_2020_en.mp4?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/1_Interrogation_2020_en.png",1 Interrogation
-http://reds.ppdn.tn/vod/1_Interrogation_2020_en?code=340123681274919&key=54076
-#EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/House_Of_Many_Sorrows_2020_en.mp4.png",House Of Many Sorrows
-http://reds.ppdn.tn/vod/House_Of_Many_Sorrows_2020_en.mp4?code=340123681274919&key=54076
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Hidden_Orard_Mysteries_The...2020_en.mp4.png",Hidden Orchard Mysteries The...
 http://reds.ppdn.tn/vod/Hidden_Orchard_Mysteries_The...2020_en.mp4?code=340123681274919&key=54076
 #EXTINF:0 group-title="English VOD"tvg-logo="http://logo.ddnb.tn/logochanel/Gina_Brillon_The_Floor_Is_Lava_2020_en.mp4.png",Gina Brillon The Floor Is Lava
