@@ -1,62 +1,66 @@
 #EXTM3U
-#EXTINF:-1,CA: MAVTV CANADA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/18553.m3u8
+#EXTINF:-1,CA: MAV TV | SD
+http://hdonline.ml:80/live/rana/rana/2142.m3u8
+#EXTINF:-1,US: MAVTV CANADA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/132.m3u8
 #EXTINF:-1,US080:Velocity-HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/28547.m3u8
 #EXTINF:-1,MOTOR TREND HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7298
 #EXTINF:-1,*TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2884.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2278.m3u8
 #EXTINF:-1,*TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2885.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2279.m3u8
 #EXTINF:-1,*TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2886.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2280.m3u8
 #EXTINF:-1,*TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2887.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2281.m3u8
 #EXTINF:-1,*TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2888.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2282.m3u8
 #EXTINF:-1,CA | SportsNet 360
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2894.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2247.m3u8
 #EXTINF:-1,CA | SportsNet East
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2895.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2245.m3u8
 #EXTINF:-1,CA | SportsNet One
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2896.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2248.m3u8
 #EXTINF:-1,CA | SportsNet Ontario
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2897.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2249.m3u8
 #EXTINF:-1,CA | SportsNet PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2898.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2250.m3u8
 #EXTINF:-1,CA | SportsNet West
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2899.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2246.m3u8
 #EXTINF:-1,CA | SportsNet World
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/2900.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2251.m3u8
 #EXTINF:-1,*FOX SPORTS 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/6925
 #EXTINF:-1,*FOX SPORTS 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/6926
+#EXTINF:-1,CA: FOX SPORTS RACING | HD
+http://hdonline.ml:80/live/rana/rana/2232.m3u8
 #EXTINF:-1,*NBC SPORTS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7319
 #EXTINF:-1,*CBS SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/9827.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/32.m3u8
 #EXTINF:-1,USA | ESPN 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/10.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/867.m3u8
 #EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/14.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdonline.ml:80/live/rana/rana/869.m3u8
 #EXTINF:-1,USA:ESPN U
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/523.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/871.m3u8
 #EXTINF:-1,*NFL NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/6974
 #EXTINF:-1,*NHL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/471.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/6.m3u8
 #EXTINF:-1,LEAFS TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/115696.m3u8
 #EXTINF:-1,*NBA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/6970
 #EXTINF:-1,MLB NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://23.105.171.47:8000/live/Tstreamz2020/TaymilTSZ/444.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/3.m3u8
 #EXTINF:-1,|US| WWE Network HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/67506.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/9.m3u8
 #EXTINF:-1,|US| WWE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/1943.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2206.m3u8
 #EXTINF:-1,US076:TNT-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/7361
 EXTINF:-1,US079:USA-Network
