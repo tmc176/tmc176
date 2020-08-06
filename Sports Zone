@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CA: MAV TV | SD
-http://hdonline.ml:80/live/rana/rana/2142.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/2142.m3u8
 #EXTINF:-1,US: MAVTV CANADA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/rana/rana/132.m3u8
 #EXTINF:-1,US080:Velocity-HD
