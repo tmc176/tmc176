@@ -1,72 +1,70 @@
 #EXTM3U
 #EXTINF:-1,CA: MAV TV | SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2142.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/1073.m3u8
 #EXTINF:-1,US: MAVTV CANADA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/132.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/1073.m3u8
 #EXTINF:-1,US080:Velocity-HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/live/Gilberto1/Gilberto/28547.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/13585.m3u8
 #EXTINF:-1,MOTOR TREND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hdonline.ml:80/live/kam/kam/655.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16196.m3u8
 #EXTINF:-1,*TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2278.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3202.m3u8
 #EXTINF:-1,*TSN 2 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2279.m3u8
 #EXTINF:-1,*TSN 3 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2280.m3u8
 #EXTINF:-1,*TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2281.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3199.m3u8
 #EXTINF:-1,*TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2282.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3198.m3u8
 #EXTINF:-1,CA | SportsNet 360
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2247.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3227.m3u8
 #EXTINF:-1,CA | SportsNet East
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2245.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3226.m3u8
 #EXTINF:-1,CA | SportsNet One
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2248.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3225.m3u8
 #EXTINF:-1,CA | SportsNet Ontario
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2249.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3224.m3u8
 #EXTINF:-1,CA | SportsNet PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2250.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3223.m3u8
 #EXTINF:-1,CA | SportsNet West
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2246.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3222.m3u8
 #EXTINF:-1,CA | SportsNet World
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2244.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3221.m3u8
 #EXTINF:-1,*FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/6925
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64111.m3u8
 #EXTINF:-1,*FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptv.deluxeplay.live:80/hfdbtaso/6sTwL137vo/6926
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/187.m3u8
 #EXTINF:-1,CA: FOX SPORTS RACING | HD
-http://hdonline.ml:80/live/rana/rana/2232.m3u8
+http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65848.m3u8
 #EXTINF:-1,*NBC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/54.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/149.m3u8
 #EXTINF:-1,*CBS SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/32.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/220.m3u8
 #EXTINF:-1,USA | ESPN 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/867.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/13604.m3u8
 #EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/869.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/343.m3u8
 #EXTINF:-1,USA:ESPN U
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/871.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/475.m3u8
 #EXTINF:-1,*NFL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/1.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3402.m3u8
 #EXTINF:-1,*NHL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/6.m3u8
-#EXTINF:-1,LEAFS TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://thenew.tv:8000/live/Dante/Dante1/115696.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/147.m3u8
 #EXTINF:-1,*NBA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2235.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/336.m3u8
 #EXTINF:-1,MLB NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/3.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65842.m3u8
 #EXTINF:-1,|US| WWE Network HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/9.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16218.m3u8
 #EXTINF:-1,|US| WWE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/2206.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16218.m3u8
 #EXTINF:-1,US076:TNT-HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/110.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/298.m3u8
 EXTINF:-1,US079:USA-Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/120.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/242.m3u8
 #EXTINF:-1,USA:UFC FIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/7.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/14019.m3u8
 #EXTINF:-1,[US] FIGHT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://hdonline.ml:80/live/kam/kam/8.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3254.m3u8
 
