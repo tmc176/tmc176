@@ -36,7 +36,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 #EXTINF:-1,*FOX SPORTS 2 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/187.m3u8
 #EXTINF:-1,CA: FOX SPORTS RACING | HD
-http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65848.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65848.m3u8
 #EXTINF:-1,*NBC SPORTS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/149.m3u8
 #EXTINF:-1,*CBS SPORTS HD
