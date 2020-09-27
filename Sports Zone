@@ -67,5 +67,5 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/14019.m3u8
 #EXTINF:-1,[US] FIGHT NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/3254.m3u8
-#EXTINF:-1,US : NHL TAMPA BAY LIGHTNING
+#EXTINF:-1,US : NFL TAMPA BAY BUCCANEERS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/356.m3u8
