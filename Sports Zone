@@ -69,18 +69,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/384486.m3u8
 #EXTINF:-1,[US] FIGHT NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374330.m3u8
-#EXTINF:-1,EVENTS 01: 11AM ET Brave 43
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/385510.m3u8
 #EXTINF:-1,EVENTS 02: EVENTS 8PM ET AAW Alive
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/385511.m3u8
-#EXTINF:-1,EVENTS 03: 1PM ET Bellator 247
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/385512.m3u8
-#EXTINF:-1,EVENTS 04: 3PM ET TRB Golden Contract Tournament
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/385513.m3u8
 #EXTINF:-1,EVENTS 05: 7PM ET SWE Fury: Episode 126
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/385514.m3u8
-#EXTINF:-1,EVENTS 06: 8PM 01.00 Southern Violence ?nd Wrestling: Make Them Suffer
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/385515.m3u8
 #EXTINF:-1,EVENTS 07
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/385516.m3u8
 #EXTINF:-1,EVENTS 08
