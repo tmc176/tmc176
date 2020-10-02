@@ -28,11 +28,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.
 #EXTINF:-1,VIP HD TSN4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/374371.m3u8
 #EXTINF:-1,VIP HD TSN5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/374372.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374372.m3u8
 #EXTINF:-1,*FOX SPORTS 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/37
 #EXTINF:-1,*FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/308894.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308894.m3u8
 #EXTINF:-1,CA: FOX SPORTS RACING | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65848.m3u8
 #EXTINF:-1,*NBC SPORTS
