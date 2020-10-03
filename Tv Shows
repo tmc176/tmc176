@@ -5,6 +5,32 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374318.m3u8
 #EXTINF:-1,VIP HD CRAVE 3
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374319.m3u8
+
+#EXTINF:-1,NETFLIX ACTION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://178.63.48.23:25461/netott/nFu0mOB8pm/63
+#EXTINF:-1,Netflix Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.63.48.23:25461/netott/nFu0mOB8pm/65
+#EXTINF:-1,NETFLIX ARABIC
+http://178.63.48.23:25461/netott/nFu0mOB8pm/66
+#EXTINF:-1,NETFLIX KIDS
+http://178.63.48.23:25461/netott/nFu0mOB8pm/67
+#EXTINF:-1,NETFLIX ASIA
+http://178.63.48.23:25461/netott/nFu0mOB8pm/68
+#EXTINF:-1,NETFLIX Thriller
+http://178.63.48.23:25461/netott/nFu0mOB8pm/69
+#EXTINF:-1,SHAHID ACTION
+http://178.63.48.23:25461/netott/nFu0mOB8pm/80
+#EXTINF:-1,SHAHID Horror
+http://178.63.48.23:25461/netott/nFu0mOB8pm/160
+#EXTINF:-1,SHAHID ACTION
+http://178.63.48.23:25461/netott/nFu0mOB8pm/161
+#EXTINF:-1,SHAHID Thriller
+http://178.63.48.23:25461/netott/nFu0mOB8pm/162
+#EXTINF:-1,SHAHID COMEDY
+http://178.63.48.23:25461/netott/nFu0mOB8pm/163
+#EXTINF:-1,SHAHID ARABIC
+http://178.63.48.23:25461/netott/nFu0mOB8pm/164
+
 #EXTINF:-1,CANADA: SILVER SCREEN CLASSICS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/306116.m3u88
 
