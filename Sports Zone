@@ -36,7 +36,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.1
 #EXTINF:-1,CA: FOX SPORTS RACING | HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65848.m3u8
 #EXTINF:-1,*NBC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/3034.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/3034.m3u8
 #EXTINF:-1,*CBS SPORTS HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308946.m3u8
 #EXTINF:-1,USA | ESPN 1
