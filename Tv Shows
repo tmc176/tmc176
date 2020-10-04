@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1,VIP HD CRAVE 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374317.m3u8
-#EXTINF:-1,VIP HD CRAVE 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374318.m3u8
-#EXTINF:-1,VIP HD CRAVE 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/374319.m3u8
+#EXTINF:-1,|CA| CRAVE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39324.m3u8
+#EXTINF:-1,|CA| CRAVE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39325.m3u8
+#EXTINF:-1,|CA| CRAVE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39326.m3u8
+#EXTINF:-1,|CA| CRAVE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://king365-tv.cf:2103/live/Fabio1/Fabio2/39327.m3u8
 
 #EXTINF:-1,NETFLIX ACTION
 http://178.63.48.23:25461/netott/nFu0mOB8pm/63
