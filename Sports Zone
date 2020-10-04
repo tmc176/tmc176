@@ -20,9 +20,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestbuyi
 #EXTINF:-1,VIP HD SPORTSNET WORLD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/16155.m3u8
 #EXTINF:-1,VIP HD TSN1
-http://ingrid.ltd:25461/berny/berny1234/67331
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/8706
 #EXTINF:-1,VIP HD TSN2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/9373.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/8704
 #EXTINF:-1,VIP HD TSN3
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/9374.m3u8
 #EXTINF:-1,VIP HD TSN4
