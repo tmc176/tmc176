@@ -1,81 +1,74 @@
 #EXTM3U
-#EXTINF:-1,CA: MAV TV | SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/254398.m3u8
+#EXTINF:-1,RACIN DIRT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/110099.m3u8
 #EXTINF:-1,US: MAVTV CANADA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://104.218.60.145:83/live/292745542/267567743/308858.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1267.m3u8
 #EXTINF:-1,US080:Velocity-HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/6450.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109175.m3u8
 #EXTINF:-1,MOTOR TREND HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/44
-#EXTINF:-1,VIP HD SPORTSNET 360
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/16157.m3u8
-#EXTINF:-1,VIP HD SPORTSNET EAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/16153.m3u8
-#EXTINF:-1,VIP HD SPORTSNET ONE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/16154.m3u8
-#EXTINF:-1,VIP HD SPORTSNET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ingrid.ltd:25461/berny/berny1234/67257
-#EXTINF:-1,VIP HD SPORTSNET PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/16156.m3u8
-#EXTINF:-1,VIP HD SPORTSNET WORLD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/16155.m3u8
-#EXTINF:-1,VIP HD TSN1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/8706
-#EXTINF:-1,VIP HD TSN2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/8704
-#EXTINF:-1,VIP HD TSN3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/9374.m3u8
-#EXTINF:-1,VIP HD TSN4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/9375.m3u8
+#EXTINF:-1,TSN 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1621.m3u8
+#EXTINF:-1,TSN 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1622.m3u8
+#EXTINF:-1,TSN 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1623.m3u8
+#EXTINF:-1,TSN 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1624.m3u8
+#EXTINF:-1,TSN 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1625.m3u8
+#EXTINF:-1,SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/26000.m3u8
+#EXTINF:-1,SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/26001.m3u8
+#EXTINF:-1,SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/25999.m3u8
+#EXTINF:-1,SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/26002.m3u8
+#EXTINF:-1,SPORTSNET WEST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/110725.m3u8
+#EXTINF:-1,SPORTSNET WORLD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1619.m3u8
 #EXTINF:-1,VIP HD TSN5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/9376.m3u8
 #EXTINF:-1,*FOX SPORTS 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/37
 #EXTINF:-1,*FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/13.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109152.m3u8
 #EXTINF:-1,CA: FOX SPORTS RACING | HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/wickeduk/etqyhww45e/65848.m3u8
 #EXTINF:-1,*NBC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/17200.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109183.m3u8
 #EXTINF:-1,*CBS SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/6760.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109120.m3u8
 #EXTINF:-1,USA | ESPN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/19
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1262.m3u8
 #EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/77
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95868.m3u8
 #EXTINF:-1,USA:ESPN U
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/7256.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1274.m3u8
 #EXTINF:-1,VIP HD NFL RED ZONE
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/5725.m3u8
 #EXTINF:-1,*NFL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/5726.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109187.m3u8
 #EXTINF:-1,*NHL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/3474.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1612.m3u8
 #EXTINF:-1,*NBA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/3484.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109182.m3u8
 #EXTINF:-1,MLB NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/3477.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1389.m3u8
 #EXTINF:-1,US076:TNT-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/94
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/96162.m3u8
 EXTINF:-1,US079:USA-Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/34
 #EXTINF:-1,24/7  05: US: UFC Fight Pass HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/7985.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/102578.m3u8
 #EXTINF:-1,24/7  06: US: UFC NIGHT PASS 24/7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/3632.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/33843.m3u8
 #EXTINF:-1,|US| WWE Network HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/17686.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/36372.m3u8
 #EXTINF:-1,24/7  07: US: WWE Network
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/2.m3u8
 #EXTINF:-1,[US] FIGHT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://bestbuyiptv.link:7899/live/lucaciuviorel1/tynoUDRB7C/2277.m3u8
-#EXTINF:-1,EVENTS 02: EVENTS 8PM ET AAW Alive
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/385511.m3u8
-#EXTINF:-1,EVENTS 05: 7PM ET SWE Fury: Episode 126
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/385514.m3u8
-#EXTINF:-1,EVENTS 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/385516.m3u8
-#EXTINF:-1,EVENTS 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/385517.m3u8
-#EXTINF:-1,EVENTS 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.60.145:83/live/292745542/267567743/385518.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/29193.m3u8
+
