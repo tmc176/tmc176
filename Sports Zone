@@ -14,7 +14,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 #EXTINF:-1,CA: TSN 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67328
 #EXTINF:-1,CA: TSN 5
-http://ingrid.ltd:25461/Cc1/Cc1/67327
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67327
 #EXTINF:-1,CA: SPORTSNET EAST
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67259
 #EXTINF:-1,CA: SPORTSNET ONE
@@ -36,7 +36,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.
 #EXTINF:-1,*FOX SPORTS 2 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109152.m3u8
 #EXTINF:-1,CA: FOX SPORTS RACING | HD
-http://ingrid.ltd:25461/Cc1/Cc1/67241
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67241
 #EXTINF:-1,*NBC SPORTS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109183.m3u8
 #EXTINF:-1,*CBS SPORTS HD
@@ -54,7 +54,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 #EXTINF:-1,*NFL NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67254
 #EXTINF:-1,*NHL NETWORK HD
-http://ingrid.ltd:25461/Cc1/Cc1/41548
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41548
 #EXTINF:-1,*NBA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67279
 #EXTINF:-1,MLB NETWORK HD
