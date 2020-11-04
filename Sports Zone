@@ -5,30 +5,22 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99170
 #EXTINF:-1,CA : MOTORTREND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16196
-#EXTINF:-1,CA : TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3202
-#EXTINF:-1,CA : TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3201
-#EXTINF:-1,CA : TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/8802
-#EXTINF:-1,CA : TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3199
-#EXTINF:-1,CA : TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3198
-#EXTINF:-1,CA : SPORTSNET 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3227
-#EXTINF:-1,CA : SPORTSNET EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3226
-#EXTINF:-1,CA : SPORTSNET ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3225
-#EXTINF:-1,CA : SPORTSNET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3224
-#EXTINF:-1,CA : SPORTSNET PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3223
-#EXTINF:-1,CA : SPORTSNET WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3222
-#EXTINF:-1,CA : SPORTSNET WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3221
+#EXTINF:-1 ,TSN 1 HD CA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9032.m3u8
+#EXTINF:-1 ,TSN 2 HD CA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9033.m3u8
+#EXTINF:-1 ,TSN 4 HD CA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9035.m3u8
+#EXTINF:-1 ,TSN 5 HD CA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9036.m3u8
+#EXTINF:-1 ,SportsNet Pacific HD CA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10342.m3u8
+#EXTINF:-1 ,SportsNet One HD CA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10344.m3u8
+#EXTINF:-1 ,SportsNet West HD CA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10345.m3u8
+#EXTINF:-1 ,SportsNet East HD CA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13692.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1,*FOX SPORTS 2 HD
@@ -53,8 +45,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3402
 #EXTINF:-1,*NHL NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41548
-#EXTINF:-1,CA : LEAFS TV
-http://185.232.53.5:2086/gennaro/gennaro/95306
 #EXTINF:-1,*NBA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65840
 #EXTINF:-1,MLB NETWORK HD
@@ -73,66 +63,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3653
 #EXTINF:-1,FIGHT NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3254
-#EXTINF:-1,US : CBS SPORTS HQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/6730
-#EXTINF:-1,US : CBS SPORTS NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/220
-#EXTINF:-1,US : CBS SPORTS NETWORK FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64144
-#EXTINF:-1,US : ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/13604
-#EXTINF:-1,US : ESPN FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64127
-#EXTINF:-1,US : ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/343
-#EXTINF:-1,US : ESPN 2 FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64126
-#EXTINF:-1,US : ESPN U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/475
-#EXTINF:-1,US : ESPN U FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64124
-#EXTINF:-1,US : FOX SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/188
-#EXTINF:-1,US : FOX SPORTS 1 FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64111
-#EXTINF:-1,US : FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/187
-#EXTINF:-1,US : FOX SPORTS 2 FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64110
-#EXTINF:-1,US : MAV TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/1073
-#EXTINF:-1,US : MLB NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/160
-#EXTINF:-1,US : MLB NETWORK FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64091
-#EXTINF:-1,US : MOTOR TREND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/13585
-#EXTINF:-1,US : MOTOR TREND FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64087
-#EXTINF:-1,US : NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/336
-#EXTINF:-1,US : NBA TV FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64086
-#EXTINF:-1,US : NBCSN (NBC SPORTS NETWORK)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/149
-#EXTINF:-1,US : NBC SPORTS NETWORK FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64085
-#EXTINF:-1,US : NFL REDZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/2913
-#EXTINF:-1,US : NFL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/308
-#EXTINF:-1,US : NFL NETWORK FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64168
-#EXTINF:-1,US : NHL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/147
-#EXTINF:-1,US : NHL NETWORK FHD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/64084
-#EXTINF:-1,US : THE FIGHT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/90642
-#EXTINF:-1,US : UFC FIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/14019
-#EXTINF:-1,US : WWE NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/303
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",WWE
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
