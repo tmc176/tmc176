@@ -21,22 +21,22 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10345.m3u8
 #EXTINF:-1 ,SportsNet East HD CA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="Sport",FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1,*FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109152.m3u8
+#EXTINF:0,Fox Sports 1 HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/372
+#EXTINF:0,Fox Sports 2 HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/371
 #EXTINF:-1,CA: FOX SPORTS RACING | HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65848
 #EXTINF:-1,*NBC SPORTS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109183.m3u8
 #EXTINF:-1,*CBS SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109120.m3u8
-#EXTINF:-1,USA | ESPN 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1262.m3u8
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/95868.m3u8
-#EXTINF:-1,USA:ESPN U
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/1274.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/483
+#EXTINF:0,ESPN HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/536
+#EXTINF:0,ESPN2 HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/670
+#EXTINF:0,ESPNU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/726
 #EXTINF:-1,US: NFL NOW HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/5311
 #EXTINF:-1,VIP HD NFL RED ZONE
@@ -57,14 +57,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/102578.m3u8
 #EXTINF:-1,UFC NIGHT PASS 24/7
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/33843.m3u8
-#EXTINF:-1,WWE Network HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/67506
-#EXTINF:-1,WWE Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3653
-#EXTINF:-1,FIGHT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3254
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",WWE
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
+#EXTINF:-1,WWE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/749
+#EXTINF:-1,FIGHT NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3254
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
