@@ -5,22 +5,28 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99170
 #EXTINF:-1,CA : MOTORTREND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16196
-#EXTINF:-1 ,TSN 1 HD CA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9032.m3u8
-#EXTINF:-1 ,TSN 2 HD CA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9033.m3u8
-#EXTINF:-1 ,TSN 4 HD CA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9035.m3u8
-#EXTINF:-1 ,TSN 5 HD CA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9036.m3u8
-#EXTINF:-1 ,SportsNet Pacific HD CA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10342.m3u8
-#EXTINF:-1 ,SportsNet One HD CA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10344.m3u8
-#EXTINF:-1 ,SportsNet West HD CA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10345.m3u8
-#EXTINF:-1 ,SportsNet East HD CA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13692.m3u8
+#EXTINF:-1,CA : TSN 1
+http://mains.vip:2086/craigg/1Lurn7m3F1/3202
+#EXTINF:-1,CA : TSN 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/3201
+#EXTINF:-1,CA : TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/8802
+#EXTINF:-1,CA : TSN 4
+http://mains.vip:2086/craigg/1Lurn7m3F1/3199
+#EXTINF:-1,CA : TSN 5
+http://mains.vip:2086/craigg/1Lurn7m3F1/3198
+#EXTINF:-1,CA : SPORTSNET 360
+http://mains.vip:2086/craigg/1Lurn7m3F1/3227
+#EXTINF:-1,CA : SPORTSNET EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/3226
+#EXTINF:-1,CA : SPORTSNET ONE
+http://mains.vip:2086/craigg/1Lurn7m3F1/3225
+#EXTINF:-1,CA : SPORTSNET ONTARIO
+http://mains.vip:2086/craigg/1Lurn7m3F1/3224
+#EXTINF:-1,CA : SPORTSNET PACIFIC
+http://mains.vip:2086/craigg/1Lurn7m3F1/3223
+#EXTINF:-1,CA : SPORTSNET WORLD
+http://mains.vip:2086/craigg/1Lurn7m3F1/3221
 #EXTINF:0,Fox Sports 1 HD US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/372
 #EXTINF:0,Fox Sports 2 HD US
@@ -61,6 +67,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:82
 http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1,WWE Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/749
+#EXTINF:-1,CA : WWE
+http://mains.vip:2086/craigg/1Lurn7m3F1/16218
 #EXTINF:-1,FIGHT NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3254
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
