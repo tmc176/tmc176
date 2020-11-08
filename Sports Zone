@@ -1,38 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MavTv" tvg-name="MavTv" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b259ec9b-02ed-4aa0-81bd-5b7bd878c753-small3x1_STIRR_Logo_0420_MavTV_1920x1080_EPG.png?cb=a87ff679a2f3e71d9181a67b7542122c" group-title="STIRR USA",MavTv
 https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:-1,US080:Velocity-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/99170
+#EXTINF:-1,US080:Velocity-HDplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/99170
 #EXTINF:-1,CA : MOTORTREND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/16196
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/16196
 #EXTINF:-1,CA : TSN 1
-http://mains.vip:2086/craigg/1Lurn7m3F1/3202
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3202
 #EXTINF:-1,CA : TSN 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/3201
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3201
 #EXTINF:-1,CA : TSN 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/8802
 #EXTINF:-1,CA : TSN 4
-http://mains.vip:2086/craigg/1Lurn7m3F1/3199
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3199
 #EXTINF:-1,CA : TSN 5
-http://mains.vip:2086/craigg/1Lurn7m3F1/3198
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3198
 #EXTINF:-1,CA : SPORTSNET 360
-http://mains.vip:2086/craigg/1Lurn7m3F1/3227
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3227
 #EXTINF:-1,CA : SPORTSNET EAST
-http://mains.vip:2086/craigg/1Lurn7m3F1/3226
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3226
 #EXTINF:-1,CA : SPORTSNET ONE
-http://mains.vip:2086/craigg/1Lurn7m3F1/3225
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3225
 #EXTINF:-1,CA : SPORTSNET ONTARIO
-http://mains.vip:2086/craigg/1Lurn7m3F1/3224
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3224
 #EXTINF:-1,CA : SPORTSNET PACIFIC
-http://mains.vip:2086/craigg/1Lurn7m3F1/3223
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3223
 #EXTINF:-1,CA : SPORTSNET WORLD
-http://mains.vip:2086/craigg/1Lurn7m3F1/3221
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3221
 #EXTINF:0,Fox Sports 1 HD US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/372
 #EXTINF:0,Fox Sports 2 HD US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/371
-#EXTINF:-1,CA: FOX SPORTS RACING | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65848
+#EXTINF:-1,CA : FOX SPORTS RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/65848
 #EXTINF:-1,*NBC SPORTS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/109183.m3u8
 #EXTINF:-1,*CBS SPORTS HD
@@ -48,19 +47,19 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.l
 #EXTINF:-1,VIP HD NFL RED ZONE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/3669
 #EXTINF:-1,*NFL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3402
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3402
 #EXTINF:-1,*NHL NETWORK HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/41548
 #EXTINF:-1,*NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65840
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/65840
 #EXTINF:-1,MLB NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/65842
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/65842
 #EXTINF:-1,US076:TNT-HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ingrid.ltd:25461/Cc1/Cc1/21762
 EXTINF:-1,US079:USA-Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/34
 #EXTINF:-1,'UFC Fight Pass HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/102578.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3254
 #EXTINF:-1,UFC NIGHT PASS 24/7
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://psdns.xyz:826/live/mlewis012375@gmail.com/nutpqtJW7y/33843.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",WWE
@@ -68,9 +67,9 @@ http://cdnak10.cast4u.info/channels/3/10803.m3u8
 #EXTINF:-1,WWE Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/749
 #EXTINF:-1,CA : WWE
-http://mains.vip:2086/craigg/1Lurn7m3F1/16218
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/16218
 #EXTINF:-1,FIGHT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/gennaro/gennaro/3254
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mains.vip:2086/craigg/1Lurn7m3F1/3254
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
