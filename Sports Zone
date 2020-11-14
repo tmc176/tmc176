@@ -11,6 +11,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonli
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/670
 #EXTINF:0,ESPNU HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/726
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8r9ZR7.png" group-title="USA",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,WWE Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/749
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
