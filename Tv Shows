@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://youtu.be/2zzDRiPybAc
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://www.dropbox.com/s/atba9ojm0rxpezy/Home%20Improvement%20Season%204%20Episode%2012%20It%20Was%20The%20Night%20Before%20Chaos%20%20cool%20man.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://youtu.be/2zzDRiPybAc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://www.dropbox.com/s/atba9ojm0rxpezy/Home%20Improvement%20Season%204%20Episode%2012%20It%20Was%20The%20Night%20Before%20Chaos%20%20cool%20man.mp4?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors
-https://youtu.be/2zzDRiPybAc
+https://www.dropbox.com/s/atba9ojm0rxpezy/Home%20Improvement%20Season%204%20Episode%2012%20It%20Was%20The%20Night%20Before%20Chaos%20%20cool%20man.mp4?dl=1
 
 
 
