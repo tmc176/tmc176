@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://youtu.be/zoIxS301pW8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://youtu.be/zoIxS301pW8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors
+https://youtu.be/zoIxS301pW8
 
 
 
