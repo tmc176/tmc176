@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://www.dropbox.com/s/atba9ojm0rxpezy/Home%20Improvement%20Season%204%20Episode%2012%20It%20Was%20The%20Night%20Before%20Chaos%20%20cool%20man.mp4?dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://www.dropbox.com/s/atba9ojm0rxpezy/Home%20Improvement%20Season%204%20Episode%2012%20It%20Was%20The%20Night%20Before%20Chaos%20%20cool%20man.mp4?dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",American Horrors
-https://www.dropbox.com/s/atba9ojm0rxpezy/Home%20Improvement%20Season%204%20Episode%2012%20It%20Was%20The%20Night%20Before%20Chaos%20%20cool%20man.mp4?dl=1
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",Dean Martin's Christmas
+https://www.dropbox.com/s/kxv4cqfpfciyh9b/Dean%20Martin%20Christmas%20Show%201968%20-%20FULL%20EPISODE.mkv?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",
+https://www.dropbox.com/s/db6j3d5x2cs73vb/I%20LOVE%20LUCY%20-%20JINGLE%20BELLS.mkv?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",
+https://www.dropbox.com/s/dtmavkxuu3ka7ge/Make%20Room%20For%20Daddy%20Christmas%20episode.mkv?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="",
+https://www.dropbox.com/s/np1jr5xs3pay1yr/Petticoat%20Junction%20CANNONBALL%20CHRISTMAS.mkv?dl=1
 
 
 
