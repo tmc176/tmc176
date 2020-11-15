@@ -1,6 +1,6 @@
 #EXTM3U
-https://youtu.be/zoIxS301pW8
-
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://youtu.be/zoIxS301pW8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://youtu.be/zoIxS301pW8
 
 
 
