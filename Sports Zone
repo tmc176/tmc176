@@ -11,7 +11,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonli
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/670
 #EXTINF:0,ESPNU HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://latvonlive.com:33612/Pablo/1234/726
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8r9ZR7.png" group-title="USA",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,WWE Network
@@ -24,4 +23,86 @@ http://210.210.155.35/uq2663/h/h05/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="",TVS Boxing
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[COLOR FFffffffff][COLORred]Canadian Sports Lists Enjoy[/COLOR][/COLOR]
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FIGHT NETWORK
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3254?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FIGHT NETWORK HD
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30182?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Fight Network (720)(M)
+http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/3686?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Fox Sports Racing
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/7820?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",FOX SPORTS RACING
+http://185.232.53.5:2086/arellano/kgtL965n2Y/65848?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",FOX SPORTS RACING
+http://p4.giffy.be:8080/xueMAyY4/ZSTqFv5aM4/9816?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
+http://185.232.53.5:2086/arellano/kgtL965n2Y/65840?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/65840?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV HD (TV)(720)
+http://tv.mediaxyz1.com:8000/elnica232125/je25jO1Uac/53970?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBC GOLF
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3403?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBC GOLF
+http://mains.vip:2086/craigg/1Lurn7m3F1/3403?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL NETWORK
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3402?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/3402?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL Network
+http://greenstreamtv.xyz:25461/MS11/M1234/7834?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MLB NETWORK
+http://185.232.53.5:2086/arellano/kgtL965n2Y/65842?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MLB NETWORK
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30111?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MLB NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/65842?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MAVTV CANADA
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30104?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET EAST
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET EAST
+http://mains.vip:2086/craigg/1Lurn7m3F1/3226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/1289?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
+http://greenstreamtv.xyz:25461/MS11/M1234/1289?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
+http://mains.vip:2086/craigg/1Lurn7m3F1/3225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
+http://mains.vip:2086/craigg/1Lurn7m3F1/3224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3223?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/30126?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/1291?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3222?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
+http://mains.vip:2086/craigg/1Lurn7m3F1/3222?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WORLD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3221?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WORLD
+http://mains.vip:2086/craigg/1Lurn7m3F1/3221?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET-360
+http://ete8.oknirvana.club:8880/test818/rpfWwsfFnh/3010?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_360
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/7840?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_EAST
+http://greenstreamtv.xyz:25461/MS11/M1234/7839?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_ONE
+http://greenstreamtv.xyz:25461/MS11/M1234/7838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_ONTARIO
+http://greenstreamtv.xyz:25461/MS11/M1234/7837?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_PACIFIC
+http://greenstreamtv.xyz:25461/MS11/M1234/7836?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_PPV
+http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/7921?checkedby:iptvcat.com
+
 
