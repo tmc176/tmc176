@@ -70,14 +70,5 @@ http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48554
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48555
 #EXTINF:-1,CA-EN | GOLF CHANNEL HD
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48556
-#EXTINF:-1,CA : TSN 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/arellano/kgtL965n2Y/3202.m3u8
-#EXTINF:-1,CA : TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.232.53.5:2086/live/arellano/kgtL965n2Y/3201.m3u8
-#EXTINF:-1,CA : TSN 3
-http://185.232.53.5:2086/live/arellano/kgtL965n2Y/8802.m3u8
-#EXTINF:-1,CA : TSN 4
-http://185.232.53.5:2086/live/arellano/kgtL965n2Y/3199.m3u8
-#EXTINF:-1,CA : TSN 5
-http://185.232.53.5:2086/live/arellano/kgtL965n2Y/3198.m3u8
+
 
