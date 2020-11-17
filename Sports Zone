@@ -24,6 +24,14 @@ https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="",TVS Boxing
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[COLOR FFffffffff][COLORred]Canadian Sports Lists Enjoy[/COLOR][/COLOR]
+#EXTINF:-1,24/7 : WWE ROYAL RUMBLE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/arellano/kgtL965n2Y/93712.m3u8
+#EXTINF:-1,24/7 : WWE SUMMERSLAM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/arellano/kgtL965n2Y/64656.m3u8
+#EXTINF:-1,24/7 : WWE TOTAL BELLAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/arellano/kgtL965n2Y/64542.m3u8
+#EXTINF:-1,24/7 : WWE WRESTLEMANIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://185.232.53.5:2086/live/arellano/kgtL965n2Y/16018.m3u8
 #EXTINF:-1,CA-EN | Bein Sports HD (R)
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/48533
 #EXTINF:-1,CA-EN | SPORTSNET_PPV  (R)
