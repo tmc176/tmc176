@@ -24,24 +24,7 @@ https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="",TVS Boxing
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[COLOR FFffffffff][COLORred]Ca/Us/Uk Sports Lists Enjoy[/COLOR][/COLOR]
-#EXTINF:-1,CA: SPORTSNET 360 | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1288
-#EXTINF:-1,CA: SPORTSNET EAST | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1290
-#EXTINF:-1,CA: SPORTSNET ONE | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1289
-#EXTINF:-1,CA: SPORTSNET ONTARIO | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1286
-#EXTINF:-1,CA: SPORTSNET WEST | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1291
-#EXTINF:-1,CA: TSN 1 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1281
-#EXTINF:-1,CA: TSN 2 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1282
-#EXTINF:-1,CA: TSN 3 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1283
-#EXTINF:-1,CA: TSN 4 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1284
-#EXTINF:-1,CA: TSN 5 | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/1285
+#EXTINF:-1,UFC Fight Island Collection
+http://dsud.site:25461/GoodServerIPTV/7675435qpg/178734
+
 
