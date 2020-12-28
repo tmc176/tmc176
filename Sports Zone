@@ -8,7 +8,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartipt
 #EXTINF:-1,SP: TSN 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/655
 #EXTINF:-1,SP: TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/656
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/656
 
 
 
