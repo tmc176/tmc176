@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,SP: TSN 1
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/652
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/652
 #EXTINF:-1,SP: TSN 2
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/653
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/653
 #EXTINF:-1,SP: TSN 3
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/654
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/654
 #EXTINF:-1,SP: TSN 4
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/655
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/655
 #EXTINF:-1,SP: TSN 5
-http://smartiptv.dyndns.info:25461/greek.iptv/skype984/656
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/656
 
 
 
