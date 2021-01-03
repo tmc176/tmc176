@@ -1,15 +1,32 @@
 #EXTM3U
-#EXTINF:-1,SP: TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/652
-#EXTINF:-1,SP: TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/653
-#EXTINF:-1,SP: TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/654
-#EXTINF:-1,SP: TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/655
-#EXTINF:-1,SP: TSN 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://smartiptv.dyndns.info:25461/greek.iptv/skype984/656
-
+#EXTINF:-1,USA:NBC.Sports
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
+#EXTINF:-1,USA:Eleven.Sports-Network
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/873
+#EXTINF:-1,USA:NBC.Golf
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/874
+#EXTINF:-1,USA:Fight.Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/875
+#EXTINF:-1,USA:Fox.Sport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/870
+#EXTINF:-1,USA:Fox.Sport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/871
+#EXTINF:-1,USA:ESPN1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/868
+#EXTINF:-1,USA:ESPN2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/876
+#EXTINF:-1,USA:TSN1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/664
+#EXTINF:-1,USA:TSN2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/663
+#EXTINF:-1,USA:TSN3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/662
+#EXTINF:-1,USA:TSN4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/661
+#EXTINF:-1,USA:TSN5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/192
+#EXTINF:-1,USA:WWE.Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/882
 
 
 
