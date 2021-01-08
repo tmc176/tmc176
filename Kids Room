@@ -1,10 +1,19 @@
 #EXTM3U url-tvg="www.webgrabplus.com" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblack][B]Looney Tunes Hour[/B][/COLOR][/COLOR]
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblue][B]Speedy Gonzales Hour[/B][/COLOR][/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",Best of Speedy Gonzales
+https://www.dropbox.com/s/pks69xcv2ww35tt/Looney%20Tunes%20%20%20Best%20of%20Speedy%20Gonzales%20%20%20Classic%20Cartoon%20Compilation%20%20%20WB%20Kids.mkv?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblue][B]Yosemite Sam Hour[/B][/COLOR][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",Best Of Yosemite Sam
+https://www.dropbox.com/s/nzy9rz5o6az36sr/Looney%20Tunes%20%20%20Best%20of%20Yosemite%20Sam%20%20%20WB%20Kids.mkv?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblue][B]Tazmanian Devils Hour[/B][/COLOR][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",Tazmanian Devil
+https://www.dropbox.com/s/hexirg9iswyr1za/Looney%20Tuesday%20%20%20Surprising%20Duo%20Bugs%20Bunny%20%26%20Tazmanian%20Devil%20%20%20Looney%20Tunes%20%20%20WB%20Kids.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblack][B]Foghorn Leghorn Hour[/B][/COLOR][/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",Foghorn Leghorn
-https://www.dropbox.com/s/043etpnmfmgq23j/LOONEY%20TUNES%20%28Best%20of%20Looney%20Toons%29%20BUGS%20BUNNY%20CARTOON%20COMPILATION%20%28HD%201080p%29.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",Foghorn Leghorn on the Farm
 https://www.dropbox.com/s/cw1edx4pqcrg02n/Looney%20Tunes%20%20%20Foghorn%20Leghorn%20on%20the%20Farm%20%20%20Classic%20Cartoon%20Compilation%20%20%20WB%20Kids.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblack][B]Marvin The Martian Hour[/B][/COLOR][/COLOR]
@@ -13,7 +22,7 @@ https://www.dropbox.com/s/cw1edx4pqcrg02n/Looney%20Tunes%20%20%20Foghorn%20Legho
 https://www.dropbox.com/s/342p1c6s90uiw5s/Looney%20Tunes%20%20%20Travelling%20to%20Space%21%20%20%20Classic%20Cartoon%20Compilation%20%20%20WB%20Kids.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",Marvin The Martian In The Third Dimension
 https://www.dropbox.com/s/qbspx7g79kwxgsc/Marvin%20The%20Martian%20In%20The%20Third%20Dimension%20%281996%29%20-%20First%20stereoscopic%203d%20polygonal%20short%20film.mkv?dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblack][B]Looney Tunes Hour[/B][/COLOR][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblue][B]Looney Tunes Hour[/B][/COLOR][/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/6o3hnqgdt8mw4ow/maxresdefault%20%281%29.jpg?dl=1" group-title="",Looney Tunes Christmas
 https://www.dropbox.com/s/2ye641ey7say078/LOONEY%20TUNES%20CHRISTMAS%20CARTOONS%20COMPILATION%20%284%20Hours%29%20Santa%20Claus%2C%20Rudolph.mkv?dl=1
@@ -25,7 +34,9 @@ https://www.dropbox.com/s/f3kno56gf5uo0at/LOONEY%20TUNES%20%28Looney%20Toons%29%
 https://www.dropbox.com/s/bbwvbca51zbn39t/LOONEY%20TUNES%20BIGGEST%20COMPILATION%20Bugs%20Bunny%2C%20Daffy%20Duck%20and%20more%21.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/502kr0odc6lswzd/941a1893d301450536ed49585c414bc3.jpg?dl=1" group-title="",Wile Coyote Vs Bugs Bunny
 https://www.dropbox.com/s/5dej001ysphwlc6/Looney%20Tunes%20%20%20Wile%20E.%20Coyote%20Genius%20vs.%20Bugs%20Bunny%20%20%20Classic%20Cartoon%20Compilation%20%20%20WB%20Kids.mkv?dl=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblack][B]Roadrunner Hour Hour[/B][/COLOR][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",Looney Tunes
+https://www.dropbox.com/s/043etpnmfmgq23j/LOONEY%20TUNES%20%28Best%20of%20Looney%20Toons%29%20BUGS%20BUNNY%20CARTOON%20COMPILATION%20%28HD%201080p%29.mkv?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORblue][B]Roadrunner Hour Hour[/B][/COLOR][/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",The Road Runner Show
 https://www.dropbox.com/s/veytpgdkpiu178e/Looney%20Tuesdays%20%20%20Iconic%20Duo%20Wile%20E.%20Coyote%20%26%20Road%20Runner%20%20%20Looney%20Tunes%20%20%20WB%20Kids.mkv?dl=1
@@ -39,10 +50,9 @@ https://www.dropbox.com/s/yhup197gwhkh3w6/The%20Road%20Runner%20Show%20%20%20Roa
 https://www.dropbox.com/s/n1hb1z11jmqidjj/Wile%20E.%20Coyote%20and%20The%20Road%20Runner%20%5Bepisode%5D%201-10.mkv?dl=1
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
-
+https://www.dropbox.com/s/pks69xcv2ww35tt/Looney%20Tunes%20%20%20Best%20of%20Speedy%20Gonzales%20%20%20Classic%20Cartoon%20Compilation%20%20%20WB%20Kids.mkv?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
