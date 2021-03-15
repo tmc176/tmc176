@@ -25,4 +25,21 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
 #EXTINF:-1,Fox-Sports-Kansas
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1180
-
+#EXTINF:-1,US: NHL1: New York Rangers V Pittsburgh Penguins | 9th 6:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2257.ts
+#EXTINF:-1,US: NHL2: Boston Bruins V New York Islanders | 9th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2258.ts
+#EXTINF:-1,US: NHL3: Buffalo Sabres V Philadelphia Flyers | 9th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2259.ts
+#EXTINF:-1,US: NHL4: New Jersey Devils V Washington Capitals | 9th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2260.ts
+#EXTINF:-1,US: NHL5: Nashville Predators V Carolina Hurricanes | 9th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2261.ts
+#EXTINF:-1,US: NHL6: Florida Panthers V Columbus Blue Jackets | 9th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2262.ts
+#EXTINF:-1,US: NHL7: Winnipeg Jets V Toronto Maple Leafs | 9th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2263.ts
+#EXTINF:-1,US: NHL8: Tampa Bay Lightning V Detroit Red Wings | 9th 7:30PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2264.ts
+#EXTINF:-1,US: NHL9: Chicago Blackhawks V Dallas Stars | 9th 8:30PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2265.ts
