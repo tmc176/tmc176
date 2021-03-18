@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,CA: Crave 1
+http://37723998.to:2052/dale1/1234/21586
+#EXTINF:-1,CA: Crave 2
+http://37723998.to:2052/dale1/1234/21587
+#EXTINF:-1,CA: Crave 3
+http://37723998.to:2052/dale1/1234/21588
+#EXTINF:-1,CA: Crave 4
+http://37723998.to:2052/dale1/1234/21589
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
