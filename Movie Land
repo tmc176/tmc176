@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1,CA:ABC Spark HD
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3068
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3068
 #EXTINF:-1,CA:BET
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3063
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3063
 #EXTINF:-1,CA:BRAVO HD
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3061
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3061
 #EXTINF:-1,CA:CHCH HD
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3058
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3058
 #EXTINF:-1,CA:CITY TV HD
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3057
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3057
 #EXTINF:-1,CA:COTTAGE-LIFE
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3054
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3054
 #EXTINF:-1,CA:CPAC HD
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3052
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3052
 #EXTINF:-1,CA:ABC BOSTON HD
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3051
 #EXTINF:-1,CA:DIY Network HD
