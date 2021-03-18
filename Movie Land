@@ -1,12 +1,80 @@
 #EXTM3U
+#EXTINF:-1,CA: CBC OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21806
+#EXTINF:-1,CA: CBC St. John's (CBNT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21807
+#EXTINF:-1,CA: CITY TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21814
+#EXTINF:-1,CA: Citytv Toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21816
+#EXTINF:-1,CA: CTV HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21819
+#EXTINF:-1,CA: CTV OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21821
+#EXTINF:-1,CA: CTV TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21823
+#EXTINF:-1,CA: CTV Two Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21824
+#EXTINF:-1,CA: CTV2 OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21826
+#EXTINF:-1,CA: GLOBAL HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21827
+#EXTINF:-1,CA: GLOBAL TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21830
+#EXTINF:-1,CA: CablePulse 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21695
+#EXTINF:-1,CA: CBC News Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21696
+#EXTINF:-1,CA: CHCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21697
 #EXTINF:-1,CA: Crave 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21586
 #EXTINF:-1,CA: Crave 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21587
 #EXTINF:-1,CA: Crave 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37723998.to:2052/dale1/1234/21588
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21588
 #EXTINF:-1,CA: Crave 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://37723998.to:2052/dale1/1234/21589
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21589
+#EXTINF:-1,CA: HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21616
+#EXTINF:-1,CA: History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21617
+#EXTINF:-1,CA: PEACHTREE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21642
+#EXTINF:-1,CA: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21654
+#EXTINF:-1,CA: Wild TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21663
+#EXTINF:-1,CA: YES TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21665
+#EXTINF:-1,CA: TREEHOUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21797
+#EXTINF:-1,CA: MAVTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21623
+#EXTINF:-1,CA: SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21719
+#EXTINF:-1,CA: SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21720
+#EXTINF:-1,CA: SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21721
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21722
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21724
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21725
+#EXTINF:-1,CA: SPORTSNET WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21726
+#EXTINF:-1,CA: TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21782
+#EXTINF:-1,CA: TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21783
+#EXTINF:-1,CA: TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21784
+#EXTINF:-1,CA: TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21785
+#EXTINF:-1,CA: TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37723998.to:2052/dale1/1234/21786
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
