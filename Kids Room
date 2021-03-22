@@ -1,5 +1,28 @@
 #EXTM3U url-tvg="www.webgrabplus.com" tvg-shift=0 m3uautoload=1
-
+#EXTINF:-1,24/7 Looney Tunes Cartoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79038
+#EXTINF:-1,24/7 Looney Tunes Volume 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79039
+#EXTINF:-1,24/7 Looney Tunes Volume 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79040
+#EXTINF:-1,24/7 Looney Tunes Volume 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79041
+#EXTINF:-1,24/7 Looney Tunes Volume 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79042
+#EXTINF:-1,24/7 Looney Tunes Volume 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79043
+#EXTINF:-1,24/7 Looney Tunes Volume 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79044
+#EXTINF:-1,24/7 Looney Tunes Volume 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79045
+#EXTINF:-1,24/7 Looney Tunes Volume 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79046
+#EXTINF:-1,24/7 Looney Tunes Volume 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79047
+#EXTINF:-1,24/7 Looney Tunes Volume 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79048
+#EXTINF:-1,24/7 Looney Tunes Volume 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/79049
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",[COLORFFffffffff][COLORred][B]Looney Tunes Hour[/B][/COLOR][/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.dropbox.com/s/n19xg9exwh3i2nv/lf.jpg?dl=1" group-title="",
