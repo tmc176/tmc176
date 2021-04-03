@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1,CA | A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114873
+http://nomorecable.xyz:80/vmp343streams/850256/114873
 #EXTINF:-1,CA | ABC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114875
+http://nomorecable.xyz:80/vmp343streams/850256/114875
 #EXTINF:-1,CA | ABC East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114874
+http://nomorecable.xyz:80/vmp343streams/850256/114874
 #EXTINF:-1,CA | ABC Spark
 http://nomorecable.xyz:80/vmp343streams/850256/114848
 #EXTINF:-1,CA | ABC SPARK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114876
+http://nomorecable.xyz:80/vmp343streams/850256/114876
 #EXTINF:-1,CA | AMC Ca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114820
+http://nomorecable.xyz:80/vmp343streams/850256/114820
 #EXTINF:-1,CA | AMC HD CA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114765
+http://nomorecable.xyz:80/vmp343streams/850256/114765
 #EXTINF:-1,CA | Animal Planet
 http://nomorecable.xyz:80/vmp343streams/850256/114826
 #EXTINF:-1,CA | APTN
