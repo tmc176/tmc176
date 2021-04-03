@@ -40,10 +40,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/114890
 http://nomorecable.xyz:80/vmp343streams/850256/114839
 #EXTINF:-1,CA | CBC HD CA
 http://nomorecable.xyz:80/vmp343streams/850256/114762
-#EXTINF:-1,CA | CBC Montreal CA-FR
-http://nomorecable.xyz:80/vmp343streams/850256/114761
-#EXTINF:-1,CA | CBC MONTREAL QC
-http://nomorecable.xyz:80/vmp343streams/850256/114814
 #EXTINF:-1,CA | CBC MONTREAL
 http://nomorecable.xyz:80/vmp343streams/850256/114894
 #EXTINF:-1,CA | CBC News Network
@@ -70,8 +66,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/114813
 http://nomorecable.xyz:80/vmp343streams/850256/114905
 #EXTINF:-1,CA | CHCH HD CA
 http://nomorecable.xyz:80/vmp343streams/850256/114757
-#EXTINF:-1,CA | CinePOP (FR)
-http://nomorecable.xyz:80/vmp343streams/850256/114857
 #EXTINF:-1,CA | CITY CALGARY
 http://nomorecable.xyz:80/vmp343streams/850256/114906
 #EXTINF:-1,CA | CITY MONTREAL
@@ -100,8 +94,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/114755
 http://nomorecable.xyz:80/vmp343streams/850256/114811
 #EXTINF:-1,CA | CPAC HD CA
 http://nomorecable.xyz:80/vmp343streams/850256/114754
-#EXTINF:-1,CA | CPAC QC
-http://nomorecable.xyz:80/vmp343streams/850256/114810
 #EXTINF:-1,CA | CRAVE 1 HD
 http://nomorecable.xyz:80/vmp343streams/850256/114918
 #EXTINF:-1,CA | CRAVE 2 HD
@@ -176,8 +168,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/114750
 http://nomorecable.xyz:80/vmp343streams/850256/114950
 #EXTINF:-1,CA | DIY NETWORK HD
 http://nomorecable.xyz:80/vmp343streams/850256/114951
-#EXTINF:-1,CA | DTOUR
-http://nomorecable.xyz:80/vmp343streams/850256/114952
 #EXTINF:-1,CA | E! Ca
 http://nomorecable.xyz:80/vmp343streams/850256/114806
 #EXTINF:-1,CA | E! HD
@@ -200,10 +190,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/114747
 http://nomorecable.xyz:80/vmp343streams/850256/114805
 #EXTINF:-1,CA | FXX CA
 http://nomorecable.xyz:80/vmp343streams/850256/114746
-#EXTINF:-1,CA | Game TV
-http://nomorecable.xyz:80/vmp343streams/850256/114827
-#EXTINF:-1,CA | GAME SHOW NETWORK HD
-http://nomorecable.xyz:80/vmp343streams/850256/114963
 #EXTINF:-1,CA | GLOBAL HALIFAX
 http://nomorecable.xyz:80/vmp343streams/850256/114844
 #EXTINF:-1,CA | GLOBAL VANCOUVER
@@ -212,10 +198,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/114845
 http://nomorecable.xyz:80/vmp343streams/850256/114727
 #EXTINF:-1,CA | Global Toronto
 http://nomorecable.xyz:80/vmp343streams/850256/114871
-#EXTINF:-1,CA | GSN
-http://nomorecable.xyz:80/vmp343streams/850256/114965
-#EXTINF:-1,CA | GUSTO
-http://nomorecable.xyz:80/vmp343streams/850256/114967
 #EXTINF:-1,CA | H2
 http://nomorecable.xyz:80/vmp343streams/850256/114968
 #EXTINF:-1,CA | HBO HD
@@ -228,54 +210,26 @@ http://nomorecable.xyz:80/vmp343streams/850256/114803
 http://nomorecable.xyz:80/vmp343streams/850256/114745
 #EXTINF:-1,CA | HGTV
 http://nomorecable.xyz:80/vmp343streams/850256/114870
-#EXTINF:-1,CA | HISTORIA QC
-http://nomorecable.xyz:80/vmp343streams/850256/114802
 #EXTINF:-1,CA | History Channel
 http://nomorecable.xyz:80/vmp343streams/850256/114834
 #EXTINF:-1,CA | HISTORY HD
-http://nomorecable.xyz:80/vmp343streams/850256/114972
-#EXTINF:-1,CA | HLN
-http://nomorecable.xyz:80/vmp343streams/850256/114973
-#EXTINF:-1,CA | ICI MONTREAL QC
-http://nomorecable.xyz:80/vmp343streams/850256/114801
-#EXTINF:-1,CA | ICI Tele Montreal
-http://nomorecable.xyz:80/vmp343streams/850256/115054
-#EXTINF:-1,CA | ICI VANCOUVER QC
-http://nomorecable.xyz:80/vmp343streams/850256/114800
-#EXTINF:-1,CA | IFC HD
-http://nomorecable.xyz:80/vmp343streams/850256/114974
-#EXTINF:-1,CA | IIPC TV
-http://nomorecable.xyz:80/vmp343streams/850256/114975
+http://nomorecable.xyz:80/vmp343streams/850256/114972975
 #EXTINF:-1,CA | INVESTIGATION DISCOVERY HD
 http://nomorecable.xyz:80/vmp343streams/850256/114976
 #EXTINF:-1,CA | KNOWLEDGE KIDS
 http://nomorecable.xyz:80/vmp343streams/850256/114978
 #EXTINF:-1,CA | KTLA
 http://nomorecable.xyz:80/vmp343streams/850256/114977
-#EXTINF:-1,CA | LCN QC
-http://nomorecable.xyz:80/vmp343streams/850256/114799
 #EXTINF:-1,CA | Lifetime FHD CA
 http://nomorecable.xyz:80/vmp343streams/850256/114744
 #EXTINF:-1,CA | LIFETIME Ca
 http://nomorecable.xyz:80/vmp343streams/850256/114798
 #EXTINF:-1,CA | LIFETIME MOVIE NETWORK HD
 http://nomorecable.xyz:80/vmp343streams/850256/114980
-#EXTINF:-1,CA | Love Nature
-http://nomorecable.xyz:80/vmp343streams/850256/114833
-#EXTINF:-1,CA | MakeFul
-http://nomorecable.xyz:80/vmp343streams/850256/114982
 #EXTINF:-1,CA | MAVTV
 http://nomorecable.xyz:80/vmp343streams/850256/114983
 #EXTINF:-1,CA | MAX
 http://nomorecable.xyz:80/vmp343streams/850256/114984
-#EXTINF:-1,CA | MEDIASET ITALIA
-http://nomorecable.xyz:80/vmp343streams/850256/114985
-#EXTINF:-1,CA | METEO QC
-http://nomorecable.xyz:80/vmp343streams/850256/114797
-#EXTINF:-1,CA | MIRACLE
-http://nomorecable.xyz:80/vmp343streams/850256/114986
-#EXTINF:-1,CA | MOI et CIE (FR)
-http://nomorecable.xyz:80/vmp343streams/850256/114860
 #EXTINF:-1,CA | MOVIE CENTRAL Ca
 http://nomorecable.xyz:80/vmp343streams/850256/114796
 #EXTINF:-1,CA | MOVIE TIME 1 Ca
@@ -288,8 +242,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/114835
 http://nomorecable.xyz:80/vmp343streams/850256/114988
 #EXTINF:-1,CA | MUCH
 http://nomorecable.xyz:80/vmp343streams/850256/114989
-#EXTINF:-1,CA | Musique Plus (FR)
-http://nomorecable.xyz:80/vmp343streams/850256/114859
 #EXTINF:-1,CA | NAT GEO WILD Ca
 http://nomorecable.xyz:80/vmp343streams/850256/114794
 #EXTINF:-1,CA | NAT GEO WILD HD
@@ -304,10 +256,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/114992
 http://nomorecable.xyz:80/vmp343streams/850256/114743
 #EXTINF:-1,CA | OLN Ca
 http://nomorecable.xyz:80/vmp343streams/850256/114792
-#EXTINF:-1,CA | OMNI 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/114995
-#EXTINF:-1,CA | OMNI 2 HD Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114791
 #EXTINF:-1,CA | ONE
 http://nomorecable.xyz:80/vmp343streams/850256/114997
 #EXTINF:-1,CA | OWN HD Ca
@@ -318,28 +266,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/114998
 http://nomorecable.xyz:80/vmp343streams/850256/114790
 #EXTINF:-1,CA | Peachtree HD CA
 http://nomorecable.xyz:80/vmp343streams/850256/114742
-#EXTINF:-1,CA | PRISE 2 QC
-http://nomorecable.xyz:80/vmp343streams/850256/114788
-#EXTINF:-1,CA | RAI Italia
-http://nomorecable.xyz:80/vmp343streams/850256/115014
-#EXTINF:-1,CA | RDI QC
-http://nomorecable.xyz:80/vmp343streams/850256/114787
-#EXTINF:-1,CA | RDS 2 QC
-http://nomorecable.xyz:80/vmp343streams/850256/114786
-#EXTINF:-1,CA | RDS Info CA-FR
-http://nomorecable.xyz:80/vmp343streams/850256/114741
-#EXTINF:-1,CA | RDS INFO QC
-http://nomorecable.xyz:80/vmp343streams/850256/114785
-#EXTINF:-1,CA | RDS QC
-http://nomorecable.xyz:80/vmp343streams/850256/114784
-#EXTINF:-1,CA | RDS. QC
-http://nomorecable.xyz:80/vmp343streams/850256/114783
-#EXTINF:-1,CA | Rogers TV Barrie
-http://nomorecable.xyz:80/vmp343streams/850256/114924
-#EXTINF:-1,CA | SERIES  QC
-http://nomorecable.xyz:80/vmp343streams/850256/114782
-#EXTINF:-1,CA | SERIES Plus
-http://nomorecable.xyz:80/vmp343streams/850256/115001
 #EXTINF:-1,CA | SILVER SCREEN CLASSICS
 http://nomorecable.xyz:80/vmp343streams/850256/115002
 #EXTINF:-1,CA | SLICE Ca
@@ -378,34 +304,12 @@ http://nomorecable.xyz:80/vmp343streams/850256/115090
 http://nomorecable.xyz:80/vmp343streams/850256/115089
 #EXTINF:-1,CA | Super Channel Vault
 http://nomorecable.xyz:80/vmp343streams/850256/115088
-#EXTINF:-1,CA | SUPER ECRAN 1
-http://nomorecable.xyz:80/vmp343streams/850256/115007
-#EXTINF:-1,CA | Super Ecran 2 (FR)
-http://nomorecable.xyz:80/vmp343streams/850256/114852
-#EXTINF:-1,CA | Super Ecran 3 (FR)
-http://nomorecable.xyz:80/vmp343streams/850256/114853
-#EXTINF:-1,CA | Super Ecran 4 (FR)
-http://nomorecable.xyz:80/vmp343streams/850256/114854
-#EXTINF:-1,CA | TELE QUEBEC QC
-http://nomorecable.xyz:80/vmp343streams/850256/114776
-#EXTINF:-1,CA | Teletoon (FR)
-http://nomorecable.xyz:80/vmp343streams/850256/114855
 #EXTINF:-1,CA | TELETOON HD
 http://nomorecable.xyz:80/vmp343streams/850256/115011
 #EXTINF:-1,CA | Teletoon Eng
-http://nomorecable.xyz:80/vmp343streams/850256/114724
-#EXTINF:-1,CA | TG24
-http://nomorecable.xyz:80/vmp343streams/850256/115092
-#EXTINF:-1,CA | THE SHOPPING CHANNEL
-http://nomorecable.xyz:80/vmp343streams/850256/115013
+http://nomorecable.xyz:80/vmp343streams/850256/1147245092
 #EXTINF:-1,CA | TLC HD CA
 http://nomorecable.xyz:80/vmp343streams/850256/114737
-#EXTINF:-1,CA | TLN
-http://nomorecable.xyz:80/vmp343streams/850256/115015
-#EXTINF:-1,CA | TMN 2 HD Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114775
-#EXTINF:-1,CA | TRAVEL ESCAPE
-http://nomorecable.xyz:80/vmp343streams/850256/114825
 #EXTINF:-1,CA | TREEHOUSE Ca
 http://nomorecable.xyz:80/vmp343streams/850256/114774
 #EXTINF:-1,CA | TREEHOUSE HD
@@ -428,22 +332,10 @@ http://nomorecable.xyz:80/vmp343streams/850256/114730
 http://nomorecable.xyz:80/vmp343streams/850256/114729
 #EXTINF:-1,CA | TURNER CLASSIC MOVIES Ca
 http://nomorecable.xyz:80/vmp343streams/850256/114773
-#EXTINF:-1,CA | TV5 QUEBEC QC
-http://nomorecable.xyz:80/vmp343streams/850256/114772
-#EXTINF:-1,CA | TVA Montreal (CFTM)
-http://nomorecable.xyz:80/vmp343streams/850256/114858
-#EXTINF:-1,CA | TVA SPORTS QC
-http://nomorecable.xyz:80/vmp343streams/850256/114771
 #EXTINF:-1,CA | TVO
 http://nomorecable.xyz:80/vmp343streams/850256/114824
 #EXTINF:-1,CA | TVO HD
 http://nomorecable.xyz:80/vmp343streams/850256/115044
-#EXTINF:-1,CA | Unis_TV_(FR)
-http://nomorecable.xyz:80/vmp343streams/850256/114861
-#EXTINF:-1,CA | VISION TV Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114770
-#EXTINF:-1,CA | VRAK TV QC
-http://nomorecable.xyz:80/vmp343streams/850256/114769
 #EXTINF:-1,CA | W_NETWORK
 http://nomorecable.xyz:80/vmp343streams/850256/114829
 #EXTINF:-1,CA | WEATHER NETWORK SD
@@ -458,12 +350,6 @@ http://nomorecable.xyz:80/vmp343streams/850256/115022
 http://nomorecable.xyz:80/vmp343streams/850256/114768
 #EXTINF:-1,CA | YES TV HD CA
 http://nomorecable.xyz:80/vmp343streams/850256/114728
-#EXTINF:-1,CA | YOOPA (FR)
-http://nomorecable.xyz:80/vmp343streams/850256/114823
-#EXTINF:-1,CA | Z TELE QC
-http://nomorecable.xyz:80/vmp343streams/850256/114767
-#EXTINF:-1,CA | ZESTE QC
-http://nomorecable.xyz:80/vmp343streams/850256/114766
 #EXTINF:-1,CA |CBC CALGARY HD
 http://nomorecable.xyz:80/vmp343streams/850256/114868
 #EXTINF:-1,CA |Discovery Velocity HD
