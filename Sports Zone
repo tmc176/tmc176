@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:-1,CA | MAVTV
-http://nomorecable.xyz:80/vmp343streams/850256/114983
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114983
 #EXTINF:-1,CA | Sports Net 360 FHD
-http://nomorecable.xyz:80/vmp343streams/850256/114862
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114862
 #EXTINF:-1,CA | Sports Net East HD
-http://nomorecable.xyz:80/vmp343streams/850256/114866
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114866
 #EXTINF:-1,CA | Sports Net One HD
-http://nomorecable.xyz:80/vmp343streams/850256/114863
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114863
 #EXTINF:-1,CA | Sports Net Ontario HD
-http://nomorecable.xyz:80/vmp343streams/850256/114865
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114865
 #EXTINF:-1,CA | Sports Net Pacific HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114739
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114739
 #EXTINF:-1,CA | Sports Net West HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114738
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114738
 #EXTINF:-1,CA | Sports Net World HD
-http://nomorecable.xyz:80/vmp343streams/850256/114864
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114864
 #EXTINF:-1,CA | TSN 1 HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114736
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114736
 #EXTINF:-1,CA | TSN 2 FHD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114735
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114735
 #EXTINF:-1,CA | TSN 2 HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114734
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114734
 #EXTINF:-1,CA | TSN 3 FHD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114733
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114733
 #EXTINF:-1,CA | TSN 3 HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114732
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114732
 #EXTINF:-1,CA | TSN 4 FHD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114731
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114731
 #EXTINF:-1,CA | TSN 5 FHD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114730
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114730
 #EXTINF:-1,CA | TSN 5 HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114729
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114729
 #EXTINF:-1,VELOCITY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
 #EXTINF:-1,FS1
