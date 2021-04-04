@@ -1,273 +1,95 @@
 #EXTM3U
 
 #EXTINF:-1,CA | A&E HD
-http://nomorecable.xyz:80/vmp343streams/850256/114873
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114873
 #EXTINF:-1,CA | ABC HD
-http://nomorecable.xyz:80/vmp343streams/850256/114875
-#EXTINF:-1,CA | ABC East HD
-http://nomorecable.xyz:80/vmp343streams/850256/114874
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114875
 #EXTINF:-1,CA | ABC Spark
-http://nomorecable.xyz:80/vmp343streams/850256/114848
-#EXTINF:-1,CA | ABC SPARK HD
-http://nomorecable.xyz:80/vmp343streams/850256/114876
-#EXTINF:-1,CA | AMC Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114820
-#EXTINF:-1,CA | AMC HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114765
-#EXTINF:-1,CA | Animal Planet
-http://nomorecable.xyz:80/vmp343streams/850256/114826
-#EXTINF:-1,CA | APTN
-http://nomorecable.xyz:80/vmp343streams/850256/114879
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114848
 #EXTINF:-1,CA | CARTOON NETWORK HD
-http://nomorecable.xyz:80/vmp343streams/850256/114885
-#EXTINF:-1,CA | CASA QC
-http://nomorecable.xyz:80/vmp343streams/850256/114815
-#EXTINF:-1,CA | CASA (FR)
-http://nomorecable.xyz:80/vmp343streams/850256/115028
-#EXTINF:-1,CA | CBC
-http://nomorecable.xyz:80/vmp343streams/850256/114886
-#EXTINF:-1,CA | CBC HD
-http://nomorecable.xyz:80/vmp343streams/850256/114892
-#EXTINF:-1,CA | CBC CALGARY HD
-http://nomorecable.xyz:80/vmp343streams/850256/114888
-#EXTINF:-1,CA | CBC Charlottetown
-http://nomorecable.xyz:80/vmp343streams/850256/114889
-#EXTINF:-1,CA | CBC Edmonton
-http://nomorecable.xyz:80/vmp343streams/850256/114838
-#EXTINF:-1,CA | CBC Fredericton
-http://nomorecable.xyz:80/vmp343streams/850256/114890
-#EXTINF:-1,CA | CBC Halifax
-http://nomorecable.xyz:80/vmp343streams/850256/114839
-#EXTINF:-1,CA | CBC HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114762
-#EXTINF:-1,CA | CBC MONTREAL
-http://nomorecable.xyz:80/vmp343streams/850256/114894
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114885
 #EXTINF:-1,CA | CBC News Network
-http://nomorecable.xyz:80/vmp343streams/850256/114842
-#EXTINF:-1,CA | CBC NEWS HD
-http://nomorecable.xyz:80/vmp343streams/850256/114896
-#EXTINF:-1,CA | CBC OTTAWA
-http://nomorecable.xyz:80/vmp343streams/850256/114840
-#EXTINF:-1,CA | CBC REGINA
-http://nomorecable.xyz:80/vmp343streams/850256/114887
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114842
 #EXTINF:-1,CA | CBC Toronto SD
-http://nomorecable.xyz:80/vmp343streams/850256/114760
-#EXTINF:-1,CA | CBC Vancouver HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114759
-#EXTINF:-1,CA | CBC VANCOUVER
-http://nomorecable.xyz:80/vmp343streams/850256/114901
-#EXTINF:-1,CA | CBC WINDSOR
-http://nomorecable.xyz:80/vmp343streams/850256/114903
-#EXTINF:-1,CA | CBC Winnipeg
-http://nomorecable.xyz:80/vmp343streams/850256/114841
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114760
 #EXTINF:-1,CA | CHCH Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114813
-#EXTINF:-1,CA | CHCH HD
-http://nomorecable.xyz:80/vmp343streams/850256/114905
-#EXTINF:-1,CA | CHCH HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114757
-#EXTINF:-1,CA | CITY CALGARY
-http://nomorecable.xyz:80/vmp343streams/850256/114906
-#EXTINF:-1,CA | CITY MONTREAL
-http://nomorecable.xyz:80/vmp343streams/850256/114907
-#EXTINF:-1,CA | CITYLGARY
-http://nomorecable.xyz:80/vmp343streams/850256/114837
-#EXTINF:-1,CA | CMT HD
-http://nomorecable.xyz:80/vmp343streams/850256/114910
-#EXTINF:-1,CA | CNN HD
-http://nomorecable.xyz:80/vmp343streams/850256/114911
-#EXTINF:-1,CA | CNN INTERNATIONAL
-http://nomorecable.xyz:80/vmp343streams/850256/114912
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114813
 #EXTINF:-1,CA | COMEDY HD
-http://nomorecable.xyz:80/vmp343streams/850256/114913
-#EXTINF:-1,CA | COOKING CHANNEL
-http://nomorecable.xyz:80/vmp343streams/850256/114843
-#EXTINF:-1,CA | COOKING CHANNEL HD
-http://nomorecable.xyz:80/vmp343streams/850256/114914
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114913
 #EXTINF:-1,CA | COTTAGE LIFE
-http://nomorecable.xyz:80/vmp343streams/850256/114832
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114832
 #EXTINF:-1,CA | CP24 Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114812
-#EXTINF:-1,CA | CP24 HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114755
-#EXTINF:-1,CA | CP24. Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114811
-#EXTINF:-1,CA | CPAC HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114754
-#EXTINF:-1,CA | CRIME & INVESTIGATION HD
-http://nomorecable.xyz:80/vmp343streams/850256/114922
-#EXTINF:-1,CA | CTV 2 VANCOUVER
-http://nomorecable.xyz:80/vmp343streams/850256/114850
-#EXTINF:-1,CA | CTV BARRIE
-http://nomorecable.xyz:80/vmp343streams/850256/114925
-#EXTINF:-1,CA | CTV Calgary
-http://nomorecable.xyz:80/vmp343streams/850256/114867
-#EXTINF:-1,CA | CTV Comedy HD  ca
-http://nomorecable.xyz:80/vmp343streams/850256/114756
-#EXTINF:-1,CA | CTV Drama
-http://nomorecable.xyz:80/vmp343streams/850256/114849
-#EXTINF:-1,CA | CTV HALIFAX
-http://nomorecable.xyz:80/vmp343streams/850256/114927
-#EXTINF:-1,CA | CTV KITCHENER HD
-http://nomorecable.xyz:80/vmp343streams/850256/114928
-#EXTINF:-1,CA | CTV LONDON
-http://nomorecable.xyz:80/vmp343streams/850256/114929
-#EXTINF:-1,CA | CTV MONTREAL Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114809
-#EXTINF:-1,CA | CTV News HD
-http://nomorecable.xyz:80/vmp343streams/850256/114723
-#EXTINF:-1,CA | CTV News Live Events 3 HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114753
-#EXTINF:-1,CA | CTV NORTH BAY
-http://nomorecable.xyz:80/vmp343streams/850256/114935
-#EXTINF:-1,CA | CTV OTTAWA
-http://nomorecable.xyz:80/vmp343streams/850256/114933
-#EXTINF:-1,CA | CTV SUDBURY
-http://nomorecable.xyz:80/vmp343streams/850256/114936
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114812
 #EXTINF:-1,CA | CTV TORONTO
-http://nomorecable.xyz:80/vmp343streams/850256/114846
-#EXTINF:-1,CA | CTV VANCOUVER
-http://nomorecable.xyz:80/vmp343streams/850256/114847
-#EXTINF:-1,CA | CTV WINNIPEG
-http://nomorecable.xyz:80/vmp343streams/850256/114937
-#EXTINF:-1,CA | CTV2 OTTAWA
-http://nomorecable.xyz:80/vmp343streams/850256/114831
-#EXTINF:-1,CA | CTV2 OTTAWA
-http://nomorecable.xyz:80/vmp343streams/850256/114851
-#EXTINF:-1,CA | DAYSTAR TV
-http://nomorecable.xyz:80/vmp343streams/850256/114944
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114846
 #EXTINF:-1,CA | DEJAVIEW
-http://nomorecable.xyz:80/vmp343streams/850256/114828
-#EXTINF:-1,CA | DEJAVIEW HD
-http://nomorecable.xyz:80/vmp343streams/850256/114946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114828
 #EXTINF:-1,CA | DISCOVERY HD
-http://nomorecable.xyz:80/vmp343streams/850256/114947
-#EXTINF:-1,CA | Discovery Science CA
-http://nomorecable.xyz:80/vmp343streams/850256/114752
-#EXTINF:-1,CA | DISCOVERY SCIENCE HD
-http://nomorecable.xyz:80/vmp343streams/850256/114948
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114947
 #EXTINF:-1,CA | DISNEY Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114808
-#EXTINF:-1,CA | Disney HD
-http://nomorecable.xyz:80/vmp343streams/850256/114751
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114808
 #EXTINF:-1,CA | DISNEY JR Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114807
-#EXTINF:-1,CA | DISNEY JR HD
-http://nomorecable.xyz:80/vmp343streams/850256/114949
-#EXTINF:-1,CA | Disney JR HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114750
-#EXTINF:-1,CA | DISNEY XD HD
-http://nomorecable.xyz:80/vmp343streams/850256/114950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114807
 #EXTINF:-1,CA | DIY NETWORK HD
-http://nomorecable.xyz:80/vmp343streams/850256/114951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114951
 #EXTINF:-1,CA | E! Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114806
-#EXTINF:-1,CA | E! HD
-http://nomorecable.xyz:80/vmp343streams/850256/114953
-#EXTINF:-1,CA | E! Entertainment HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114749
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114806
 #EXTINF:-1,CA | FAMILY
-http://nomorecable.xyz:80/vmp343streams/850256/114822
-#EXTINF:-1,CA | Fight Network HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114748
-#EXTINF:-1,CA | Food Network
-http://nomorecable.xyz:80/vmp343streams/850256/114830
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/1148220
 #EXTINF:-1,CA | Fox HD
-http://nomorecable.xyz:80/vmp343streams/850256/114956
-#EXTINF:-1,CA | FOX NEWS
-http://nomorecable.xyz:80/vmp343streams/850256/114957
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114956
 #EXTINF:-1,CA | FX FHD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114747
-#EXTINF:-1,CA | FX HD Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114805
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114747
 #EXTINF:-1,CA | FXX CA
-http://nomorecable.xyz:80/vmp343streams/850256/114746
-#EXTINF:-1,CA | GLOBAL HALIFAX
-http://nomorecable.xyz:80/vmp343streams/850256/114844
-#EXTINF:-1,CA | GLOBAL VANCOUVER
-http://nomorecable.xyz:80/vmp343streams/850256/114845
-#EXTINF:-1,CA | GLOBAL MONTREAL
-http://nomorecable.xyz:80/vmp343streams/850256/114727
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114746
 #EXTINF:-1,CA | Global Toronto
-http://nomorecable.xyz:80/vmp343streams/850256/114871
-#EXTINF:-1,CA | H2
-http://nomorecable.xyz:80/vmp343streams/850256/114968
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114871
 #EXTINF:-1,CA | HGTV
-http://nomorecable.xyz:80/vmp343streams/850256/114870
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114870
 #EXTINF:-1,CA | History Channel
-http://nomorecable.xyz:80/vmp343streams/850256/114834
-#EXTINF:-1,CA | HISTORY HD
-http://nomorecable.xyz:80/vmp343streams/850256/114972975
-#EXTINF:-1,CA | INVESTIGATION DISCOVERY HD
-http://nomorecable.xyz:80/vmp343streams/850256/114976
-#EXTINF:-1,CA | KNOWLEDGE KIDS
-http://nomorecable.xyz:80/vmp343streams/850256/114978
-#EXTINF:-1,CA | KTLA
-http://nomorecable.xyz:80/vmp343streams/850256/114977
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114834
 #EXTINF:-1,CA | MTV
-http://nomorecable.xyz:80/vmp343streams/850256/114835
-#EXTINF:-1,CA | MTV 2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/114988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114835
 #EXTINF:-1,CA | MUCH
-http://nomorecable.xyz:80/vmp343streams/850256/114989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114989
 #EXTINF:-1,CA | NAT GEO WILD Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114794
-#EXTINF:-1,CA | NAT GEO WILD HD
-http://nomorecable.xyz:80/vmp343streams/850256/114991
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114794
 #EXTINF:-1,CA | NATIONAL GEOGRAPHIC Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114793
-#EXTINF:-1,CA | NAT GEO HD
-http://nomorecable.xyz:80/vmp343streams/850256/114990
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114793
 #EXTINF:-1,CA | NICKTOONS HD
-http://nomorecable.xyz:80/vmp343streams/850256/114992
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114992
 #EXTINF:-1,CA | NTV News HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114743
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114743
 #EXTINF:-1,CA | OLN Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114792
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114792
 #EXTINF:-1,CA | ONE
-http://nomorecable.xyz:80/vmp343streams/850256/114997
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114997
 #EXTINF:-1,CA | OWN HD Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114789
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114789
 #EXTINF:-1,CA | PARAMOUNT NETWORK HD
-http://nomorecable.xyz:80/vmp343streams/850256/114998
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114998
 #EXTINF:-1,CA | PEACHTREE Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114790
-#EXTINF:-1,CA | Peachtree HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114742
-#EXTINF:-1,CA | SILVER SCREEN CLASSICS
-http://nomorecable.xyz:80/vmp343streams/850256/115002
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114790
 #EXTINF:-1,CA | SLICE Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114781
-#EXTINF:-1,CA | Slice HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114740
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114781
 #EXTINF:-1,CA | SMITHSONIAN CHANNEL HD
-http://nomorecable.xyz:80/vmp343streams/850256/115004
-#EXTINF:-1,CA | CTV SCI-FI
-http://nomorecable.xyz:80/vmp343streams/850256/114780
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/115004
 #EXTINF:-1,CA | SPIKE TV / PARAMOUNT CANADA
-http://nomorecable.xyz:80/vmp343streams/850256/115005
-#EXTINF:-1,CA | TELETOON HD
-http://nomorecable.xyz:80/vmp343streams/850256/115011
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/115005
 #EXTINF:-1,CA | Teletoon Eng
-http://nomorecable.xyz:80/vmp343streams/850256/1147245092
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/1147245092
 #EXTINF:-1,CA | TLC HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114737
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114737
 #EXTINF:-1,CA | TREEHOUSE Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114774
-#EXTINF:-1,CA | TREEHOUSE HD
-http://nomorecable.xyz:80/vmp343streams/850256/115017
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114774
 #EXTINF:-1,CA | W_NETWORK
-http://nomorecable.xyz:80/vmp343streams/850256/114829
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114829
 #EXTINF:-1,CA | WEATHER NETWORK SD
-http://nomorecable.xyz:80/vmp343streams/850256/115019
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/115019
 #EXTINF:-1,CA | YES Ca
-http://nomorecable.xyz:80/vmp343streams/850256/114768
-#EXTINF:-1,CA | YES TV HD CA
-http://nomorecable.xyz:80/vmp343streams/850256/114728
-#EXTINF:-1,CA |CBC CALGARY HD
-http://nomorecable.xyz:80/vmp343streams/850256/114868
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114768
 #EXTINF:-1,CA |Discovery Velocity HD
-http://nomorecable.xyz:80/vmp343streams/850256/114869
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114869
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
