@@ -14,7 +14,7 @@ http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76025
 #EXTINF:-1,CA | CITY MONTREAL
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76026
 #EXTINF:-1,CA | CITY TORONTO
-http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76027
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76027
 #EXTINF:-1,CA | CITY VANCOUVER
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76028
 #EXTINF:-1,CA | CNN
@@ -26,7 +26,7 @@ http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76031
 #EXTINF:-1,CA | COTTAGE LIFE
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76032
 #EXTINF:-1,CA | CP24 (Backup)
-http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76033
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76033
 #EXTINF:-1,CA | CRIME INVESTIGATION
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76034
 #EXTINF:-1,CA | CTV 2 VANCOUVER
@@ -42,7 +42,7 @@ http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76039
 #EXTINF:-1,CA | CTV OTTAWA
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76040
 #EXTINF:-1,CA | CTV TORONTO
-http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76041
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76041
 #EXTINF:-1,CA | CTV VANCOUVER
 http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76042
 #EXTINF:-1,CA | CTV2 OTTAWA
