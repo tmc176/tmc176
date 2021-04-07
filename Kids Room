@@ -1,12 +1,4 @@
 #EXTM3U url-tvg="www.webgrabplus.com" tvg-shift=0 m3uautoload=1
-#EXTINF:-1,USA A&E UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/22040
-#EXTINF:-1,USA ABC UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/22041
-#EXTINF:-1,USA AMC UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://supersonictv.live:25461/903310/034806/22042
-#EXTINF:-1,USA: ADULT SWIM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://supersonictv.live:25461/903310/034806/22043
 #EXTINF:-1,|CA| CORONA VIRUS INFO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81425
 #EXTINF:-1,|CA| A&E
