@@ -1,117 +1,110 @@
 #EXTM3U
-#EXTINF:-1,|CA| CORONA VIRUS INFO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81425
-#EXTINF:-1,|CA| A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81424
-#EXTINF:-1,|CA| ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81423
-#EXTINF:-1,|CA| AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81418
-#EXTINF:-1,|CA| APTN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81417
-#EXTINF:-1,|CA| BRAVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81411
-#EXTINF:-1,|CA| CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81405
-#EXTINF:-1,|CA| CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81403
-#EXTINF:-1,|CA| CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81401
-#EXTINF:-1,|CA| CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81398
-#EXTINF:-1,|CA| CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81394
-#EXTINF:-1,|CA| DEJAVIEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81388
-#EXTINF:-1,|CA| DIY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81387
-#EXTINF:-1,|CA| FOX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81378
-#EXTINF:-1,|CA| GLOBAL HALIFAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81373
-#EXTINF:-1,|CA| GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81372
-#EXTINF:-1,|CA| DISCOVERY ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81359
-#EXTINF:-1,|CA| MAV TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81353
-#EXTINF:-1,|CA| NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81345
-#EXTINF:-1,|CA| PEACH TREE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81333
-#EXTINF:-1,|CA| SLICE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81323
-#EXTINF:-1,|CA| SPACE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81322
-#EXTINF:-1,|CA| SPIKE TV / PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81321
-#EXTINF:-1,|CA| THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81308
-#EXTINF:-1,|CA| TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81307
-#EXTINF:-1,|CA| TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81302
-#EXTINF:-1,|CA| TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81301
-#EXTINF:-1,|CA| TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81300
-#EXTINF:-1,|CA| TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81299
-#EXTINF:-1,|CA| TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81298
-#EXTINF:-1,|CA| WFN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81287
-#EXTINF:-1,|CA| WILD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81285
-#EXTINF:-1,|CA| ABC SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81277
-#EXTINF:-1,|CA| CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81276
-#EXTINF:-1,|CA| DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81275
-#EXTINF:-1,|CA| DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81273
-#EXTINF:-1,|CA| FAMILY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81272
-#EXTINF:-1,|CA| TELE TOON EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81271
-#EXTINF:-1,|CA| TREEHOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81269
-#EXTINF:-1,|CA| YTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81268
-#EXTINF:-1,|CA| SPORTSNET 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81251
-#EXTINF:-1,|CA| SPORTSNET EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81250
-#EXTINF:-1,|CA| SPORTSNET ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81249
-#EXTINF:-1,|CA| SPORTSNET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81248
-#EXTINF:-1,|CA| SPORTSNET PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81247
-#EXTINF:-1,|CA| SPORTSNET WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81246
-#EXTINF:-1,|CA| DOCUMENTARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81231
-#EXTINF:-1,|CA| HISTORY
-http://rv.flysat.live:80/307200111632/307200111632/81229
-#EXTINF:-1,|CA| CTV 2 VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81226
-#EXTINF:-1,|CA| CTV HALIFAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81225
-#EXTINF:-1,|CA| CTV MONTREAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81224
-#EXTINF:-1,|CA| CTV OTTAWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81223
-#EXTINF:-1,|CA| CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81222
-#EXTINF:-1,|CA| CTV VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81221
-#EXTINF:-1,|CA| CTV2 OTTAWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81220
-#EXTINF:-1,|CA| CTV NEWS NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.flysat.live:80/307200111632/307200111632/81219
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nomorecable.xyz:80/vmp343streams/850256/114869
+#EXTINF:-1,CA | CARTOON NETWORK
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76020
+#EXTINF:-1,CA | CBCLGARY
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76021
+#EXTINF:-1,CA | CBC OTTAWA
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76022
+#EXTINF:-1,CA | CBC TORONTO
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76023
+#EXTINF:-1,CA | CBC VANCOUVER
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76024
+#EXTINF:-1,CA | CITYLGARY
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76025
+#EXTINF:-1,CA | CITY MONTREAL
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76026
+#EXTINF:-1,CA | CITY TORONTO
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76027
+#EXTINF:-1,CA | CITY VANCOUVER
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76028
+#EXTINF:-1,CA | CNN
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76029
+#EXTINF:-1,CA | CNN INTERNATIONAL
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76030
+#EXTINF:-1,CA | COOKING CHANNEL
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76031
+#EXTINF:-1,CA | COTTAGE LIFE
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76032
+#EXTINF:-1,CA | CP24 (Backup)
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76033
+#EXTINF:-1,CA | CRIME INVESTIGATION
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76034
+#EXTINF:-1,CA | CTV 2 VANCOUVER
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76035
+#EXTINF:-1,CA | CTVLGARY
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76036
+#EXTINF:-1,CA | CTV HALIFAX
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76037
+#EXTINF:-1,CA | CTV MONTREAL
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76038
+#EXTINF:-1,CA | CTV NEWS NETWORK
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76039
+#EXTINF:-1,CA | CTV OTTAWA
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76040
+#EXTINF:-1,CA | CTV TORONTO
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76041
+#EXTINF:-1,CA | CTV VANCOUVER
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76042
+#EXTINF:-1,CA | CTV2 OTTAWA
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76043
+#EXTINF:-1,CA | DAYSTAR TV
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76044
+#EXTINF:-1,CA | DEJAVIEW
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76045
+#EXTINF:-1,CA | DISCOVERY SCIENCE
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76046
+#EXTINF:-1,CA | FOX NEWS
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76047
+#EXTINF:-1,CA | GLOBAL HALIFAX
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76048
+#EXTINF:-1,CA | GLOBAL TORONTO
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76049
+#EXTINF:-1,CA | GLOBAL VANCOUVER
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76050
+#EXTINF:-1,CA | GSN
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76051
+#EXTINF:-1,CA | GUSTO
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76052
+#EXTINF:-1,CA | H2
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76053
+#EXTINF:-1,CA | ID
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76054
+#EXTINF:-1,CA | KNOWLEDGE KIDS
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76055
+#EXTINF:-1,CA | MAVTV
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76056
+#EXTINF:-1,CA | MAX
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76057
+#EXTINF:-1,CA | MEDIASET ITALIA
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76058
+#EXTINF:-1,CA | MIRACLE
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76059
+#EXTINF:-1,CA | MTV 2
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76060
+#EXTINF:-1,CA | NTV
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76061
+#EXTINF:-1,CA | ONE
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76062
+#EXTINF:-1,CA | PRISE
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76063
+#EXTINF:-1,CA | SERIES Plus
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76064
+#EXTINF:-1,CA | SHOPPING
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76065
+#EXTINF:-1,CA | SILVER SCREEN CLASSICS
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76066
+#EXTINF:-1,CA | SPIKE TV / PARAMOUNT
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76067
+#EXTINF:-1,CA | TRAVEL ESCAPE
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76068
+#EXTINF:-1,CA | TVO
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76069
+#EXTINF:-1,CA | WFN
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76070
+#EXTINF:-1,CA | WGN
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76071
+#EXTINF:-1,CA | Wild TV
+http://ultraplay.org:80/Abelkalive/8S4k45bB3r/76072
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Breakfast Television Calgary" tvg-logo="http://www.hudescommunications.com/wp-content/uploads/BTLogo.png" group-title="Canada",Breakfast Television Calgary
