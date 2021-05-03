@@ -1,11 +1,102 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/m5bfz77vlm3t9is/download.jpg?dl=1" group-title="RACING",Food City Dirt Race
-https://www.dropbox.com/s/g0y7t0rc1qmbfr5/Food%20City%20Dirt%20Race%20from%20Bristol%20Motor%20Speedway%20%20%20NASCAR%20Cup%20Series%20Full%20Race%20Replay.mkv?dl=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/k3zahravhx61v5p/dirt.png?dl=1" group-title="RACING",Lucas Oil Dirt Late Models
-https://www.dropbox.com/s/hjqbd755735qsah/Lucas%20Oil%20Dirt%20Late%20Models%20%40%20411%20Motor%20Speedway%20June%2026%2C%202020.mkv?dl=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/y63ja6eztpn1o41/1919267-lg.jpg?dl=1" group-title="RACING",Lucas Oil Dirt Late Models
-https://www.dropbox.com/s/ieadzyrx37wdo8v/Super%20Late%20Model%20Feature%20-%20Bristol%20Dirt%20Nationals%20-%203-20-2021.mkv=1
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/y63ja6eztpn1o41/1919267-lg.jpg?dl=1" group-title="Books",FROGGY FRIDAY!
-https://www.dropbox.com/s/388h9dsdtcsz7gp/story.mp4?dl=1
-#EXTINF:-1 group-title="MOVIES",FROGGY FRIDAY!
-https://www.dropbox.com/s/si67lemz995zlh4/Marmora%20%26%20Lake%20Public%20Library%20on%20Facebook%20Watch.mp4?dl=1
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="Movies",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" tvg-url="" group-title="Movies",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movies",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg" tvg-url="" group-title="Movies",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="80sLoop.us" tvg-name="80s Loop" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jxY0QSw.png" tvg-url="" group-title="Music",80s Loop
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="90sLoop.us" tvg-name="90s Loop" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jxY0QSw.png" tvg-url="" group-title="Music",90s Loop
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" tvg-url="" group-title="",Maverick Black Cinema
+https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickMovies.us" tvg-name="Maverick Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Zk5wP5K.png" tvg-url="" group-title="Movies",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MaverickMoviesXUMO.us" tvg-name="Maverick Movies (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iK3OHVr.png" tvg-url="" group-title="",Maverick Movies (XUMO)
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmrise Free Movies" tvg-name="Filmrise Free Movies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dca5effb-f654-41c7-8f52-ae71b86b6511-small3x1_stirr_1219_epg_filmrisefreemovies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Filmrise Free Movies
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-name="Movie Kingdom" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-url="" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="MovieMixSTIRR.us" tvg-name="Movie Mix (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7dfc8d97-0c37-40f0-b251-5eacf509d891-small3x1_stirr_1219_epg_moviemix_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" tvg-url="" group-title="Movies",Movie Mix (STIRR)
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 tvg-id="MOVIESPHERE.us" tvg-name="MOVIE SPHERE" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU" tvg-url="" group-title="",MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 tvg-id="MovieMix.us" tvg-name="MovieMix" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qcgXbuC.png" tvg-url="" group-title="",MovieMix
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MoviesKingdom.us" tvg-name="Movies Kingdom" tvg-country="US;UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-id="MoviesphereFree.us" tvg-name="Moviesphere Free" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" tvg-url="" group-title="Movies",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmHubXUMO.us" tvg-name="Film Hub (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nZEaSAb.png" tvg-url="" group-title="",Film Hub (XUMO)
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmriseCrime.us" tvg-name="Filmrise Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BDtkjpS.png" tvg-url="" group-title="Movies",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseCrime.us" tvg-name="Filmrise Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BDtkjpS.png" tvg-url="" group-title="Movies",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseFamily.us" tvg-name="Filmrise Family" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ypQRBrH.png" tvg-url="" group-title="Family",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-id="FilmriseFamilyXUMO.us" tvg-name="Filmrise Family (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" tvg-url="" group-title="",Filmrise Family (XUMO)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseForensicFilesXUMO.us" tvg-name="FilmRise Forensic Files (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fX1PNxl.png" tvg-url="" group-title="",FilmRise Forensic Files (XUMO)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseForensicFiles247XUMO.us" tvg-name="FilmRise Forensic Files 24/7 (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XuWEujn.png" tvg-url="" group-title="",FilmRise Forensic Files 24/7 (XUMO)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FilmriseFreeMoviesSTIRR.us" tvg-name="Filmrise Free Movies (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dca5effb-f654-41c7-8f52-ae71b86b6511-small3x1_stirr_1219_epg_filmrisefreemovies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" tvg-url="" group-title="",Filmrise Free Movies (STIRR)
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1 tvg-id="FilmrisefreemoviesXUMO.us" tvg-name="Filmrise free movies (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UCmO5OK.jpg" tvg-url="" group-title="",Filmrise free movies (XUMO)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFreeMoviesXUMO.us" tvg-name="FilmRise Free Movies (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1fSHgSs.jpg" tvg-url="" group-title="",FilmRise Free Movies (XUMO)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmriseMovies.us" tvg-name="Filmrise Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQZdGc0.png" tvg-url="" group-title="Movies",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-id="FilmriseMoviesXUMO.us" tvg-name="Filmrise Movies (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XuWEujn.png" tvg-url="" group-title="",Filmrise Movies (XUMO)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseMysteriesXUMO.us" tvg-name="FilmRise Mysteries (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Tf2AEadwL.png" tvg-url="" group-title="",FilmRise Mysteries (XUMO)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseMysteries247XUMO.us" tvg-name="FilmRise Mysteries 24/7 (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XuWEujn.png" tvg-url="" group-title="",FilmRise Mysteries 24/7 (XUMO)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseSciFiXUMO.us" tvg-name="FilmRise Sci-Fi (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XuWEujn.png" tvg-url="" group-title="",FilmRise Sci-Fi (XUMO)
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FilmRiseSciFiXUMO.us" tvg-name="FilmRise Sci-Fi (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815Fp3E0LcL.png" tvg-url="" group-title="",FilmRise Sci-Fi (XUMO)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmriseTrueCrimeXUMO.us" tvg-name="Filmrise True Crime (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8h66d9i.png" tvg-url="" group-title="",Filmrise True Crime (XUMO)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseWesternXUMO.us" tvg-name="FilmRise Western (XUMO)" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91HDGWEZbzL.png" tvg-url="" group-title="",FilmRise Western (XUMO)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Redbox1Spotlight.us" tvg-name="Redbox 1: Spotlight" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" tvg-url="" group-title="",Redbox 1: Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Redbox3Rush.us" tvg-name="Redbox 3: Rush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pA6g3iH.jpg" tvg-url="" group-title="",Redbox 3: Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="STARMOVIEMIHDSTIRR.us" tvg-name="STAR MOVIEMI HD (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" tvg-url="" group-title="",STAR MOVIEMI HD (STIRR)
+https://sonar.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-name="STIRR Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Movies (720p)
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRWesterns.us" tvg-name="STIRR Westerns" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Westerns (720p)
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",The Film Detective (720p)
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-name="TVS Drive In Movie" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" tvg-url="" group-title="Movies",TVS Drive In Movie (360p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-name="TVS Hollywood History" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" tvg-url="" group-title="",TVS Hollywood History
+http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="TVSHorrorNetwork.us" tvg-name="TVS Horror Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uNQeGHw.jpg" tvg-url="" group-title="Hobby",TVS Horror Network (480p)
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 tvg-id="TVSInspirationalNetwork.us" tvg-name="TVS Inspirational Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" tvg-url="" group-title="",TVS Inspirational Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSMainstreet.us" tvg-name="TVS Mainstreet" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/37OGfa3.jpg" tvg-url="" group-title="Classic",TVS Mainstreet (264p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-name="TVS Western Movie" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UsgbmfF.png" tvg-url="" group-title="Classic",TVS Western Movie (360p)
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+
+
+
+
+
+
+
+
+
