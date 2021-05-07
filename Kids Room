@@ -1,8 +1,5 @@
 #EXTM3U 
-#EXTINF:-1,US: Hallmark Movies&Mysteries HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6415
-#EXTINF:-1,US: HBO Family HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6397
+
 #EXTINF:-1,US: Showtime Showcase
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6390
 #EXTINF:-1,US: Showtime Extreme HD
@@ -13,16 +10,10 @@ http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6382
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6378
 #EXTINF:-1,US: LIFETIME HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6370
-#EXTINF:-1,US: HBO ZONE
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6349
-#EXTINF:-1,US: HBO HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6350
 #EXTINF:-1,US: Starz Encore East
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6339
 #EXTINF:-1,US: Starz Encore HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6340
-#EXTINF:-1,US: Cinemax East
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6341
 #EXTINF:-1,US: Cinemax ActionMax
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6342
 #EXTINF:-1,US: HBO 2 COMEDY
@@ -33,16 +24,12 @@ http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6336
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6322
 #EXTINF:-1,US: GRIT TV MOVIES
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6323
-#EXTINF:-1,US: Starz Edge HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6324
 #EXTINF:-1,US: Starz East
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6325
 #EXTINF:-1,US: Starz Comedy
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6326
 #EXTINF:-1,US: Showtime 2 HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6328
-#EXTINF:-1,US: Showtime HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6329
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="Movies",Hallmark Channel
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" tvg-url="" group-title="Movies",Hallmark Drama
