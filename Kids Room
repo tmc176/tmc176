@@ -1,44 +1,4 @@
 #EXTM3U 
-#EXTINF:-1,Sky Cinema Premieren FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66122
-#EXTINF:-1,Sky Cinema Premiere 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/93843
-#EXTINF:-1,Sky Cinema Premieren 24 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66119
-#EXTINF:-1,Sky Cinema Premieren +24 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/136553
-#EXTINF:-1,Sky Cinema Family FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66121
-#EXTINF:-1,Sky Cinema Family 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/93845
-#EXTINF:-1,Sky Cinema Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66120
-#EXTINF:-1,Sky Cinema Action 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/93844
-#EXTINF:-1,Sky Cinema Thriller FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66118
-#EXTINF:-1,Sky Cinema Thriller 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/136555
-#EXTINF:-1,Sky Cinema Best Of FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66123
-#EXTINF:-1, Sky Cinema Best Of 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/136554
-#EXTINF:-1,Sky Cinema Special FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66124
-#EXTINF:-1,Sky Cinema Special 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/136556
-#EXTINF:-1,Sky Cinema Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/95700
-#EXTINF:-1,Sky Cinema Classic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/95699
-#EXTINF:-1,Universal TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66134
-#EXTINF:-1,Kinowelt TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66135
-#EXTINF:-1,TNT Film FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66129
-#EXTINF:-1,TNT Comedy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://myserverdns.ddns.net:29500/lazaro/lazaro/66128
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="Movies",Hallmark Channel
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" tvg-url="" group-title="Movies",Hallmark Drama
