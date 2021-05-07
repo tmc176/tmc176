@@ -1,5 +1,65 @@
 
 #EXTM3U url-tvg="www.webgrabplus.com" tvg-shift=0 m3uautoload=1
+#EXTINF:-1,CA CBC Halifax
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://152.89.62.111:8080/kyle123/kyle123/222811
+#EXTINF:-1,CA CBC OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://152.89.62.111:8080/kyle123/kyle123/222820
+#EXTINF:-1,CA CBC TORONTO
+http://152.89.62.111:8080/kyle123/kyle123/222825
+#EXTINF:-1,CA CBC Calgary
+http://152.89.62.111:8080/kyle123/kyle123/222806
+#EXTINF:-1,CA CBC VANCOUVER
+http://152.89.62.111:8080/kyle123/kyle123/222828
+#EXTINF:-1,CA Citytv Toronto
+http://152.89.62.111:8080/kyle123/kyle123/222846
+#EXTINF:-1,CA CTV HALIFAX (B)
+http://152.89.62.111:8080/kyle123/kyle123/222880
+#EXTINF:-1,CA CTV (Ottawa)
+http://152.89.62.111:8080/kyle123/kyle123/222865
+#EXTINF:-1,CA CTV2 OTTAWA
+http://152.89.62.111:8080/kyle123/kyle123/222902
+#EXTINF:-1,CA CTV TORONTO
+http://152.89.62.111:8080/kyle123/kyle123/222896
+#EXTINF:-1,CA CTV 2 TORONTO (B)
+http://152.89.62.111:8080/kyle123/kyle123/222872
+#EXTINF:-1,CA CTV CALGARY
+http://152.89.62.111:8080/kyle123/kyle123/222875
+#EXTINF:-1,CA CTV VANCOUVER
+http://152.89.62.111:8080/kyle123/kyle123/222898
+#EXTINF:-1,CA CTV COMEDY
+http://152.89.62.111:8080/kyle123/kyle123/222877
+#EXTINF:-1,CA CTV COMEDY
+http://152.89.62.111:8080/kyle123/kyle123/222878
+#EXTINF:-1,CA CTV Drama Channel
+http://152.89.62.111:8080/kyle123/kyle123/222879
+#EXTINF:-1,CA GLOBAL HALIFAX (B)
+http://152.89.62.111:8080/kyle123/kyle123/222947
+#EXTINF:-1,CA GLOBAL KINGSTON (B)
+http://152.89.62.111:8080/kyle123/kyle123/222948
+#EXTINF:-1,CA Global Peterborough (B)
+http://152.89.62.111:8080/kyle123/kyle123/222953
+#EXTINF:-1,CA GLOBAL TORONTO
+http://152.89.62.111:8080/kyle123/kyle123/222954
+#EXTINF:-1,CA Global Toronto
+http://152.89.62.111:8080/kyle123/kyle123/222955
+#EXTINF:-1,CA Global Calgary
+http://152.89.62.111:8080/kyle123/kyle123/222944
+#EXTINF:-1,CA GLOBAL VANCOUVER (B)
+http://152.89.62.111:8080/kyle123/kyle123/222956
+#EXTINF:-1,CA CP24
+http://152.89.62.111:8080/kyle123/kyle123/222853
+#EXTINF:-1,CA CBC News Network
+http://152.89.62.111:8080/kyle123/kyle123/222818
+#EXTINF:-1,CA CTV NEWS NETWORK
+http://152.89.62.111:8080/kyle123/kyle123/222888
+#EXTINF:-1,CA Global National
+http://152.89.62.111:8080/kyle123/kyle123/222951
+#EXTINF:-1,CA CHCH
+http://152.89.62.111:8080/kyle123/kyle123/222841
+#EXTINF:-1,CA HGTV
+http://152.89.62.111:8080/kyle123/kyle123/222961
+
+
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
 #EXTINF:-1 tvg-id="CityTVToronto.ca" tvg-name="CityTV Toronto" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="",CityTV Toronto
