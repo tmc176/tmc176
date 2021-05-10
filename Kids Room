@@ -1,35 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1,US: Showtime Showcase
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6390
-#EXTINF:-1,US: Showtime Extreme HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6391
-#EXTINF:-1,US: Cinemax Moremax
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6382
-#EXTINF:-1,US: Cinemax 5 Star Max
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6378
-#EXTINF:-1,US: LIFETIME HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6370
-#EXTINF:-1,US: Starz Encore East
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6339
-#EXTINF:-1,US: Starz Encore HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6340
-#EXTINF:-1,US: Cinemax ActionMax
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6342
-#EXTINF:-1,US: HBO 2 COMEDY
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6335
-#EXTINF:-1,US: HALLMARK HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6336
-#EXTINF:-1,US: Starz West
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6322
-#EXTINF:-1,US: GRIT TV MOVIES
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6323
-#EXTINF:-1,US: Starz East
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6325
-#EXTINF:-1,US: Starz Comedy
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6326
-#EXTINF:-1,US: Showtime 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6328
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="Movies",Hallmark Channel
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" tvg-url="" group-title="Movies",Hallmark Drama
