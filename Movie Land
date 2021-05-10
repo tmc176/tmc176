@@ -1,15 +1,5 @@
 
 #EXTM3U url-tvg="www.webgrabplus.com" tvg-shift=0 m3uautoload=1
-#EXTINF:-1,CA| GAMEPLUS
-http://147.135.130.72:8011/100200300/100200300/83215
-#EXTINF:-1,CA| GLOBAL  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://147.135.130.72:8011/100200300/100200300/83214
-#EXTINF:-1,CA| GLOBAL TORONTO | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://147.135.130.72:8011/100200300/100200300/83213
-#EXTINF:-1,CA| GLOBAL VANCOUVER | SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://147.135.130.72:8011/100200300/100200300/83212
-#EXTINF:-1,CA| HBO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://147.135.130.72:8011/100200300/100200300/83211
 
 
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
