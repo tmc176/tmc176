@@ -1,5 +1,12 @@
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 tvg-id="ONE" tvg-name="MT - ONE TV (B)" tvg-logo="http://pic.qw1234.org:80/logos/tn_onetv.png" group-title="TV | MALTESE",MT - ONE TV (B)
+http://bb1.qat5.ru:80/cKImarFPpT/0ygrPm355A/6377
+#EXTINF:-1 tvg-id="" tvg-name="MT - ONE TV +1" tvg-logo="http://pic.qw1234.org:80/logos/tn_onetv.png" group-title="TV | MALTESE",MT - ONE TV +1
+http://bb1.qat5.ru:80/cKImarFPpT/0ygrPm355A/8461
+#EXTINF:-1 tvg-id="NET" tvg-name="MT - NET TV UHD" tvg-logo="http://pic.qw1234.org:80/logos/tn_nettv.png" group-title="TV | MALTESE",MT - NET TV UHD
+http://bb1.qat5.ru:80/cKImarFPpT/0ygrPm355A/155632
+#EXTINF:-1 tvg-id="NET" tvg-name="MT - NET TV HD" tvg-logo="http://pic.qw1234.org:80/logos/tn_nettv.png" group-title="TV | MALTESE",MT - NET TV HD
 #EXTINF:-1 tvg-id="" tvg-name="MT - NET TV +1" tvg-logo="http://pic.qw1234.org:80/logos/tn_nettv.png" group-title="TV | MALTESE",MT - NET TV +1
 #EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" tvg-url="" group-title="Entertainment",A&E (Best of) (1080p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
