@@ -1,5 +1,113 @@
 
 #EXTM3U url-tvg="www.webgrabplus.com" tvg-shift=0 m3uautoload=1
+#EXTINF:-1 ,BABY TV (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151078
+#EXTINF:-1 ,CHRGD HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151080
+#EXTINF:-1 ,FAMILY EAST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151084
+#EXTINF:-1 ,Family JR HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151085
+#EXTINF:-1 ,FAMILY West (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151086
+#EXTINF:-1 ,Treehouse HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151091
+#EXTINF:-1 ,YTV EAST HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151092
+#EXTINF:-1 ,A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/15110
+#EXTINF:-1 ,ABC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151102
+#EXTINF:-1 ,ABC SPARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151103
+#EXTINF:-1 ,ABC WEST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151104
+#EXTINF:-1 ,ADULT SWIM HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151105
+#EXTINF:-1 ,AMC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151106
+#EXTINF:-1 ,BET HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151109
+#EXTINF:-1 ,CBC CALGARY
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151114
+#EXTINF:-1 ,CBC HALIFAX
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151118
+#EXTINF:-1 ,CBC TORONTO
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151123
+#EXTINF:-1 ,CBC VANCOUVER
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151124
+#EXTINF:-1 ,CBS EAST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151128
+#EXTINF:-1 ,CBS WEST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151129
+#EXTINF:-1 ,CHCH HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151130
+#EXTINF:-1 ,CITY CALGARY
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151131
+#EXTINF:-1 ,CITY TORONTO
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151133
+#EXTINF:-1 ,CTV COMEDY EAST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151147
+#EXTINF:-1 ,CTV Comedy West (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151148
+#EXTINF:-1 ,CTV DRAMA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151149
+#EXTINF:-1 ,Leafs Nation Network HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151333
+#EXTINF:-1 ,MAVTV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151334
+#EXTINF:-1 ,MLB Network HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151335
+#EXTINF:-1 ,Silver Screen Classics
+http://gooserace.xyz:2052/donna/donna123/1549617
+#EXTINF:-1 ,SLICE
+http://gooserace.xyz:2052/donna/donna123/1549123
+#EXTINF:-1 ,Smithsonian
+http://gooserace.xyz:2052/donna/donna123/1549663
+#EXTINF:-1 ,Starz 1
+http://gooserace.xyz:2052/donna/donna123/1549718
+#EXTINF:-1 ,Starz 2
+http://gooserace.xyz:2052/donna/donna123/1549719
+#EXTINF:-1 ,Super Channel Fuse
+http://gooserace.xyz:2052/donna/donna123/1549728
+#EXTINF:-1 ,Super Channel Heart & Home
+http://gooserace.xyz:2052/donna/donna123/1549729
+#EXTINF:-1 ,Super Channel Vault
+http://gooserace.xyz:2052/donna/donna123/1549730
+#EXTINF:-1 ,Teletoon West
+http://gooserace.xyz:2052/donna/donna123/2473651
+#EXTINF:-1 ,The Fight Network
+http://gooserace.xyz:2052/donna/donna123/1549422
+#EXTINF:-1 ,The Weather Network
+http://gooserace.xyz:2052/donna/donna123/2473643
+#EXTINF:-1 ,The Weather Network 2
+http://gooserace.xyz:2052/donna/donna123/2473642
+#EXTINF:-1 ,TLC
+http://gooserace.xyz:2052/donna/donna123/1549188
+#EXTINF:-1 ,TSN 1
+http://gooserace.xyz:2052/donna/donna123/1549695
+#EXTINF:-1 ,TSN 2
+http://gooserace.xyz:2052/donna/donna123/1549696
+#EXTINF:-1 ,TSN 3
+http://gooserace.xyz:2052/donna/donna123/1549697
+#EXTINF:-1 ,TSN 4
+http://gooserace.xyz:2052/donna/donna123/1549698
+#EXTINF:-1 ,TSN 5
+http://gooserace.xyz:2052/donna/donna123/1549699
+#EXTINF:-1 ,TSN5 Blackout 2
+http://gooserace.xyz:2052/donna/donna123/1549421
+#EXTINF:-1 ,Turner Classic Movies
+http://gooserace.xyz:2052/donna/donna123/1549110
+#EXTINF:-1 ,Weather Network
+http://gooserace.xyz:2052/donna/donna123/1549104
+#EXTINF:-1 ,Wild TV
+http://gooserace.xyz:2052/donna/donna123/1549650
+#EXTINF:-1 ,WWE Network
+http://gooserace.xyz:2052/donna/donna123/1549623
+#EXTINF:-1 ,YES TV
+http://gooserace.xyz:2052/donna/donna123/1549094
+#EXTINF:-1 ,YTV West
+http://gooserace.xyz:2052/donna/donna123/2473623
 
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
