@@ -1,4 +1,56 @@
 #EXTM3U
+#EXTINF:-1,UK: S-K-Y MOVIES PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3786
+#EXTINF:-1,UK: S-K-Y MOVIES ACTION & ADVENTURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3778
+#EXTINF:-1,UK: S-K-Y MOVIES THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3779
+#EXTINF:-1,UK: S-K-Y MOVIES COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3784
+#EXTINF:-1,UK: S-K-Y MOVIES SCI-FI & HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3782
+#EXTINF:-1,UK: S-K-Y MOVIES DRAMA & ROMANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3775
+#EXTINF:-1,UK: S-K-Y MOVIES DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3780
+#EXTINF:-1,UK: S-K-Y MOVIES FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3785
+#EXTINF:-1,UK: SKY MOVIES MODERN-GEANT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/56574
+#EXTINF:-1,UK: SKY MOVIES SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/56577
+#EXTINF:-1,UK: SKY MOVIES SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/56578
+#EXTINF:-1,UK: S-K-Y SPORTS MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3752
+#EXTINF:-1,UK: S-K-Y SPORTS MAIN EVENT *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/34570
+#EXTINF:-1,UK: S-K-Y SPORTS PREMIER LEAGUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3754
+#EXTINF:-1,UK: S-K-Y SPORTS PREMIER LEAGUE *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/7342
+#EXTINF:-1,UK: S-K-Y SPORTS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3755
+#EXTINF:-1,UK: S-K-Y SPORTS ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/6185
+#EXTINF:-1,UK: S-K-Y SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3751
+#EXTINF:-1,UK: S-K-Y SPORTS MIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/6201
+#EXTINF:-1,UK: S-K-Y SPORTS CRICKET *SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/6186
+#EXTINF:-1,UK: S-K-Y SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3750
+#EXTINF:-1,UK: S-K-Y SPORTS F1 *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/6208
+#EXTINF:-1,UK: S-K-Y SPORTS F1 **
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3762
+#EXTINF:-1,UK: S-K-Y SPORTS FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3753
+#EXTINF:-1,UK: S-K-Y SPORTS RACING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/3742
+#EXTINF:-1,UK: SKY SPORT NHL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.trboss.net:80/dindin/sdfsjfujskrez/56508
 #EXTINF:-1 tvg-id="ONE" tvg-name="MT - ONE TV (B)" tvg-logo="http://pic.qw1234.org:80/logos/tn_onetv.png" group-title="TV | MALTESE",MT - ONE TV (B)
 http://bb1.qat5.ru:80/cKImarFPpT/0ygrPm355A/6377
 #EXTINF:-1 tvg-id="" tvg-name="MT - ONE TV +1" tvg-logo="http://pic.qw1234.org:80/logos/tn_onetv.png" group-title="TV | MALTESE",MT - ONE TV +1
