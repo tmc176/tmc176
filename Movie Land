@@ -5,7 +5,7 @@ http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151078
 #EXTINF:-1 ,CHRGD HD
 http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151080
 #EXTINF:-1 ,FAMILY EAST
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151084
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151084
 #EXTINF:-1 ,Family JR HD
 http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151085
 #EXTINF:-1 ,FAMILY West (E)
