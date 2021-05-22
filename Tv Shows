@@ -1,56 +1,207 @@
 #EXTM3U
-#EXTINF:-1,UK: S-K-Y MOVIES PREMIER
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3786
-#EXTINF:-1,UK: S-K-Y MOVIES ACTION & ADVENTURE
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3778
-#EXTINF:-1,UK: S-K-Y MOVIES THRILLER
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3779
-#EXTINF:-1,UK: S-K-Y MOVIES COMEDY
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3784
-#EXTINF:-1,UK: S-K-Y MOVIES SCI-FI & HORROR
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3782
-#EXTINF:-1,UK: S-K-Y MOVIES DRAMA & ROMANCE
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3775
-#EXTINF:-1,UK: S-K-Y MOVIES DISNEY
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3780
-#EXTINF:-1,UK: S-K-Y MOVIES FAMILY
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3785
-#EXTINF:-1,UK: SKY MOVIES MODERN-GEANT
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/56574
-#EXTINF:-1,UK: SKY MOVIES SELECT
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/56577
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/56578
-#EXTINF:-1,UK: S-K-Y SPORTS MAIN EVENT
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3752
-#EXTINF:-1,UK: S-K-Y SPORTS MAIN EVENT *
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/34570
-#EXTINF:-1,UK: S-K-Y SPORTS PREMIER LEAGUE
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3754
-#EXTINF:-1,UK: S-K-Y SPORTS PREMIER LEAGUE *
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/7342
-#EXTINF:-1,UK: S-K-Y SPORTS ACTION
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3755
-#EXTINF:-1,UK: S-K-Y SPORTS ARENA
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/6185
-#EXTINF:-1,UK: S-K-Y SPORTS GOLF
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3751
-#EXTINF:-1,UK: S-K-Y SPORTS MIX
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/6201
-#EXTINF:-1,UK: S-K-Y SPORTS CRICKET *SD*
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/6186
-#EXTINF:-1,UK: S-K-Y SPORTS F1
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3750
-#EXTINF:-1,UK: S-K-Y SPORTS F1 *
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/6208
-#EXTINF:-1,UK: S-K-Y SPORTS F1 **
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3762
-#EXTINF:-1,UK: S-K-Y SPORTS FOOTBALL
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3753
-#EXTINF:-1,UK: S-K-Y SPORTS RACING HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3742
-#EXTINF:-1,UK: SKY SPORT NHL HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/56508
+#EXTINF:-1 ,BABY TV (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151078
+#EXTINF:-1 ,CHRGD HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151080
+#EXTINF:-1 ,FAMILY EAST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151084
+#EXTINF:-1 ,Family JR HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151085
+#EXTINF:-1 ,FAMILY West (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151086
+#EXTINF:-1 ,KNOWLEDGE NETWORK
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151087
+#EXTINF:-1 ,Treehouse HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151091
+#EXTINF:-1 ,YTV EAST HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151092
+#EXTINF:-1 ,A&E
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151100
+#EXTINF:-1 ,A.SIDE (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151101
+#EXTINF:-1 ,ABC EAST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151102
+#EXTINF:-1 ,ABC SPARK
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151103
+#EXTINF:-1 ,ABC WEST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151104
+#EXTINF:-1 ,ADULT SWIM HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151105
+#EXTINF:-1 ,AMC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151106
+#EXTINF:-1 ,AMI TELEVISION
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151107
+#EXTINF:-1 ,APTN
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151108
+#EXTINF:-1 ,BET HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151109
+#EXTINF:-1 ,CANADA ONE
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151111
+#EXTINF:-1 ,CANADA STAR TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151112
+#EXTINF:-1 ,CBC CALGARY
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151114
+#EXTINF:-1 ,CBC CHARLOTTETOWN
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151115
+#EXTINF:-1 ,CBC EDMONTON
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151116
+#EXTINF:-1 ,CBC FREDERICTON
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151117
+#EXTINF:-1 ,CBC HALIFAX
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151118
+#EXTINF:-1 ,CBC MONTREAL
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151119
+#EXTINF:-1 ,CBC OTTAWA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151120
+#EXTINF:-1 ,CBC REGINA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151121
+#EXTINF:-1 ,CBC ST JOHN'S
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151122
+#EXTINF:-1 ,CBC TORONTO
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151123
+#EXTINF:-1 ,CBC VANCOUVER
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151124
+#EXTINF:-1 ,CBC WINDSOR
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151125
+#EXTINF:-1 ,CBC WINNIPEG
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151126
+#EXTINF:-1 ,CBS EAST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151128
+#EXTINF:-1 ,CBS WEST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151129
+#EXTINF:-1 ,CHCH HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151130
+#EXTINF:-1 ,CITY CALGARY
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151131
+#EXTINF:-1 ,CITY MONTREAL
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151132
+#EXTINF:-1 ,CITY TORONTO
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151133
+#EXTINF:-1 ,CTV COMEDY EAST
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151147
+#EXTINF:-1 ,CTV Comedy West (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151148
+#EXTINF:-1 ,CTV DRAMA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151149
+#EXTINF:-1 ,CTV Edmonton
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151150
+#EXTINF:-1 ,Global Peterborough News (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151314
+#EXTINF:-1 ,Global Regina News (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151315
+#EXTINF:-1 ,Global Saskatoon News (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151316
+#EXTINF:-1 ,Global Toronto News (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151317
+#EXTINF:-1 ,Global Winnipeg News (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151318
+#EXTINF:-1 ,Legislative Assembly of New Brunswick
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151319
+#EXTINF:-1 ,MSNBC (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151320
+#EXTINF:-1 ,ONTARIO LEGISLATURE (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151321
+#EXTINF:-1 ,THE WEATHER NETWORK
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151322
+#EXTINF:-1 ,BIG TEN (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151324
+#EXTINF:-1 ,ESPN CLASSICS
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151325
+#EXTINF:-1 ,GAME+ (E)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151329
+#EXTINF:-1 ,HPI TV EAST HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151330
+#EXTINF:-1 ,HPI TV WEST HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151331
+#EXTINF:-1 ,HPItv International HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151332
+#EXTINF:-1 ,Leafs Nation Network HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151333
+#EXTINF:-1 ,MAVTV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151334
+#EXTINF:-1 ,MLB Network HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151335
+#EXTINF:-1 ,Silver Screen Classics
+http://gooserace.xyz:2052/donna/donna123/1549617
+#EXTINF:-1 ,SLICE
+http://gooserace.xyz:2052/donna/donna123/1549123
+#EXTINF:-1 ,Smithsonian
+http://gooserace.xyz:2052/donna/donna123/1549663
+#EXTINF:-1 ,Starz 1
+http://gooserace.xyz:2052/donna/donna123/1549718
+#EXTINF:-1 ,Starz 2
+http://gooserace.xyz:2052/donna/donna123/1549719
+#EXTINF:-1 ,Stingray Country
+http://gooserace.xyz:2052/donna/donna123/1549712
+#EXTINF:-1 ,Stingray Retro
+http://gooserace.xyz:2052/donna/donna123/1549714
+#EXTINF:-1 ,Stingray Rock
+http://gooserace.xyz:2052/donna/donna123/1549713
+#EXTINF:-1 ,Stingray Vibe
+http://gooserace.xyz:2052/donna/donna123/1549715
+#EXTINF:-1 ,Super Channel Fuse
+http://gooserace.xyz:2052/donna/donna123/1549728
+#EXTINF:-1 ,Super Channel Heart & Home
+http://gooserace.xyz:2052/donna/donna123/1549729
+#EXTINF:-1 ,Super Channel Vault
+http://gooserace.xyz:2052/donna/donna123/1549730
+#EXTINF:-1 ,T+E
+http://gooserace.xyz:2052/donna/donna123/1549664
+#EXTINF:-1 ,Talent
+http://gooserace.xyz:2052/donna/donna123/2473622
+#EXTINF:-1 ,Teletoon West
+http://gooserace.xyz:2052/donna/donna123/2473651
+#EXTINF:-1 ,The Cooking Channel
+http://gooserace.xyz:2052/donna/donna123/1549651
+#EXTINF:-1 ,The Fight Network
+http://gooserace.xyz:2052/donna/donna123/1549422
+#EXTINF:-1 ,The Shopping Channel
+http://gooserace.xyz:2052/donna/donna123/1549652
+#EXTINF:-1 ,The Weather Network
+http://gooserace.xyz:2052/donna/donna123/2473643
+#EXTINF:-1 ,The Weather Network 2
+http://gooserace.xyz:2052/donna/donna123/2473642
+#EXTINF:-1 ,TLC
+http://gooserace.xyz:2052/donna/donna123/1549188
+#EXTINF:-1 ,Toronto 360
+http://gooserace.xyz:2052/donna/donna123/1549371
+#EXTINF:-1 ,TravelXP
+http://gooserace.xyz:2052/donna/donna123/2473644
+#EXTINF:-1 ,TSC
+http://gooserace.xyz:2052/donna/donna123/1549120
+#EXTINF:-1 ,TSN 1
+http://gooserace.xyz:2052/donna/donna123/1549695
+#EXTINF:-1 ,TSN 2
+http://gooserace.xyz:2052/donna/donna123/1549696
+#EXTINF:-1 ,TSN 3
+http://gooserace.xyz:2052/donna/donna123/1549697
+#EXTINF:-1 ,TSN 4
+http://gooserace.xyz:2052/donna/donna123/1549698
+#EXTINF:-1 ,TSN 5
+http://gooserace.xyz:2052/donna/donna123/1549699
+#EXTINF:-1 ,TSN5 Blackout 2
+http://gooserace.xyz:2052/donna/donna123/1549421
+#EXTINF:-1 ,Turner Classic Movies
+http://gooserace.xyz:2052/donna/donna123/1549110
+#EXTINF:-1 ,TV 16 Toronto (Asian)
+http://gooserace.xyz:2052/donna/donna123/1549372
+#EXTINF:-1 ,TV Ontario
+http://gooserace.xyz:2052/donna/donna123/1549194
+#EXTINF:-1 ,Vision
+http://gooserace.xyz:2052/donna/donna123/1549096
+#EXTINF:-1 ,W Network
+http://gooserace.xyz:2052/donna/donna123/1549095
+#EXTINF:-1 ,Weather Network
+http://gooserace.xyz:2052/donna/donna123/1549104
+#EXTINF:-1 ,Wild TV
+http://gooserace.xyz:2052/donna/donna123/1549650
+#EXTINF:-1 ,WWE Network
+http://gooserace.xyz:2052/donna/donna123/1549623
+#EXTINF:-1 ,YES TV
+http://gooserace.xyz:2052/donna/donna123/1549094
+#EXTINF:-1 ,YTV West
+http://gooserace.xyz:2052/donna/donna123/2473623
+
 #EXTINF:-1 tvg-id="ONE" tvg-name="MT - ONE TV (B)" tvg-logo="http://pic.qw1234.org:80/logos/tn_onetv.png" group-title="TV | MALTESE",MT - ONE TV (B)
 http://bb1.qat5.ru:80/cKImarFPpT/0ygrPm355A/6377
 #EXTINF:-1 tvg-id="" tvg-name="MT - ONE TV +1" tvg-logo="http://pic.qw1234.org:80/logos/tn_onetv.png" group-title="TV | MALTESE",MT - ONE TV +1
