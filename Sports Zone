@@ -2,7 +2,7 @@
 #EXTINF:-1,US: ESPN 1
 <iframe width="560" height="315" src="//ok.ru/videoembed/2216425228836?autoplay=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 #EXTINF:-1,US: ESPN 1
-https://ok.ru/video/2216425228836
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://ok.ru/video/2216425228836
 #EXTINF:-1,US: ESPN 1
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6355
 #EXTINF:-1,US: ESPN 2 HD
