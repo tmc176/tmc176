@@ -1,4 +1,59 @@
 #EXTM3U
+#EXTINF:-1 ,TSN 1
+http://gooserace.xyz:2052/donna/donna123/1549695
+#EXTINF:-1 ,TSN 2
+http://gooserace.xyz:2052/donna/donna123/1549696
+#EXTINF:-1 ,TSN 3
+http://gooserace.xyz:2052/donna/donna123/1549697
+#EXTINF:-1 ,TSN 4
+http://gooserace.xyz:2052/donna/donna123/1549698
+#EXTINF:-1 ,TSN 5
+http://gooserace.xyz:2052/donna/donna123/1549699
+#EXTINF:-1 ,The Fight Network
+http://gooserace.xyz:2052/donna/donna123/1549422
+#EXTINF:-1 ,MAVTV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151334
+#EXTINF:-1 ,MLB Network HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151335
+#EXTINF:-1,US:  ESPN 2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/493.ts
+#EXTINF:-1,US: AT&T SPORTSNET
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/495.ts
+#EXTINF:-1,US: CBS SPORTS HQ
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/506.ts
+#EXTINF:-1,US: CBS SPORTS NETWORK
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/507.ts
+#EXTINF:-1,US: ESPN 3 FHD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/508.ts
+#EXTINF:-1,US: ESPN HD
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/510.ts
+#EXTINF:-1,US: ESPN NEWS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/511.ts
+#EXTINF:-1,US: ESPN U
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/512.ts
+#EXTINF:-1,US: FIGHT NETWORK
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/513.ts
+#EXTINF:-1,US: FOX COLLEGE SPORTS ATLANTIC
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/514.ts
+#EXTINF:-1,US: FOX COLLEGE SPORTS CENTRAL
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/515.ts
+#EXTINF:-1,US: FOX SOCCER PLUS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/518.ts
+#EXTINF:-1,US: FOX SPORTS 1
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/519.ts
+#EXTINF:-1,US: FOX SPORTS 2
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/520.ts
+#EXTINF:-1,US: MAV TV
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/546.ts
+#EXTINF:-1,US: NBC GOLF
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/550.ts
+#EXTINF:-1,US: NBCSN
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/557.ts
+#EXTINF:-1,US: UFC FIGHT PASS
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/591.ts
+
+
+
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN (720p)
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN 2 (720p)
