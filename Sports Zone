@@ -1,20 +1,24 @@
 #EXTM3U
-#EXTINF:-1 ,TSN 1
-http://gooserace.xyz:2052/donna/donna123/1549695
-#EXTINF:-1 ,TSN 2
-http://gooserace.xyz:2052/donna/donna123/1549696
-#EXTINF:-1 ,TSN 3
-http://gooserace.xyz:2052/donna/donna123/1549697
-#EXTINF:-1 ,TSN 4
-http://gooserace.xyz:2052/donna/donna123/1549698
-#EXTINF:-1 ,TSN 5
-http://gooserace.xyz:2052/donna/donna123/1549699
-#EXTINF:-1 ,The Fight Network
-http://gooserace.xyz:2052/donna/donna123/1549422
-#EXTINF:-1 ,MAVTV
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151334
-#EXTINF:-1 ,MLB Network HD
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/151335
+#EXTINF:-1,CA | TSN 1 HD CA
+http://nomorecable.xyz:80/lava123/lava123/114736
+#EXTINF:-1,CA | TSN 2 FHD CA
+http://nomorecable.xyz:80/lava123/lava123/114735
+#EXTINF:-1,CA | TSN 2 HD CA
+http://nomorecable.xyz:80/lava123/lava123/114734
+#EXTINF:-1,CA | TSN 3 FHD CA
+http://nomorecable.xyz:80/lava123/lava123/114733
+#EXTINF:-1,CA | TSN 3 HD CA
+http://nomorecable.xyz:80/lava123/lava123/114732
+#EXTINF:-1,CA | TSN 4 FHD CA
+http://nomorecable.xyz:80/lava123/lava123/114731
+#EXTINF:-1,CA | TSN 5 FHD CA
+http://nomorecable.xyz:80/lava123/lava123/114730
+#EXTINF:-1,CA | TSN 5 HD CA
+http://nomorecable.xyz:80/lava123/lava123/114729
+#EXTINF:-1,CA | MAVTV
+http://nomorecable.xyz:80/lava123/lava123/114983
+#EXTINF:-1,CA | Sports Net East HD
+http://nomorecable.xyz:80/lava123/lava123/114866
 #EXTINF:-1,US:  ESPN 2
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/493.ts
 #EXTINF:-1,US: AT&T SPORTSNET
