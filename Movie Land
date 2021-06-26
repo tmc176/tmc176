@@ -16,7 +16,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21109
 #EXTINF:-1,CA: CITY TORONTO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21127
-
+#EXTINF:-1,CA: ABC HD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/404153
+#EXTINF:-1,CA: ABC HD WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/404154
+#EXTINF:-1,CA: CBS HD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/404155
+#EXTINF:-1,CA: CBS HD WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/404156
+#EXTINF:-1,CA: FOX HD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/404157
+#EXTINF:-1,CA: FOX HD WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/404158
+#EXTINF:-1,CA: NBC HD EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/404159
+#EXTINF:-1,CA: NBC HD WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/404160
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
 #EXTINF:-1 tvg-id="CityTVToronto.ca" tvg-name="CityTV Toronto" tvg-country="CA" tvg-language="English" tvg-logo="" group-title="",CityTV Toronto
