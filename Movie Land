@@ -1,5 +1,21 @@
 
 #EXTM3U url-tvg="www.webgrabplus.com" tvg-shift=0 m3uautoload=1
+#EXTINF:-1,CA: CP24*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5020
+#EXTINF:-1,CA: CP24**
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7919
+#EXTINF:-1,CA: CP24***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5115
+#EXTINF:-1,CA: CBC TORONTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5031
+#EXTINF:-1,CA: GLOBAL TORONTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21090
+#EXTINF:-1,CA: CTV TORONTO HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21111
+#EXTINF:-1,CA: CTV 2 OTTAWA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21109
+#EXTINF:-1,CA: CITY TORONTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21127
 
 #EXTINF:-1 tvg-id="CITYTV" tvg-name="City TV" tvg-logo="/home/logo/png" group-title="Canada",CityNews 5,6 & 11
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
